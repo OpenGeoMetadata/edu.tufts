@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Federal Aviation Administration</origin>
+				<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+				<pubdate>2011</pubdate>
+				<title>Metropolitan Planning Organization Areas USA 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington (D.C.)</pubplace>
+					<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Database (NTAD) 2011</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USAMetroPlanOrg11</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents metropolitan organization areas in the United States of America. United States Metropolitan Planning Organization database is a geographic database of Metropolitan Planning Organization political boundaries.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-178.339504</westbc>
+				<eastbc>
+-65.589823</eastbc>
+				<northbc>
+64.920889</northbc>
+				<southbc>
+17.926705</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-178.339504</leftbc>
+<rightbc Sync="TRUE">-65.589823</rightbc>
+<bottombc Sync="TRUE">17.926705</bottombc>
+<topbc Sync="TRUE">64.920889</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Regional planning</themekey>
+			</theme>
+			<place>
+<placekt>GNS</placekt>
+<placekey>United States</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Federal Highway Administration, Office of Planning, Environment, &amp;amp; Realty</cntorg>
+					<cntper>Supin Yoder</cntper>
+				</cntorgp>
+				<cntpos>Travel Demand Forecasting and GIS Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Ave. SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>708-283-3554</cntvoice>
+				<cntfax>708-283-3501</cntfax>
+				<cntemail>supin.yoder@dot.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<datacred>The Research and Innovative Technology Administration's Bureau of Transportation Statistics and the Federal Highway Administration.</datacred>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<crossref>
+			<citeinfo>
+				<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+				<pubdate>2011</pubdate>
+				<title>National Transportation Atlas Database (NTAD) 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washinton, DC</pubplace>
+					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<logic>All node-link and polygon topological relationships were created and verified using ESRI ArcGIS 9.1</logic>
+		<complete>Complete.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Federal Highway Administration, Office of Planning, Environment, &amp;amp; Realty</origin>
+						<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics</origin>
+						<pubdate>2011</pubdate>
+						<title>MPOs</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+						<lworkcit>
+							<citeinfo>
+								<pubinfo>
+								</pubinfo>
+								<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<typesrc>unknown</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2011</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>FHWA</srccitea>
+				<srccontr>MPOs, state DOTs, and other government agencies</srccontr>
+				<srcscale>Unknown</srcscale>
+</srcinfo>
+			<procstep>
+				<procdesc>Data for individual MPOs were collected from the MPOs, state DOTs, and other government agencies.  Data were received in a variety of geospatial data formats. The Federal Highway Administration and BTS collected the individual MPO files, digitized raster images where necessary and reformatted geospatial data files to fit into a national database.  Data collected from the above-listed agencies was not edited or altered in any way.  If you have questions about the process steps for particular MPOs or regions, please contact BTS.</procdesc>
+				<procdate>2011</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Federal Highway Administration, Office of Planning, Environment, &amp;amp; Realty</cntorg>
+							<cntper>Supin Yoder</cntper>
+						</cntorgp>
+						<cntpos>Travel Demand Forecasting and GIS Specialist</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>1200 New Jersey Ave. SE</address>
+							<city>Washington</city>
+							<state>DC</state>
+							<postal>20590</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>708-283-3554</cntvoice>
+						<cntfax>708-283-3501</cntfax>
+						<cntemail>supin.yoder@dot.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards:
+&amp;gt;Changed name of file from "mpo" to "USAmetroPlanOrg11"
+&amp;gt;Changed citatition title from "Metropolitan Political Organization" to "Metropolitan Planning Organization Areas USA 2011"
+&amp;gt;Changed access contraints from "None." to "Unrestricted Access Online"
+&amp;gt;Changed originators/publishers from "Research and Innovative Technology Administration's Bureau of Transportation Statistics" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services"
+&amp;gt;Changed originator from "Federal Highway Administration" to "United States. Federal Highway Administration"
+&amp;gt;Changed publication place to reflect LCNH formatting
+&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added ISO 19115 Topic Category keyword
+&amp;gt;Added LCSH theme keywords
+&amp;gt;Added GNS place keywords
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20111201</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USAMetroPlanOrg11">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>384</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USAMetroPlanOrg11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">384</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000001</latres>
+				<longres>0.000001</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USAMetroPlanOrg11">
+			<enttyp>
+				<enttypl>
+MPO</enttypl>
+				<enttypd>Metropolitan Planning Organization Boundaries</enttypd>
+				<enttypds>RITA/BTS</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">384</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>MPO_ID</attrlabl>
+				<attrdef>Unique numerical identifier.</attrdef>
+				<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MPO_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MPO_NAME</attrlabl>
+				<attrdef>Official MPO name.</attrdef>
+				<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MPO_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">70</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MPO_ACRONY</attrlabl>
+				<attrdef>Official MPO acronym.</attrdef>
+				<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MPO_ACRONY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STAFFAGENC</attrlabl>
+				<attrdef>Lead staffing agency for MPO.</attrdef>
+				<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">STAFFAGENC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">70</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STAFFAGEN1</attrlabl>
+				<attrdef>Additional staffing agency for MPO.</attrdef>
+				<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">STAFFAGEN1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MPOCITY</attrlabl>
+				<attrdef>Physical address city.</attrdef>
+				<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MPOCITY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MPOSTATE</attrlabl>
+				<attrdef>State Postal abbreviation</attrdef>
+				<attrdefs>United States Postal Service</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of U.S. Postal Code Abbreviations</codesetn>
+						<codesets>U.S. Postal Service (USPS)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">MPOSTATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MPO_WEBSIT</attrlabl>
+				<attrdef>URL for MPO internet site.</attrdef>
+				<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MPO_WEBSIT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DESIGNATIO</attrlabl>
+				<attrdef>Year MPO was designated and created.</attrdef>
+				<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Year</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DESIGNATIO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MPO_POPULA</attrlabl>
+				<attrdef>Population of MPO area.</attrdef>
+				<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Numeric Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MPO_POPULA</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TMA</attrlabl>
+				<attrdef>Indicated whether the MPO serves a transportation management areas (TMA).</attrdef>
+				<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Yes</edomv>
+						<edomvd>MPO is part of a Transportation Management Area</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;null&amp;gt;</edomv>
+						<edomvd>MPO is not part of a Transportation Management Area</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TMA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NO_OF__STA</attrlabl>
+				<attalias Sync="TRUE">NO_OF__STA</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<attrdef>Unknown attribute</attrdef>
+<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>PRIMARYMPO</attrlabl>
+				<attalias Sync="TRUE">PRIMARYMPO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdef>Abbreviated state name</attrdef>
+<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>STATE2</attrlabl>
+				<attalias Sync="TRUE">STATE2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+<attrdef>Secondary state name</attrdef>
+</attr>
+			<attr>
+				<attrlabl>STATE3</attrlabl>
+				<attalias Sync="TRUE">STATE3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdef>Third state name</attrdef>
+<attrdefs>United States. Department of Transportation. Research and Innovative Technology Administration</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>NO_OF_UAS</attrlabl>
+				<attrdef>The number of urbanized areas served by the MPO.</attrdef>
+				<attrdefs>Federal Highway Program (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Numeric Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NO_OF_UAS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRIMARY_UA</attrlabl>
+				<attalias Sync="TRUE">PRIMARY_UA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdef>Unknown attribute</attrdef>
+<attrdefs>Federal Highway Program (U.S.)</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>PRIMARY_UR</attrlabl>
+				<attrdef>The primary urbanized area served by the MPO.  The most populous UZA served was identified as the primary UZA.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">PRIMARY_UR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">55</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRIMARY_U1</attrlabl>
+				<attrdef>Population of the primary UA served by the MPO.</attrdef>
+				<attrdefs>Federal Highway Program (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Numeric Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">PRIMARY_U1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED_U</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED_U</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">55</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED_1</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED_1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">55</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED_2</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED_2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">55</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED_3</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED_3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED_4</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED_4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED_5</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED_5</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED_6</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED_6</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED_7</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration/BTS</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED_7</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED_8</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED_8</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED_9</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED_9</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED10</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED11</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED11</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED12</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED12</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED13</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED13</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INCLUDED14</attrlabl>
+				<attrdef>Urbanized area contained within MPO area.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">INCLUDED14</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>Primary State FIPS Code</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard- FIPS Pub 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>Version of the database</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>10.354</transize>
+					<dssize Sync="TRUE">10.354</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20111201</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearborn Ave</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<cntpos>GIS Data Technician</cntpos>
+<hours>Monday-Friday, 9:00 Am-5:00 PM, EST-USA</hours>
+</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USAMetroPlanOrg11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-178.339504</westBL>
+<eastBL Sync="TRUE">-65.589823</eastBL>
+<northBL Sync="TRUE">64.920889</northBL>
+<southBL Sync="TRUE">17.926705</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-178.339504</westBL>
+<eastBL Sync="TRUE">-65.589823</eastBL>
+<northBL Sync="TRUE">64.920889</northBL>
+<southBL Sync="TRUE">17.926705</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USAMetroPlanOrg11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">10.354</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USAMetroPlanOrg11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">384</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11445000</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11445000</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

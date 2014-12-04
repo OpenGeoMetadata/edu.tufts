@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. National Park Service</origin>
+				<pubdate>2010</pubdate>
+				<title>Parks USA 2010</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Department of Transportation. Research and Innovative Technology Administration</origin>
+						<pubdate>2010</pubdate>
+						<title>National Transportation Atlas Database (NTAD) 2010</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Department of Transportation. Research and Innovative Technology Administration</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USParks10</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents park boundaries in the United States.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+<caldate>2010</caldate>
+<time>unknown</time>
+</sngdate>
+</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Daily</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-170.728481</westbc>
+				<eastbc Sync="TRUE">145.728387</eastbc>
+				<northbc Sync="TRUE">68.655385</northbc>
+				<southbc Sync="TRUE">-14.285582</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-170.728481</leftbc>
+<rightbc Sync="TRUE">145.728387</rightbc>
+<bottombc Sync="TRUE">-14.285582</bottombc>
+<topbc Sync="TRUE">68.655385</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<temporal>
+			</temporal>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>polygon</themekey>
+</theme>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>National parks and reserves</themekey>
+</theme>
+<place>
+<placekt>GNS</placekt>
+<placekey>United States of America</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekey>location</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>society</themekey>
+</theme>
+</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommerical use only.
+</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>National Park Service</cntorg>
+				</cntorgp>
+				<cntpos>Chief Cartographer</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>301 S. Howes St. Suite 208</address>
+					<city>Fort Collins</city>
+					<state>CO</state>
+					<postal>80522</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntemail>roger_m_johnson@nps.gov</cntemail>
+				<hours>M-Th 7-5:30 Mountain Time</hours>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<crossref>
+			<citeinfo>
+				<origin>National Park Service</origin>
+				<pubdate>2010</pubdate>
+				<title>Metadata for Current Administrative Boundaries of National Park System Units 01/08/2010</title>
+				<onlink>http://nrdata.nps.gov/programs/lands/nps_boundary.xml</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics</origin>
+						<pubdate>2010</pubdate>
+						<title>National Transportation Atlas Database (NTAD) 2010</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<complete>
+The data set is complete but subject to continual updates to reflect
+boundary amendments, legislation, and acquisitions, and improved processing techniques.
+The data is being regularly updated with verified boundaries from NPS Land Resources Division.
+Please contact the data originator with corrections and update suggestions.
+</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+							<time>unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srcscale>Unknown</srcscale>
+</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>David Duran, GIS Division</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>ParkDave</title>
+						<geoform>vector digital data</geoform>
+						<othercit>Park boundaries collected from Parks and Regions in 2001.</othercit>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<time>unknown</time>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Roger Johnson</origin>
+						<pubdate>Present</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>unit classification boundaries</title>
+						<geoform>vector digital data</geoform>
+						<othercit>
+Land Rersources Division has been creating hardcopy segment maps containing boundary data
+since the 1960's.
+This data is currently being converted to a digital vector format and added to the collection as it become available.
+Additionally as existing boundary data is modified and/or new parks units units are acquired they are added to the collection.
+</othercit>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<time>unknown</time>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+			</srcinfo>
+			<procstep>
+				<procdesc>Boundary polygons for one-hundred and sixty units were verified data from the Lands Resources Division (LRD) according to the procedures defined in the Lands Acquisition Procedures Manual Chapter 5.  Boundary data from LRD has separate polygons for individual types of units like Denali National Park and Denali National Preserve.  Lands records in the dataset that can be identified by querying for [GIS_Notes] = "Lands" in the attribute table.  These parks include: Abraham Lincoln Birthplace National Historic Site (ABLI), African Burial Ground National Monument (AFBG), Alagnak Wild River (ALAG), Andrew Johnson National Historic Site (ANJO), Aniakchak National Monument and Preserve (ANIA), Antietam National Battlefield (ANTI), Appomattox Court House National Historical Park (APCO), Arches National Park (ARCH), Arlington House - Robert E. Lee Memorial (ARHO), Aztec Ruins National Monument (AZRU), Badlands National Park (BADL), Bering Land Bridge National Preserve (BELA), Black Canyon of the Gunnison National Park (BLCA), Boston Harbor Islands National Recreation Area (BOHA), Brices Cross Roads National Battlefield Site (BRCR), Brown v Board of Education National Historic Site (BRVB), Buck Island Reef National Monument (BUIS). Buffalo National River (BUFF), Cane River Creole National Historical Park (CARI), Carl Sandburg Home (CARL), Cape Krusenstern National Monument (CAKR), Capulin Volcano National Monument (CAVO), Carlsbad Caverns National Park (CAVE), Carter G. Woodson National Historic Site (CAWO), Castillo de San Marcos National Monument (CASA), Castle Clinton Monument (CACL), Catoctin Mountain Park (CATO), Cedar Breaks National Monument (CEBR), Cedar Creek and Belle Grove (CEBE), Charles Pinckney National Historic Site (CHPI), Chiricahua National Monument (CHIR), Channel Islands National Park (CHIS), Christiansted National Historic Site (CHRI),  Clara Barton National Historic Site (CLBA), Cumberland Gap National Historical Park (CUGA), Cuyahoga Valley National Park (CUVA), Denali National Park (DENA), De Soto National Memorial (DESO), Devils Tower National Monument (DETO), Dry Tortugas National Park (DRTO), Effigy Mounds National Monument (EFMO), El Morro National Mounment (ELMO), Eleanor Roosevelt National Historic Site (ELRO), Federal Hall National Memorial (FEHA), First Ladies National Historic Site (FILA), Flight 93 National Memorial (FLNI), Florissant Fossil Beds (FLFO), Ford's Theatre National Historic Site (FOTH), Fort Bowie National Historic Site (FOBO), Fort Davis National Historic Site (FODA), Fort Frederica National Monument (FOFR), Fort Smith National Historic Site (FOSM), Fort Sumter National Monument (FOSU), Fort Union National Monument (FOUN), Fort Washington Park (FOWA), Fossil Butte National Monument (FOBU), Frederick Douglass National Historic Site (FRDO), Gates of the Arctic National Park (GAAR), General Grant National Memorial (GEGR), Greenbelt Park (GREE),George Washington Memorial Parkway (GWMP), Gila Cliff Dwellings National Monument (GICL), Glacier Bay National Park (GLBA), Golden Gate National Recreation Area (GOGA), Governors Island National Monument (GOIS), Grant-Kohrs Ranch National Historic Site (GRKO), Great Sand Dunes National Park and Preserve (GRSA), Hamilton Grange National Memorial (HAGR), Harpers Ferry National Historical Park (HAFE), Herbert Hoover National Historic Site (HEHO), Home of Franklin D Roosevelt National Historic Site (HOFR), Homestead National Monument (HOME), Hot Springs National Park (HOSP), Hovenweep National Monument (HOVE), Hubbell Trading Post National Historic Site (HUTR), Ice Age National Scenic Trail (IATR), Indiana Dunes National Lakeshore (INDU), James A Garfield National Historic Site (JAGA), Jean Lafitte National Historical Park and Preserve (JELA), Jimmy Carter National Historic Site (JICA), Joshua Tree National Park (JOTR), Katmai National Park (KATM), Kenai Fjords National Park (KEFJ), Kennesaw Mountain National Battlefield Park (KEMO), Keweenaw National Historical Park (KEWE), Kings Canyon National Park (KICA), Klondike Gold Rush National Historical Park (KLGO), Knife River Indian Villages National Historic Site (KNRI), Kobuk Valley National Park (KOVA), Lake Clark National Park (LACL), Lake Mead National Recreation Area (LAME), Lincoln Boyhood National Memorial (LIBO), Lincoln Home National Historic Site (LIHO), Little Rock Central High School National Historic Site (CHSC), Lava Bed National Monument (LABE), Little Bighorn Battlefield National Monument (LIBI), Lyndon Baines Johnson Memorial Grove (LYBA), Mammoth Cave National Park (MACA), Manassas National Battlefield Park (MANA), Martin Luther King Jr. National Historic Site (MALU), Mesa Verde National Park (MEVE), Mary McLeod Bethune Council House National Historic Site (MABE), Minute Man National Historical Park (MIMA), Mojave National Preserve (MOJA), Monocacy National Battlefield (MONO), Montezuma Castle National Monument (MOCA). Natchez National Historical Park (NATC), National Capital Parks (NACA), Nicodemus National Historic Site (NICO), Ninety Six National Historic Site (NISI), Noatak National Preserve (NOAT), Organ Pipe Cactus National Monument (ORPI), Ozark National Scenic Riverway (OZAR), Padre Island National Seashore (PAIS), Palo Alto Battlefield National Historic Site (PAAL), Petrified Forest National Park (PEFO), Pictured Rocks National Lakeshore (PIRO), Pipe Spring Nationam Monument (PISP), Pipestone National Monument (PIPE), Piscataway Park (PISC), Point Reyes National Seashore (PORE), Ronald Reagan Boyhood Home National Historic Site (RRBH), Salt River Bay National Historical Park (SARI), Saint Paul's Church National Historic Site (SAPA), Santa Monica Mountains National Recreation Area (SAMO), Sand Creek Massacre National Historic Site (SAND), Scotts Bluff National Mounment (SCBL), Sequoia National Park (SEQU), Sitka National Historical Park (SITK), Sunset Crater Volcano National Monument (SUCR), Tallgrass Prairie National Preserve (TAPR), Theodore Roosevelt National Park (THRO), Theodore Roosevelt Birthplace National Historic Site (THRB), Theodore Roosevelt Island National Memorial (THIS), Timpanogos Cave National Monument (TICA), Tonto National Monument (TONT), Tumacacori National Historical Park (TUMA), Tupelo National Battlefield (TUPE), Tuskegee Airmen National Historic Site (TUAI), Tuzigoot National Monument (TUZI), Valley Forge National Historical Park (VAFO), Voyageurs National Park (VOYA), Walnut Canyon National Monument (WACA). War in the Pacific National Historical Park (WAPA), Washita Battlefield National Historic Site (WABA), White Sands National Monument (WHSA), Whitman Mission National Historic Site (WHMI), Whiskeytown-Shasta-Trinity National Recreation Area (WHIS), Wilson's Creek National Battlefield (WICR), Wind Cave National Park (WICA), Wolf Trap Farm Park (WOTR), Wrangell-St. Elias National Park (WRST), Wupatki National Monument (WUPA), Yosemite National Park (YOSE), Yucca House National Monument (YUHO), Yukon-Charley Rivers (YUCH), Zion National Park (ZION)</procdesc>
+				<procdate>2011</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntorg>National Park Service</cntorg>
+						</cntperp>
+						<cntpos>Land Resources Division Chief Cartographer</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>301 S. Howes St. Suite 208</address>
+							<city>Fort Collins</city>
+							<state>CO</state>
+							<postal>80522</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntemail>PPFL_LandsNET@NPS.GOV</cntemail>
+						<hours>M-F 7:30-5:00 Mountain Time</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Two sets of boundaries were collected and compared. The main set was obtained from David Duran, who collected
+boundaries from each region in the summer of 2001.  The second set was obtained from Dean Tucker, who digitized boundaries
+for the Horizon Project.  The main set from David Duran was determined to contain the most recent boundary information.
+Parks missing from David's set were added from Deans set. Those parks are..........Antietam NB Arlington House,Benjamin
+Franklin NMEM, Big Hole NB, Catoctin Mountain Park, Chesapeake and Ohio Canal NHP, Chimney Rock NHS, Fort Point NHS,
+Fredericksburg NC, George Washington Memorial Parkway, Green Springs, Harpers Ferry NHP, International Peace Garden,
+John F. Kennedy Center for the      Performing Arts, Kalaupapa NHP, Manassas NBP, McLoughlin House NHS, Monocacy NB,
+National Capital Parks - Central and East, Olympic NP, Prince William Forest Park, Rock Creek Park, San Francisco
+Maritime NHP, Thaddeus Kosciuszko NMEM, and Wolf Trap Farm Park for the Performing Arts. Park/Region staff were consulted
+for parks with major differences between the two sets.
+</procdesc>
+				<procdate>2002</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntorg>National Park Service</cntorg>
+						</cntperp>
+						<cntpos>GIS Specialist/Cooperator</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>1201 Oakridge Drive Suite 200</address>
+							<city>Fort Collins</city>
+							<state>CO</state>
+							<postal>80525</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntemail>waso-nrpc_nrgis@nps.gov</cntemail>
+						<hours>M-F 8-5 Mountain Time</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Boundaries were updated with data provided by National
+Parks or Regional Offices.
+</procdesc>
+			</procstep>
+			<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-suuport@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST- USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name changed from parks to USParks10.</procdesc>
+<procdate>20130402</procdate>
+</procstep>
+</lineage>
+		<cloud>Unknown</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USParks10">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">507</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>0</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>2629</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt>4</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>0</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>482</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USParks10">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">507</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USParks10">
+			<enttyp>
+				<enttypl Sync="TRUE">USParks10</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">507</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>UNIT_TYPE</attrlabl>
+				<attrdef>Type of unit boundary (i.e. Park, Preserve, Memorial, Monument...)</attrdef>
+				<attalias Sync="TRUE">UNIT_TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>PARKNAME</attrlabl>
+				<attrdef>Name of the National Park</attrdef>
+				<attrdefs>United States. National Park Service</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Name of National Park</codesetn>
+						<codesets>National Park Service</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">PARKNAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">28</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATE</attrlabl>
+				<attrdef>State Postal Code the park is located</attrdef>
+				<attrdefs>United States. National Park Service</attrdefs>
+				<attrdomv>
+					<codesetd>
+<codesetn>Official List of State Postal Abbreviations</codesetn>
+<codesets>U.S. Postal Service</codesets>
+</codesetd>
+</attrdomv>
+				<attalias Sync="TRUE">STATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>REGION</attrlabl>
+				<attrdef>National Park Service Region</attrdef>
+				<attrdefs>United States. National Park Service</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Name of National Park</codesetn>
+						<codesets>National Park Service</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">REGION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>UNIT_CODE</attrlabl>
+				<attrdef>Four letter code to define the National Park unit.</attrdef>
+				<attalias Sync="TRUE">UNIT_CODE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>UNIT_NAME</attrlabl>
+				<attrdef>Name of the National Park unit.</attrdef>
+				<attalias Sync="TRUE">UNIT_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>DATE_EDIT</attrlabl>
+				<attrdef>The last update or offical review of the object</attrdef>
+				<attalias Sync="TRUE">DATE_EDIT</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>GIS_NOTES</attrlabl>
+				<attrdef>Free text.</attrdef>
+				<attalias Sync="TRUE">GIS_NOTES</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">STPOSTAL1</attrlabl>
+<attalias Sync="TRUE">STPOSTAL1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdomv>
+<codesetd>
+<codesetn>Official List of State Postal Abbreviations</codesetn>
+<codesets>U.S. Postal Service</codesets>
+</codesetd>
+</attrdomv>
+<attrdef>State (postal code) containing the largest park area</attrdef>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+<attr>
+				<attrlabl>STPOSTAL2</attrlabl>
+				<attrdef>State (postal code) containing the second largest park area</attrdef>
+				<attrdefs>United States. National Park Service</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of State Postal Abbreviations</codesetn>
+						<codesets>U.S. Postal Service</codesets>
+</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STPOSTAL2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STPOSTAL3</attrlabl>
+				<attrdef>State (postal code) containing the third largest park area</attrdef>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of State Postal Abbreviations</codesetn>
+						<codesets>U.S. Postal Service</codesets>
+</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STPOSTAL3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>STPOSTAL4</attrlabl>
+				<attrdef>State (postal code) containing the least park area</attrdef>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of State Postal Abbreviations</codesetn>
+						<codesets>U.S. Postal Service</codesets>
+</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STPOSTAL4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">STFIPS1</attrlabl>
+<attalias Sync="TRUE">STFIPS1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdef>State (FIPS code) containing the largest park area</attrdef>
+<attrdomv>
+<codesetd>
+<codesetn>FIPS code of the state containing the largest park area.</codesetn>
+<codesets>National Institute for Standards and Technology (NIST)</codesets>
+</codesetd>
+</attrdomv>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+<attr>
+				<attrlabl>STFIPS2</attrlabl>
+				<attrdef>State (FIPS code) containing the second largest park area</attrdef>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FIPS code of the state containing the second largest park area.</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>STFIPS3</attrlabl>
+				<attrdef>State (FIPS code) containing the third largest park area</attrdef>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FIPS code of the state containing the thrid largest park area.</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>STFIPS4</attrlabl>
+				<attrdef>State (FIPS code) containing the least park area</attrdef>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FIPS code of the state containing the least park area.</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdefs>United States. National Park Service</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>Version of the database</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+		<overview>
+			<eaover>
+Attributes are as follows: Shape, GIS_Loc_ID, Unit_Code,
+Group_Code, Unit_Name, Unit_Type, Meta_MIDF, Lands_Code, Date_Edit, GIS_Notes
+</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Ave. SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202-366-DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>National Transportation Atlas Database (NTAD) 2011</resdesc>
+		<distliab>The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on a computer system at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formvern>2011</formvern>
+					<filedec>no compression applied</filedec>
+					<transize>5.693</transize>
+					<dssize Sync="TRUE">23.745</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://nrdata.nps.gov/programs/lands/nps_boundary.zip</networkr>
+							</networka>
+						</computer>
+						<accinstr>NTAD is available for download at www.bts.gov/programs/geographic_information_services.  The NTAD DVD can also be ordered from the online bookstore at www.bts.gov.</accinstr>
+					</onlinopt>
+					<offoptn>
+						<offmedia>DVD</offmedia>
+						<reccap>
+							<recden>650</recden>
+							<recdenu>megabytes</recdenu>
+						</reccap>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Call 202-366-DATA, or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2011 DVD.  This and other RITA/BTS products may be ordered from the RITA/BTS Internet website http://www.bts.gov/programs/geographic_information_services/.</ordering>
+		</stdorder>
+		<techpreq>
+Must have access to GIS software such as ESRI's ArcView
+or ArcInfo, or other compatible software, to view the data
+</techpreq>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140514</metd>
+		<metrd>20090622</metrd>
+		<metfrd>20031002</metfrd>
+		<metc>
+			<cntinfo>
+				<cntpos>GIS Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearborn Ave</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edy</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+				<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>None</metac>
+		<metuc>None</metuc>
+		<metsi>
+			<metsc>Unclassified</metsc>
+		</metsi>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{390DD1EF-FB9D-403F-BED1-6D35F9370F9A}</MetaID>
+<CreaDate>20110318</CreaDate>
+<CreaTime>17010600</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11483200</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11483200</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USParks10</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-170.728481</westBL>
+<eastBL Sync="TRUE">145.728387</eastBL>
+<northBL Sync="TRUE">68.655385</northBL>
+<southBL Sync="TRUE">-14.285582</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-170.728481</westBL>
+<eastBL Sync="TRUE">145.728387</eastBL>
+<northBL Sync="TRUE">68.655385</northBL>
+<southBL Sync="TRUE">-14.285582</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USParks10.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">23.745</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USParks10">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">507</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

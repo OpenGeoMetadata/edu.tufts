@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Federal Highway Administration</origin>
+				<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+				<pubdate>2011</pubdate>
+				<title>Weigh in Motion Stations USA 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington (D.C.)</pubplace>
+					<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Databases (NTAD) 2011</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USAWeighStations11</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset represents Weigh in Motion Stations in the USA. It is included in the GIS Traffic Stations Version database, which have been assimilated from station description files provided by FHWA for Weigh-in-Motion (WIM), and Automatic Traffic Counters (ATR). Location referencing information was derived from the National Highway Planning Network version 4.0.  and State offices of Transportation
+
+The attributes on the point elements of the database have come from two primary sources, the Station Description Records and the National Highway Planning Network's Linear Referencing System. The attributes for these databases have been intentionally limited to location referencing attributes since the core station description attribute data are contained within the Station Description Tables (SDT). 
+
+There is a separate Station Description Table (SDT) for each of the different station types; WIM, and ATR. The attributes in the Station Description Table correspond with the Station Description Record found in Chapter 6 of the latest Traffic Monitoring Guide. The SDT contains the most recent stations available for each state and station type. This table was derived from files provided UTCTR by FHWA. The Station Description Table can be linked to the station shapefile via the STNNKEY field . 
+
+A single exception table containing records for those stations that could not be located is provided for WIM, and ATR stations. Generally, this table contains records where location descriptions were not clear enough to locate a station. It is hoped that FHWA will be able to contact the States for a more detailed description</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-159.378753</westbc>
+				<eastbc>
+-65.760962</eastbc>
+				<northbc>
+68.665416</northbc>
+				<southbc>
+18.065477</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-159.378753</leftbc>
+<rightbc Sync="TRUE">-65.760962</rightbc>
+<bottombc Sync="TRUE">18.065477</bottombc>
+<topbc Sync="TRUE">68.665416</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Vehicle detectors</themekey>
+				<themekey>Communication and traffic</themekey>
+				<themekey>Motor vehicle scales</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+<placekey>North America</placekey>
+</place>
+			<place>
+				<placekt>America</placekt>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>Transportation Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Ave., SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202.366.5053</cntvoice>
+				<cntfax>202.366.7742</cntfax>
+				<cntemail>david.jones@fhwa.dot.gov</cntemail>
+				<cntperp>
+<cntper>David L. Jones</cntper>
+<cntorg>Federal Highway Administration (FHWA)</cntorg>
+</cntperp>
+</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
+		<crossref>
+			<citeinfo>
+				<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+				<pubdate>2011</pubdate>
+				<title>National Transportation Atlas Databases (NTAD) 2011</title>
+				<pubinfo>
+					<pubplace>Washington, DC</pubplace>
+					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information for Weigh in Motion (WIM) sites was processed separately from the effort to spatially locate these sites.  The attribute information for all WIM sites in the US was provided in an excel spreadsheet by the FHWA to RITA.  The FHWA collects WIM data from the State Departments of Transportation (DOT) on a monthly basis.
+
+Weigh Station attributes were obtained from the individual State DOTs, University of Tennessee data, National Highway Planning Network, Federal Highway Administration, and RITA (Research and Innovative Technology Administration). All records were assigned the accurate state name, state abbreviation, state FIPS code and county FIPS code.</attraccr>
+		</attracc>
+		<logic>Uniqueness of entity IDs are verified by computer algorithm.</logic>
+		<complete>The data are as complete as possible. There are approximately 492 stations that could not be located due to a poor location description.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>The elements of the GIS Traffic Stations have been conflated to the 1:100,000NHPN v4.0 data set which maintains a nominal accuracy of at least ±80 meters. Where no NHPN roads exist, the station was located using text description or teleatlas data.</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>The elements of the GIS Traffic Stations have been conflated to the 1:100,000 NHPN v4.0 data set which maintains a nominal accuracy of at least ±80 meters. Where no NHPN roads exist, the station was located using text description or Teleatlas data.</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Federal Highway Administrations (FHWA)</origin>
+						<origin>State Departments' of Transportation</origin>
+						<origin>University of Tennessee Center for Transportation Research (UTCTR)</origin>
+						<pubdate>2011</pubdate>
+						<title>Weight Stations</title>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+						<lworkcit>
+							<citeinfo>
+								<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<typesrc>computer program</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2011</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Weight Stations</srccitea>
+				<srccontr>WIM/ATR site information, as reported by State DOTs to the FHWA, may consist of multiple data collecting stations for a single site, each identified by a unique identifier (ID).</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>FHWA</origin>
+						<origin>State Departments' of Transportation</origin>
+						<pubdate>2010</pubdate>
+						<title>WIM Attributes</title>
+					</citeinfo>
+				</srccite>
+				<typesrc>computer program</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2010</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>WIM Station Attribute</srccitea>
+				<srccontr>WIM site information, as reported by State DOTs to the FHWA, may consist of multiple data collecting stations for a single site, each identified by a unique identifier (ID).  WIM sites can be considered a complex of stations that make up the site.  Multiple stations can be grouped together or associated to a single site through the ID.  Common reasons for multiple stations for a single site are that each station represents a different direction or travel for that location, or multiple roads (sometimes each road will be a different Functional Classification) intersecting the site's location.  Where multiple stations existed, for a given WIM site, FHWA summarized these to one station for the data it provide to RITA. This data was submitted to RITA, from the FHWA, in an excel spreadsheet.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>The station location description for each station type WIM, ATR, and Classification was used to manually adjust a station to the National Highway Planning Network (NHPN) v4.0. Any stations that could not be located on the NHPN were located on TIGER 99. Any stations that could not be located due to poor location descriptions are contained in the exception data table delivered with the GIS Traffic Stations.</procdesc>
+				<srcused>UTCTR</srcused>
+				<srcused>FHWA</srcused>
+				<srcused>NHPN</srcused>
+				<procdate>2001</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>FHWA Office of Highway Policy Information</cntorg>
+							<cntper>David Jones</cntper>
+						</cntorgp>
+						<cntpos>Transportation Specialist</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>1200 New Jersey Ave., SE</address>
+							<city>Washington</city>
+							<state>DC</state>
+							<postal>20590</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>202.366.5053</cntvoice>
+						<cntfax>202.366.7742</cntfax>
+						<cntemail>david.jones@fhwa.dot.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Weigh Station collection began with FHWA delivering all new weigh station points ot RITA.  Also acquried was the older University of Tennessee dataset to use as a comparison with new FHWA data.  Analysis of data began by comparing the two datasets.  All duplicate points were elimitnated from the new FHWA dataset.  Once a final dataset was complete, a state-by-state analysis began.  As each state's database was populated differently, analysis varied from state to state.  
+Process steps included indentifying county code per point. Determine broad location of road segment using LRS Id.  Value could then be tied into the LRSKEY value on road segments.
+If no LRS ID was provided, HPMS values were also used to determine location.
+Finally, an exact point was determined by using the provided text description within the location field.
+Once exact location was determined, edit session was begun and the point was manually created.
+After all points were populated, the latitude and longitude fields were calculated using a script in an edit session.
+The resulting dataset was then made into a shapefile.</procdesc>
+				<srcused>RITA/BTS</srcused>
+				<procdate>2006</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+							<cntper>Geospatial Information Program</cntper>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>400 7th Street, S.W.</address>
+							<city>Washington</city>
+							<state>DC</state>
+							<postal>20590</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>202-366-DATA</cntvoice>
+						<cntfax>202-366-3640</cntfax>
+						<cntemail>answers@bts.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>The attribute data for each WIM site consisted of 13 records.  Each record represented a different vehicle classification.  A volume count and average weight, where appropriate, was recorded for each vehicle classification for that site.  These data were further categorized by State, and by year the data was submitted to the FHWA. The processing of the data was straight forward; summarize the 13 records for a given site to a single record and join this record to the existing spatial database of WIM sites.  This was accomplished with the following process steps:
+Step 1 - Where multiple stations existed for a single site, FHWA distilled these to a single station for that site (each station has 13 records representing a different vehicle classification).  In some cases, not all stations for a site were captured by the FHWA before the data was delivered to RITA.  In these cases RITA had to conduct special processing to distill these to a single station for the site.  
+Step 2 - In general, each site had 13 records.  Each record represented a different classification of vehicle.  Each record had a vehicle volume count for that classification and what percentage of the total volume it represented.  Vehicle classes 1- 4 were passenger vehicles (i.e. cars), and classes 5 - 13 were trucks.  This last group had average weight recorded when available. These 13 records were summarized to one record for the site.  This processes consisted of separating truck and passenger vehicle volumes into different fields for the representative record of all vehicle classifications for that site.  Truck and passenger volumes for the site were added together to obtain its total vehicle volume.  All of the average gross vehicle weights were summarized.  Total trucks were divided by total vehicle volume to obtain percent truck.  This was added to the database.  Truck volume was deleted from the database.  
+Step 4 - The processed attribute record for the WIM site was joined to the spatial data.  Redundant fields were deleted.</procdesc>
+				<srcused>RITA/BTS</srcused>
+				<procdate>2006</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+							<cntper>Geospatial Information Program</cntper>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>400 7th Street, S.W.</address>
+							<city>Washington</city>
+							<state>DC</state>
+							<postal>20590</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>202-366-DATA</cntvoice>
+						<cntfax>202-366-3640</cntfax>
+						<cntemail>answers@bts.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards:
+&amp;gt;Changed name of file from "wim" to "USAwimstations11"
+&amp;gt;Changed citatition title from "Weigh in Motion (WIM)" to "Weigh in Motion Stations USA 2011"
+&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&amp;gt;Changed publication place to reflect LCNH formatting
+&amp;gt;Changed originator from "Federal Highway Administration (FHWA)" to "United States. Federal Highway Administration"
+&amp;gt;Changed originator/publisher from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services"
+&amp;gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added ISO 19115 Topic Category keywords
+&amp;gt;Added LCSH theme keyword
+&amp;gt;Added GNS place keywords
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20111130</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USAWeighStations11">
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>5553</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USAWeighStations11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">5553</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000001</latres>
+				<longres>0.000001</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USAWeighStations11">
+			<enttyp>
+				<enttypl>
+wim</enttypl>
+				<enttypd>Points</enttypd>
+				<enttypds>University of Tennesse/FHWA</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">5553</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>STTNKEY</attrlabl>
+				<attrdef>Unique Station Identifier: Concatenated State FIPS code and Unique Station ID</attrdef>
+				<attrdefs>State DOTs</attrdefs>
+				<attrdomv>
+					<udom>IDs Assigned by State DOTs .</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">STTNKEY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NHS</attrlabl>
+				<attrdef>Indicates whether the section is on the National Highway System (NHS) or is an NHS connector to an intermodal facility.</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Section is not on the NHS</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Section is on the NHS, but is not a NHS intermodal connector</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>NHS Intermodal Connector - Major Airport</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>NHS Intermodal Connector - Major Port Facility</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>NHS Intermodal Connector - Major Amtrak Station</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>NHS Intermodal Connector - Major Rail/Truck Terminal</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>NHS Intermodal Connector - Major Intercity Bus Terminal</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>NHS Intermodal Connector - Major Public Transit or Multi-Modal Passenger Terminal</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>NHS Intermodal Connector - Major Pipeline Terminal</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>NHS Intermodal Connector - Major Ferry Terminal</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">NHS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LOCATION</attrlabl>
+				<attrdef>Station Location Description</attrdef>
+				<attrdefs>FHWA</attrdefs>
+				<attrdomv>
+					<udom>Character value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">LOCATION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CONFIDENCE</attrlabl>
+				<attrdef>Confidence that point was created correctly using the data provided</attrdef>
+				<attrdefs>FHWA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>low confidence</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>confident</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>highly confident</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">CONFIDENCE</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>COMMENT</attrlabl>
+				<attrdef>Notes on point creation and relationship to location</attrdef>
+				<attrdefs>UTN, State DOT &amp;amp; RITA/BTS</attrdefs>
+				<attrdomv>
+					<udom>Character value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">COMMENT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LONGITUDE</attrlabl>
+				<attrdef>The longitude of the point expressed as a signed real number. This value is in decimal degrees with negative values indicating West longitude and positive values indicating East longitude.</attrdef>
+				<attrdefs>RITA/BTS</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>180 West</rdommin>
+						<rdommax>180 East</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">LONGITUDE</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>LATITUDE</attrlabl>
+				<attrdef>The latitude of the point expressed as a signed real number. This value is in decimal degrees with negative values indicating South latitude and positive values indicating North latitude.</attrdef>
+				<attrdefs>RITA/BTS</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>90 South</rdommin>
+						<rdommax>90 North</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">LATITUDE</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>YEAR_GEO</attrlabl>
+				<attrdef>Year the location was spatial located</attrdef>
+				<attrdefs>UTN, State DOT &amp;amp; RITA/BTS</attrdefs>
+				<attrdomv>
+					<udom>Numeric value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">YEAR_GEO</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>YEAR_ATT</attrlabl>
+				<attrdef>Year the attribute data was collected</attrdef>
+				<attrdefs>FHWA &amp;amp; State DOTs</attrdefs>
+				<attrdomv>
+					<udom>Numeric value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">YEAR_ATT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FCLASS</attrlabl>
+				<attrdef>The functional system upon which the section is located.</attrdef>
+				<attrdefs>HPMS Field Manual</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Rural Principal Arterial - Interstate</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Rural Principal Arterial - Other</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Rural Minor Arterial</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Rural Major Collector</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Rural Minor Collector</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>Rural Local</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>Urban Principal Arterial - Interstate</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Urban Principal Arterial - Other Freeways and Expressways</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>Urban Principal Arterial - Other</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>16</edomv>
+						<edomvd>Urban Minor Arterial</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>17</edomv>
+						<edomvd>Urban Collector</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+					<edom>
+						<edomv>19</edomv>
+						<edomvd>Urban Local</edomvd>
+						<edomvds>HPMS Field Manual</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FCLASS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PASSVEHVOL</attrlabl>
+				<attrdef>The estimate (for Passenger Vehicles Only) of typical traffic on a road segment for all days of the week, Sunday through Saturday, over the period of one year and calculated from permanent counter data as the sum of Monthly Average Daily Traffic (MADTs) divided by the number of MADTs, and for short term counts by using adjustment factors.</attrdef>
+				<attrdefs>FHWA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Passenger Vehicle AADT</codesetn>
+						<codesets>FHWA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">PASSVEHVOL</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>TOTVEHVOL</attrlabl>
+				<attrdef>The estimate of typical traffic (for all Vehicles) on a road segment for all days of the week, Sunday through Saturday, over the period of one year and calculated from permanent counter data as the sum of Monthly Average Daily Traffic (MADTs) divided by the number of MADTs, and for short term counts by using adjustment factors.</attrdef>
+				<attrdefs>FHWA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Total Vehicle AADT</codesetn>
+						<codesets>FHWA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TOTVEHVOL</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PERTRUCK</attrlabl>
+				<attrdef>Percentage of AADT that were Trucks.</attrdef>
+				<attrdefs>FHWA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Summation of Gross Vehicle Weight (in Metric Tons)</codesetn>
+						<codesets>FHWA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">PERTRUCK</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>SUMAVGVW</attrlabl>
+				<attrdef>Summation of the average gross vehicle weight for trucks including all connected components (in Metric Tons)</attrdef>
+				<attrdefs>FHWA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Summation of Gross Vehicle Weight (in Metric Tons)</codesetn>
+						<codesets>FHWA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUMAVGVW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>State FIPS Code</attrdef>
+				<attrdefs>FHWA Station Description Files</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard- FIPS Pub 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CTFIPS</attrlabl>
+				<attrdef>3 digit code for where the point resides</attrdef>
+				<attrdefs>Federal Information Processing Standards</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard- FIPS Pub 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">CTFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>Version of the database</attrdef>
+				<attrdefs>RITA/BTS</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.148</transize>
+					<dssize Sync="TRUE">0.148</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20100530</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearborn Ave</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<cntpos>GIS Data Technician</cntpos>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metac>None</metac>
+		<metuc>None</metuc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USAWeighStations11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-159.378753</westBL>
+<eastBL Sync="TRUE">-65.760962</eastBL>
+<northBL Sync="TRUE">68.665416</northBL>
+<southBL Sync="TRUE">18.065477</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-159.378753</westBL>
+<eastBL Sync="TRUE">-65.760962</eastBL>
+<northBL Sync="TRUE">68.665416</northBL>
+<southBL Sync="TRUE">18.065477</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USAWeighStations11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.148</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USAWeighStations11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">5553</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11450900</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11450900</ModTime>
+<DataProperties>
+<lineage>
+<Process Date="20111220" Time="140853" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection">DefineProjection S:\GIS_Center_Projects\EnterpriseGIS\3_QA\RITA\wim\USAwimstations11.shp GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] S:\GIS_Center_Projects\EnterpriseGIS\3_QA\RITA\wim\USAwimstations11.shp</Process>
+</lineage>
+</DataProperties>
+</Esri>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

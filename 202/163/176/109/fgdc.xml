@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Louisiana State University (Baton Rouge, La.). Dept. of Geography and Anthropology</origin>
+				<origin>Myrtho, Joseph</origin>
+				<pubdate>20091205</pubdate>
+				<title>Population at the SDE (Section d'énumération) level Port au-Prince Haiti 2003</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Baton Rouge (La.)</pubplace>
+					<publish>Elsevier-Dutton (Publishing firm)</publish>
+				</pubinfo>
+				<othercit>Published as part of article:
+
+Joseph, M. and F. Wang. 2010. Population density patterns in Port-au-Prince, Haiti: A
+model of Latin American city? Cities 27: 127-136. doi:10.1016/j.cities.2009.12.002.
+
+http://www.citeulike.org/article/6831173</othercit>
+				<onlink>http://www.citeulike.org/article/6831173</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Louisiana State University (Baton Rouge, La.). Dept. of Geography and Anthropology</origin>
+						<title>Haiti GIS</title>
+						<pubinfo>
+							<pubplace>Baton-Rouge (La.)</pubplace>
+							<publish>Elsevier-Dutton (Publishing firm)</publish>
+						</pubinfo>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">HaitiPopulationSDE2003</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents population density within Haiti at the SDE (Section d'énumération) level from 2003.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>The file was created by scanning a population and housing census map made by IHSI that displayed population data from 2003 and housing census data from 2006, georeferencing and digitizing it. Attribute data was processed in a separate CSV file and joined to the digitized polygons.</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2003</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-72.374466</westbc>
+				<eastbc>
+-72.293870</eastbc>
+				<northbc>
+18.564521</northbc>
+				<southbc>
+18.510249</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">777211.726244</leftbc>
+<rightbc Sync="TRUE">785639.733568</rightbc>
+<bottombc Sync="TRUE">2048781.003856</bottombc>
+<topbc Sync="TRUE">2054667.589695</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>location</themekey>
+				<themekey>society</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Population</themekey>
+				<themekey>Population Density</themekey>
+				<themekey>Census</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Port-au-Prince</placekey>
+				<placekey>Haiti</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>South America</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online: Access is granted to licensee only. Available to Tufts University affiliates.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>Patrick Florance</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Dataset was renamed HaitiPopulationSDE2003.</procdesc>
+				<procdate>201205</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="HaitiPopulationSDE2003">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>670</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="HaitiPopulationSDE2003">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">670</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+				<gridsys>
+<gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn>
+<utm>
+<utmzone Sync="TRUE">18</utmzone>
+<transmer>
+<sfctrmer Sync="TRUE">0.999600</sfctrmer>
+<longcm Sync="TRUE">-75.000000</longcm>
+<latprjo Sync="TRUE">0.000000</latprjo>
+<feast Sync="TRUE">500000.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</utm>
+</gridsys>
+</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_UTM_Zone_18N</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="HaitiPopulationSDE2003">
+			<enttyp>
+				<enttypl>
+HaitiPopulationSDE2003</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">670</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Id</attrlabl>
+				<attrdef>Unique Identifier of the SDE</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">Id</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>BATIMENTS</attrlabl>
+				<attrdef>Number of buildings within the SDE.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">BATIMENTS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MENAGES</attrlabl>
+				<attrdef>Number of households within the SDE.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">MENAGES</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>POP2003</attrlabl>
+				<attrdef>Population count of the SDE according to the 2003 dataset.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">POP2003</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LTFive</attrlabl>
+				<attrdef>Unknown</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">LTFive</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Eighteen_P</attrlabl>
+				<attrdef>Number of persons 18 and older.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">Eighteen_P</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>District_I</attrlabl>
+				<attrdef>Concatenation of the Id number and the District number.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">District_I</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SDE_ID</attrlabl>
+				<attrdef>SDE number, which is the same as the ID number.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SDE_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Area</attrlabl>
+				<attrdef>Area of SDE in square meters.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>POPDENS</attrlabl>
+				<attrdef>Population density of the SDE.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">POPDENS</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Districts</attrlabl>
+				<attrdef>District number.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">Districts</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset.</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.405</transize>
+					<dssize Sync="TRUE">0.405</dssize>
+</digtinfo>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based Distribution Only.</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20120612</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">HaitiPopulationSDE2003</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">777211.726244</westBL>
+<eastBL Sync="TRUE">785639.733568</eastBL>
+<northBL Sync="TRUE">2054667.589695</northBL>
+<southBL Sync="TRUE">2048781.003856</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-72.374466</westBL>
+<eastBL Sync="TRUE">-72.29387</eastBL>
+<northBL Sync="TRUE">18.564521</northBL>
+<southBL Sync="TRUE">18.510249</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Haiti\Haiti\HaitiPopulationSDE2003.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.405</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_UTM_Zone_18N</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="HaitiPopulationSDE2003">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">670</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130201</SyncDate>
+<SyncTime>10590000</SyncTime>
+<ModDate>20130201</ModDate>
+<ModTime>10590000</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130201</mdDateSt>
+</metadata>

@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Instituto Nacional de Estadistica y Geografia (Mexico)</origin>
+				<pubdate>1994</pubdate>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Aguascalientes (Mexico)</pubplace>
+					<publish>Instituto Nacional de Estadistica y Geografia (Mexico)</publish>
+				</pubinfo>
+				<onlink>http://www.inegi.org.mx/geo/contenidos/recnat/fisiografia/infoescala.aspx</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Instituto Nacional de Estadistica y Geografia (Mexico)</origin>
+						<pubdate>1994</pubdate>
+						<pubinfo>
+							<pubplace>Aguascalientes (Mexico)</pubplace>
+							<publish>Instituto Nacional de Estadisticas y Geographias</publish>
+						</pubinfo>
+						<onlink>http://www.inegi.org.mx/geo/contenidos/geografia/default.aspx</onlink>
+					</citeinfo>
+				</lworkcit>
+				<title>Soil Use And Vegetation Mexico 1994</title>
+<ftname Sync="TRUE">MexicoSoilUseAndVegetation94</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset shows shows the state of natural and induced vegetation and its location across the country. This layer shows areas for agriculture, forest, thickets, rangelands and jungles, its erosion state and secondary vegetation of the area.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+<caldate>1994</caldate>
+</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-122.988618</westbc>
+				<eastbc Sync="TRUE">-81.011865</eastbc>
+				<northbc Sync="TRUE">36.915963</northbc>
+				<southbc Sync="TRUE">10.962038</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">572600.225505</leftbc>
+<rightbc Sync="TRUE">4427354.750183</rightbc>
+<bottombc Sync="TRUE">124.688231</bottombc>
+<topbc Sync="TRUE">2767389.245816</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>biota</themekey>
+<themekey>environment</themekey>
+</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Vegetation boundaries</themekey>
+<themekey>Land cover</themekey>
+<themekey>Land use</themekey>
+<themekey>Metropolitan areas</themekey>
+<themekey>Bodies of water</themekey>
+<themekey>Forests and forestry</themekey>
+<themekey>Invasive plants</themekey>
+<themekey>Endemic plants</themekey>
+<themekey>Soils.</themekey>
+</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Mexico</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>North America</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Instituto Nacional de Estadistica y Geografia (Mexico)</cntorg>
+				</cntorgp>
+				<cntpos>Service representative</cntpos>
+				<cntaddr>
+					<addrtype>physical address</addrtype>
+					<address>2301 Av Heroe de Nacozari</address>
+					<address>Fraccionamiento Jardines del Parque</address>
+					<city>Aguascalientes</city>
+					<state>Aguascalientes (AGS)</state>
+					<postal>C.P. 20276</postal>
+					<country>Mexico</country>
+				</cntaddr>
+				<cntvoice>01 449 910 5300</cntvoice>
+				<cntvoice>01 800 111 46 34</cntvoice>
+				<cntvoice>ext. 5021, 5031, 4250</cntvoice>
+				<cntemail>atencion.usuarios@inegi.org.mx</cntemail>
+				<hours>Monday to Sunday from 8:00 to 4:00. Central Time Mexico.</hours>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.</attraccr>
+		</attracc>
+		<lineage>
+			<srcinfo>
+				<srcscale>1:1000000</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>The file name of this dataset was changed from "Uso de suelo y vegetacion" to MexicoSoilUseAndVegetation94.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd.</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday - Friday, 9:00am - 5:00pm, EST- USA</hours>
+					</cntinfo>
+				</proccont>
+				<procdate>21040729</procdate>
+<proctime>3:30pm</proctime>
+</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\gberes01\AppData\Local\Temp\xmlB2D5.tmp</srcused>
+<procdate Sync="TRUE">20140729</procdate>
+<proctime Sync="TRUE">15115300</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="MexicoSoilUseAndVegetation94">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">26866</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="MexicoSoilUseAndVegetation94">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">26866</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">17.500000</stdparll>
+<stdparll Sync="TRUE">29.500000</stdparll>
+<longcm Sync="TRUE">-102.000000</longcm>
+<latprjo Sync="TRUE">12.000000</latprjo>
+<feast Sync="TRUE">2500000.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">D_ITRF_1992</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">ITRF92</geogcsn>
+<projcsn Sync="TRUE">North_America_Lambert_Conformal_Conic</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="MexicoSoilUseAndVegetation94">
+			<enttyp>
+				<enttypl Sync="TRUE">MexicoSoilUseAndVegetation94</enttypl>
+				<enttypds>Environmental Systems Research Institute (Redlands, Calif.)</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">26866</enttypc>
+<enttypd>State of natural and induced vegetation and its location across the country</enttypd>
+</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+				<attrdef>Unique Identifier</attrdef>
+				<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+				<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">AREA</attrlabl>
+				<attrdef>Area of the object measured in square meters.</attrdef>
+				<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+				<attalias Sync="TRUE">AREA</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERIMETER</attrlabl>
+				<attrdef>Perimeter of the object measured in meters.</attrdef>
+				<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+				<attalias Sync="TRUE">PERIMETER</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">REVISION_</attrlabl>
+<attalias Sync="TRUE">REVISION_</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Continuous numeric object identifier begins in number 2.</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">REVISION_I</attrlabl>
+<attalias Sync="TRUE">REVISION_I</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">FC</attrlabl>
+<attalias Sync="TRUE">FC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdef>INEGI's numeric identifier for entity.</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">CLAVEFOT</attrlabl>
+<attalias Sync="TRUE">CLAVEFOT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+<attrdef>PhotoCode - Photo interpretation Code- Different combinations of soil use and vegetation used by the themes specialists.</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+</attr>
+			<attr>
+				<attrdomv>
+					<edom>
+<edomv>Area Agricola</edomv>
+<edomvd>Agricultural area</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+					<edom>
+<edomv>Area Agricola Pastiza</edomv>
+<edomvd>Agricultural rangelands</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Area Agricola Selva</edomv>
+<edomvd>Agricultural junlge</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Area sin vegetacion</edomv>
+<edomvd>Area lacking vegetation</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Area urbana</edomv>
+<edomvd>Urban area</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque</edomv>
+<edomvd>Forest or woodland</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Cuerpo de Agua</edomv>
+<edomvd>body of water</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Mattoral</edomv>
+<edomvd>Scrub/thicket</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Otros tipos de vegetacion</edomv>
+<edomvd>Other vegetation types</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Pastizal</edomv>
+<edomvd>Rangeland</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Pais extranjero</edomv>
+<edomvd>Foreign country</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Pastizal selva</edomv>
+<edomvd>Jungle rangeland</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva</edomv>
+<edomvd>Jungle</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva pastizal</edomv>
+<edomvd>Jungle rangelands</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+</attrdomv>
+				<attrlabl Sync="TRUE">ENTIDAD</attrlabl>
+<attalias Sync="TRUE">ENTIDAD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdef>Entity - vegetation categorization</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">TIPO</attrlabl>
+<attalias Sync="TRUE">TIPO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">91</attwidth>
+<attrdef>Vegetation Subtype </attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Agricola de humeda</edomv>
+<edomvd>Humid agriculture</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Agricultura de riego</edomv>
+<edomvd>Irrigated agriculture</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Agricultura de riego eventual</edomv>
+<edomvd>eventual irrigated agriculture</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Agricultura Temporal</edomv>
+<edomvd>Seasonal agriculture</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Agricultura de riego suspendido</edomv>
+<edomvd>Agriculture with suspended irrigation</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque bajo abierto</edomv>
+<edomvd>Low, open forest</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque cultivado</edomv>
+<edomvd>Cultivated forest</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque de ayarin</edomv>
+<edomvd>Ayarin forest (Pseudotsuga &amp;amp; Picea)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque de cedro</edomv>
+<edomvd>Cedar forest (Cupressus)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque de encino</edomv>
+<edomvd>Oak Forest (Quercus)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque de encino-pino</edomv>
+<edomvd>Oak-Pine Forest (Quercus &amp;amp; Pinus)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque de galeria</edomv>
+<edomvd>Gallery Forest</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque de oyamel</edomv>
+<edomvd>Fir Forest (Abies)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque de pino</edomv>
+<edomvd>Pine Forest (Pinus)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque de pino-encino</edomv>
+<edomvd>Pine-oak Forest (Pinus &amp;amp; Quercus)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque de tascate</edomv>
+<edomvd>Táscate forest (Juniperus)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque mesofilo de montana</edomv>
+<edomvd>Cloud Forest</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Matorral crasicaule</edomv>
+<edomvd>Crassicaule thicket (mostly cacti)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Matorral desertico microfilo</edomv>
+<edomvd>Microphyll desert thicket</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Matorral desertico rosetofilo</edomv>
+<edomvd>Rosetophilous desert scrub (mostly plants with leaves in rosette-like shape)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Matorral espinoso tamaulipeco</edomv>
+<edomvd>Thorny Thicket from Tamaulipas</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Matorral rosetófilo costero</edomv>
+<edomvd>Rosetophilous coastal scrub</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Matorral sarco-crasicaule</edomv>
+<edomvd>Sarco-crassicaule thicket</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Matorral sarco-crasicaule de neblina</edomv>
+<edomvd>Misty Sarco-crassicaule thicket</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Matorral sarcocaule</edomv>
+<edomvd>Sarcocaule thicket</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Matorral submontano</edomv>
+<edomvd>Intermountain thicket</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Matorral subtropical</edomv>
+<edomvd>subtropical thicket</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Chaparral</edomv>
+<edomvd>Chaparral</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Huizacha</edomv>
+<edomvd>Huizacha (Acacia)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Manglar</edomv>
+<edomvd>Mangrove swamp (Rhizophora, Avicennia, Laguncularia, etc.)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Matorral de coníferas</edomv>
+<edomvd>Coniferous scrub (Pinus &amp;amp; Juniperus)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Mezquital</edomv>
+<edomvd>Mesquite (Prosopis)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Palmar</edomv>
+<edomvd>Palm grove (Sabal, Brahea, Orbignya, etc.)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Popal</edomv>
+<edomvd>Popal (Calathea, Thalia, Heliconia)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Sabana</edomv>
+<edomvd>Savanna (Curatella, Byrsonima)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Tular</edomv>
+<edomvd>Corn dog grass grove (Typha)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Vegetación de desiertos arenosos</edomv>
+<edomvd>Vegetation of sandy deserts</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Vegetación de dunas costeras</edomv>
+<edomvd>Coastal Dune Vegetation</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Vegetación de galería</edomv>
+<edomvd>River-margin Vegetation</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Vegetación gipsófila</edomv>
+<edomvd>Gypsophila vegetation (high concentration of gypsum)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Vegetación halófila</edomv>
+<edomvd>Halophytic vegetation(high concentration of salts, no gypsum)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Pastizal cultivado</edomv>
+<edomvd>Cultivated rangelands</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Pastizal gipsófilo</edomv>
+<edomvd>Gypsophila rangelands (high concentration of gypsum)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Pastizal halófilo</edomv>
+<edomvd>Halophytic rangelands (high concentration of salts, no gypsum)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Pastizal inducido</edomv>
+<edomvd>Induced rangelands</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Pastizal natural</edomv>
+<edomvd>Natural rangelands</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Pastizal-huizachal</edomv>
+<edomvd>Huizachal rangelands (Acacia)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Pradera de alta montaña</edomv>
+<edomvd>High mountain meadow (&amp;gt; 3,900 meters)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva alta perennifolia</edomv>
+<edomvd>Evergreen high jungle (trees &amp;gt;30m)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva alta subperennifolia</edomv>
+<edomvd>Sub-evergreen high jungle (trees &amp;gt;30m)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva baja caducifolia</edomv>
+<edomvd>Deciduous low jungle (trees 4-15m)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva baja espinosa</edomv>
+<edomvd>Thorny low jungle (trees 4-15m)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva baja perennifolia </edomv>
+<edomvd>Evergreen low jungle (trees 4-15m)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva baja subcaducifolia </edomv>
+<edomvd>Sub-deciduous low jungle (trees 8-15m)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva baja subperennifolia </edomv>
+<edomvd>Sub-evergreen low jungle (trees 4-15m)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva de galería</edomv>
+<edomvd>Gallery jungle</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva mediana caducifolia</edomv>
+<edomvd>Medium deciduous jungle (trees 15-20m)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva mediana perennifolia </edomv>
+<edomvd>Evergreen medium jungle (trees 20-30m) </edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva mediana subcaducifolia</edomv>
+<edomvd>Sub-deciduous medium jungle (trees 15-20m)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Selva mediana subperennifolia</edomv>
+<edomvd>Sub-evergreen medium jungle (trees 20-30m)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Bosque mesófilo de montaña</edomv>
+<edomvd>Cloud Forest</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Cacao</edomv>
+<edomvd>Cacao</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Café</edomv>
+<edomvd>Coffee</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Cardón</edomv>
+<edomvd>Cardon Cactus</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Cirio</edomv>
+<edomvd>Cirio Cactus</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Encino</edomv>
+<edomvd>Oak</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Encino bajo</edomv>
+<edomvd>Low Oak</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Oyamel</edomv>
+<edomvd>Oyamel (Abies)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Palo Adán</edomv>
+<edomvd>Adam's Tree (Fouquieria diguetii)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Pino</edomv>
+<edomvd>Pine</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Táscate</edomv>
+<edomvd>Táscate (Juniperus) </edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrdomv>
+					<edom>
+<edomv>Ninguno</edomv>
+<edomvd>None</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>No aplicable</edomv>
+<edomvd>Not applicable</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Vegetación secundaria aparente</edomv>
+<edomvd>Apparent Secondary Vegetation </edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+</attrdomv>
+				<attrlabl Sync="TRUE">VEGSEC</attrlabl>
+<attalias Sync="TRUE">VEGSEC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>Secondary Vegetation</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">EROSION</attrlabl>
+<attalias Sync="TRUE">EROSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">26</attwidth>
+<attrdomv>
+<edom>
+<edomv>No aplicable</edomv>
+<edomvd>Not applicable</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Con erosión apreciable</edomv>
+<edomvd>With significant erosion</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Sin erosión appreciable</edomv>
+<edomvd>No noticeable erosion</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+<edom>
+<edomv>Ninguno</edomv>
+<edomvd>None</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Erosion indication</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">SHAPE_area</attrlabl>
+<attalias Sync="TRUE">SHAPE_area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SHAPE_len</attrlabl>
+<attalias Sync="TRUE">SHAPE_len</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Length of feature in internal units - geoprocessing output</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00am - 5:00pm, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">65.271</transize>
+					<dssize Sync="TRUE">65.271</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140813</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS  Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00am - 5:00pm, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{F5608C44-EC9C-4E62-A3FF-A5438312B265}</MetaID>
+<CreaDate>20140729</CreaDate>
+<CreaTime>15115300</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140813</SyncDate>
+<SyncTime>15174900</SyncTime>
+<ModDate>20140813</ModDate>
+<ModTime>15192700</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">MexicoSoilUseAndVegetation94</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">572600.225505</westBL>
+<eastBL Sync="TRUE">4427354.750183</eastBL>
+<northBL Sync="TRUE">2767389.245816</northBL>
+<southBL Sync="TRUE">124.688231</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-122.988618</westBL>
+<eastBL Sync="TRUE">-81.011865</eastBL>
+<northBL Sync="TRUE">36.915963</northBL>
+<southBL Sync="TRUE">10.962038</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Mexico\INEGI\Soil_use_and_vegetation\Soil use and vegetation\MexicoSoilUseAndVegetation94.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">65.271</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">North_America_Lambert_Conformal_Conic</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="MexicoSoilUseAndVegetation94">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">26866</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140813</mdDateSt>
+</metadata>

@@ -1,0 +1,4026 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United Nations. Office for the Coordination of Humanitarian Affairs</origin>
+				<pubdate>20110324</pubdate>
+				<title>Union Councils Pakistan 2010</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>United Nations OCHA</sername>
+					<issue>Pakistan</issue>
+				</serinfo>
+				<pubinfo>
+					<publish>United Nations. Office for the Coordination of Humanitarian Affairs</publish>
+				</pubinfo>
+				<onlink>http://cod.humanitarianresponse.info/country-region/pakistan</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United Nations. Office for the Coordination of Humanitarian Affairs</origin>
+						<pubdate>201103</pubdate>
+						<title>United Nations OCHA Pakistan</title>
+						<pubinfo>
+							<pubplace>Turkey</pubplace>
+							<publish>United Nations. Office for the Coordination of Humanitarian Affairs</publish>
+						</pubinfo>
+						<onlink>http://cod.humanitarianresponse.info/country-region/pakistan</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">PakistanLevel4Admin10</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents level four administrative boundaries, or union councils, in Pakistan.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2010</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+67.113045</westbc>
+				<eastbc>
+74.131949</eastbc>
+				<northbc>
+36.908575</northbc>
+				<southbc>
+23.694683</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">67.113045</leftbc>
+<rightbc Sync="TRUE">74.131949</rightbc>
+<bottombc Sync="TRUE">23.694683</bottombc>
+<topbc Sync="TRUE">36.908575</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Administrative and political divisions</themekey>
+				<themekey>Boundaries</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Pakistan</placekey>
+				<placekey>Islamic Republic of Pakistan</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern hemisphere</placekey>
+				<placekey>Eastern hemisphere</placekey>
+				<placekey>Asia</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>United Nations. Office for the Coordination of Humanitarian Affairs</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>8-14 Palais de Nations</address>
+					<city>Geneva</city>
+					<postal>1211</postal>
+					<country>Switzerland</country>
+				</cntaddr>
+				<cntvoice>+41 229171234</cntvoice>
+				<cntfax>+41 229170023/0368</cntfax>
+				<cntemail>ochagva@un.org</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>Unknown</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>11073200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlB389.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>11135000</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Name changed from Pak_adm1_pco_20110324 to PakistanLevel4Admin10.</procdesc>
+				<procdate>20130212</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University. Geographic Information Systems Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Ave</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-suuport@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xml3F28.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>11545000</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xml39FE.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>12220700</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="PakistanLevel4Admin10">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>2490</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="PakistanLevel4Admin10">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">2490</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="PakistanLevel4Admin10">
+			<enttyp>
+				<enttypl>
+PakistanLevel4Admin11</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">2490</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>PROVINCE</attrlabl>
+				<attrdef>Name of the province</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PROVINCE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PROVINCE_C</attrlabl>
+				<attrdef>Provincial code</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Khyber Pakhtunkhwa</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Punjab</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Balochistan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Sindh</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PROVINCE_C</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DISTRICT</attrlabl>
+				<attrdef>Name of the district</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DISTRICT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DISTRICT_C</attrlabl>
+				<attrdef>District code</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>201</edomv>
+						<edomvd>Abbottabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>202</edomv>
+						<edomvd>Bannu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>203</edomv>
+						<edomvd>Batagram</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>204</edomv>
+						<edomvd>Buner</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>205</edomv>
+						<edomvd>Charsadda</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>206</edomv>
+						<edomvd>Chitral</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>207</edomv>
+						<edomvd>Dera Ismail K</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>208</edomv>
+						<edomvd>Hangu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>209</edomv>
+						<edomvd>Haripur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>210</edomv>
+						<edomvd>Karak</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>211</edomv>
+						<edomvd>Kohat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>212</edomv>
+						<edomvd>Kohistan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>213</edomv>
+						<edomvd>Lakki Marwat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>214</edomv>
+						<edomvd>Lower Dir</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>215</edomv>
+						<edomvd>Malakand P.a.</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>216</edomv>
+						<edomvd>Manshera</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>217</edomv>
+						<edomvd>Mardan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>218</edomv>
+						<edomvd>Nowshera</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>219</edomv>
+						<edomvd>Peshawar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>220</edomv>
+						<edomvd>Shangla</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>221</edomv>
+						<edomvd>Swabi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>222</edomv>
+						<edomvd>Swat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>229</edomv>
+						<edomvd>Tank</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>230</edomv>
+						<edomvd>Upper Dir</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>603</edomv>
+						<edomvd>Bahawalpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>604</edomv>
+						<edomvd>Bhakkar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>604</edomv>
+						<edomvd>Bhakkar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>607</edomv>
+						<edomvd>Dera Ghazi K</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>612</edomv>
+						<edomvd>Jhang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>616</edomv>
+						<edomvd>Khushab</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>618</edomv>
+						<edomvd>Layyah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>621</edomv>
+						<edomvd>Mianwali</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>622</edomv>
+						<edomvd>Multan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>623</edomv>
+						<edomvd>Muzaffargar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>628</edomv>
+						<edomvd>Rahim Yar K</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>629</edomv>
+						<edomvd>Rajanpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>702</edomv>
+						<edomvd>Barkhan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>708</edomv>
+						<edomvd>Jaffarabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>716</edomv>
+						<edomvd>Killa Saifullah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>717</edomv>
+						<edomvd>Kohlu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>719</edomv>
+						<edomvd>Loralai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>722</edomv>
+						<edomvd>Nasirabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>728</edomv>
+						<edomvd>Sibi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>802</edomv>
+						<edomvd>Dadu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>803</edomv>
+						<edomvd>Ghotki</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>804</edomv>
+						<edomvd>Hyderabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>805</edomv>
+						<edomvd>Jacobabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>806</edomv>
+						<edomvd>Jamshoro</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>808</edomv>
+						<edomvd>Kashmore</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>809</edomv>
+						<edomvd>Khairpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>810</edomv>
+						<edomvd>Larkana</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>811</edomv>
+						<edomvd>Matiari</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>813</edomv>
+						<edomvd>Naushahro F</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>815</edomv>
+						<edomvd>Qambar Sha</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>816</edomv>
+						<edomvd>Shaheed Be</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>817</edomv>
+						<edomvd>Shikarpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>818</edomv>
+						<edomvd>Sukkur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>820</edomv>
+						<edomvd>Tando Muha</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>822</edomv>
+						<edomvd>Thatta</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">DISTRICT_C</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TEHSIL</attrlabl>
+				<attrdef>Tehsil name</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">TEHSIL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TEHSIL_C</attrlabl>
+				<attrdef>Tehsil identifier code</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>20101</edomv>
+						<edomvd>Abbottabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20201</edomv>
+						<edomvd>Bannu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20301</edomv>
+						<edomvd>Alai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20302</edomv>
+						<edomvd>Batagram</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20401</edomv>
+						<edomvd>Chagharzai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20402</edomv>
+						<edomvd>Chamla</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20403</edomv>
+						<edomvd>Daggar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20404</edomv>
+						<edomvd>Gagra</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20405</edomv>
+						<edomvd>Pir Baba/Gadaizi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20406</edomv>
+						<edomvd>Totalai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20501</edomv>
+						<edomvd>Charsadda</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20502</edomv>
+						<edomvd>Tangi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20601</edomv>
+						<edomvd>Chitral</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20602</edomv>
+						<edomvd>Mastuj</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20701</edomv>
+						<edomvd>Daraban</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20702</edomv>
+						<edomvd>Dera Ismail Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20703</edomv>
+						<edomvd>Kulachi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20704</edomv>
+						<edomvd>Paharpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20801</edomv>
+						<edomvd>Hangu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20802</edomv>
+						<edomvd>Tall</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20901</edomv>
+						<edomvd>Ghazi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20902</edomv>
+						<edomvd>Haripur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21001</edomv>
+						<edomvd>Banda Daud Shah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21002</edomv>
+						<edomvd>Karak</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21003</edomv>
+						<edomvd>Takht E Nasrati</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21101</edomv>
+						<edomvd>Kohat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21102</edomv>
+						<edomvd>Lachi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21201</edomv>
+						<edomvd>Dassu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21202</edomv>
+						<edomvd>Palas</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21203</edomv>
+						<edomvd>Pattan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21301</edomv>
+						<edomvd>Lakki Marwat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21302</edomv>
+						<edomvd>Sarai Naurang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21401</edomv>
+						<edomvd>Samar Bagh</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21402</edomv>
+						<edomvd>Timergara</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21501</edomv>
+						<edomvd>Sam Ranizai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21502</edomv>
+						<edomvd>Swat Ranizai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21601</edomv>
+						<edomvd>Balakot</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21602</edomv>
+						<edomvd>Mansehra</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21603</edomv>
+						<edomvd>Oghi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21701</edomv>
+						<edomvd>Katlang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21702</edomv>
+						<edomvd>Mardan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21703</edomv>
+						<edomvd>Takht Bhai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21801</edomv>
+						<edomvd>Nowshera</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21802</edomv>
+						<edomvd>Pabbi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>21901</edomv>
+						<edomvd>Peshawar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22001</edomv>
+						<edomvd>Apluri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22002</edomv>
+						<edomvd>Bisham</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22003</edomv>
+						<edomvd>Chiksar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22004</edomv>
+						<edomvd>Martung</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22005</edomv>
+						<edomvd>Puran</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22101</edomv>
+						<edomvd>Lahor</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22102</edomv>
+						<edomvd>Swabi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22103</edomv>
+						<edomvd>Topi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22201</edomv>
+						<edomvd>Babuizai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22202</edomv>
+						<edomvd>Bahrain</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22203</edomv>
+						<edomvd>Barikot</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22204</edomv>
+						<edomvd>Charbagh</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22205</edomv>
+						<edomvd>Kabal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22206</edomv>
+						<edomvd>Kalam</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22207</edomv>
+						<edomvd>Khwazakhela</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22208</edomv>
+						<edomvd>Matta Khararai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22209</edomv>
+						<edomvd>Matta Beujni</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>22901</edomv>
+						<edomvd>Tank</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>23001</edomv>
+						<edomvd>Barawal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>23002</edomv>
+						<edomvd>Dir</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>23003</edomv>
+						<edomvd>Kalkot</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>23004</edomv>
+						<edomvd>Wari</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60301</edomv>
+						<edomvd>Bahawalpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60302</edomv>
+						<edomvd>Hasilpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60303</edomv>
+						<edomvd>Khairpur Tamewali</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60304</edomv>
+						<edomvd>Yazman</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60305</edomv>
+						<edomvd>Ahmadpur East</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60401</edomv>
+						<edomvd>Bhakkar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60402</edomv>
+						<edomvd>Darya Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60403</edomv>
+						<edomvd>Kalur Kot</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60404</edomv>
+						<edomvd>Mankera</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60701</edomv>
+						<edomvd>De-excluded Area D</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60702</edomv>
+						<edomvd>Dera Ghazi Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60703</edomv>
+						<edomvd>Taunsa</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>61201</edomv>
+						<edomvd>Ahmedpur Sial</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>61202</edomv>
+						<edomvd>Jhang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>61203</edomv>
+						<edomvd>Shorkot</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>61601</edomv>
+						<edomvd>Khushab</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>61602</edomv>
+						<edomvd>Noorpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>61603</edomv>
+						<edomvd>Quaidabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>61801</edomv>
+						<edomvd>Chaubara</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>61802</edomv>
+						<edomvd>Karor Lal Esan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>61803</edomv>
+						<edomvd>Layyah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62101</edomv>
+						<edomvd>Isakhel</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62102</edomv>
+						<edomvd>Mianwali</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62103</edomv>
+						<edomvd>Piplan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62201</edomv>
+						<edomvd>Jalalpur Pirwala</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62202</edomv>
+						<edomvd>Multan City</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62203</edomv>
+						<edomvd>Multan Saddar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62204</edomv>
+						<edomvd>Shujabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62301</edomv>
+						<edomvd>Alipur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62302</edomv>
+						<edomvd>Jatoi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62304</edomv>
+						<edomvd>Muzaffarargh</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62801</edomv>
+						<edomvd>Khanpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62802</edomv>
+						<edomvd>Liaquat Pur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62803</edomv>
+						<edomvd>Rahim Yar Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62804</edomv>
+						<edomvd>Sadiqabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62901</edomv>
+						<edomvd>De-excluded area R</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62902</edomv>
+						<edomvd>Jampur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62903</edomv>
+						<edomvd>Rajanpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62904</edomv>
+						<edomvd>Rojhan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70201</edomv>
+						<edomvd>Barkhan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70801</edomv>
+						<edomvd>Gandakha</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70802</edomv>
+						<edomvd>Jhat Pat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70803</edomv>
+						<edomvd>Sohbatpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70804</edomv>
+						<edomvd>Usta Muhammad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71601</edomv>
+						<edomvd>Badinai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71602</edomv>
+						<edomvd>Kan Mehtarzai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71603</edomv>
+						<edomvd>Killa Saifullah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71604</edomv>
+						<edomvd>Loi Band</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71605</edomv>
+						<edomvd>Muslim Bagh</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71606</edomv>
+						<edomvd>Shinkai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71701</edomv>
+						<edomvd>Kahan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71702</edomv>
+						<edomvd>Kohlu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71703</edomv>
+						<edomvd>Mawand</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71901</edomv>
+						<edomvd>Duki</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71902</edomv>
+						<edomvd>Loralai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>72201</edomv>
+						<edomvd>Baba kot</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>72202</edomv>
+						<edomvd>Chattar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>72203</edomv>
+						<edomvd>Dera Murad Jamali</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>72204</edomv>
+						<edomvd>Tamboo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>72801</edomv>
+						<edomvd>Babar Kach</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>72802</edomv>
+						<edomvd>Lehri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>72803</edomv>
+						<edomvd>Sangan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>72804</edomv>
+						<edomvd>Sibi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80201</edomv>
+						<edomvd>Dadu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80202</edomv>
+						<edomvd>Johi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80203</edomv>
+						<edomvd>Khairpur Nathan Sh</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80204</edomv>
+						<edomvd>Mehar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80301</edomv>
+						<edomvd>Daharki</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80302</edomv>
+						<edomvd>Ghotki</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80303</edomv>
+						<edomvd>Khangarh</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80304</edomv>
+						<edomvd>Mirpur Mathelo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80305</edomv>
+						<edomvd>Ubauro</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80401</edomv>
+						<edomvd>Hyderabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80402</edomv>
+						<edomvd>Latifabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80403</edomv>
+						<edomvd>Qasimabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80404</edomv>
+						<edomvd>Hyderabad City</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80501</edomv>
+						<edomvd>Garhi Khairo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80502</edomv>
+						<edomvd>Jacobabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80503</edomv>
+						<edomvd>Thul</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80601</edomv>
+						<edomvd>Kotri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80602</edomv>
+						<edomvd>Manjand</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80603</edomv>
+						<edomvd>Sehwan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80604</edomv>
+						<edomvd>Thano Bula Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80801</edomv>
+						<edomvd>Kandhkot</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80802</edomv>
+						<edomvd>Kashmore</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80803</edomv>
+						<edomvd>Tangwani</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80901</edomv>
+						<edomvd>Faiz Ganj</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80902</edomv>
+						<edomvd>Gambat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80903</edomv>
+						<edomvd>Khairpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80904</edomv>
+						<edomvd>Kingri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80905</edomv>
+						<edomvd>Kot Diji</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80906</edomv>
+						<edomvd>Mirwah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80907</edomv>
+						<edomvd>Nara</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80908</edomv>
+						<edomvd>Sobho Dero</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81001</edomv>
+						<edomvd>Dokri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81002</edomv>
+						<edomvd>Larkana</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81003</edomv>
+						<edomvd>Ratodero</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81004</edomv>
+						<edomvd>Bakrani</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81101</edomv>
+						<edomvd>Hala</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81102</edomv>
+						<edomvd>Matiari</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81301</edomv>
+						<edomvd>Bhiria</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81302</edomv>
+						<edomvd>Kandiaro</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81303</edomv>
+						<edomvd>Moro</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81304</edomv>
+						<edomvd>Naushahro Feroze</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81501</edomv>
+						<edomvd>Kambar Ali Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81502</edomv>
+						<edomvd>Miro Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81503</edomv>
+						<edomvd>Qubo Saeed Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81504</edomv>
+						<edomvd>Shahdad Kot</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81505</edomv>
+						<edomvd>Warah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81601</edomv>
+						<edomvd>Daulat Pur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81602</edomv>
+						<edomvd>Nawabshah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81603</edomv>
+						<edomvd>Sakrand</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81604</edomv>
+						<edomvd>Daur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81701</edomv>
+						<edomvd>Garhi Yasin</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81702</edomv>
+						<edomvd>Khanpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81703</edomv>
+						<edomvd>Lakhi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81704</edomv>
+						<edomvd>Shikarpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81801</edomv>
+						<edomvd>Pano Aqil</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81802</edomv>
+						<edomvd>Rohri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81803</edomv>
+						<edomvd>Salehpat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81804</edomv>
+						<edomvd>Sukkur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82001</edomv>
+						<edomvd>Bulri Shah Karim</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82002</edomv>
+						<edomvd>Tando Gulam Hyder</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82003</edomv>
+						<edomvd>Tando Muhammad K</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82201</edomv>
+						<edomvd>Ghorabari</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82202</edomv>
+						<edomvd>Jati</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82203</edomv>
+						<edomvd>Keti Bunder</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82204</edomv>
+						<edomvd>Kharo Chan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82205</edomv>
+						<edomvd>Mirpur Bathoro</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82206</edomv>
+						<edomvd>Mirpur Sakro</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82207</edomv>
+						<edomvd>Shah Bunder</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82208</edomv>
+						<edomvd>Sujawal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82209</edomv>
+						<edomvd>Thatta</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TEHSIL_C</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>UC</attrlabl>
+				<attrdef>Union council name</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">UC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>UC_C</attrlabl>
+				<attrdef>Union council code</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>20000</edomv>
+						<edomvd>Bagh, Bakot, Bal Dheri, Banda Pir Khan, Bandi Attaikhan, Biran Gali, Birot Kalan, Boi, Cantonment Area</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20001</edomv>
+						<edomvd>Chamhad, Chamhdah, Dahamtore, Dalola, Dewal Manal, Garhi Phulgran, Gorini, Havelian, Jhangi, Jhangran</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20002</edomv>
+						<edomvd>Kakol, Kathwal, Kokmang, Kothiala, Langra, Langrial, Lora, Majohan, Mir Pur, Nagri Bala</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20003</edomv>
+						<edomvd>Nagri Totial, Namal, Namli Mera, Nara, Nathia Gali, Palak, Pattan Kalan, Pawa, Phala, Pind Kargoo Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20004</edomv>
+						<edomvd>Salhad, Seer Gharbi, Sheikul Band, Sherwan, Sir Bhanna Phal Kot, Amandi,  Baharat, Bakka Khel Wazir, Bannu Mc, Bazar Ahmed Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20005</edomv>
+						<edomvd>Daud Shah, Fatima Khel Beli, Fatima Khel Kalan, Garhi Sher Ahmed, Gorwala, Hinjal, Jando Khel, Jani Khel, Kaka Khel, Khawaka Mad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20006</edomv>
+						<edomvd>Khojari, Lalozai, Landi Dak, Mamash Khel Naughari, Mambati Barakzai, Mandak, Mira Khel, Mitha Khel, Mohammad Khel Wazir, Nizam Dherma Khel</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20007</edomv>
+						<edomvd>Nurar, Serai Nauring, Shahbaz Azmat Khel, Shamshi Khel, Sikander Khel, Sukari Jabbar, Zargar Mama, Aral Hathi Khel, Asperka Waziran, Baharat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20008</edomv>
+						<edomvd>Bizan Khel, Kakki, Karab Kala, Khojari, Serai Nauring, Bana, Batila, Batkul, Biari, Jambera</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20009</edomv>
+						<edomvd>Phasto, Rashang, Sakkar Gah, Ajmeerah, Banian, Batagram, Batta Mohri, Ganjbori, Kuza Banda, Paimal Shairf</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20010</edomv>
+						<edomvd>Pashora, Raj Dahari, Shamlai, Tarand, Thakot, Batara, Gulbandai, Pandair, Soray, Amazai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20011</edomv>
+						<edomvd>Kogam Makhranai, Nawagai, Daggar, Elai, Gokand, Karapa, Torwarsak, Dewana Bala, Gagra</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20012</edomv>
+						<edomvd>Norezai, Rega, Shalbandai, Ab Khail, Gadaizi, Mali Kjhel, Malikpur, Pachakilay, Chinglai, Ghughushtu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20013</edomv>
+						<edomvd>Sarawi, Totalai, Agra, Batgram, Behlola, Chindro Dag, Dargai, Daulatpura, Dheri Zardad Khan, Dusura</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20014</edomv>
+						<edomvd>Ghunda Karkana, Haji Zai, Hassan Zai, Hissara Yasinzai, Kangra, Katuzai, Khan Mahi, Maira Prang, Maira Umarzai, Matta Mughal Khel, Mohammad Nari</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20015</edomv>
+						<edomvd>Mohammad Nari, Nossatta, Panjpao, Rashkai, Razar-i, Razar-ii, Sarki Titara, Sheiku, Tarnab, Turang Zai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20016</edomv>
+						<edomvd>Umar Zai, Aba Zai, Dakki, Gandira, Harichand, Hisara Nehri, Koz Behram Dheri, Mandani, Mirza Dher, Sher Pao</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20017</edomv>
+						<edomvd>Showdag, Ziam, Arandu, Asherat, Ayun, Broze, Danin, Drosh 1, Drosh 2, Karimabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20018</edomv>
+						<edomvd>Koh, Lot Koh, M.C. Chitral, Shehsi Koh, Shogore, Charun, Khot, Kosht,  Laspur, Mastuj</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20019</edomv>
+						<edomvd>Mulkoh, Oweer, Shagram, Terich, Yarkhoon, Chaudhawan, Daraban, Gara Isla Khan, Kiri Shamozai, Musa Zai Sharif</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20020</edomv>
+						<edomvd>Band Korai, Chahkan, Dewala, Giloti, Kech, Korai, Kotla Saidan, Lacchra, Lunda Sharif, Mahra</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20021</edomv>
+						<edomvd>Malana, Mandhra, Miran, Muriali, Naivela, Paniala Town, Paroa, Ratta Kulachi, Shor Kot, Wanda Khan Mohammad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20022</edomv>
+						<edomvd>Yarik, Zindani, Hathala, Luni, Maddi, Band Korai, Bigwani Shumali, Bilot Sharif, Dhap Sumali, Kat Garh</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20023</edomv>
+						<edomvd>Kech, Kirri Khaisore, Kot Jai, Lar, Daraband, Kach Banda, Kahi, Kotki, Mc, Muhammad Khawaja</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20024</edomv>
+						<edomvd>Raisan, Toghseri, Dallan Uc, Darsmand Uc, Doaba Tc, Doaba Uc, Karbogha Uc, Nayab Uc, Tall Mc, Tall Uc</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20025</edomv>
+						<edomvd>Torawari Uc, Bait Gali, Ghazi, Kotehra, Kundi, Nara Amazai, Qazi Pur, Siri Kot, Tarbela, Ali Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20026</edomv>
+						<edomvd>Bagra, Baka, Bandi Sher Khan, Bareela, Barkot, Bherrary, Bir Darwesh, Dheenda, Dingi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20027</edomv>
+						<edomvd>Hattar, Jabri, Jatti Pind, Kalinjar, Khan Pur, Kholian Bala, Kot Najibullah, Ladar Mang,  Manakrai, Maqsood</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20028</edomv>
+						<edomvd>Najaf Pur, Pandik, Panian, Pind Hasham Khan, Pind Kamal Khan, Rehana, Sarai Niamat Khan, Ssarai Saleh, Sikander Pur, Sirya</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20029</edomv>
+						<edomvd>Tofkian, Urban, Bahader Khel, Gurguri, Jatta Ismail Khel, Nari Panos, Teri, Ghundi Mira Khan Khel, Isak Chountra, Jandri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20030</edomv>
+						<edomvd>Karak (northern), Karak (southern), Latambar, Mitha Khel, Paloosa Sar, Sabir Abad, Ahmadabad, Choukara, Janhangiri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20031</edomv>
+						<edomvd>Mianki Banda, Paloosa Sar, Shenawa Gudi Khel, Siraj Khel, Takhat Nasrati, Bahadur Kot, Bili Tang, Chor Laki, Dodha, Gumbat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20032</edomv>
+						<edomvd>Jarma, Kharmatu, Khushal Garh, Kohat (urban) Uc-, Mohammad Zai, Nasrat Khel, Shah Pur, Sher Kot, Sur Gul, Togh  Bala,</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20033</edomv>
+						<edomvd>Urban, Urban-ii, Usturzai, Lachi (rural), Mandoori, Shakar Dara, Shakardara Urban,  Soodal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20034</edomv>
+						<edomvd>Bar Jalkot, Bariyar, Basha, Dassu, Gabral, Goshli, Gujar Banda, Harban Jajshoi, Karang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20035</edomv>
+						<edomvd>Kareen, Komilia, Kuz Jalkot, Kuz Parwa, Loi, Sazeen, Seo, Siglo, Thoti, Barsharyal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20036</edomv>
+						<edomvd>Bataira Bala, Batairspayeen, Khas Sari, Kolai, Kota Kot, Kuz Paro, Mada Khail, Mareen, Peach Bela, Qillah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20037</edomv>
+						<edomvd>Shaman, Shara Kot, Shared, Shilken Abad, Bankhad, Chowa Dara, Dobair Bala, Dobair Khas, Jijal, Dobair Pain</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20038</edomv>
+						<edomvd>Keyal, Mandraza, Pattan, Ranolia, Sagayon, Shabi Khail Dara, Aba Khel, Abdul Khel, Ahmad Khel,  Bakhmal Ahmadzai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20039</edomv>
+						<edomvd>Begu Khel, Behram Khel, Dara Tang, Darka Sulman Khel, Darrah Paizo, Ghazni Khel, Isak Khel, Kaka Khel,  Khero Khel Pacca, Khuidad Khel (urban)</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20040</edomv>
+						<edomvd>Kot Kadhmir, Lakki (urban), Landi Wah, Mash Masti Khani, Masha Mansoor, Michan Khel Tal (urban), Pahar Khel Tall, Said Khel (urban), Samandi, Shahab Khel</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20041</edomv>
+						<edomvd>Taja Zai, Tajori, Tattar Khel Gulijan, Baist Khel, Bakhmal Ahmadzai, Gandi Khan Khel,  Kot Kashmir, Mama Khel, Mar Mandi  Azim, Mash Masti Khani</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20042</edomv>
+						<edomvd>Nar Abu Samand Bego Khel, Nar Sultan Muqarab, Sarai Naurang, Serai Naurang (town), Sheikh Kuly Khan, Takhti Khel, Darangal, Kabat, Khazana, Main Kaly</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20043</edomv>
+						<edomvd>Maskenai, Mayar, Munda, Samar Bagh, Asbanr, Badwan Bala, Bagh Drush Khel, Balam Bat, Bandagai, Beshigram</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20044</edomv>
+						<edomvd>Chakdara, Gal Miadan, Hayaseri, Khadagazi Abazai, Khan pur, Khungai, Kotigram, Kotkai T, Koto, Lajbook</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20045</edomv>
+						<edomvd>Lal Qila, M.c. Timergara Urban, Munjai, Noora Khel Talash, Noora Khel Talashshahi Kh, Ouch, Rabat, Tazagram, Ziamdara, Badraga</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20046</edomv>
+						<edomvd>Dargai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20046</edomv>
+						<edomvd>Ghari Usmani Khel, Hero Shah, Kharki, Kopper, Sakhkot, Sakhkot Bandajot, Warter, Agra, Bat Khela</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20047</edomv>
+						<edomvd>Dheri Alla Dand, Dheri Julgram, Khar, Kot, Palai, Pir Khel, Selai Patti, Thana Banda J, Thana Bandajat, Totaken</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20048</edomv>
+						<edomvd>Bala Kot, Garhi Habibullah, Garlat, Ghanool, Grai, Hangrai, Kaghan, Karnol, Kawai, Mohandri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20049</edomv>
+						<edomvd>Phagala, Sat Bani, Shohal Mazullah, Talhata, Unkno, Attar Shisha, Battal, Behali, Bheer Kund, Bhogar Mang,</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20050</edomv>
+						<edomvd>Chater Piain, Datta, Devli Jabbar, Dhodial, Hamsherian, Hilkot, Ichherian, Ianayat Abad, Jabori, Jalloo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20051</edomv>
+						<edomvd>Labar Kot, Lassan Nawab, Lassan Thukral, Malik Pur, Mansehra Rural,  Mc Mansehra, Pairan, Parhana, Phulra</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20052</edomv>
+						<edomvd>Sanda Sar, Shankiari, Shoukat Abad, Sum Elahi Mang, Swan Mera, Tarangi Sabar Shah, Uc. 39, Bandi Shungli, Belian, Dar Band</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20053</edomv>
+						<edomvd>Dara Shanaya, Diblori, Karhori, Nikapani, Oghi, Shamdhara Kathai, Sher Garh, Alo, Babozai, Dehri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20054</edomv>
+						<edomvd>Dheri, Jamal Garhi, Kati Gahri, Katlang-ii, Kharki, Kohi Barmol, Qasmi, Sawal Dher, Babiani,</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20055</edomv>
+						<edomvd>Bakhskali, Bala Garhi, Bazar, Chak Hoti, Chamtar, Charguli, Fatima, Garhi Daulat Zai, Garhi Ismail Zai, Garyala</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20056</edomv>
+						<edomvd>Ghala Dher, Gujrat, Gumbat, Kandar, Kata Khat, Khazana Dheri, Kot Daulat Zai, Machai, Maho Dheri, Mangah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20057</edomv>
+						<edomvd>Mardan Rural, Mayar, Mohabat Abad, Mohib Banda, Palo Dheri, Rustam, Shahbaz Garhi, Shahmat Pur, Toru, Urban</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20058</edomv>
+						<edomvd>Gujar Garhi, Hatthian, Jahangir Abad, Jalala, Kot Jongarh, Makori, Manday Baba, Mian Isa, Narai, Parkho Dheri,</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20059</edomv>
+						<edomvd>Pir Saddo, Saro Shah, Seri Behlol, Takar, Urban, Adam Zai, Ainzari, Aza Khel Bala, Aza Khel Payan, Bardrashi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20060</edomv>
+						<edomvd>Bara Banda, Dheri Kattie Khel, Ganderi, Jehangira, Kabul River, Kahi, Khairabad, Khaishki Bala, Khaishi Payan, M.c. Jehangera</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20061</edomv>
+						<edomvd>Manduri, Manki Sharif, Mera Akora Khattak, Misri Banda, Mughalki, Nazampur Garu, Nowshera Cantt, Nowshera Kalan, Pahari Kati Khel, Pir Piai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20062</edomv>
+						<edomvd>Pir Sabaq, Rashaki, Zara Miana, Ziarat Kaka Sahib, Akbar Pura (shindi Payan), Aman Kot, Balu, Banda Mohib, Chouki Mamrez, Dag Baisud,</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20063</edomv>
+						<edomvd>Dag Ismail Khel Chapri, Dagai, Dakhli Spin Khak, Jallo Zai, Kuderzai Khan Sher Garhi, Kurvi, Shah Kot, Taru,  Achini Bala, Adezai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20064</edomv>
+						<edomvd>Aza Khel, Bada Ber Huri Zai, Bada-ber Huri Zai, Bada-ber Maryan Zai, Bazid Khel, Budhni, Chaghar Matti, Cham-kani, Dag, Garhi Sher Dad, Gul Bela</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20065</edomv>
+						<edomvd>Haryana Pana, Jogani, Kafoor Dheri, Kaniza, Kankola, Khatki, Khazana, Lala, Laram, Maryan Zai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20066</edomv>
+						<edomvd>Mashu-gaggar, Mathra, Mattani, Mira Kachori, Musa Zai, Nahaqi, Pajjagi, Pakha Ghulam, Palosi, Panam Dheri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20067</edomv>
+						<edomvd>Pushta Khara Payan, Regi, Sarband, Shahi Bala, Sheikh Mohammad, Sheikhan, Sher-Kera, Soro Zai Bala, Soro Zai Payan, Sufaid Dheri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20068</edomv>
+						<edomvd>Suleman Khel, Takhat Abad, Urban, Urban Ar, Urmur Bala, Urmur Miana, Urmur Payan, Wad Paga, Alpuri, Damori</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20069</edomv>
+						<edomvd>Deri, Kozkana, Lilowani, Malak Khel, Pir Abad, Pir Khana, Shahpur, Botial, Dandai, Maira</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20070</edomv>
+						<edomvd>Bunerwal, Chakisar, Opel, Sarkul, Behlool Khail, Hasham Khel Dab, Martung Khass, Aluch, Banglai, Bar Puran</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20071</edomv>
+						<edomvd>Choga, Musa Khail, Anbar, Beka, Dhobian, Jalsai, Jehangira, Kunda, Lahoer Raporai, Lahore Porai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20072</edomv>
+						<edomvd>Mankai, Matani Changan, Sard China, Suddar, Tordher, Yaqubi, Yar Hussain East, Yar Hussain West, Adina, Asota</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20073</edomv>
+						<edomvd>Bachai, Bam Khel, Chak Naudeh, Dagai, Gar Munara, Ismaila, Jhanda, Kalu Khan, Maniri Bala, Murghuz</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20074</edomv>
+						<edomvd>Naranki, Naudeh, Pabni, Panj Pir, Parmooli, Salim Khan, Shah Mansur, Shawa, Sheikh Jana,  Swabi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20075</edomv>
+						<edomvd>Tarakai, Thand Kohi, Tur Landi, Zaida, Batakara, Gandaf, Gandi Chatra, Ghabsani, Kabgani, Kalabat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20076</edomv>
+						<edomvd>Kotha, Maini, Murghuz, Pabni, Topi East, Topi West, Zarobi, Dangram Sangota, Islampur, Aka Maruf Bami Khel</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20077</edomv>
+						<edomvd>Kokari, Manglawar, Mingora Urben, Odigram, Qambar, Tindodag, Bahrain, Balakot, Bashigram, Madyan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20078</edomv>
+						<edomvd>Mankial, Tirat, Barikot, Ghaligay, Kota, Shamozi, Charbagh, Gulibagh,  Kashora, Taligram</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20079</edomv>
+						<edomvd>Bar Aba Khel Kabal, Barabandi, Devli, Hazara, Kalakalay,Kanjo, Koz Abakhel Kabal, Kozabandi, Qalagay, Shahderi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20080</edomv>
+						<edomvd>Tal, Ttoanobandi, Kalam, Utrur, Fatehpur, Jano Chamtail, Khwazakhela, Kotanai, Miandam, Shalpeen</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20081</edomv>
+						<edomvd>Shin, Ashari, Baydara, Chuprial, Darmi, Dorishkela, Matta Kharari, Sakhra, Arkot, Bartana</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20082</edomv>
+						<edomvd>Beha, Gowalari, Pir Kalay, Showar, Ama Khel, Dabrah, Ghara Baloch, Gomal, Gul Imam, Jatataar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20083</edomv>
+						<edomvd>Mulla Zai, Pai, Ranwal, Sarangzona, Shah Alam, Tank Urban, Tatta Utar, Warspoon, Barawal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20084</edomv>
+						<edomvd>Darikund, Shahikot, Bibiawar, Chakianan, Darora, Dir Urban, Dogdara, Ganori, Gwaldai, Jabar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20085</edomv>
+						<edomvd>Palam, Qolundy, Sawni, Sharingal, Taraptar, Barikot, Kalkot, Patrak, Akhagram, Bandi Nihag</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20086</edomv>
+						<edomvd>Chapper. Dislawar, Khal, Khalshalfam, Kotkai W, Behag, Pashta, Sundal, Toormang, Wari</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20088</edomv>
+						<edomvd>Kala Dhaka</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60000</edomv>
+						<edomvd>Chak No 004/bc, Cka No 012/bc, Cak No 037/bc, Both Mehrab, Guddan, Jalal Abad,  Jamal Channar, Jamrani Kohna,</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60001</edomv>
+						<edomvd>Jhangi Wali, Jindo Mission, Khanga Sharif, Khanu Wali, Mari Sheikh Shijra, Miani, Raman, Sanjar, Unknown_15, Unknown_17</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60002</edomv>
+						<edomvd>Unknown_20, Wahi Hussain, Chal No 058/ford, Chak 079/fateh, Chak No 163 Murad, Chak No 188/murad Chona, Chak No 192/murad, Chak No59 Fateh, Chak No 89 Fateh, Hasil Pur Old</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60003</edomv>
+						<edomvd>Jamal Pur, Pallah, Qaim Pur, Shah Pur, Shah Pur, Unknown_22, Unknown_24, Bheli, Guddan, Inayati, Israni</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60004</edomv>
+						<edomvd>Jhadani (zafaraband Sh. wh), Jhadani (zafarabad Sh. wh), Kotla Imam Shah, 75/d.b, 75/d.b, 75/d.b, Chak No 001/d N B, Chak No 001/d N B,  Chak 004/b C, Chak No 012/bc, Chak No 017/d N B, Chak No 022/d N B, Chak No 024/bc</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60005</edomv>
+						<edomvd>Chak No 036/d N B, Chak No 037/b C, Chak No 044/d B, Chak No 047/d N B, Chak No 047/d N B, Chak No 057/ d B, Chak No 058/ford, Chak No 067/d B, Chak No 068/d B, Chak No 079/fateh, Chak No 088/d B,</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60006</edomv>
+						<edomvd>Chak No 089/fateh, Chak No 098/d NB, Chak No 106/d B, Chak No 117d/ B, Chak No 163/murad, Chak No 167/d B, Chanan Pir, Derawer, Irani, Merana</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60007</edomv>
+						<edomvd>Mukhwara, Qaim Pur, Syed Imam Shah, Unknown_14, Unknown_30, Unknown_31, Unknown_44, Unknown_45, Unknown_46, Unknown_48, Unknown_49, Unknown_52, Unknown_55, Unknown_57, Unknown_59, Unknown_62</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60008</edomv>
+						<edomvd>Unknown_52, Unknown_55, Unknown_57, Unknown_59, Unknown_62, Behal, Chak No 061/ml, Daggar Aulakh, Daggar Rehtas,  Dhandala</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60009</edomv>
+						<edomvd>Gadola, Kachi Shahani, Karari Kot, Khansar, Mullan Wali, Notak, Pir Ashab, Sial, Unknown_13, Yousaf Shah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60010</edomv>
+						<edomvd>Angra Daggar, Barranga, Daggar Qureshi, Darya Khan No.i, Darya Khan No.ii, Jhamat Shumali, Kohawar Kalan, Panjgran, Unknown_33, Unknown_54</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60011</edomv>
+						<edomvd>Chak No 063/d.b, Fazil, Ghulaman, Heto, Jandanwala, Jandanwala Urban, Kanjan, Maibal, Maibal, Maliana Daggar, Chak No 067/m.l</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60012</edomv>
+						<edomvd>Gohar Wala, Hyderabad, Littan, Mahni, Mankerea, Patti Bulanda, Unknown_47, Unknown_51, Barthi, Fazila Kach</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60013</edomv>
+						<edomvd>Mubarki, Tuman Leghari , Tuman Quisrani, Ali Wala, Bahadar Garh, Basti Fauja,  Basti Malana, Chabri, Chorita, Choti Bala</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60014</edomv>
+						<edomvd>Choti Zareen, D.j.k Gharbi, Drahma, Gadai, Ghousabad, Haji Ghazi Gharbi, Jakar Imam Shah, Jhok Utra, Kala, Khakhi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60015</edomv>
+						<edomvd>Kot Chhutta, Kot Haibat, Kot Mubarak, Mahmori, Mana Ahmadani, Mutfariq Chahan, Nautak,  Paigan, Pir Adil</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60016</edomv>
+						<edomvd>Ranman, Sakhi Sarwar, Shadan Lund, Shah Sadar Din, Smena, Unknown_2, Wadoor, Yaru, Fateh Khan, Hairosharaqi,</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60017</edomv>
+						<edomvd>Jallowali, Kot Qaisarani, Lakhani, Makwal Kalan, Mangrotha, Morjhangi, Narri Shumali, Sokar, Tibi Qaisrani, Veho Wa</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60018</edomv>
+						<edomvd>Ahmed Pur Sial Tc, Bangla Yasmeen, Garh Mahraja Tc, Gudara, Hassu Belal, Hazrat Sultan Bahu,  Jaiwain, Kot Bahadar Shah, Kot Mapal, Pir Abdul Rahman</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60019</edomv>
+						<edomvd>Ranjeet Kot, Samandoana, Sharifabad, 18-hazari, Ashaba, Cka No. 159/jb, Chak No. 220/jb, Chak No. 250/jb, Chak No. 268/jb, Chak No. 446/jb</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60020</edomv>
+						<edomvd>Chak No.463/jb(hassan Sha), Chak Rassulpur, Chhatta, Civil Station, Dhoriwala, Dosa, Hasnanah, Haveli Lal, Haveli Sheikh Raju, Husan Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60021</edomv>
+						<edomvd>Kariwala, Kot Lakhnana, Kot Murad, Kot Sai Singh, Kot Shakir, Maharwali, Malhuana, Mari Shah Sakhira, Mochiwala, Mukhiana</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60022</edomv>
+						<edomvd>Nadha Garh, Pabbar Wala, Pir Kot Sadhana, Pukkewala, Rashidpur, Ratta Matta, Rodu Sultan, Satiana, Shah Jeewana, Sheikh Chhuhar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6023</edomv>
+						<edomvd>Sultan Pakhera, Sultanpur, Uchgal Imam, Unknown_3, Wasu Asstana, Allahyar Jotta, Bhangoo, Binda Surbana, Bodh Rajbana, Chak No 017 Ghugh</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60024</edomv>
+						<edomvd>Chak No 017 Ghugh, Chak No. 485/jb, Chak No. 493/jb, Chak No. 497/jb, Chayanwala, Dab Kalan, Haveli Bahadar Shah,  Kaki Nau, Kotla Muhammad Zarif Kha, Qaim Bharwana, Shah Sadiq Nahang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60025</edomv>
+						<edomvd>Anga, Botala, Chak No 059/mb, Chak No. 050/mb, Dhaiwal, Girot, Hassan Pur Tiwana, Katha Sagral, Khabeki</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60026</edomv>
+						<edomvd>Khura, Khushab City, Kufri, Kund, Nali Shumali, Nari, Nowshera, Padhrar, Roda, Sandrall</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60027</edomv>
+						<edomvd>Talokar, Uchhali, Waheer, Adhikot, Jamali, Jaura Kalan, Jharkal, Khai Khurd, Khatwan, Noor Pur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60028</edomv>
+						<edomvd>Pelowance, Rahdari, Rangpur, Bandyl, Bijjar, Chak No 014/mb, Goliwali, Jabbi, Noorpuruc, Okhli Mohla</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60029</edomv>
+						<edomvd>Quaidababd, Unknown, Utra Janubi, Warchha, Aulakkh Thal Kalan, Choubara, Jamal Chappri, Khairawala, Nawan Kot, Rafique Abad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60030</edomv>
+						<edomvd>Sher Garh, Basira, Chak No 098/m.l, Chak No 90/ml (tibbi), Fatehpur City, Fatehpur, Garray Wala, Karor Thal Jandi, Noshera Thal Kalan, Sanu Wala</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60031</edomv>
+						<edomvd>Shah Pur, Shaukatabad, Sumita, Warah Serah, 164-a/t.d.a, 172/t.d.a., Bait Wasawa Shumali, Basti Shadoo Khan, Bokhari Ahmed Khan, Chowk Azam</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60032</edomv>
+						<edomvd>Jama Shah, Jhakhar, Kot Sultan, Kotla Haji Shah, Ladhana, Layyah Thal Jandi, Loanch Nasheb, Mandi Town, Mirhan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60033</edomv>
+						<edomvd>Pahar Pur, Sarishtah Thal, Tail Indus, Chapri, Isakhel, Kala Bagh, Kallur, Kamar Mushani Pacca, Kamar Mushani, Khaglanwala</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60034</edomv>
+						<edomvd>Kot Chanda, Sultan Khel, Tabisar, Tani Khel, Tarag, Tola Banghi Khel, Vanjari, Abba Khel, Ban  Hafiz Jee, Chakrala</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60035</edomv>
+						<edomvd>Chhindru, Daudkhel Rural, Dher Umaid Ali Shah, Gul Miri, Mari, Mianwali City, Mochh, Musa Khel, Muzaffarpur Janubi, Muzzaffarpur Shumali (miras)</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60036</edomv>
+						<edomvd>Nammal, Pai Khel, Qurashian, Rokhri, Shadia, Shahbaz Khel, Sowans, Thamme Wali, Wan Bhachran, Watta Khel</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60037</edomv>
+						<edomvd>yaru Khel, Allu Wali, Chak 007/m.l. (hafizwala), Dab Balochan, Doaba, Gujrat, Harnoli Rurat, Hanoli, Khola, Kundian</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60038</edomv>
+						<edomvd>Tibba Meharban Shah, Vichvin Bala, Ali Pur Sadaat, Beet Kech, Darab Pur, Ghazi Pur, Inayat Pur, Jahan Pur, Jalalpur Pirwala Town 01</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60039</edomv>
+						<edomvd>Jalalpur Pirwala Town 02, Karam Ali Wala, Khan Bela, Kotla Chakar, Lal Wah,  Mian Pur Bailey Wala, Nuraja Bhutta, Almdi Sura, Bakher Arbi, Bhaini</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60040</edomv>
+						<edomvd>Dera Budhu Malik, Dorana Langana, Jahangir Abad, Kayan Pur, Masood Pur Tibba, Multan Cantt,  Multan City Urban, Muzaffar Aabd, Neelkot, Piran Ghaib</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60041</edomv>
+						<edomvd>Rangeel Pur, Taraf Mubarik Doim, Unknown_1, 5/faiz, Aalum Pur, Abbaspur, Ayazabad Maral, Bangal Wala, Basti Malook, Billi Wala</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60042</edomv>
+						<edomvd>Binda Sandhila, Boch Khusro Abad, Boote Wala, Bosan, Budhla Sant, Chak No 18/mr, Domehrah, Ghariala, Hamid Pur Kanora, Jhok Lashkar Pur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60043</edomv>
+						<edomvd>Kabir Pur, Khan Pur Maral, Khokhar, Kothiwala, Kotla Maharan, Lar, Lutef Abad, Luthar, Makhdoom Rashid Town, Matti Tal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60044</edomv>
+						<edomvd>Multani Wala, Panj Koha, Qadir Pur Lar, Qadir Pur Ran Town, Qasba, Rana Wahan, Saleh Mehey, Sher Shah, Tatepur, Basti Mithu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60045</edomv>
+						<edomvd>Chak R.s, Gajuhata, Gardepur, Jalalur Khakhi, Kotli Najabatt, Marha, Matotli, Paunta, Punjani, Raja Ram</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60046</edomv>
+						<edomvd>Rasal Pur, Shahpur Ubha, Sikander Abad, Thatha Ghulwan, Ali Wali, Bait Mullan Wali,  Baz Wala, Fateh Pur Janubi, Ghalwan, Khair Pur Sadat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60047</edomv>
+						<edomvd>Khangarh Doma, Langar Wah, Madd Wala, Murad Pur Janubi, Seetput, Sultan Pr, Yakey Wali, Bair Bund, Bakaeni</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60048</edomv>
+						<edomvd>Beelay Wala, Bet Mir Hazar Khan, Damarwala Shumali, Jatoi Shumali, Jhalarian, Jhuggai Wala, Kotla Gamun, Ram Pur, Sabaiwala, Shahba Pur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60049</edomv>
+						<edomvd>Sehar Sultan City, Wains, 547/t.d.a, 565/t.d.a, 632/t.d.a, Alu Rid, Bait Qaim Wala, Bharihoog, Budh, Daira Din Panah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60050</edomv>
+						<edomvd>Dogar Kalasra, Ehsanpur, Ghazi Ghat, Gujrat, Hinjraee, Kot Addu 01, Mehmood Kot,  Mirpur Bhagal, Munhan, Pattal Kot Addu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60051</edomv>
+						<edomvd>Pattal Munda, Patti Ghulam Ali, Shadi Khan Munda, Sheikh Umar, Sinawan, Thatta Gurmani, Unknown_12, Unknown_16, Unknown_18, Unknown_19</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60052</edomv>
+						<edomvd>Unknown_21, Unknown_32, Unknown_40, Unknown_41, Unknown_42m Unknown_43, Unknown_46, Unknown_50, Unknown_53, Unknown_56</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60053</edomv>
+						<edomvd>Unknown_58, Unknown_60, Unknown_61, Wandar, Ahmad Muhana, Alude Wala, Basira, Basti Kharak, Braham Wali, Chak Farazi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60054</edomv>
+						<edomvd>Darain, Ganga, Garewahan, Ghazanfar Garh, Gul Wala, Jagat Pur, Karimdad Qureshi, Khangarh, Khanpur Shumali, Latkaran</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60055</edomv>
+						<edomvd>Mahra Sharqi, Manak Pur, Manka Bhatta, Muradabad, Muzaffargarh City 02, Muzaffargarh City 04, Muzaffargarh City 04, Nuhan Wali, Rangpur, Rohlan Wali, Shah Jamal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60056</edomv>
+						<edomvd>Sharif Chhajrah, Talairi, Thatha Qureshi, Umaprpur Janubi, Unknown_23, Unknown_25, Unknown_26, Unknown_27, Unknown_28, Unknown_29</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60057</edomv>
+						<edomvd>Unknwon_34, Unknown_35, Unknown_36, Unknown_37, Unknown _38, Unknown_39, Usman Koria, Utra Sandalila, Wan Patafi, Azim Shah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60058</edomv>
+						<edomvd>Bagho Bahar, Chachran Sharif, Chak No 045/p, Chak No 051/p, Chandia, Dinpur Sharif, Garhi Ikhtiar  Khan, Ghana Lar, Ghazi Pur, Haji Pur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60059</edomv>
+						<edomvd>Jajja Abbassian, Jetha Bhutta, Jhoran, Kotla Pathan, Latki, Mad Bahora, Mari Allah Bachaya, Mueenabad, Nawan Kot, Neel Garh</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60060</edomv>
+						<edomvd>Qadir Pur, Sehja, Unknown_10, Unknown_11, Unknown_5, Unknown_6, Unknown_7, Unknown_8, Unknown_9, Urban_7</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60061</edomv>
+						<edomvd>Urban_8, Ahmad Ali Lar, Allah Abad, Aminabad, Chak No 010/abs, Chak No 042/abs, Chak No 046/abs, Chak No 068/abs, Chanjni, Dashti</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60062</edomv>
+						<edomvd>Dessert, Dufli Kabir Khan, Ghuka, Gul Mohammad Langah I, Hayat Lar, Jan Pur, Jhok Gulab Shah, Khan Bela, Liaquat Pur City, Mohammad Daha,</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60063</edomv>
+						<edomvd>Nala Musani, Pakka Laran, Shaidani Sharif, Trinda Gurgaij, Trinda Mohammad Panah, Unknown_4, Zaffar Abad, Abad Pur, Akram Abad, Aman Garh</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60064</edomv>
+						<edomvd>Amin Garb, Basi Sharif, Bahaudi Pur Queshian, Bahishti, Chak No 105/p, Chak No 139/p, Chak No 228/p, Chak No 51/p, Chak No 84/p</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60065</edomv>
+						<edomvd>Dari Azim Khan, Galour Massu Khan, Haji Pur, Kot Mehndi Shah, Mau Mubarik, Mianwali  Qureshian, Mianwali Sheikhan, Murtaza Abad, Rahim Yar Khan, Rajanpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60066</edomv>
+						<edomvd>Shah Pur, Sherin, Sonak, Thul Khair Mohammad K, Tibbi Gul Mohammad, Urban_1, Urban_2, Urban_3, Urban_4, Urban_5</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60067</edomv>
+						<edomvd>Urban_6, Wah Kohna, Adam Sohaba, Ahmad Pur Lamma, Bhong, Bhota Wahan, Chak No 160/p, Chak No 173/p, Chak No 264/p, Dhand i</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60068</edomv>
+						<edomvd>Drigra, Goth Jangoo, Jamal Din Wali, Kot Sanjar, Khan, Machka, Mohammad Pur, Muhib Shah, Nawazabad, Rahimababad, Ranhje Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60069</edomv>
+						<edomvd>Rasool Pur, Roshan Bhaint, Sadiqabad, Sanjapur, Tribal Area, Basti Rindan, Burrey Wala,  Dajal, Harand</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60070</edomv>
+						<edomvd>Kot Tahir, Kotla Dewan, Kotla Mughlan, Mohammad Pur, Noushehra, Thul Sumali, Tibbi Lundan, Wah Lushari, Fateh Pur, Jahanpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60071</edomv>
+						<edomvd>Kot Mithan, Kotla Isan, Kotla Nasir, Murghai, Noor Pur, Pir Bux Sharqi, Rakh Fazil Pur, Shahan Wala,  Shikar Pur, Sikhani Wala</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60072</edomv>
+						<edomvd>Wang, Kacha Mianwali, Miranpur, Rojhan Sharqi (tower Cho), Rojhan, Sabzani,  Umer Kot, Ahmedpur East, Ali Kharak, Bahalwalpur Khalwan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60073</edomv>
+						<edomvd>Bakhtiari, Bin Wala, Chanab Rasoolpur, Chani Goth, Dhoor Kor, Hatheji, Janu Wala, Khair Pur Dhana</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60074</edomv>
+						<edomvd>Khuda Bux Mehar, Khuram Pur, Kot Khalifa, Kotla Musa Khan, Kulab, Mahand, Mandhal, Mehrabwala, Mubarapkur, Mud Peer Wah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>60075</edomv>
+						<edomvd>Nunari, Rajarhoo, Sukhail, Tibbi Izzat, Uch Bukhari, Uch Gilani</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70000</edomv>
+						<edomvd>Baghao, Chucharkot, Eshani, Naharkot, Rakhni, Rarkan, Sadar Barkhan, Bagh Head, Gandakha</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70001</edomv>
+						<edomvd>Karia Phari, Nushki Jadid, Qabula, Sobdarani, Band Mank, Cattle Farm, Dirgi, Ghari, Hafeezabad, Nasirabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70002</edomv>
+						<edomvd>Noor Pur, Rojhan, Samoo, Unknown_62, (urban), Dirgi, Gandar, Hamid Pur, Khuadadad,  Noze Band</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70003</edomv>
+						<edomvd>Sanhri, Sardar Sohbat Pur, Unknown_24, Unknown_25, Unknown_26, Unknown_27, Unknown_28, Unknown_29, Unknown_30, Unknown_31</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70004</edomv>
+						<edomvd>Unknwon_32, Unknown_33, UNknown_34, Unknown_35, Unknown_36, Unknown_37, Unknown_38, Unknown_39, Unknown_40, Unknown_41</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70005</edomv>
+						<edomvd>Unknown_42, Unknown_43, Unknown_44, Unknown_45, Unknown_46, Unknown_47, Unknown_48, Unknown_49, Unknown_50, Unknown_51</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70006</edomv>
+						<edomvd>Unknown_52, Unknown_53, Unknown_54, Unknown_55, Unknown_56, Unknown_57, Unknown_58, Unknown_59, Unknown_60, Unknown_61</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70007</edomv>
+						<edomvd>Unknown_63, Unknown_64, Unknown_65, Unknown_66, Unknown_7, Badinai, Kan Mehtar Zai, Kanchogi, Akhtar Zai, Killa Saifullah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70008</edomv>
+						<edomvd>Sheren Jogizai, Tabli, Loiband, Murgha Faqie Zai, Muslim Bagh, Masia, Akhtar Zai, Batuzai, Musafirpur, Gharbi Looni</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70009</edomv>
+						<edomvd>Nasirabad, Saddar Duki, Sharqi Looni, Thal, Unknown_5, Unknown_6, Unknown_8, Viala Duki,, Wahvi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70010</edomv>
+						<edomvd>China Alizai, Kach Amaqzai, Lahore, Poonga, Saddar Bori, Tore, Unknown_20, Unknown_21, Unknown_22, Unknown_23, Unknown_3</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70011</edomv>
+						<edomvd>Unknown_3, Unknown_4, Allah Abad, Gola Wah, Kohang Tambo, Manjhoo, Chhattar, Dolat Ghari, Phuliji, Shah Pur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70012</edomv>
+						<edomvd>Bedar, Monjhooti, Quba Sher Khan, Ali Abad, Gola Wah, Kharoos Wah, Manjhoo Shori, Unknown_10, Unknown_`11, Unknown_12, Unknown_13</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70013</edomv>
+						<edomvd>Unknwon_13, Unknown_14, Unknown_15, Unknown_16, Unknown_17, Unknown_18, Unknown_19. Unknown_9, Babr Kach, Lehri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70014</edomv>
+						<edomvd>Theri Brahmani, Tunia, Unknown_2, Babr Kach, Kurak, Mall, Marghzani, Talli, Unknown_1</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70015</edomv>
+						<edomvd>Kahan, Nisao, Karam Khan Shaher, Pazza, Uryani, Mawand, Suffaid</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80000</edomv>
+						<edomvd>Allahabad, Kalhora, Khudabad, Makhdoom Sahib, Monder, Muradabad Channa, Pat, Phulji Station, Piaro Station</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Centerc</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80001</edomv>
+						<edomvd>Pipri, Sial, Bahawalpur, Chhini, Drigh Bala, Kamal Khan, Pal Gul Muhammad, Phulji, Sawro, Tando Rahim Khan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80002</edomv>
+						<edomvd>Tor, Unknown12, Bughia, Burira, Butra, Chhore Qamber, Gozo, Kakar, Kandechukhi, Mitho Babar, Parya</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80003</edomv>
+						<edomvd>Parya, Thalho, Unknown13, Baledai, Bali Shah, Beto, Bothro, Fairdabad, Gahi Mahesar, Kazi Arif</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80004</edomv>
+						<edomvd>Khan-jo-goth, Kolachi, Mangwani, Nao Goth, Radhan, Shah Panjo, Thariri Muhabat,  Berutta No 11, Dad Laghari No 12, Keenjhar No 13</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80005</edomv>
+						<edomvd>Saindino Malik No 10, Wahi Ghoto No 21, Yaroo Lund No 14, Adalpur No 24, Bagodeho No 29, Beriri No 27, Ghotki, Hussain Beli No 25, Kadirpur No 26</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80006</edomv>
+						<edomvd>Khohara No 31, Ruk No 30, Umer Daho No 28, Khanpur Mahar No 32, Lohi No 34, Mithree No 33, Dad Laghari No 12, Dhangro No 17, Garhi Chakar No 12, Jarawr No 19</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80007</edomv>
+						<edomvd>Mir Pur Mathelo-1 No 15, Sono Pitafi No 20, Wahi Ghoto No 21, Jhangal Malik (at Reti) 06, Kamu Shaheed No 07, Khambra No 05, Langho No 02, Ranwati No 04, Ubauro No 01, Wast Jiwan Shah No 03</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80008</edomv>
+						<edomvd>Haji Sawan Khan Gopang, Hatri, Husri, Latifabad-24, Masu Bhurgari, Moolan , Muso Khatian, Seri, Tando Fazal, Tando Hyder, Tando Qaisar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80009</edomv>
+						<edomvd>Tando Qaisar, Latifabad-20, Latifabad-21, Latifabad-22, Latifabad-23, Latifabad-32, Unknown1,  Unknown11, Unknown2</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80010</edomv>
+						<edomvd>Unknown3, Unknown4, Unknoen5, Unknown6, Unknown7, Unknown9, Qasimabad-4, Unknown10, Unknown8, Allahabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80011</edomv>
+						<edomvd>Allapur, Garhikhairo, Khudabad, Miranpur, Mohammadpur, Ahmedpur, Dasti, Garhichand, Nawera, Qadir Pur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80012</edomv>
+						<edomvd>Ramzanpur, Rind Wahi, Bachro, Balochabad, Dinpur, Garhi Hassan, Joungal, Karim Bux, Kot Jangato</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80013</edomv>
+						<edomvd>Logi, Mirpur, Misripur, Mubarakpur, Ranjhapur, Saidokot, Sherwah, Tajo Khoso, Thul Nao, Thul-ii</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80014</edomv>
+						<edomvd>Toj, Allah Bachyo Shoro, Jamshoro, Morhojabal, Sonwalhar, Unerpur, Amri, Lakha, Manjhand,  Manzoorabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80015</edomv>
+						<edomvd>Morhojabal, Sann, Unerpur, Bhan, Bubak, Channa, Dal, Jhangra, SehwanI-uc, Talti</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80016</edomv>
+						<edomvd>Unknown14, Mole, Sari, Thano Arab Khan, Thano Bula Khan, Toung, Akhero,  Dari (ghouspar), Doulatpur, Haibat</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80017</edomv>
+						<edomvd>Kajili, Maleer, Badani, Buzapur, Gihalpur, Gublo, Gulanpur, K.s.sli Bilawal Khan Domki, Kashmore Colony-i,  Kashmore-ii</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80018</edomv>
+						<edomvd>Khewali, Kumb, Rasool Bux Khan Chachar, Sodhi, Zorgar, Cheel, Dinapur, Golwali, Jamal, Karampur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80019</edomv>
+						<edomvd>Lalao, Lashari, Nil, Risaldar, Saifal, Suhliani, Tangwani, Akari, Bhango Behan, Kandiari</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80020</edomv>
+						<edomvd>Karundi, Kot Lalu, Pacca Change, Razabad, Agra, Behlaro, Gambat, Jado Wahan, Kamaldero, Khemta</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80021</edomv>
+						<edomvd>Khuhra, Ripri, Baberloi, Bukhari, Khanpur, Machyoon, Mehar Ali, Mori, Nizamani, Shadi Shaheed</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80022</edomv>
+						<edomvd>Tnado Masti, Therhi, Ahmed Pur, Drib Mehar Shah, Hadal Shah, Kolab Jial, Kot Mir Mohammad, Manghanwari, Noorpur, Pir Jogoth</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80023</edomv>
+						<edomvd>Piryaloi, Saderji, Bapho, Faereedabad, Fatehpur, Jeskani, Jhando Mashaik, Kot Diji, Kumb</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80024</edomv>
+						<edomvd>Layari, Muhba Wah, Nasir Faqir, Sohu, Baqi Khan, Bozdar Wada, Deparja, Hindiari, Mandan, Mohsin Shah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80025</edomv>
+						<edomvd>Sabar Rind, Setarja, Tando Mir Ali, Thari Mirwah, Veesar, Choon Diko, Khenwari, Kot Jubo, Sikanderabad, Tajjal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80026</edomv>
+						<edomvd>Gadeji, Hingor Ja, Mad, Pir Hayat Shah, Randi Pur Un, Rasoolabad, Sagyoon, Sami, Sobhodero, Arija</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80027</edomv>
+						<edomvd>Badeh-ii, Bagi, Dokri, Garello, Karani, Mad Bahu, Mehrabpur, Pathan, Purano Abad, Tatri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80028</edomv>
+						<edomvd>Yaru Lakhir, Akil, Banguldero, Beriochandio, Dhamraha, Fatehpur, Kothi, Naich, Phil, Rashid Wagan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80029</edomv>
+						<edomvd>Unknown15, Bahman, Banguldero, Jump Agahm, Pir Bakhsh Bhutto, Ratodero li,  Saidu Dero, Warisdino Macchi, Bhalindino Kaka, Bhanoth</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80030</edomv>
+						<edomvd>Bhitshah, Hala Old, Hala-2, Karam Khan Nizamai, Saeed Abaad, Sha Mir Rahou, Zerpir, Bau Khan Pathan, Bhitshah, Faqeer Nooh Hothyai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80031</edomv>
+						<edomvd>Matiari, Oderolal Station, Oderlal Village, Sekhat, Shah Alam Shah, Tajpur, Bhriria City, Bhiria Road, Chaheen, Dalipota</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80032</edomv>
+						<edomvd>Ghan Gaju, Jiando Rajper, Khahi Kassim, Kotbahadur, Lakha Road, Molhan, Palano, Saeedpur, Tharushah, Aabd</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80033</edomv>
+						<edomvd>Behlani, Bhorti, Dabhro, Ganghra, Ghulam Shah, Halani, Jan Noorullah, Kamaldero, Khanwahan, Kotri Modammad Kabir</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80034</edomv>
+						<edomvd>Mehrabpur01, Mehrabpur02, Mohabat Dero Jagir, Daris, Depareja, Fatoo Balal, Gachero, Jatoi, Kahkat, Khairwah</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80035</edomv>
+						<edomvd>Lalia, Manahin, Abran, Bhambhri, Dangeja, Darya Khan Mari, Kur Hassan, Masurjiwai, Mithiani, Naushahro Feroze</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80036</edomv>
+						<edomvd>Noorpur, Padidan, Phull, Ber, Buhar, Dost Ali, Gaibidero, Jian Abro, Kalar, Kamber-3</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80037</edomv>
+						<edomvd>Khairpur Joso, Ranwati, Bahram, Chousul, Dhingano Mahesar, Karira, Khabar, Mirokhan, Sijawal, Tharo Wadho</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80038</edomv>
+						<edomvd>Bagodero, Hazar Wah, Jamali, Qubo Saeed Khan, Aitbar Khan Chandio, Hazar Wah, Jamali, Shahdadkot 03, Abad, Dera</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80039</edomv>
+						<edomvd>Gaji Khunawar, Khandu, Lakhu, Laloo Rounak, Miandad Chinjini, Mirpur, Muradi, Wagan, Warah, Ahmed Bughio</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80040</edomv>
+						<edomvd>Daulatpur, Haberi, Khar, Manharo, Mirzabagh, Qazi Ahmed 01, Qazi Ahmed 02, Said Kando, Sawari, Shahpur Jahania</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80041</edomv>
+						<edomvd>That, 60th Mile, abdul Hassan, Amirji, Bandhi, Bucheri, Chanesar 01, Chanesar 02, Daur, Ghandtatar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80042</edomv>
+						<edomvd>Ghulam Hyder Shah, Jam Sahib, Jamalshah, Jhoro Khan Shar, Khair Shah, Manharo, Nawabshah 04, Obharisawari, Rais Mohammad I K. Briho, Suhello</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80043</edomv>
+						<edomvd>Unknown16, Bhura, Dalidero, Guhram Mari, Hamal Faqir, Karam Jamali, Khadhar,  Kumbleema Marvi, Mehrabpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80044</edomv>
+						<edomvd>Pir Zaki, Sakrand 02, Amrote, Bhambhir, Dakhan, Gaheja, Garhi Yasin, Jindo Dero, Madeji, Mirzapur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80045</edomv>
+						<edomvd>Naushahro Abro, Nim, Shhato Mangi, Waryaso, Garhi Tegho, Ghari Dhako, Mehmooda Bagh, Mian, Sahib, Pir Bux Shujrah, Rahimabad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80046</edomv>
+						<edomvd>Shabira Abad, Thanhrio, Zarkhel, Abdoo, Bhirkan, Chak, Jehan Khan, Lakhi, Ruk, Rustam</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80047</edomv>
+						<edomvd>Sehwani, Taib, Wazirabad, Hamayun, Jagan, Jahawanwah, Jano, Karan, Lodra, Sultan Kot</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80048</edomv>
+						<edomvd>Baiji, Hingoro, Junas, Mubarakpur, Nauraja, Nindapur, Sadhuja, Sangi, Sultanpur, Tamachani</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80049</edomv>
+						<edomvd>Ali Wahan, Arroe, Dhandhi, Kandhra, Loung Bhatti, Panhwar, Patni, Sangrar, Trimunh, Arore</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80050</edomv>
+						<edomvd>Lal Juryo Khan Shambani, Salehpat, Tarai, 01 Bagerji, Arain, Loung Bhatti, Tamachani, Allah Yar Turk, Bulri Shah Bagrani</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80051</edomv>
+						<edomvd>Janhan Sommro, Lakhat, Mullan Katiar, Saeed Matto, Saeedpur, Ghulam Shah Bagrani,  Nazar Pur, Tando Ghulam Hyder, Lakhat, Saeedpur</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80052</edomv>
+						<edomvd>Sh.bhirkio, T.m.khan 1, T.m.khan 2, T.m.khan 3, Tando Sain Dad, Garho, Khan, Kotri Allah Rakhio Shah, Mahar, Udassi, Begna</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80053</edomv>
+						<edomvd>Gul Mohammad Baran, Jati, Kar Malik, Kothi, Mureed Khoso, Keti Bundar, Kharo Can, Bachal Gugo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80054</edomv>
+						<edomvd>Bano, Darro, Darya Khan Suho, Jhoke Sharif, Liakpur, Mehar Shah, Mirpru Bathoro, Buhara, Choubandi, Dhabeji</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80055</edomv>
+						<edomvd>Gharo, Ghulaullah, Gujjo, Haji Ghirano, Karampur, Mirpur Sakro, Sukhpur, Chuhar Jamali, Doulat Pur, Goongani</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80056</edomv>
+						<edomvd>Jongo Jalbani, Ladiun, Ali Bahar, Belo, Bijora, Jar, Kinjhar, Chato Chand, Domani, Jhimpir</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80057</edomv>
+						<edomvd>Jhurruck, Jungshahi, Kalan Kot, Kalri, Makli, Sonda, Tando Hafiz Shah, Thatta I, Unknown17, Unknown18</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>80058</edomv>
+						<edomvd>Bagodero</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">UC_C</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>UC_NAME</attrlabl>
+				<attrdef>Union council name</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">UC_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_20110207</attrlabl>
+				<attrdef>Indicates if changes were made to the dataset on 02/07/2011</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">M_20110207</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_20110301</attrlabl>
+				<attrdef>Indicates if changes were made to the dataset on 03/01/2011</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">M_20110301</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_20110322</attrlabl>
+				<attrdef>Indicates if changes were made to the dataset on 03/22/2011</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">M_20110322</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>3.455</transize>
+					<dssize Sync="TRUE">3.455</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130212</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">PakistanLevel4Admin10</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">67.113045</westBL>
+<eastBL Sync="TRUE">74.131949</eastBL>
+<northBL Sync="TRUE">36.908575</northBL>
+<southBL Sync="TRUE">23.694683</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">67.113045</westBL>
+<eastBL Sync="TRUE">74.131949</eastBL>
+<northBL Sync="TRUE">36.908575</northBL>
+<southBL Sync="TRUE">23.694683</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Pakistan\Pak_adm4_floodAffected_pco_20110324\PakistanLevel4Admin10.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">3.455</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="PakistanLevel4Admin10">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">2490</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>13363400</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>13363400</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

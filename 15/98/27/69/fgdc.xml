@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Arlington (Mass.). Information and Technology Dept.</origin>
+				<title Sync="TRUE">ArlingtonFEMA12</title>
+				<onlink>http://www.arlingtonma.gov/public_documents/ArlingtonMA_Maps/index</onlink>
+				<lworkcit>
+					<citeinfo>
+						<title>City of Arlington MA GIS Data</title>
+						<pubinfo>
+							<pubplace>Arlington (Mass.)</pubplace>
+							<publish>Arlington (Mass.). Information and Technology Dept.</publish>
+</pubinfo>
+						<onlink>http://www.arlingtonma.gov/public_documents/ArlingtonMA_Maps/index</onlink>
+						<origin>Arlington (Mass.). Information and Technology Dept.</origin>
+<pubdate>20120530</pubdate>
+</citeinfo>
+				</lworkcit>
+				<pubdate>20120530</pubdate>
+<ftname Sync="TRUE">ArlingtonFEMA12</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents FEMA flood hazard areas in Arlington, MA.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+<caldate>20120530</caldate>
+</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>None planned</update>
+		</status>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>inlandWaters</themekey>
+</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>United States. Federal Emergency Management Agency</themekey>
+<themekey>Floods</themekey>
+</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Arlington</placekey>
+				<placekey>MA</placekey>
+				<placekey>New England</placekey>
+				<placekey>Middlesex</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>United States</placekey>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+			</place>
+		</keywords>
+		<accconst>Restricted Access Online: Access is granted to licensee only. Available only to Tufts University affiliates.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Arlington MA Maps and Geographic Information Systems</cntorg>
+					<cntper>Adam Kurowski</cntper>
+				</cntorgp>
+				<cntpos>GIS Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Ground floor, Arlington High School</address>
+					<address>869 Massachusetts Ave</address>
+					<city>Arlington</city>
+					<state>MA</state>
+					<postal>02476</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>781-316-3343</cntvoice>
+				<cntfax>781-316-3339</cntfax>
+				<cntemail>gis@town.arlington.ma.us</cntemail>
+				<cntemail>akurowski@town.arlington.ma.us</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">-71.190459</westbc>
+<eastbc Sync="TRUE">-71.132059</eastbc>
+<northbc Sync="TRUE">42.435956</northbc>
+<southbc Sync="TRUE">42.397374</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">225484.691056</leftbc>
+<rightbc Sync="TRUE">230274.412464</rightbc>
+<bottombc Sync="TRUE">905272.194594</bottombc>
+<topbc Sync="TRUE">909538.814592</topbc>
+</lboundng>
+</spdom>
+<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc Sync="TRUE">Dataset copied.</procdesc>
+				<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\1_Layers\Starter Metadata Template -Tufts</srcused>
+				<procdate Sync="TRUE">20120112</procdate>
+				<proctime Sync="TRUE">12373500</proctime>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Dataset copied.</procdesc>
+				<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Old Folders\1_Layers\Starter Metadata Template -Tufts</srcused>
+				<procdate Sync="TRUE">20120713</procdate>
+				<proctime Sync="TRUE">16554300</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Name changed from FEMA_FloodHazardArea to ArlingtonFloodHazard12.</procdesc>
+				<procdate>20120714</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 A-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\nsusma01\AppData\Local\Temp\xmlBD6E.tmp</srcused>
+<procdate Sync="TRUE">20120716</procdate>
+<proctime Sync="TRUE">15030800</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Arlington\ArlingtonXML\ArlingtonFEMA12.xml</srcused>
+<procdate Sync="TRUE">20130405</procdate>
+<proctime Sync="TRUE">11591400</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.tufts.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+				<digtinfo>
+<transize Sync="TRUE">0.610</transize>
+<dssize Sync="TRUE">0.610</dssize>
+</digtinfo>
+</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20130405</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper/>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<CreaDate>20130405</CreaDate>
+<CreaTime>11591400</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<ModDate>20130405</ModDate>
+<ModTime>11592600</ModTime>
+<MetaID>{0E2619D8-3B38-46A7-BEE8-1D410AB7B6B9}</MetaID>
+<SyncDate>20130405</SyncDate>
+<SyncTime>11592600</SyncTime>
+</Esri>
+<eainfo>
+<detailed Name="ArlingtonFEMA12">
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Sync="TRUE">ESRI</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>FLD_AR_ID</attrlabl>
+<attrdef>Flood area identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attalias Sync="TRUE">FLD_AR_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+<attr>
+<attrlabl>FLD_ZONE</attrlabl>
+<attrdef>Flood Zone. This is the flood insurance risk zone designation. These zones are used by the Federal Emergency Management Agency (FEMA) to designate Special Flood Hazard Areas (SFHAs) and for insurance rating purposes. </attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>A</edomv>
+<edomvd>	Areas with a 1% annual chance of flooding and a 26% chance of flooding over the life of a 30-year mortgage. Because detailed analyses are not performed for such areas; no depths or base flood elevations are shown within these zones. </edomvd>
+<edomvds>United States. Federal Emergency Management Agency.</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AE</edomv>
+<edomvd>	The base floodplain where base flood elevations are provided. AE Zones are now used on new format FIRMs instead of A1-A30 Zones.</edomvd>
+<edomvds>United States. Federal Emergency Management Agency.</edomvds>
+</edom>
+</attrdomv>
+<attalias Sync="TRUE">FLD_ZONE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">55</attwidth>
+</attr>
+<attr>
+<attrlabl>FLOODWAY</attrlabl>
+<attrdef>Floodway Type. Floodway areas are designated by the Federal Emergency Management Agency to provide an area that must be kept free of encroachment so that the 1-percent-annual-chance flood event can be carried without substantial increase in flood heights. Normal floodway areas are 'floodway'. Special cases will have a note on the hardcopy Flood Insurance Rate Map.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attalias Sync="TRUE">FLOODWAY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+<attr>
+<attrlabl>SFHA_TF</attrlabl>
+<attrdef>Special Flood Hazard Area. If the area is within SFHA this field would be True. This field will be true for any area that is coded for any A or V zone flood areas. It should be false for any X or D zone flood areas. Enter "T" for true or "F" for false.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attrdomv>
+<edom>
+<edomv>T</edomv>
+<edomvd>True</edomvd>
+<edomvds>United States. Federal Emergency Management Agency.</edomvds>
+</edom>
+</attrdomv>
+<attalias Sync="TRUE">SFHA_TF</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+<attr>
+<attrlabl>STATIC_BFE</attrlabl>
+<attrdef>Static Base Flood Elevation. For areas of constant Base Flood Elevation (BFE), the BFE value is shown beneath the zone label rather than on a BFE line. In this situation the same BFE applies to the entire polygon. This is normally occurs in lakes or coastal zones. This field is only populated where a static BFE is shown on the FIRM.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attalias Sync="TRUE">STATIC_BFE</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>V_DATUM</attrlabl>
+<attrdef>Vertical Datum. The vertical datum indicates the reference surface from which the flood elevations are measured. Normally this would be North American Vertical Datum of 1988 for new studies. This field is only populated if the STATIC_BFE field is populated. Acceptable values for this field are listed in the D_V_Datum table.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attalias Sync="TRUE">V_DATUM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+<attr>
+<attrlabl>DEPTH</attrlabl>
+<attrdef>Depth Value for Zone AO Areas. This is shown beneath the zone label on the FIRM. This field is only populated if a depth is shown on the FIRM.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attalias Sync="TRUE">DEPTH</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>LEN_UNIT</attrlabl>
+<attrdef>Length Units. This unit indicates the measurement system used for the BFEs and/or depths. Normally this would be feet. This field is only populated if the STATIC_BFE or DEPTH field is populated. Acceptable values for this field are listed in the D_Length_Units table.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attalias Sync="TRUE">LEN_UNIT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+<attr>
+<attrlabl>VELOCITY</attrlabl>
+<attrdef>Velocity Measurement. This is shown beneath the zone label on the FIRM for alluvial fan areas (certain Zone AO areas). This value represents the velocity of the flood flow in this area. This field is only populated when a velocity is shown on the FIRM.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attalias Sync="TRUE">VELOCITY</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>VEL_UNIT</attrlabl>
+<attrdef>Unit of Measurement for the Velocity Attribute. This is shown in the legend where alluvial fans are present. This field is only populated if the VELOCITY field is populated. Acceptable values for this field are listed in the D_Velocity_Units table.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attalias Sync="TRUE">VEL_UNIT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+<attr>
+<attrlabl>AR_REVERT</attrlabl>
+<attrdef>If the area is Zone AR, this field would hold the zone that the area would revert to if the AR zone were removed. This field is only populated if the corresponding area is Zone AR. Acceptable values for this field are listed in the D_Zone table.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attalias Sync="TRUE">AR_REVERT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+<attr>
+<attrlabl>BFE_REVERT</attrlabl>
+<attrdef>If Zone is Zone AR, this field would hold the static base flood elevation for the reverted zone. This field is populated when Zone equals AR and the reverted zone has a static BFE.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attalias Sync="TRUE">BFE_REVERT</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>DEP_REVERT</attrlabl>
+<attrdef>If Zone is Zone AR, this field would hold that flood depth for the reverted zone. This field is populated when Zone equals AR and the reverted zone has a depth assigned.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attalias Sync="TRUE">DEP_REVERT</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>SOURCE_CIT</attrlabl>
+<attrdef>Source Citation. Abbreviation used in the metadata file when describing the source information for the S_Fld_Haz_Ar table. Normally, the flood hazard area polygon will be divided to distinguish areas modified by the most recent revision from areas based on the effective FIRM prior to the most recent revision. Revisions and sources prior to the most recent revision will not be tracked for individual polygons in the flood hazard areas table in the standard database.</attrdef>
+<attrdefs>United States. Federal Emergency Management Agency.</attrdefs>
+<attalias Sync="TRUE">SOURCE_CIT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+<attr>
+<attrlabl>Shape_Area</attrlabl>
+<attrdef>Area of feature in square feet</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdomv>
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape_Leng</attrlabl>
+<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<enttyp>
+<enttypl Sync="TRUE">ArlingtonFEMA12</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">69</enttypc>
+</enttyp>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20130405</mdDateSt>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">ArlingtonFEMA12</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">225484.691056</westBL>
+<eastBL Sync="TRUE">230274.412464</eastBL>
+<northBL Sync="TRUE">909538.814592</northBL>
+<southBL Sync="TRUE">905272.194594</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.190459</westBL>
+<eastBL Sync="TRUE">-71.132059</eastBL>
+<northBL Sync="TRUE">42.435956</northBL>
+<southBL Sync="TRUE">42.397374</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Arlington\Shapefiles\ArlingtonFEMA12.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.610</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="ArlingtonFEMA12">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">69</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="ArlingtonFEMA12">
+<sdtstype Sync="TRUE">G-polygon</sdtstype>
+<ptvctcnt Sync="TRUE">69</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">meters</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<gridsys>
+<gridsysn Sync="TRUE">State Plane Coordinate System 1983</gridsysn>
+<spcs>
+<spcszone Sync="TRUE">2001</spcszone>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">200000.000000</feast>
+<fnorth Sync="TRUE">750000.000000</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+</planar>
+<geodetic>
+<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="ArlingtonFEMA12">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">69</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+</metadata>

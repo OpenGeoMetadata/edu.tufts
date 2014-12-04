@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20130820</CreaDate>
+<CreaTime>08310500</CreaTime>
+<ArcGISFormat>1.0</ArcGISFormat>
+<ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+<SyncOnce>FALSE</SyncOnce>
+<DataProperties>
+<lineage/>
+<itemProps>
+<itemLocation>
+<linkage Sync="TRUE">file://\\ES-AP-AMAP-2\E$\MassGIS\mtrust\grp\shp\DEP_OSR_TRAILERS_PT.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</itemLocation>
+<itemName Sync="TRUE">DEP_OSR_TRAILERS_PT</itemName>
+<imsContentType Sync="TRUE">002</imsContentType>
+<nativeExtBox>
+<westBL Sync="TRUE">225043.989400</westBL>
+<eastBL Sync="TRUE">328017.058000</eastBL>
+<southBL Sync="TRUE">780703.240800</southBL>
+<northBL Sync="TRUE">955208.827300</northBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</nativeExtBox>
+<itemSize Sync="TRUE">0.000</itemSize>
+</itemProps>
+<coordRef>
+<type Sync="TRUE">Projected</type>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;LatestWKID&amp;gt;26986&amp;lt;/LatestWKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+</coordRef>
+</DataProperties>
+<ModDate>20140522</ModDate>
+<ModTime>21364900</ModTime>
+<scaleRange>
+<minScale>5000000</minScale>
+<maxScale>5000</maxScale>
+</scaleRange>
+<ArcGISProfile>FGDC</ArcGISProfile>
+<SyncDate>20140522</SyncDate>
+<SyncTime>21363000</SyncTime>
+</Esri>
+<dataIdInfo>
+<idPurp>The MassDEP Oil Spill Response Trailer layer (DEP_OSR_TRAILER_PT) contains the approximate locations of oil spill response equipment provided by MassDEP to coastal communities in Massachusetts to enhance early response to an oil spill.</idPurp>
+<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P STYLE="margin:0 0 0 0;"&amp;gt;&amp;lt;SPAN&amp;gt;In support of the Massachusetts Geographic Response Plans, MassDEP has provided oil spill response equipment and trailers to 68 coastal municipalities and 2 MassDEP regional offices The equipment to be used by local spill responders will provide the rapid response capability necessary to contain a spill at its source and to protect or prevent oiling of sensitive habitats and important resources. The equipment serves as an important response asset in the event of a localized spill as well as for a spill of regional scope. Each coastal municipality in possession of a MassDEP oil spill response trailer has signed the Commonwealth Standard Contract forms that establish terms and conditions regarding the custody and use of the oil spill response equipment. These agreements allow municipalities to use the equipment for certain defined purposes while the Commonwealth of Massachusetts retains ownership of the equipment as well as the responsibility to maintain and restock the trailer and equipment and may relocate oil spill trailers from one community to another as needed to address the resource management needs of an oil spill event.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P STYLE="margin:0 0 0 0;"&amp;gt;&amp;lt;SPAN /&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN /&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<idCredit>MassDEP  Oil Spill Prevention and Response Program
+</idCredit>
+<idCitation>
+<resTitle>MassDEP Oil Spill Response Trailers</resTitle>
+<date>
+<pubDate>2013-07-31T00:00:00</pubDate>
+</date>
+<citRespParty>
+<rpIndName>Brian Brodeur</rpIndName>
+<rpOrgName>MassDEP</rpOrgName>
+<rpPosName>GIS Program Manager</rpPosName>
+<role>
+<RoleCd value="006"/>
+</role>
+<rpCntInfo>
+<cntAddress addressType="both">
+<delPoint>1 Winter St</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<eMailAdd>brian.brodeur@state.ma.us</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">617-574-6856</voiceNum>
+</cntPhone>
+</rpCntInfo>
+</citRespParty>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<searchKeys>
+<keyword>MassDEP</keyword>
+<keyword>Oil Spill Response Trailers</keyword>
+<keyword>Geographic Response Plan</keyword>
+<keyword>GRP</keyword>
+</searchKeys>
+<resMaint>
+<maintFreq>
+<MaintFreqCd value="009"/>
+</maintFreq>
+</resMaint>
+<dataChar>
+<CharSetCd value="004"/>
+</dataChar>
+<idStatus>
+<ProgCd value="001"/>
+</idStatus>
+<dataLang>
+<languageCode value="eng"/>
+<countryCode Sync="TRUE" value="USA"/>
+</dataLang>
+<idPoC>
+<rpIndName>Michael Trust</rpIndName>
+<rpOrgName>Massachusetts Office of Geographic Information (MassGIS)</rpOrgName>
+<rpPosName>GeoDatabase Administrator</rpPosName>
+<role>
+<RoleCd value="005"/>
+</role>
+<rpCntInfo>
+<cntAddress addressType="both">
+<delPoint>One Ashburton Place</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<eMailAdd>michael.trust@state.ma.us</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">(617) 619-5615</voiceNum>
+</cntPhone>
+<cntHours>9 AM - 5 PM</cntHours>
+<cntInstr>Monday - Friday</cntInstr>
+</rpCntInfo>
+<displayName>Michael Trust</displayName>
+</idPoC>
+<idPoC>
+<rpIndName>Brian Brodeur</rpIndName>
+<rpOrgName>MassDEP</rpOrgName>
+<rpPosName>GIS Program Manager</rpPosName>
+<role>
+<RoleCd value="006"/>
+</role>
+<rpCntInfo>
+<cntAddress addressType="both">
+<delPoint>1 Winter St</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<eMailAdd>brian.brodeur@state.ma.us</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">617-574-6856</voiceNum>
+</cntPhone>
+</rpCntInfo>
+<displayName>Brian Brodeur</displayName>
+</idPoC>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">225043.9894</westBL>
+<eastBL Sync="TRUE">328017.058</eastBL>
+<northBL Sync="TRUE">955208.8273</northBL>
+<southBL Sync="TRUE">780703.2408</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+<vertEle>
+<vertMinVal Sync="TRUE">0.000000</vertMinVal>
+<vertMaxVal Sync="TRUE">0.000000</vertMaxVal>
+</vertEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.201113</westBL>
+<eastBL Sync="TRUE">-69.934116</eastBL>
+<northBL Sync="TRUE">42.847093</northBL>
+<southBL Sync="TRUE">41.266106</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<exTypeCode Sync="TRUE">1</exTypeCode>
+<westBL Sync="TRUE">-71.201113</westBL>
+<eastBL Sync="TRUE">-69.934116</eastBL>
+<northBL Sync="TRUE">42.847093</northBL>
+<southBL Sync="TRUE">41.266106</southBL>
+</GeoBndBox>
+</geoEle>
+<vertEle>
+<vertMinVal Sync="TRUE">0.000000</vertMinVal>
+<vertMaxVal Sync="TRUE">0.000000</vertMaxVal>
+</vertEle>
+</dataExt>
+</dataIdInfo>
+<mdHrLv>
+<ScopeCd value="005"/>
+</mdHrLv>
+<mdContact>
+<rpIndName>Michael Trust</rpIndName>
+<rpOrgName>Massachusetts Office of Geographic Information (MassGIS)</rpOrgName>
+<rpPosName>GeoDatabase Administrator</rpPosName>
+<role>
+<RoleCd value="005"/>
+</role>
+<rpCntInfo>
+<cntAddress addressType="both">
+<delPoint>One Ashburton Place</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<eMailAdd>michael.trust@state.ma.us</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">(617) 619-5615</voiceNum>
+</cntPhone>
+<cntHours>9 AM - 5 PM</cntHours>
+<cntInstr>Monday - Friday</cntInstr>
+</rpCntInfo>
+</mdContact>
+<mdMaint>
+<maintFreq>
+<MaintFreqCd value="009"/>
+</maintFreq>
+<maintCont>
+<rpIndName>Brian Brodeur</rpIndName>
+<rpOrgName>MassDEP</rpOrgName>
+<rpPosName>GIS Program Manager</rpPosName>
+<role>
+<RoleCd value="006"/>
+</role>
+<rpCntInfo>
+<cntAddress addressType="both">
+<delPoint>1 Winter St</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<eMailAdd>brian.brodeur@state.ma.us</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">617-574-6856</voiceNum>
+</cntPhone>
+</rpCntInfo>
+<displayName>Brian Brodeur</displayName>
+</maintCont>
+</mdMaint>
+<eainfo>
+<detailed Name="MAOilTrailer13">
+<enttyp>
+<enttypt>Feature Class</enttypt>
+<enttypc>81</enttypc>
+<enttypl>MassDEP Oil Spill Response Trailers</enttypl>
+</enttyp>
+<attr>
+<attrlabl>SITE_NAME</attrlabl>
+<attrdef>Name of the site</attrdef>
+<attrtype>Text</attrtype>
+<attwidth>75</attwidth>
+<attalias>SITE_NAME</attalias>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+</attr>
+<attr>
+<attrlabl>ADDRESS</attrlabl>
+<attrdef>Address of the site where trailer is parked.</attrdef>
+<attrtype>Text</attrtype>
+<attwidth>75</attwidth>
+<attalias>ADDRESS</attalias>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+</attr>
+<attr>
+<attrlabl>TOWN</attrlabl>
+<attrdef>Municipality where trailer is located</attrdef>
+<attrtype>Text</attrtype>
+<attwidth>21</attwidth>
+<attalias>TOWN</attalias>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+</attr>
+<attr>
+<attrlabl>LOCALITY</attrlabl>
+<attrdef>Well known name of geographic area (village, neighborhood, etc.) where the trailer is located.</attrdef>
+<attrtype>Text</attrtype>
+<attwidth>75</attwidth>
+<attalias>LOCALITY</attalias>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+</attr>
+<attr>
+<attrlabl>C_NAME</attrlabl>
+<attrdef>Name of the local contact who is repsonsible for the trailer.</attrdef>
+<attrtype>Text</attrtype>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attwidth>75</attwidth>
+<attalias Sync="TRUE">C_NAME</attalias>
+</attr>
+<attr>
+<attrlabl>C_TITLE</attrlabl>
+<attrdef>Professional title of the local contact who is repsonsible for the trailer.</attrdef>
+<attrtype>Text</attrtype>
+<attalias>C_TITLE</attalias>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attwidth>75</attwidth>
+</attr>
+<attr>
+<attrlabl>C_PHONE</attrlabl>
+<attrdef>Primary phone number of the local contact who is repsonsible for the trailer.</attrdef>
+<attrtype>Text</attrtype>
+<attalias>C_PHONE</attalias>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attwidth>25</attwidth>
+</attr>
+<attr>
+<attrlabl>C_EMAIL</attrlabl>
+<attrdef>Email of the local contact who is repsonsible for the trailer.</attrdef>
+<attrtype>Text</attrtype>
+<attalias>C_EMAIL</attalias>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attwidth>75</attwidth>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SHAPE</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<idinfo>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<descript>
+<langdata Sync="TRUE">en</langdata>
+<abstract>The point dataset represents MassDEP Oil Spill Response Trailer which contains the approximate locations of oil spill response equipment provided by MassDEP to coastal communities in Massachusetts. This data can be used to enhance early response to an oil spill.</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+</descript>
+<citation>
+<citeinfo>
+<origin>Massachusetts. Department of Environmental Protection </origin>
+<pubdate> 20130821</pubdate>
+<title> Oil Spill Response Trailers Massachusetts2013</title>
+<ftname Sync="TRUE">MAOilTrailer13</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/grp.html</onlink>
+<lworkcit>
+<citeinfo>
+<title>MassGIS Data</title>
+<origin>MassGIS (Office : Mass.) </origin>
+<pubdate>20130821</pubdate>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/grp.html</onlink>
+<pubinfo>
+<pubplace>Massachusetts</pubplace>
+<publish>MassGIS (Office : Mass.) </publish>
+</pubinfo>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<timeperd>
+<current>publication date</current>
+<timeinfo>
+<sngdate>
+<caldate>20130821</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">-71.201113</westbc>
+<eastbc Sync="TRUE">-69.934116</eastbc>
+<northbc Sync="TRUE">42.847093</northbc>
+<southbc Sync="TRUE">41.266106</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">225043.989400</leftbc>
+<rightbc Sync="TRUE">328017.058000</rightbc>
+<bottombc Sync="TRUE">780703.240800</bottombc>
+<topbc Sync="TRUE">955208.827300</topbc>
+</lboundng>
+</spdom>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>environment</themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>Massachusetts</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Oil Spill Commission Action </themekey>
+<themekey>Oil spill booms </themekey>
+<themekey>Oil spills--Cleanup</themekey>
+<themekey>Oil spills</themekey>
+</theme>
+</keywords>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>Brian Brodeur</cntper>
+<cntorg>MassDEP GIS Program</cntorg>
+</cntperp>
+<cntpos>Manager</cntpos>
+<cntvoice>617-574-6856</cntvoice>
+<cntemail>brian.brodeur@state.ma.us</cntemail>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<metainfo>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<address>Academic Technology</address>
+<address>16 Dearborn Rd</address>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntpos>Data Technician</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</metc>
+<metd Sync="TRUE">20140522</metd>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+<countryCode Sync="TRUE" value="USA"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<distrib>
+<cntinfo>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</distrib>
+<stdorder>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">0.003</transize>
+<dssize Sync="TRUE">0.003</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+</distinfo>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\MassGIS2013_3\grp_shp\MAOilTrailer13.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.003</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+<distFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distFormat>
+<distTranOps>
+<transSize Sync="TRUE">0.000</transSize>
+</distTranOps>
+</distInfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="MAOilTrailer13">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE" code="1">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">81</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">TRUE</linrefer>
+</esriterm>
+<sdtsterm Name="MAOilTrailer13">
+<sdtstype Sync="TRUE">Entity point</sdtstype>
+<ptvctcnt Sync="TRUE">81</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">meters</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<gridsys>
+<gridsysn>State Plane Coordinate System</gridsysn>
+<spcs>
+<spcszone Sync="TRUE">2001</spcszone>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">200000.000000</feast>
+<fnorth Sync="TRUE">750000.000000</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+</planar>
+<geodetic>
+<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257222</denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+<altres Sync="TRUE">0.000100</altres>
+</altsys>
+</vertdef>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE" code="26986">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</identCode>
+<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+<idVersion Sync="TRUE">7.11.2</idVersion>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="MAOilTrailer13">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">81</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140522</mdDateSt>
+<Binary>
+<Thumbnail>
+<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooqpqV3NY6dPc29lNfSxrlbeAqHk9huIH60AEN+s+pXViLe5RrZUYyvEVj
+k3Z4RujEY59MirdUNPtbC3u9Rls2zPPOHux5xfbJsUAEEnadoXgY7Gr9ABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFVLa9a4vry2Nncwi2ZVE0igJNuXOUOckDOD
+kDmp5zMtvK1uiPMEJjR22qzY4BODgZ74NAGVdWkek3lxrUUhhtVhklvLa3tVZrlwFxISBuLBVIAH
+XI9KvvfwJpy3zkpCyK6iX92fmxtUh8YJJAwccnFZOg3Fy0V7p13fyyaugE84aPclqZQSqI21Q6rg
+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
+</Data>
+</Thumbnail>
+</Binary>
+<dataqual>
+<lineage>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Changed name of file from DEP_OSR_TRAILERS_PT to MAOilTrailer13</procdesc>
+<procdate>20131029</procdate>
+</procstep>
+<srcinfo>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+</lineage>
+</dataqual>
+</metadata>

@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Statistics South Africa</origin>
+<pubdate>2001</pubdate>
+<title>Major Municipalities South Africa 2001</title>
+<onlink>http://mapserver2.statssa.gov.za/geographywebsite/</onlink>
+<geoform>vector digital data</geoform>
+<lworkcit>
+<citeinfo>
+<title>South Africa Geography</title>
+<pubinfo>
+<pubplace>Pretoria (South Africa)</pubplace>
+<publish>Statistics South Africa</publish>
+</pubinfo>
+<origin>Statistics South Africa</origin>
+<pubdate>2001</pubdate>
+<onlink>http://mapserver2.statssa.gov.za/geographywebsite/</onlink>
+</citeinfo>
+</lworkcit>
+<ftname Sync="TRUE">SAfricaMP_SA01</ftname>
+</citeinfo>
+</citation>
+<descript>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+<abstract>This polygon dataset contains all the main municipalities in South Africa.</abstract>
+<langdata Sync="TRUE">en</langdata>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>2001</caldate>
+</sngdate>
+</timeinfo>
+<current>ground condition</current>
+</timeperd>
+<status>
+<progress>In work</progress>
+<update>None planned</update>
+</status>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>polygon</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>boundaries</themekey>
+</theme>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Administrative and political divisions</themekey>
+</theme>
+<place>
+<placekt>GNS</placekt>
+<placekey>South Africa</placekey>
+</place>
+<place>
+<placekey>Southern Hemisphere</placekey>
+<placekey>Eastern Hemisphere</placekey>
+<placekey>Africa</placekey>
+<placekt>LCNH</placekt>
+<placekey>South Africa</placekey>
+</place>
+</keywords>
+<accconst>Unrestricted Access</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Statistics South Africa</cntorg>
+<cntper>Feroza Mohideen</cntper>
+</cntorgp>
+<cntaddr>
+<address>De Bruyn Park</address>
+<addrtype>physical address</addrtype>
+<address>170 Andries street</address>
+<city>Pretoria</city>
+<state>Gauteng</state>
+<country>South Africa</country>
+</cntaddr>
+<cntpos>Information Officer</cntpos>
+<cntvoice>(012) 310-8600</cntvoice>
+<cntfax>(012) 310-8500</cntfax>
+<cntemail>info@statssa.gov.za</cntemail>
+</cntinfo>
+</ptcontac>
+<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<spdom>
+<bounding>
+<westbc>16.454851</westbc>
+<eastbc>32.891277</eastbc>
+<northbc>-22.125955</northbc>
+<southbc>-34.833045</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">16.454851</leftbc>
+<rightbc Sync="TRUE">32.891277</rightbc>
+<bottombc Sync="TRUE">-34.833045</bottombc>
+<topbc Sync="TRUE">-22.125955</topbc>
+</lboundng>
+</spdom>
+<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc>Dataset moved.</procdesc>
+<srcused>S:\GIS_Center_Projects\EnterpriseGIS\1_Layers\SouthAfrica\MP_SA</srcused>
+<procdate>20110624</procdate>
+<proctime>13202500</proctime>
+</procstep>
+<procstep>
+<procdesc>Name changed from MP_SA01 to SAfricaMP_SA01</procdesc>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdate>201201</procdate>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Projection defined as GCS_Hartebeesthoek_1994</procdesc>
+<procdate>042012</procdate>
+</procstep>
+</lineage>
+</dataqual>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+<cntpos>Data Technician</cntpos>
+</cntinfo>
+</distrib>
+<resdesc>Online Dataset</resdesc>
+<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+<stdorder>
+<digform>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://gis.tufts.edu</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+<digtinfo>
+<transize>40.440</transize>
+<dssize Sync="TRUE">40.440</dssize>
+</digtinfo>
+</digform>
+<fees>None</fees>
+<ordering>Web-based distribution only</ordering>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20120516</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<address>16 Dearborn Rd.</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<dataIdInfo>
+<envirDesc>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode value="en"/>
+<countryCode value="USA"/>
+</dataLang>
+<idCitation>
+<resTitle>SAfricaMP_SA01</resTitle>
+<presForm>
+<PresFormCd value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL>16.454851</westBL>
+<eastBL>32.891277</eastBL>
+<northBL>-22.125955</northBL>
+<southBL>-34.833045</southBL>
+<exTypeCode>1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL>16.454851</westBL>
+<eastBL>32.891277</eastBL>
+<northBL>-22.125955</northBL>
+<southBL>-34.833045</southBL>
+<exTypeCode>1</exTypeCode>
+</geoBox>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<exTypeCode>1</exTypeCode>
+<westBL>16.454851</westBL>
+<eastBL>32.891277</eastBL>
+<northBL>-22.125955</northBL>
+<southBL>-34.833045</southBL>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+</dataIdInfo>
+<mdLang>
+<languageCode value="en"/>
+<countryCode value="USA"/>
+</mdLang>
+<mdStanName>ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer>DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd value="005"/>
+</mdHrLv>
+<mdHrLvName>dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc>002</orDesc>
+<linkage>file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\SouthAfricaGeography\SAfricaMP_SA01.shp</linkage>
+<protocol>Local Area Network</protocol>
+</onLineSrc>
+<transSize>40.440</transSize>
+</distorTran>
+<distorFormat>
+<formatName>Shapefile</formatName>
+</distorFormat>
+</distributor>
+<distFormat>
+<formatName>Shapefile</formatName>
+</distFormat>
+<distTranOps>
+<transSize>41.264</transSize>
+</distTranOps>
+</distInfo>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<esriterm Name="SAfricaMP_SA01">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">3109</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="SAfricaMP_SA01">
+<sdtstype Sync="TRUE">G-polygon</sdtstype>
+<ptvctcnt Sync="TRUE">3109</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<geogunit>Decimal degrees</geogunit>
+<latres>0.000000</latres>
+<longres>0.000000</longres>
+</geograph>
+<geodetic>
+<horizdn>D_Hartebeesthoek_1994</horizdn>
+<ellips>WGS_1984</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257224</denflat>
+</geodetic>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_Hartebeesthoek_1994</geogcsn>
+</cordsysn>
+</horizsys>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode>GCS_Hartebeesthoek_1994</identCode>
+<idCodeSpace>EPSG</idCodeSpace>
+<idVersion>7.4.1</idVersion>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<geometObjs>
+<geoObjTyp>
+<GeoObjTypCd value="002"/>
+</geoObjTyp>
+<geoObjCnt>3109</geoObjCnt>
+</geometObjs>
+<topLvl>
+<TopoLevCd value="001"/>
+</topLvl>
+</VectSpatRep>
+</spatRepInfo>
+<eainfo>
+<detailed Name="SAfricaMP_SA01">
+<enttyp>
+<enttypl>SAfricaMP_SA01</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">3109</enttypc>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl>MP_CODE</attrlabl>
+<attrdef>Main place code</attrdef>
+<attrdefs>Statistics South Africa</attrdefs>
+<attalias Sync="TRUE">MP_CODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+<attr>
+<attrlabl>MP_NAME</attrlabl>
+<attrdef>Name of the main place</attrdef>
+<attrdefs>Statistics South Africa</attrdefs>
+<attalias Sync="TRUE">MP_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt>20120516</mdDateSt>
+<Esri>
+<SyncDate>20130122</SyncDate>
+<SyncTime>16242700</SyncTime>
+<ModDate>20130122</ModDate>
+<ModTime>16243600</ModTime>
+</Esri>
+</metadata>

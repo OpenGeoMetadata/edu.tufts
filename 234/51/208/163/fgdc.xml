@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Federal Railroad Administration</origin>
+				<pubdate>2011</pubdate>
+				<title>Railroad Bridges USA 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington (D.C.)</pubplace>
+					<publish>United States. Federal Railroad Administration</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Database (NTAD) 2011</title>
+						<pubinfo>
+							<pubplace>Washington (D.C)</pubplace>
+							<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USARailroadBridges11</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset represents railroad bridges in the United States. The data set includes all rail bridges over the navigable and non-navigable waterways for the contiguous United States.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-150.119942</westbc>
+				<eastbc>
+-67.292014</eastbc>
+				<northbc>
+64.843569</northbc>
+				<southbc>
+25.768478</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-150.119942</leftbc>
+<rightbc Sync="TRUE">-67.292014</rightbc>
+<bottombc Sync="TRUE">25.768478</bottombc>
+<topbc Sync="TRUE">64.843569</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Railroad bridges</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access Online: No restrictions on accessing the data</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Federal Railroad Administration (FRA)</cntorg>
+				</cntorgp>
+				<cntpos>GIS - Office of Policy</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Ave S.E.</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntemail>OfficeofRPD@dot.gov</cntemail>
+				<cntvoice>202-366-4000</cntvoice>
+</cntinfo>
+		</ptcontac>
+		<datacred>The Research and Innovative Technology Administration's Bureau of Transportation Statistics and the Federal Highway Administration.</datacred>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<crossref>
+			<citeinfo>
+				<origin>Federal Railroad Administration (FRA)</origin>
+				<pubdate>2011</pubdate>
+				<title>Railroad Bridges</title>
+				<pubinfo>
+					<pubplace>Washington, DC</pubplace>
+					<publish>Federal Railroad Administration (FRA)</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Database (NTAD) 2011</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<complete>This dataset contain all existing rail bridges that cross the hydro features in NTAD's hydropolygon and waterways shapefiles. It should not be considered fully comprehensive as it does not include bridges over hydro features which are not in the two shapefiles mentioned above. It also does not contain rail bridges that crossover non-hydro features.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Federal Railroad Administration (FRA)</origin>
+						<pubdate>2011</pubdate>
+						<title>Railroad Bridges</title>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>Federal Railroad Administration (FRA)</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+						<lworkcit>
+							<citeinfo>
+								<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics</origin>
+								<pubdate>2011</pubdate>
+								<title>National Transportation Atlas Database (NTAD) 2011</title>
+								<pubinfo>
+									<pubplace>Washington, DC</pubplace>
+									<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics</publish>
+								</pubinfo>
+								<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2011</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>FRA</srccitea>
+				<srccontr>Federal Railroad Administration (FRA)</srccontr>
+				<srcscale>Unknown</srcscale>
+</srcinfo>
+			<procstep>
+				<procdesc>Using a customized GIS tool, a point was placed where the NTAD 100K rail network dataset intersected NTAD's hydrolin (polygon) and waterway (polylin) datasets (when the rail lines crossed the hydroline dataset, two points were created). Each point(s) was then reviewed individually by an analyst, and there was the ability to accept, reject, or have someone else look at the point. If the point was accepted, that point would then be placed in a point shapefile (when there were two points and after it had been accepted, another point was added in the middle of the two originally points). Specific attribute data from the 100K rail line and the hydrolin/waterway datasets were then populated into the new rail bridge shapefile.</procdesc>
+				<procdate>2011</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+							<cntper>Office of Geospatial Information Systems</cntper>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>1200 New Jersey Ave. S.E.</address>
+							<city>Washington</city>
+							<state>DC</state>
+							<postal>20590</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntemail>answers@bts.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards:
+&amp;gt;Changed name of file from "rr_bridges" to "USARailroadBridges11"
+&amp;gt;Changed citatition title from "Rail Road Bridges" to "Railroad Bridges USA 2011"
+&amp;gt;Changed access contraints from "No restrictions on accessing the data" to "Unrestricted Access Online: No restrictions on accessing the data"
+&amp;gt;Changed originators/publishers from "Research and Innovative Technology Administration's Bureau of Transportation Statistics" and "Federal Railroad Administration (FRA)" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services" and "United States. Federal Railroad Administration"
+&amp;gt;Changed publication place to reflect LCNH formatting
+&amp;gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added ISO 19115 Topic Category keyword
+&amp;gt;Added LCSH theme keyword
+&amp;gt;Added GNIS and GNS place keywords
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20111201</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USARailroadBridges11">
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>2279</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USARailroadBridges11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">2279</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USARailroadBridges11">
+			<enttyp>
+				<enttypl>
+USArailroadBridges11</enttypl>
+				<enttypd>Where railroad bridges are over water</enttypd>
+				<enttypds>FRA</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">2279</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>UniqueId</attrlabl>
+				<attrdef>Unique ID for each record</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character and Numeric Value</codesetn>
+						<codesets>United States. Federal Railroad Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">UniqueId</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>StName</attrlabl>
+				<attrdef>State Name</attrdef>
+				<attrdefs>United States. Bureau of the Census</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>United States. Federal Railroad Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">StName</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CntyName</attrlabl>
+				<attrdef>County Name</attrdef>
+				<attrdefs>United States. Bureau of the Census</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>United States. Federal Railroad Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">CntyName</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CityName</attrlabl>
+				<attrdef>City Name</attrdef>
+				<attrdefs>United States. Bureau of the Census</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>United States. Federal Railroad Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">CityName</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Region</attrlabl>
+				<attrdef>FRA Region</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>CT, MA, ME, NH, NJ, NY, RI, VT</edomvd>
+						<edomvds>United States. Federal Railroad Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>DC, DE, MD, OH, PA, VA, WV</edomvd>
+						<edomvds>United States. Federal Railroad Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>AL, FL, GA, KY, MS, NC, SC, TN</edomvd>
+						<edomvds>United States. Federal Railroad Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>IL, IN, MI, MN, WI</edomvd>
+						<edomvds>United States. Federal Railroad Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>AR, LA, NM, OK, TX</edomvd>
+						<edomvds>United States. Federal Railroad Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>CO, IA, KS, MO, NE</edomvd>
+						<edomvds>United States. Federal Railroad Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>AZ, CA, HI, NV, UT</edomvd>
+						<edomvds>United States. Federal Railroad Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>AK, ID, MT, ND, OR, SD, WA, WY</edomvd>
+						<edomvds>United States. Federal Railroad Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Region</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Division</attrlabl>
+				<attrdef>FRA divison, if available</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>United States. Federal Railroad Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">Division</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SubDivsn</attrlabl>
+				<attrdef>FRA subdivision, if available</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>United States. Federal Railroad Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SubDivsn</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FeatXed</attrlabl>
+				<attrdef>Name of the feature crossed</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Character Value</codesetn>
+						<codesets>United States. Federal Railroad Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">FeatXed</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FeatTypXed</attrlabl>
+				<attrdef>Type of feature crossed</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Water</edomv>
+						<edomvd>The bridge crossed over a body of water</edomvd>
+						<edomvds>United States. Federal Railroad Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FeatTypXed</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STCNTYFIPS</attrlabl>
+				<attrdef>Federal Information Processing Standard (FIPS) State and County Code</attrdef>
+				<attrdefs>National Institute of Standards and Technology (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard (FIPS) State and County Code</codesetn>
+						<codesets>National Institute of Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STCNTYFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FRAARCID</attrlabl>
+				<attrdef>FRA's ArcID in NTAD's rail_lines shapefile</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Numeric Value</codesetn>
+						<codesets>United States. Federal Railroad Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">FRAARCID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NET</attrlabl>
+				<attrdef>Known track type</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>A</edomv>
+						<edomvd>Abandoned</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>M</edomv>
+						<edomvd>Main Sub Network</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>O</edomv>
+						<edomvd>Non-mainline Active Track</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>X</edomv>
+						<edomvd>Out of Service</edomvd>
+						<edomvds>FRA</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">NET</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RROWNER1</attrlabl>
+				<attrdef>Track Owner, first level. RR codes used</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA Rule 260 and Owner Codes</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">RROWNER1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RROWNER2</attrlabl>
+				<attrdef>Track Owner, second level. RR codes used</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA Rule 260 and Owner Codes</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">RROWNER2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RROWNER3</attrlabl>
+				<attrdef>Track Owner, third level. RR codes used</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA Rule 260 and Owner Codes</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">RROWNER3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Wway_FID</attrlabl>
+				<attrdef>Feature identifier from intersect with Waterway from USACE</attrdef>
+				<attrdefs>United States. Federal Railroad Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Numeric Value</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">Wway_FID</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>STPOSTAL</attrlabl>
+				<attrdef>U.S. Postal Service two letter state abbreviation.</attrdef>
+				<attrdefs>United States Postal Service</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of U.S. Postal Code Abbreviations</codesetn>
+						<codesets>U.S. Postal Service (USPS)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STPOSTAL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>Federal Information Processing Standard (FIPS) State Code</attrdef>
+				<attrdefs>National Institute of Standards and Technology (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard (FIPS) State Code</codesetn>
+						<codesets>National Institute of Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>The VERSION is a 2-digit number that will be incremented for all records in the database whenever a new release is distributed.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+		<overview>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.061</transize>
+					<dssize Sync="TRUE">0.061</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20111201</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearborn Ave</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<cntpos>GIS Data Technician</cntpos>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USARailroadBridges11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-150.119942</westBL>
+<eastBL Sync="TRUE">-67.292014</eastBL>
+<northBL Sync="TRUE">64.843569</northBL>
+<southBL Sync="TRUE">25.768478</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-150.119942</westBL>
+<eastBL Sync="TRUE">-67.292014</eastBL>
+<northBL Sync="TRUE">64.843569</northBL>
+<southBL Sync="TRUE">25.768478</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USARailroadBridges11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.061</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USARailroadBridges11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">2279</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11445500</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11445500</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

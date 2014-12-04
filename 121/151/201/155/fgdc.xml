@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin> University of New Hampshire</origin>
+				<pubdate>20120630</pubdate>
+				<title>Eelgrass Areas New Hampshire 2011</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>&amp;lt;URL:http://www.granit.unh.edu/data/search?dset=eelgrass2011/nh&amp;gt;</onlink>
+				<ftname Sync="TRUE">NHEelgrass11</ftname>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+<othercit>Dr. Frederick Short, University of New Hampshire, Durham, NH</othercit>
+<lworkcit>
+<citeinfo>
+<origin> University of New Hampshire. Complex Systems Research Center</origin>
+<pubdate>19860101</pubdate>
+<title>NH GRANIT Database</title>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+<onlink>URL: http://www.granit.sr.unh.edu/</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset shows the areas where eelgrass was observed in the Great
+Bay Estuary based on low-altitude aerial surveillance in 2011. The study area
+includes the following waterbodies: Great Bay, the mouth of the Squamscott
+River, the tidal portion of the Lamprey River, the tidal portion of the Oyster
+River, the tidal portion of the Bellamy River, the Piscataqua River and
+Portsmouth Harbor and its associated creeks. Aerial photographs are taken
+of the study area at 3000 feet at low spring tide with roughly 60% overlap
+on a calm day without preceding rain events and when the sun is at a low
+angle to minimize reflection (between 7 am and 10 am). Photographs are
+taken in late summer, usually late August or early September, depending on
+tides and weather, to reflect the maximum eelgrass annual biomass. 35 mm film
+(ASA 200) or a digital camera is used to acquire the images. Typically 300 images
+are needed to cover the entire Great Bay Estuary. The orientation of the
+photographs is near-vertical. This is a slight deviation from the NOAA
+Coastal Change Analysis Program protocol, but follows a published method
+(Short and Burdick, 1986). The photographs, in the form of 35mm slides or
+digital computer images, are projected on a screen and the eelgrass images
+are transferred to a base map. These maps are then digitized using GIS
+software. The eelgrass habitat mapped from the aerial imagery is verified
+using the ground truthing data by placing the ground-truthing locations
+onto the digital image using GIS software. Ground-truthing is done
+from a small boat during the same season as the photographs are taken.
+Ground-truth observations are made at low tide. Samples are collected with
+an eelgrass sampling hook. Positions are determined using GPS. The
+ground-truth surveys assess 10-20% of the eelgrass beds mapped in the
+estuary. The aerial survey is completed yearly. The first survey in the
+series was completed in 1986.
+
+Note that yearly variations in collection methods exist.  Following is a
+summary of methods that have been used.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>20110801</begdate>
+					<enddate>20110930</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>Ground Date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-70.910844</westbc>
+				<eastbc Sync="TRUE">-70.676849</eastbc>
+				<northbc Sync="TRUE">43.113943</northbc>
+				<southbc Sync="TRUE">43.051458</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">1186268.362390</leftbc>
+<rightbc Sync="TRUE">1248558.139057</rightbc>
+<bottombc Sync="TRUE">202536.089592</bottombc>
+<topbc Sync="TRUE">224664.669351</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>polygon</themekey>
+</theme>
+<theme>
+<themekey>biota</themekey>
+<themekey>environment</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>oceans</themekey>
+</theme>
+<theme>
+<themekey>Eelgrass</themekey>
+<themekey>Environmental monitoring</themekey>
+<themekey>Estuaries</themekey>
+<themekt>LCSH</themekt>
+<themekey>Bays</themekey>
+</theme>
+<place>
+<placekey>New Hampshire</placekey>
+<placekt>GNIS</placekt>
+<placekey>Great Bay</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekey>North America</placekey>
+<placekt>LCNH</placekt>
+</place>
+</keywords>
+		<accconst>None</accconst>
+		<useconst>For educational noncommercial use only. </useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Phil Trowbridge, P.E.</cntper>
+					<cntorg>New Hampshire Department of Environmental Services</cntorg>
+				</cntperp>
+				<cntpos>Coastal Scientist</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and Physical Address</addrtype>
+					<address>29 Hazen Drive, PO Box 95</address>
+					<city>Concord</city>
+					<state>New Hampshire</state>
+					<postal>03302</postal>
+				</cntaddr>
+				<cntvoice>603-271-3503</cntvoice>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<logic>
+Note that yearly variations in collection methods exist.  Following is a
+summary of methods that have been used.
+
+The eelgrass habitat mapped from the aerial imagery is verified using the
+ground truthing data by placing the ground-truthing locations onto the
+digital image using GIS software. Ground-truthing is done from a small
+boat during the same season as the photographs are taken. Ground-truth
+observations are made at low tide. Samples are collected with an eelgrass
+sampling hook. Positions are determined using GPS. The ground-truth surveys
+assess 10-20% of the eelgrass beds mapped in the estuary. Overlapping polygon
+areas are identified and removed using a topology rule.
+</logic>
+		<complete>The dataset is complete. There are no known omissions.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Dr. Frederick Short, University of New Hampshire, Durham, NH</origin>
+						<pubdate>20120630</pubdate>
+						<title>Great Bay Eelgrass 2011</title>
+					</citeinfo>
+				</srccite>
+				<typesrc>Digital</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>20110801</begdate>
+							<enddate>20110930</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>UNH</srccitea>
+				<srccontr>UNH</srccontr>
+				<srcscale>Unknown</srcscale>
+</srcinfo>
+			<procstep>
+				<procdesc>
+The photographs, in the form of 35mm slides or digital computer images,
+are projected on a screen and the eelgrass images are transferred to a
+base map by hand (i.e., the polygons are hand-drawn on a hardcopy map of
+the estuary). The polygons on the hardcopy maps are later digitized.
+</procdesc>
+				<procdate>20120630</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Phil Trowbridge</cntper>
+							<cntorg>New Hampshire Department of Environmental Services</cntorg>
+						</cntperp>
+						<cntpos>Coastal Scientist</cntpos>
+						<cntaddr>
+							<addrtype>Mailing and Physical Address</addrtype>
+							<address>29 Hazen Drive, PO Box 95</address>
+							<city>Concord</city>
+							<state>New Hampshire</state>
+							<postal>03302</postal>
+						</cntaddr>
+						<cntvoice>603-271-8872</cntvoice>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\eelgrass2011-nh-eelgrass2011.xml</srcused>
+<procdate Sync="TRUE">20140626</procdate>
+<proctime Sync="TRUE">12330900</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00am-5:00pm, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>The name of this dataset file was changed from Eelgrass2011 to NHEelgrass11.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.
+</procdesc>
+<procdate>20140708</procdate>
+<proctime>1:50pm</proctime>
+</procstep>
+</lineage>
+		<attracc>
+<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.  </attraccr>
+</attracc>
+</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NHEelgrass11">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">175</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NHEelgrass11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">175</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999967</sfctrmer>
+<longcm Sync="TRUE">-71.666667</longcm>
+<latprjo Sync="TRUE">42.500000</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NHEelgrass11">
+			<enttyp>
+				<enttypl Sync="TRUE">NHEelgrass11</enttypl>
+				<enttypd>
+Each polygon of eelgrass habitat is assigned an attribute in the density
+field of the attribute table. The values in the density field are
+qualitative assessments of the eelgrass density in each polygon.
+</enttypd>
+				<enttypds>New Hampshire. Department of Environmental Services. </enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">175</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>DENSITY</attrlabl>
+				<attrdef>
+Qualitative assessments of the eelgrass density in
+each polygon
+</attrdef>
+				<attrdefs>University of New Hampshire</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>d</edomv>
+						<edomvd>
+Dense.  Eelgrass covers 90-100% of the bottom.  The bottom is not
+visible in the aerial photos.  The shoot density or biomass level for
+eelgrass of this density is approximately 250 grams per square meter.
+</edomvd>
+						<edomvds>University of New Hampshire</edomvds>
+					</edom>
+					<edom>
+						<edomv>sb</edomv>
+						<edomvd>
+Some bottom.  Eelgrass covers 60-90% of the bottom.  Some bottom is
+visible in the aerial photos but the majority is covered by eelgrass.
+The shoot density or biomass level for eelgrass of this density is
+approximately 85 grams per square meter.
+</edomvd>
+						<edomvds>University of New Hampshire</edomvds>
+					</edom>
+					<edom>
+						<edomv>h</edomv>
+						<edomvd>
+Half.  Eelgrass covers 30-60% of the bottom.  Approximately half the
+bottom is visible in the aerial photos. The shoot density or biomass
+level for eelgrass of this density is approximately 55 grams per square meter.
+</edomvd>
+						<edomvds>University of New Hampshire</edomvds>
+					</edom>
+					<edom>
+						<edomv>p</edomv>
+						<edomvd>
+Partial.  Eelgrass covers 10-30% of the bottom.  Eelgrass is present but the
+majority of the bottom is still visible in the bed. The shoot density or biomass
+level for eelgrass of this density is approximately 25 grams per square meter.
+</edomvd>
+						<edomvds>University of New Hampshire</edomvds>
+					</edom>
+					<edom>
+						<edomv>pr</edomv>
+						<edomvd>Present.  Eelgrass is present but the density could not be determined.</edomvd>
+						<edomvds>University of New Hampshire</edomvds>
+					</edom>
+					<edom>
+						<edomv>unk</edomv>
+						<edomvd>Present.  Eelgrass is present but the density could not be determined.</edomvd>
+						<edomvds>University of New Hampshire</edomvds>
+					</edom>
+					<edom>
+						<edomv>r</edomv>
+						<edomvd>
+Ruppia.  Ruppia maritima is a different species of submerged aquatic
+vegetation than the Zostera marina that is mapped for this program.
+Ruppia can be found in the Great Bay Estuary at low levels, particularly
+in association with salt marsh pannes and in the upper reaches of the
+estuary.  Ruppia was mapped if it appeared in large beds in parts of the
+tributaries where eelgrass could be expected.
+</edomvd>
+						<edomvds>University of New Hampshire</edomvds>
+					</edom>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>No eelgrass.  Polygon represents an island or area without eelgrass.</edomvd>
+						<edomvds>University of New Hampshire</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">DENSITY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HECTARES</attrlabl>
+				<attrdef>Eelgrass area in hectares.</attrdef>
+				<attrdefs>University of New Hampshire</attrdefs>
+				<attrdomv>
+					<udom>Calculated value.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">HECTARES</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>ACRES</attrlabl>
+				<attrdef>Acreage of the eelgrass area.</attrdef>
+				<attrdefs>University of New Hampshire</attrdefs>
+				<attrdomv>
+					<udom>Calculated value.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACRES</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>YEAR_</attrlabl>
+				<attrdef>The year that the data was collected.</attrdef>
+				<attrdefs>University of New Hampshire</attrdefs>
+				<attrdomv>
+					<udom>Calculated value.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">YEAR_</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<address>16 Dearborn Rd.</address>
+<country>USA</country>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00am-5:00pm, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>
+Digital data in NH GRANIT represent the efforts of the contributing agencies
+to record information from the cited source materials. Complex Systems Research Center, under contract
+to the NH Office of Energy and Planning, and in consultation with cooperating agencies, maintains a
+continuing program to identify and correct errors in these data. OEP, CSRC, and the cooperating agencies
+make no claim as to the validity or reliability or to any implied uses of these data.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI shapefile</formname>
+					<transize>&amp;lt;1 MB</transize>
+					<dssize Sync="TRUE">0.106</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>URL:http://www.granit.sr.unh.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>No charge when downloaded from the Internet.  Cost of reproduction for provision on CD/ROM of other media.</fees>
+			<ordering>Email GRANIT (granit@unh.edu) or order from web site (www.granit.sr.unh.edu).</ordering>
+			<turnarnd>Two weeks</turnarnd>
+		</stdorder>
+		<techpreq>None</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140714</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NH Department of Environmental Services</cntorg>
+					<cntper>George Hastings</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>29 Hazen Drive, PO Box 95</address>
+					<city>Concord</city>
+					<state>New Hampshire</state>
+					<postal>03302</postal>
+				</cntaddr>
+				<cntvoice>603-271-3503</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>&amp;lt;http://www.esri.com/metadata/esriprof80.html&amp;gt;</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{5710F8B6-063C-470F-8960-716057487417}</MetaID>
+<CreaDate>20140626</CreaDate>
+<CreaTime>12330900</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140714</SyncDate>
+<SyncTime>12103400</SyncTime>
+<ModDate>20140714</ModDate>
+<ModTime>12113800</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NHEelgrass11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">1186268.36239</westBL>
+<eastBL Sync="TRUE">1248558.139057</eastBL>
+<northBL Sync="TRUE">224664.669351</northBL>
+<southBL Sync="TRUE">202536.089592</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-70.910844</westBL>
+<eastBL Sync="TRUE">-70.676849</eastBL>
+<northBL Sync="TRUE">43.113943</northBL>
+<southBL Sync="TRUE">43.051458</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\NHEelgrass11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.106</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NHEelgrass11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">175</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140714</mdDateSt>
+</metadata>

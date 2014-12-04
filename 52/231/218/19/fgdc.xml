@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Department of Transportation. Research and Innovative Technology Administration</origin>
+				<pubdate>2011</pubdate>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<title>Cities USA 2011</title>
+<ftname Sync="TRUE">USCities11</ftname>
+<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+<lworkcit>
+<citeinfo>
+<origin>United States. Department of Transportation. Research and Innovative Technology Administration</origin>
+<pubdate>2011</pubdate>
+<title>National Transportation Atlas Databases (NTAD) 2011</title>
+<pubinfo>
+<pubplace>Washington (D.C.)</pubplace>
+<publish>United States. Department of Transportation. Research and Innovative Technology Administration</publish>
+</pubinfo>
+<onlink>http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2011/index.html</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset represents cities in the United States, Puerto Rico and the U.S. Virgin Islands.  These cities were collected from the 1970 National Atlas of the United States.  Where applicable, U.S. Census Bureau codes for named populated places were associated with each name to allow additional information to be attached. The Geographic Names Information System (GNIS) was also used as a source for additional information.  This is a revised version of the December, 2003, data set.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-174.202942</westbc>
+				<eastbc Sync="TRUE">178.874603</eastbc>
+				<northbc Sync="TRUE">71.290138</northbc>
+				<southbc Sync="TRUE">17.711706</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-174.202942</leftbc>
+<rightbc Sync="TRUE">178.874603</rightbc>
+<bottombc Sync="TRUE">17.711706</bottombc>
+<topbc Sync="TRUE">71.290138</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+<themekey>Population</themekey>
+<themekt>LCSH</themekt>
+<themekey>Cities and towns</themekey>
+</theme>
+<place>
+<placekt>GNS</placekt>
+<placekey>United States</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekey>North America</placekey>
+<placekt>LCNH</placekt>
+</place>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>location</themekey>
+</theme>
+</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>Woodley Chu</cntper>
+<cntorg>U.S. Geological Survey</cntorg>
+</cntperp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>561 National Center</address>
+<city>Reston</city>
+<state>Virginia</state>
+<postal>20192</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>703-648-6375</cntvoice>
+<cntemail>atlasmail@usgs.gov</cntemail>
+</cntinfo>
+</ptcontac>
+</idinfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USCities11">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">35432</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USCities11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">35432</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USCities11">
+			<enttyp>
+				<enttypl Sync="TRUE">USCities11</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">35432</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">CITIESX020</attrlabl>
+<attalias Sync="TRUE">CITIESX020</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<attrdef>Unique identifier of the city</attrdef>
+<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FEATURE</attrlabl>
+<attalias Sync="TRUE">FEATURE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">27</attwidth>
+<attrdomv>
+<edom>
+<edomv>County seat</edomv>
+<edomvd>A populated place that serves as the seat of the county government</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>National capital</edomv>
+<edomvd>A populated place that serves as the seat of the national government of the United States of America</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Populated Place</edomv>
+<edomvd>A populated place that is neither a county seat, a State capital, nor the capital of the United States of America.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>State Capital</edomv>
+<edomvd>A populated place that serves as the seat of the state government</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdef>The type of city or town</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>State Capital County Seat</edomv>
+<edomvd>A populated place that serves as the seat of the state government and the county government</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NAME</attrlabl>
+<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">48</attwidth>
+<attrdef>Name of the city or town</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">POP_RANGE</attrlabl>
+<attalias Sync="TRUE">POP_RANGE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">21</attwidth>
+<attrdef>The population range of the city or town based on 2000 U.S. census</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">POP_2000</attrlabl>
+<attalias Sync="TRUE">POP_2000</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdef>The 2000 population of the city or town</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FIPS55</attrlabl>
+<attalias Sync="TRUE">FIPS55</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdef>The 5-digit FIPS code of the named populated place, primary county</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">COUNTY</attrlabl>
+<attalias Sync="TRUE">COUNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">55</attwidth>
+<attrdef>The name of the county or county equivalent</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FIPS</attrlabl>
+<attalias Sync="TRUE">FIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdef>The 5-character FIPS code of the State-County</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">STATE</attrlabl>
+<attalias Sync="TRUE">STATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdef>State abbreviation of the state or state equivilent</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">STFIPS</attrlabl>
+<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdef>The 2-character FIPS code of the state or state equivalent</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DISPLAY</attrlabl>
+<attalias Sync="TRUE">DISPLAY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>The place name will not be shown</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdef>A value used to specify whether a place name text label will be shown at the most detailed display scale in the National Atlas Map Maker.  It is determined by a ratio based on population size and distance to nearest town and was set by the following steps: 1. Distance to the nearest neighbor was calculated for each populated place. Population density was calculated by adding the 1990 population values for each county and then dividing the total by the area of the county. The 1990 population values of -99999 were set to 1. 3. A display ratio was calculated using the formula 1990 Population x Distance / Population Density. 4. Display was set to 1 for all points with a minimum result of 15000, and set to 0 for the remainder of points. This attribute was not updated in the February, 2004, version of this data set.</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>The place name will be shown</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">VERSION</attrlabl>
+<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdef>The VERSION is a 2-digit number that will be incremented for all records in the database whenever a new release is distributed.</attrdef>
+<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.946</transize>
+					<dssize Sync="TRUE">0.946</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+		<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>GIS Data Analyst</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</distrib>
+</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140514</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<address>Academic Technology</address>
+<address>16 Dearborn Ave</address>
+<country>USA</country>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntpos>GIS Data Analyst</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<lineage/>
+	<Esri>
+<CreaDate>20130402</CreaDate>
+<CreaTime>11142700</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<ModDate>20140514</ModDate>
+<ModTime>11455000</ModTime>
+<MetaID>{533B44B8-B0D1-462C-AF57-1EE4498D561C}</MetaID>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11454000</SyncTime>
+</Esri>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+<procdate Sync="TRUE">20130212</procdate>
+<proctime Sync="TRUE">11073200</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Starter Metadata Template -Tufts - UTF-8.xml</srcused>
+<procdate Sync="TRUE">20130402</procdate>
+<proctime Sync="TRUE">11142700</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name changed from place to USCities11.</procdesc>
+<procdate>20130402</procdate>
+</procstep>
+<srcinfo>
+<srcscale>1:2,000,000</srcscale>
+</srcinfo>
+</lineage>
+</dataqual>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USCities11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-174.202942</westBL>
+<eastBL Sync="TRUE">178.874603</eastBL>
+<northBL Sync="TRUE">71.290138</northBL>
+<southBL Sync="TRUE">17.711706</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-174.202942</westBL>
+<eastBL Sync="TRUE">178.874603</eastBL>
+<northBL Sync="TRUE">71.290138</northBL>
+<southBL Sync="TRUE">17.711706</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USCities11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.946</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USCities11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">35432</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+</metadata>

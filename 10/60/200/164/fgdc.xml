@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20110120</CreaDate>
+<CreaTime>15282800</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140522</SyncDate>
+<SyncTime>21370300</SyncTime>
+<ModDate>20140522</ModDate>
+<ModTime>21370300</ModTime>
+<DataProperties>
+<itemProps>
+<itemName Sync="TRUE">EXITS_PT</itemName>
+<itemLocation>
+<linkage Sync="TRUE">file://\\ES-AP-AMAP-1\E\MassGIS\mtrust\MassGIS_DataViewer_SHP\gisdata\men1\infrastructure\EXITS_PT.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</itemLocation>
+<imsContentType Sync="TRUE" export="False">002</imsContentType>
+<nativeExtBox>
+<westBL Sync="TRUE">46169.063975</westBL>
+<eastBL Sync="TRUE">325924.802859</eastBL>
+<southBL Sync="TRUE">820829.108515</southBL>
+<northBL Sync="TRUE">958290.858915</northBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</nativeExtBox>
+<itemSize Sync="TRUE">0.000</itemSize>
+</itemProps>
+<coordRef>
+<type Sync="TRUE">Projected</type>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;LatestWKID&amp;gt;26986&amp;lt;/LatestWKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+</coordRef>
+<lineage/>
+</DataProperties>
+<ArcGISFormat>1.0</ArcGISFormat>
+<ArcGISProfile>FGDC</ArcGISProfile>
+<scaleRange>
+<minScale>5000000</minScale>
+<maxScale>5000</maxScale>
+</scaleRange>
+</Esri>
+<idinfo>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<descript>
+<langdata Sync="TRUE">en</langdata>
+<abstract>This point dataset represents major highway exit locations, with one point at each interchange for every limited access road that has numbered exits. The point is located where the two roadways cross. Attributes include the exit number and the highway route number associated with each exit. In ArcSDE the layer is named EXITS_PT.</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+</descript>
+<citation>
+<citeinfo>
+<origin>Massachusetts. Department of Transportation </origin>
+<pubdate>20130717</pubdate>
+<ftname Sync="TRUE">MAHighwayExit13</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<title>Limited Access Highway Exits Massachusetts 2013</title>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/highwayexits.html</onlink>
+<lworkcit>
+<citeinfo>
+<origin>MassGIS (Office : Mass.) </origin>
+<pubdate>20130717</pubdate>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/highwayexits.html</onlink>
+<title>MassGIS Data</title>
+<pubinfo>
+<pubplace>Massachusetts</pubplace>
+<publish>MassGIS (Office : Mass.) </publish>
+</pubinfo>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<timeperd>
+<current>publication date</current>
+<timeinfo>
+<sngdate>
+<caldate>20130717</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">-73.382374</westbc>
+<eastbc Sync="TRUE">-69.959021</eastbc>
+<northbc Sync="TRUE">42.875240</northbc>
+<southbc Sync="TRUE">41.622711</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">46169.063975</leftbc>
+<rightbc Sync="TRUE">325924.802859</rightbc>
+<bottombc Sync="TRUE">820829.108515</bottombc>
+<topbc Sync="TRUE">958290.858915</topbc>
+</lboundng>
+</spdom>
+<keywords>
+<place>
+<placekt>GNIS</placekt>
+<placekey>Massachusetts</placekey>
+</place>
+<theme>
+<themekey>point</themekey>
+<themekt>FGDC</themekt>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>transportation</themekey>
+</theme>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Express highway interchanges </themekey>
+<themekey>Roads</themekey>
+<themekey>Roadway Express</themekey>
+<themekey>Traffic safety</themekey>
+</theme>
+</keywords>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntpos>Sr. Database Administrator</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>One Ashburton Place</address>
+<address>Room 1601</address>
+<city>Boston</city>
+<state>MA</state>
+<postal>02108</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(617) 619-5615</cntvoice>
+<cntemail>michael.trust@state.ma.us</cntemail>
+<hours>9 AM - 5 PM</hours>
+<cntperp>
+<cntper>Michael Trust</cntper>
+<cntorg>MassGIS</cntorg>
+</cntperp>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<metainfo>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<address>Room 1601</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02155</postal>
+<country>USA</country>
+<address>16 Dearborn Rd</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</metc>
+<metd>20130717</metd>
+<metextns>
+<onlink>http://www.mass.gov/itd/highwayexits</onlink>
+<metprof>MassGIS Web Documentation</metprof>
+</metextns>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<address>Room 1601</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+<address>16 Dearborn Rd</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+</cntinfo>
+</distrib>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Shapefile</formname>
+<transize Sync="TRUE">0.015</transize>
+<dssize Sync="TRUE">0.015</dssize>
+</digtinfo>
+</digform>
+<ordering>Downoad from http://www.mass.gov/itd/highwayexits</ordering>
+</stdorder>
+</distinfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="MAHighwayExit13">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE" code="1">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">422</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">TRUE</linrefer>
+</esriterm>
+<sdtsterm Name="MAHighwayExit13">
+<sdtstype Sync="TRUE">Entity point</sdtstype>
+<ptvctcnt Sync="TRUE">422</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">meters</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<gridsys>
+<gridsysn Sync="TRUE">State Plane Coordinate System 1983</gridsysn>
+<spcs>
+<spcszone Sync="TRUE">2001</spcszone>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">200000.000000</feast>
+<fnorth Sync="TRUE">750000.000000</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+</planar>
+<geodetic>
+<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257222</denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+<altres Sync="TRUE">1.000000</altres>
+</altsys>
+</vertdef>
+</spref>
+<eainfo>
+<detailed Name="MAHighwayExit13">
+<enttyp>
+<enttypl Sync="TRUE">MAHighwayExit13</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">422</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ROUTEKEY</attrlabl>
+<attalias Sync="TRUE">ROUTEKEY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+<attrdef>The route to which the exit is associated.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">MILEPOINT</attrlabl>
+<attalias Sync="TRUE">MILEPOINT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>The measure in miles along the route where the exit is located.</attrdef>
+<attrdefs>Massachusetts. Department of Transportation</attrdefs>
+<atnumdec Sync="TRUE">8</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">PRIMARYKEY</attrlabl>
+<attalias Sync="TRUE">PRIMARYKEY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>The unique identifier for the exit.  This includes the RouteKey and Exit number.</attrdef>
+<attrdefs>Massachusetts. Department of Transportation</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ROUTENUM</attrlabl>
+<attalias Sync="TRUE">ROUTENUM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>The number of the route (I84 = 84)</attrdef>
+<attrdefs>Massachusetts. Department of Transportation</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">EXITNUMBER</attrlabl>
+<attalias Sync="TRUE">EXITNUMBER</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>The number of the exit, including letter designations.</attrdef>
+<attrdefs>Massachusetts. Department of Transportation</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DISTNUMBER</attrlabl>
+<attalias Sync="TRUE">DISTNUMBER</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>MassDOT Highway District in which the exit is located.</attrdef>
+<attrdefs>Massachusetts. Department of Transportation</attrdefs>
+<atnumdec Sync="TRUE">8</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FC</attrlabl>
+<attalias Sync="FALSE">Administrative Type</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdef>State Functional Classification (Administrative Type) of the roadway.</attrdef>
+<attrdefs>Massachusetts. Department of Transportation</attrdefs>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Interstate</edomvd>
+<edomvds>Environmental Systems Research Institute (Redlands, Calif.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>U.S. Highway</edomvd>
+<edomvds>MassGIS (Office : Mass.) </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>State Route</edomvd>
+<edomvds>MassGIS (Office : Mass.) </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Not a numbered highway</edomvd>
+<edomvds>MassGIS (Office : Mass.) </edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SHAPE</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<Binary>
+<Thumbnail>
+<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKzta1/SfDtibzWNQgsoOgaV8bj6KOrH2GTQBo1i6p4n07S9
+a0zR5GabUNQl2R28JUui4JMjAkYQbTz+WawfC+pa141tZdVmngtdCnuZoobRYG8ye32lAxl3Arlv
+mBUfjRpGg6ZF8Rp7mz0mSL+y9Nisvtcg4djjABZNzEIAN4c8HBFAHcUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAULq7uTcQw6clrcMlwqXivPtaGMqTkAA5b7uAcZB61frN0jR49K+1SGU3FzdTN
+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
+oooAKKKKACiiigAooooA/9k=</Data>
+</Thumbnail>
+<Enclosure>
+<Descript>original metadata</Descript>
+<Data EsriPropertyType="Base64" OriginalFileName="source_metadata.xml" SourceMetadata="yes" SourceMetadataDigest="8754b61f32cd48f886ab7a621ec1ad88" SourceMetadataSchema="fgdc">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxtZXRhZGF0YSB4bWw6bGFu
+Zz0iZW4iPg0KICA8RXNyaT4NCiAgICA8Q3JlYURhdGU+MjAxMTAxMjA8L0NyZWFEYXRlPg0KICAg
+IDxDcmVhVGltZT4xNTI4MjgwMDwvQ3JlYVRpbWU+DQogICAgPFN5bmNPbmNlPlRSVUU8L1N5bmNP
+bmNlPg0KICAgIDxTeW5jRGF0ZT4yMDExMDExODwvU3luY0RhdGU+DQogICAgPFN5bmNUaW1lPjE2
+MjgyMDAwPC9TeW5jVGltZT4NCiAgICA8TW9kRGF0ZT4yMDEzMjQxNzwvTW9kRGF0ZT4NCiAgICA8
+TW9kVGltZT4xNjROblMxMjAwPC9Nb2RUaW1lPg0KICAgIDxBcmNHSVNGb3JtYXQ+MS4wPC9BcmNH
+SVNGb3JtYXQ+DQogICAgPHNjYWxlUmFuZ2U+DQogICAgICA8bWluU2NhbGU+NTAwMDAwMDwvbWlu
+U2NhbGU+DQogICAgICA8bWF4U2NhbGU+NTAwMDwvbWF4U2NhbGU+DQogICAgPC9zY2FsZVJhbmdl
+Pg0KICAgIDxBcmNHSVNQcm9maWxlPkZHREM8L0FyY0dJU1Byb2ZpbGU+DQogIDwvRXNyaT4NCiAg
+PGlkaW5mbz4NCiAgICA8ZGVzY3JpcHQ+DQogICAgICA8YWJzdHJhY3Q+VGhpcyBzdGF0ZXdpZGUg
+cG9pbnQgcmVwcmVzZW50cyBtYWpvciBoaWdod2F5IGV4aXQgbG9jYXRpb25zLiBBdHRyaWJ1dGVz
+IGluY2x1ZGUgdGhlIGV4aXQgbnVtYmVyIGFuZCB0aGUgaGlnaHdheSByb3V0ZSBudW1iZXIgYXNz
+b2NpYXRlZCB3aXRoIGVhY2ggZXhpdC4gSW4gQXJjU0RFIHRoZSBsYXllciBpcyBuYW1lZCBFWElU
+U19QVC48L2Fic3RyYWN0Pg0KICAgICAgPHB1cnBvc2U+SGlnaHdheSBleGl0IGxvY2F0aW9ucyBm
+b3IgbWFwIGRpc3BsYXksIHBsYW5uaW5nIGFuZCBhbmFseXNpczwvcHVycG9zZT4NCiAgICA8L2Rl
+c2NyaXB0Pg0KICAgIDxjaXRhdGlvbj4NCiAgICAgIDxjaXRlaW5mbz4NCiAgICAgICAgPG9yaWdp
+bj5NYXNzYWNodXNldHRzIEhpZ2h3YXkgRGVwYXJ0bWVudDwvb3JpZ2luPg0KICAgICAgICA8cHVi
+ZGF0ZT5PY3RvYmVyIDIwMDM8L3B1YmRhdGU+DQogICAgICAgIDx0aXRsZT5IaWdod2F5IEV4aXRz
+PC90aXRsZT4NCiAgICAgIDwvY2l0ZWluZm8+DQogICAgPC9jaXRhdGlvbj4NCiAgICA8dGltZXBl
+cmQ+DQogICAgICA8Y3VycmVudD5wdWJsaWNhdGlvbiBkYXRlPC9jdXJyZW50Pg0KICAgICAgPHRp
+bWVpbmZvPg0KICAgICAgICA8c25nZGF0ZT4NCiAgICAgICAgICA8Y2FsZGF0ZT5PY3RvYmVyIDIw
+MDM8L2NhbGRhdGU+DQogICAgICAgIDwvc25nZGF0ZT4NCiAgICAgIDwvdGltZWluZm8+DQogICAg
+PC90aW1lcGVyZD4NCiAgICA8c3RhdHVzPg0KICAgICAgPHByb2dyZXNzPkNvbXBsZXRlPC9wcm9n
+cmVzcz4NCiAgICAgIDx1cGRhdGU+QXMgbmVlZGVkPC91cGRhdGU+DQogICAgPC9zdGF0dXM+DQog
+ICAgPGtleXdvcmRzPg0KICAgICAgPHRoZW1lPg0KICAgICAgICA8dGhlbWVrdD5Ob25lPC90aGVt
+ZWt0Pg0KICAgICAgICA8dGhlbWVrZXk+aGlnaHdheXMgZXhpdHMgaW50ZXJjaGFuZ2VzIGV4aXQg
+bnVtYmVyczwvdGhlbWVrZXk+DQogICAgICA8L3RoZW1lPg0KICAgIDwva2V5d29yZHM+DQogICAg
+PGFjY2NvbnN0Pk5vbmU8L2FjY2NvbnN0Pg0KICAgIDx1c2Vjb25zdD5Ob25lPC91c2Vjb25zdD4N
+CiAgICA8cHRjb250YWM+DQogICAgICA8Y250aW5mbz4NCiAgICAgICAgPGNudG9yZ3A+DQogICAg
+ICAgICAgPGNudHBlcj5NaWNoYWVsIFRydXN0PC9jbnRwZXI+DQogICAgICAgICAgPGNudG9yZz5F
+T0VBIC0gTWFzc0dJUzwvY250b3JnPg0KICAgICAgICA8L2NudG9yZ3A+DQogICAgICAgIDxjbnRw
+b3M+U3IuIERhdGFiYXNlIEFkbWluaXN0cmF0b3I8L2NudHBvcz4NCiAgICAgICAgPGNudGFkZHI+
+DQogICAgICAgICAgPGFkZHJ0eXBlPm1haWxpbmcgYWRkcmVzczwvYWRkcnR5cGU+DQogICAgICAg
+ICAgPGFkZHJlc3M+MjUxIENhdXNld2F5IFN0cmVldDwvYWRkcmVzcz4NCiAgICAgICAgICA8YWRk
+cmVzcz5TdWl0ZSA5MDA8L2FkZHJlc3M+DQogICAgICAgICAgPGNpdHk+Qm9zdG9uPC9jaXR5Pg0K
+ICAgICAgICAgIDxzdGF0ZT5NQTwvc3RhdGU+DQogICAgICAgICAgPHBvc3RhbD4wMjExNDwvcG9z
+dGFsPg0KICAgICAgICAgIDxjb3VudHJ5PlVTQTwvY291bnRyeT4NCiAgICAgICAgPC9jbnRhZGRy
+Pg0KICAgICAgICA8Y250dm9pY2U+KDYxNykgNjI2LTEwMDA8L2NudHZvaWNlPg0KICAgICAgICA8
+Y250ZmF4Pig2MTcpIDYyNi0xMjQ5PC9jbnRmYXg+DQogICAgICAgIDxjbnRlbWFpbD5taWNoYWVs
+LnRydXN0QHN0YXRlLm1hLnVzPC9jbnRlbWFpbD4NCiAgICAgICAgPGhvdXJzPjkgQU0gLSA1IFBN
+PC9ob3Vycz4NCiAgICAgIDwvY250aW5mbz4NCiAgICA8L3B0Y29udGFjPg0KICA8L2lkaW5mbz4N
+CiAgPGRhdGFJZEluZm8+DQogICAgPGlkQ2l0YXRpb24+DQogICAgICA8cmVzVGl0bGUgU3luYz0i
+RkFMU0UiPkhpZ2h3YXkgRXhpdHM8L3Jlc1RpdGxlPg0KICAgIDwvaWRDaXRhdGlvbj4NCiAgICA8
+ZGVzY0tleXM+DQogICAgICA8dGhlc2FOYW1lIHV1aWRyZWY9IjcyM2Y2OTk4LTA1OGUtMTFkYy04
+MzE0LTA4MDAyMDBjOWE2NiIgLz4NCiAgICA8L2Rlc2NLZXlzPg0KICAgIDxpZFB1cnA+SGlnaHdh
+eSBleGl0IGxvY2F0aW9ucyBmb3IgbWFwIGRpc3BsYXksIHBsYW5uaW5nIGFuZCBhbmFseXNpczwv
+aWRQdXJwPg0KICAgIDxpZEFicz4mbHQ7RElWIFNUWUxFPSJ0ZXh0LWFsaWduOkxlZnQ7IiZndDsm
+bHQ7RElWJmd0OyZsdDtQJmd0OyZsdDtTUEFOJmd0O1RoaXMgc3RhdGV3aWRlIHBvaW50IHJlcHJl
+c2VudHMgbWFqb3IgaGlnaHdheSBleGl0IGxvY2F0aW9ucy4gQXR0cmlidXRlcyBpbmNsdWRlIHRo
+ZSBleGl0IG51bWJlciBhbmQgdGhlIGhpZ2h3YXkgcm91dGUgbnVtYmVyIGFzc29jaWF0ZWQgd2l0
+aCBlYWNoIGV4aXQuIEluIEFyY1NERSB0aGUgbGF5ZXIgaXMgbmFtZWQgRVhJVFNfUFQuJmx0Oy9T
+UEFOJmd0OyZsdDsvUCZndDsmbHQ7L0RJViZndDsmbHQ7L0RJViZndDs8L2lkQWJzPg0KICAgIDxp
+ZENyZWRpdD5NYXNzRE9UPC9pZENyZWRpdD4NCiAgICA8c2VhcmNoS2V5cz4NCiAgICAgIDxrZXl3
+b3JkPmhpZ2h3YXlzIGV4aXRzIGludGVyY2hhbmdlcyBleGl0IG51bWJlcnM8L2tleXdvcmQ+DQog
+ICAgPC9zZWFyY2hLZXlzPg0KICAgIDxyZXNDb25zdD4NCiAgICAgIDxDb25zdHM+DQogICAgICAg
+IDx1c2VMaW1pdD4mbHQ7RElWIFNUWUxFPSJ0ZXh0LWFsaWduOkxlZnQ7IiZndDsmbHQ7RElWJmd0
+OyZsdDtQJmd0OyZsdDtTUEFOJmd0O05vbmUmbHQ7L1NQQU4mZ3Q7Jmx0Oy9QJmd0OyZsdDsvRElW
+Jmd0OyZsdDsvRElWJmd0OzwvdXNlTGltaXQ+DQogICAgICA8L0NvbnN0cz4NCiAgICA8L3Jlc0Nv
+bnN0Pg0KICA8L2RhdGFJZEluZm8+DQogIDxtZXRhaW5mbz4NCiAgICA8bWV0Yz4NCiAgICAgIDxj
+bnRpbmZvPg0KICAgICAgICA8Y250b3JncD4NCiAgICAgICAgICA8Y250cGVyPk1pY2hhZWwgVHJ1
+c3Q8L2NudHBlcj4NCiAgICAgICAgICA8Y250b3JnPkVPRUEgLSBNYXNzR0lTPC9jbnRvcmc+DQog
+ICAgICAgIDwvY250b3JncD4NCiAgICAgICAgPGNudHBvcz5Tci4gRGF0YWJhc2UgQWRtaW5pc3Ry
+YXRvcjwvY250cG9zPg0KICAgICAgICA8Y250YWRkcj4NCiAgICAgICAgICA8YWRkcnR5cGU+bWFp
+bGluZyBhZGRyZXNzPC9hZGRydHlwZT4NCiAgICAgICAgICA8YWRkcmVzcz4yNTEgQ2F1c2V3YXkg
+U3RyZWV0PC9hZGRyZXNzPg0KICAgICAgICAgIDxhZGRyZXNzPlN1aXRlIDkwMDwvYWRkcmVzcz4N
+CiAgICAgICAgICA8Y2l0eT5Cb3N0b248L2NpdHk+DQogICAgICAgICAgPHN0YXRlPk1BPC9zdGF0
+ZT4NCiAgICAgICAgICA8cG9zdGFsPjAyMTE0PC9wb3N0YWw+DQogICAgICAgICAgPGNvdW50cnk+
+VVNBPC9jb3VudHJ5Pg0KICAgICAgICA8L2NudGFkZHI+DQogICAgICAgIDxjbnR2b2ljZT4oNjE3
+KSA2MjYtMTAwMDwvY250dm9pY2U+DQogICAgICAgIDxjbnRmYXg+KDYxNykgNjI2LTEyNDk8L2Nu
+dGZheD4NCiAgICAgICAgPGNudGVtYWlsPm1pY2hhZWwudHJ1c3RAc3RhdGUubWEudXM8L2NudGVt
+YWlsPg0KICAgICAgICA8aG91cnM+OSBBTSAtIDUgUE08L2hvdXJzPg0KICAgICAgPC9jbnRpbmZv
+Pg0KICAgIDwvbWV0Yz4NCiAgICA8bWV0ZXh0bnM+DQogICAgICA8b25saW5rPmh0dHA6Ly93d3cu
+bWFzcy5nb3YvbWdpcy9tYWpyZG1oZC5odG08L29ubGluaz4NCiAgICAgIDxtZXRwcm9mPk1hc3NH
+SVMgV2ViIERvY3VtZW50YXRpb248L21ldHByb2Y+DQogICAgPC9tZXRleHRucz4NCiAgICA8bWV0
+ZXh0bnM+DQogICAgICA8b25saW5rPmh0dHA6Ly93d3cubWFzcy5nb3YvbWdpcy9tYWpyZG1oZC5o
+dG08L29ubGluaz4NCiAgICAgIDxtZXRwcm9mPk1hc3NHSVMgV2ViIERvY3VtZW50YXRpb248L21l
+dHByb2Y+DQogICAgPC9tZXRleHRucz4NCiAgPC9tZXRhaW5mbz4NCiAgPGRpc3RpbmZvPg0KICAg
+IDxkaXN0cmliPg0KICAgICAgPGNudGluZm8+DQogICAgICAgIDxjbnRvcmdwPg0KICAgICAgICAg
+IDxjbnRwZXI+TWljaGFlbCBUcnVzdDwvY250cGVyPg0KICAgICAgICAgIDxjbnRvcmc+RU9FQSAt
+IE1hc3NHSVM8L2NudG9yZz4NCiAgICAgICAgPC9jbnRvcmdwPg0KICAgICAgICA8Y250cG9zPlNy
+LiBEYXRhYmFzZSBBZG1pbmlzdHJhdG9yPC9jbnRwb3M+DQogICAgICAgIDxjbnRhZGRyPg0KICAg
+ICAgICAgIDxhZGRydHlwZT5tYWlsaW5nIGFkZHJlc3M8L2FkZHJ0eXBlPg0KICAgICAgICAgIDxh
+ZGRyZXNzPjI1MSBDYXVzZXdheSBTdHJlZXQ8L2FkZHJlc3M+DQogICAgICAgICAgPGFkZHJlc3M+
+U3VpdGUgOTAwPC9hZGRyZXNzPg0KICAgICAgICAgIDxjaXR5PkJvc3RvbjwvY2l0eT4NCiAgICAg
+ICAgICA8c3RhdGU+TUE8L3N0YXRlPg0KICAgICAgICAgIDxwb3N0YWw+MDIxMTQ8L3Bvc3RhbD4N
+CiAgICAgICAgICA8Y291bnRyeT5VU0E8L2NvdW50cnk+DQogICAgICAgIDwvY250YWRkcj4NCiAg
+ICAgICAgPGNudHZvaWNlPig2MTcpIDYyNi0xMDAwPC9jbnR2b2ljZT4NCiAgICAgICAgPGNudGZh
+eD4oNjE3KSA2MjYtMTI0OTwvY250ZmF4Pg0KICAgICAgICA8Y250ZW1haWw+bWljaGFlbC50cnVz
+dEBzdGF0ZS5tYS51czwvY250ZW1haWw+DQogICAgICAgIDxob3Vycz45IEFNIC0gNSBQTTwvaG91
+cnM+DQogICAgICA8L2NudGluZm8+DQogICAgPC9kaXN0cmliPg0KICA8L2Rpc3RpbmZvPg0KICA8
+ZWFpbmZvPg0KICAgIDxkZXRhaWxlZCBOYW1lPSJFWElUU19QVCI+DQogICAgICA8ZW50dHlwPg0K
+ICAgICAgICA8ZW50dHlwbCBTeW5jPSJUUlVFIj5FWElUU19QVDwvZW50dHlwbD4NCiAgICAgICAg
+PGVudHR5cHQgU3luYz0iVFJVRSI+RmVhdHVyZSBDbGFzczwvZW50dHlwdD4NCiAgICAgICAgPGVu
+dHR5cGMgU3luYz0iVFJVRSI+MDwvZW50dHlwYz4NCiAgICAgIDwvZW50dHlwPg0KICAgICAgPGF0
+dHI+DQogICAgICAgIDxhdHRybGFibCBTeW5jPSJUUlVFIj5PQkpFQ1RJRDwvYXR0cmxhYmw+DQog
+ICAgICAgIDxhdHRhbGlhcyBTeW5jPSJUUlVFIj5PQkpFQ1RJRDwvYXR0YWxpYXM+DQogICAgICAg
+IDxhdHRydHlwZSBTeW5jPSJUUlVFIj5PSUQ8L2F0dHJ0eXBlPg0KICAgICAgICA8YXR0d2lkdGgg
+U3luYz0iVFJVRSI+NDwvYXR0d2lkdGg+DQogICAgICAgIDxhdHByZWNpcyBTeW5jPSJUUlVFIj4w
+PC9hdHByZWNpcz4NCiAgICAgICAgPGF0dHNjYWxlIFN5bmM9IlRSVUUiPjA8L2F0dHNjYWxlPg0K
+ICAgICAgICA8YXR0cmRlZiBTeW5jPSJUUlVFIj5JbnRlcm5hbCBmZWF0dXJlIG51bWJlci48L2F0
+dHJkZWY+DQogICAgICAgIDxhdHRyZGVmcyBTeW5jPSJUUlVFIj5FU1JJPC9hdHRyZGVmcz4NCiAg
+ICAgICAgPGF0dHJkb212Pg0KICAgICAgICAgIDx1ZG9tIFN5bmM9IlRSVUUiPlNlcXVlbnRpYWwg
+dW5pcXVlIHdob2xlIG51bWJlcnMgdGhhdCBhcmUgYXV0b21hdGljYWxseSBnZW5lcmF0ZWQuPC91
+ZG9tPg0KICAgICAgICA8L2F0dHJkb212Pg0KICAgICAgPC9hdHRyPg0KICAgICAgPGF0dHI+DQog
+ICAgICAgIDxhdHRybGFibCBTeW5jPSJUUlVFIj5TSEFQRTwvYXR0cmxhYmw+DQogICAgICAgIDxh
+dHRhbGlhcyBTeW5jPSJUUlVFIj5TSEFQRTwvYXR0YWxpYXM+DQogICAgICAgIDxhdHRydHlwZSBT
+eW5jPSJUUlVFIj5HZW9tZXRyeTwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3aWR0aCBTeW5jPSJU
+UlVFIj4wPC9hdHR3aWR0aD4NCiAgICAgICAgPGF0cHJlY2lzIFN5bmM9IlRSVUUiPjA8L2F0cHJl
+Y2lzPg0KICAgICAgICA8YXR0c2NhbGUgU3luYz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAgICAg
+IDxhdHRyZGVmIFN5bmM9IlRSVUUiPkZlYXR1cmUgZ2VvbWV0cnkuPC9hdHRyZGVmPg0KICAgICAg
+ICA8YXR0cmRlZnMgU3luYz0iVFJVRSI+RVNSSTwvYXR0cmRlZnM+DQogICAgICAgIDxhdHRyZG9t
+dj4NCiAgICAgICAgICA8dWRvbSBTeW5jPSJUUlVFIj5Db29yZGluYXRlcyBkZWZpbmluZyB0aGUg
+ZmVhdHVyZXMuPC91ZG9tPg0KICAgICAgICA8L2F0dHJkb212Pg0KICAgICAgPC9hdHRyPg0KICAg
+ICAgPGF0dHI+DQogICAgICAgIDxhdHRybGFibCBTeW5jPSJUUlVFIj5JTlRNQVJLX0lEPC9hdHRy
+bGFibD4NCiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRSVUUiPklOVE1BUktfSUQ8L2F0dGFsaWFz
+Pg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+SW50ZWdlcjwvYXR0cnR5cGU+DQogICAg
+ICAgIDxhdHR3aWR0aCBTeW5jPSJUUlVFIj40PC9hdHR3aWR0aD4NCiAgICAgICAgPGF0cHJlY2lz
+IFN5bmM9IlRSVUUiPjA8L2F0cHJlY2lzPg0KICAgICAgICA8YXR0c2NhbGUgU3luYz0iVFJVRSI+
+MDwvYXR0c2NhbGU+DQogICAgICAgIDxhdHRyZGVmPk1hcmtlcnN5bWJvbCBudW1iZXIgaW4gY3Vz
+dG9tIG1hcmtlcnNldCB1c2VkIGZvciBwbG90dGluZzwvYXR0cmRlZj4NCiAgICAgIDwvYXR0cj4N
+CiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxhYmwgU3luYz0iVFJVRSI+Uk9VVEU8L2F0dHJs
+YWJsPg0KICAgICAgICA8YXR0YWxpYXMgU3luYz0iVFJVRSI+Uk9VVEU8L2F0dGFsaWFzPg0KICAg
+ICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+U3RyaW5nPC9hdHRydHlwZT4NCiAgICAgICAgPGF0
+dHdpZHRoIFN5bmM9IlRSVUUiPjQ8L2F0dHdpZHRoPg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0i
+VFJVRSI+MDwvYXRwcmVjaXM+DQogICAgICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRz
+Y2FsZT4NCiAgICAgICAgPGF0dHJkZWY+VGhlIGhpZ2h3YXkgcm91dGUgbnVtYmVyIHRoYXQgY29u
+dGFpbnMgdGhpcyBleGl0PC9hdHRyZGVmPg0KICAgICAgPC9hdHRyPg0KICAgIDwvZGV0YWlsZWQ+
+DQogIDwvZWFpbmZvPg0KICA8QmluYXJ5Pg0KICAgIDxUaHVtYm5haWw+DQogICAgICA8RGF0YSBF
+c3JpUHJvcGVydHlUeXBlPSJQaWN0dXJlWCI+LzlqLzRBQVFTa1pKUmdBQkFRRUFBUUFCQUFELzJ3
+QkRBQWdHQmdjR0JRZ0hCd2NKQ1FnS0RCUU5EQXNMREJrU0V3OFVIUm9mSGgwYQ0KSEJ3Z0pDNG5J
+Q0lzSXh3Y0tEY3BMREF4TkRRMEh5YzVQVGd5UEM0ek5ETC8yd0JEQVFrSkNRd0xEQmdORFJneUlS
+d2hNakl5TWpJeQ0KTWpJeU1qSXlNakl5TWpJeU1qSXlNakl5TWpJeU1qSXlNakl5TWpJeU1qSXlN
+akl5TWpJeU1qSXlNakwvd0FBUkNBQ0ZBTWdEQVNJQQ0KQWhFQkF4RUIvOFFBSHdBQUFRVUJBUUVC
+QVFFQUFBQUFBQUFBQUFFQ0F3UUZCZ2NJQ1FvTC84UUF0UkFBQWdFREF3SUVBd1VGQkFRQQ0KQUFG
+OUFRSURBQVFSQlJJaE1VRUdFMUZoQnlKeEZES0JrYUVJSTBLeHdSVlMwZkFrTTJKeWdna0tGaGNZ
+R1JvbEppY29LU28wTlRZMw0KT0RrNlEwUkZSa2RJU1VwVFZGVldWMWhaV21Oa1pXWm5hR2xxYzNS
+MWRuZDRlWHFEaElXR2g0aUppcEtUbEpXV2w1aVptcUtqcEtXbQ0KcDZpcHFyS3p0TFcydDdpNXVz
+TER4TVhHeDhqSnl0TFQxTlhXMTlqWjJ1SGk0K1RsNXVmbzZlcng4dlAwOWZiMytQbjYvOFFBSHdF
+QQ0KQXdFQkFRRUJBUUVCQVFBQUFBQUFBQUVDQXdRRkJnY0lDUW9MLzhRQXRSRUFBZ0VDQkFRREJB
+Y0ZCQVFBQVFKM0FBRUNBeEVFQlNFeA0KQmhKQlVRZGhjUk1pTW9FSUZFS1JvYkhCQ1NNelV2QVZZ
+bkxSQ2hZa05PRWw4UmNZR1JvbUp5Z3BLalUyTnpnNU9rTkVSVVpIU0VsSw0KVTFSVlZsZFlXVnBq
+WkdWbVoyaHBhbk4wZFhaM2VIbDZnb09FaFlhSGlJbUtrcE9VbFphWG1KbWFvcU9rcGFhbnFLbXFz
+ck8wdGJhMw0KdUxtNndzUEV4Y2JIeU1uSzB0UFUxZGJYMk5uYTR1UGs1ZWJuNk9ucTh2UDA5ZmIz
+K1BuNi85b0FEQU1CQUFJUkF4RUFQd0QzK2lpaQ0KZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tL
+QUNpaWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQQ0KQ2lpaWdB
+b29vb0FLS0tLQUNpaWlnQW9vb29BS0tLenRhMS9TZkR0aWJ6V05RZ3NvT2dhVjhiajZLT3JIMkdU
+UUJvMWk2cDRuMDdTOQ0KYTB6UjVHYWJVTlFsMlIyOEpVdWk0Sk1qQWtZUWJUeitXYXdmQytwYTE0
+MXRaZFZtbmd0ZENudVpvb2JSWUc4eWUzMmxBeGwzQXJsdg0KbUJVZmpScEdnNlpGOFJwN216MG1T
+TCt5OU5pc3Z0Y2c0ZGpqQUJaTnpFSUFONGM4SEJGQUhjVVVVVUFGRkZGQUJSUlJRQVVVVVVBRg0K
+RkZGQUJSUlJRQVVVVVVBVUxxN3VUY1F3NmNscmNNbHdxWGl2UHRhR01xVGtBQTViN3VBY1pCNjFm
+ck4walI0OUsrMVNHVTNGemRUTg0KTE5jdkdpeU9NbmFwS2daQ3JoUm5zSzBIVXZHeWhtVWtFYmw2
+ajNGQURxSzV6VG9mRWxwQmY2Y1JidkZiVzZ4NmRmM1Z3WlpMaDl2Mw0KcGxDcjN4bkg2OWFqYVB4
+dkRwc3BXNTBPNnZGZ0JRR0dTTlhsOHdrajd4d3ZsNEFQWGR6MG9BNmVpdVZsMWZ4ZGFRejNjM2h5
+MXVJVg0KU0IxdDdXOHpPdVZ6TXVDdTEyVWpnQWpQRlVmK0U5MVVXcjNUK0F2RWF3S0N4K1dJdnRH
+M25adjNaNVBBSGJ2emdBN2lvYnRKcExPZA0KTGFYeXAyallSeVlCMk5qZzhnOUQ3VmdhWjhRZkNl
+cnBhbTAxMnk4MjZmeTQ0SkpBa3UvKzZVT0dCL0NrdnZIV2t3U2FORHA1ZlZaOQ0KWGt4YXgyUlZz
+b0Q4OGhKSUFWZWMrNHg2NEFLM2h2eGZiRHduSE40ajFHMHROU3NWYURVUkxjUi9KTEdWVnlkcHdN
+bGtPTzI5UjFyaw0KL0gycDZQckhpRFNKcks2dEw5NDBtc1ZNa0lsdG9aYmhXV0tReTRJQkVrVzA0
+eWZwMzMvRlh3L2c4YmFBamE3WndKck5zWlhnZXdsMg0KcVNUOG9KZGVjaFV6a2NIMnJRc3JCcno0
+Y1IydW42YkhvTnliWGREYlN3SXd0Smg4eWtyakJJWUJzNHozNjBBYW5oVFJXOE8rRk5MMA0KZDVW
+bGtzN1pJbmRSd3pBY2tlMmMxUThBM1RYL0FJWk4rOTNKZFBjM2R6SVdZdmhmM3JBS29Za3FvQUdC
+bXN6dzE4VWZEdXBhTnBwMQ0KTFdiRzExU2F6V2VhQ1NVSUFSdzN6SEM1eUNRdWM0NTZjMXhudys4
+UWVOZkZWdnFVT2h6V0ZqWlEzazAzMmk1Z015Z3lPV1dHUGJ0WA0KQ2prbm43d29BOW12YjYxMDJ6
+bHZMNjVpdHJhSWJwSlpYQ3FvOXlhajA3VmRPMWVGNXROdjdhOGlSekd6MjhxeUJXSFVFZ25uMnJB
+dA0KL0I4OXpjVHQ0aTFxVFhMV1ZpNHNiaTFpVzNRN2d5RUtCbks3Y2NrNXljOWEzZE4wZlROSGps
+ajB6VDdXeVNWL01rVzNoV01NM3FRQg0KeWFBTHRGRkZBQlJSUlFBVVVVVUFGRkZac1dvWE5wb2N0
+L3JjTVZzOEN5U1RKYnUweXFpa2tFSGFDVHRBT01VQWFWRlJ3VHgzTnZGUA0KRVNZNVVEcVNwVWtF
+WkhCNUgwTlNVQUZGRlEzYXp2WlRyYkZCY0dOaEVaUHU3c2NaNFBHZlkwQVlYZ2dYUjhOaWE3bm5t
+ZWU2dUpVTQ0KN2gyQ05LeFVBaDNCQUdNWVBURmRIWEwvQUE3ZTVmd0hwYTNsb3RyY3hJMFVzYXcr
+VU55T3lsZ20xZHU0amRqSGZ2WFVVQUZGRkZBQg0KVmU3dVBLVHk0cElCZHlxd3Q0NW4yaVJ3cE9Q
+WEhHVGdIaXJGY3Q0bDEvVHRHOFNlSDR0UnNyZlpNYmh4cVZ5eW90bnNqeWNNUndXSA0KR01qZ0hy
+UUJQbzJoV21nNk5IZFhWbkhOcVVVYnozRTZyNTByU044emhYSTNzTThEUE9BQlVFM2h1MjhRYVRO
+UDlvdjdjM2lSVDJpUw0KcnNiVDJWVks3RUdDdnpLck1wSkJLMUZkWG1vZUx0SnZyR0RRdkxzTGdM
+RUo5UWxVSmNSR1Jsa0tCQ3grNEF5TjBPNEg2emVFOVZ1WQ0KUEI5by9pU1NPenU0SldzcEhtZFVX
+UjFrTWFrWXdQbXdNREhlZ0RvYktHYTNzYmVHNHVXdVo0NDFXU2RsQ21SZ09Xd09Cazg0RmVLWA0K
+dXBlR05ZK0lPdTJmaUR4RmM2VGF0ZkdGOVBSR2dTN01jYUlHa3VGL2g0ZjVjanNmcjdPTlN0VzFa
+OUxEdjlyU0FYQlh5MjI3Q3hVSA0KZGpibklQR2MxNWg0ZGkxbTY4UjYvd0NFOVQwelM0RU4yZFNs
+YTdnV2MzME1rckFrQlFxL2NDcnVQSVBiKzZBVy9BUGhmd3o5cThWYQ0KWUxXdzFHM2cxZno0eE5h
+QmlnYU1NZ3kyUXdYY3dCSHVlOWVteHhwRWdTTkZSUjBDakFGZUtQNFo4U2VHL2lYNGZXSyswN1RO
+UDFBbQ0KMGttMHlJUmVja1JNaVJ2RzVJM2JWQ0JoazQ0T2M4KzIwQUZGRkZBQlJSUlFBVVVVVUFG
+RkZGQUJSUlJRQVVVVVVBRlFYMTNIcCtuMw0KTjdNR01WdkUwcmhSazRVRW5IdnhVOVkrbytIbzlW
+ZzFlM3VyKytOdHFkdUxkNFZrQVdFWUlKajQ0Snp6bk9jRDZVQVIrRlBGTmg0dg0KME9MVTdIZW03
+S3l3U0REd3VEZ3F3K29QMXJjQkJBSU9RYThOK0dQaGE2cy9pTHJGanFrbHVzMmloMGJ5VU82OVM0
+NVJwR3h0S2hjNA0KVVlJSjlxOXAwK3d0ZEswKzNzTEdGWWJXM2pFY1VhNXdxamdEbWdDV0NlRzVp
+RXNFc2NzWkpBZU5nd0pCd2VSNkVFZmhVbFFXZGxhNg0KZmJDM3M3YUszZ1VraU9GQWlnazVQQTQ1
+SkpyRjhVNjFxR20vMlpaYVBieFQ2bHFGMHNTQ1lNVWpqSHpTU01GNXdGR08zTENnRG9hOA0KZThj
+NmpwV3YrTnJZWDhTWE9pZUdaNGt2ZHFxM21YRndkaW81ZkNpTmRxN2prL2V4amdrZXcxelBoTXcz
+bzF5NlhFMEUrcXlsSGFWWg0KQTJ3S25aVjJnRkNBRGtqSFVqQm9BMjlNbG1uMHUxbHVMRTJNelJL
+WHRTNnQ1Sng5M0s4SEh0V1RvZWs2ZFpUYXZwOFdtWEN3bS9ONg0KOGwwaXRITkxKaVRkSDdLUUJ5
+T0NLcCtEZFd1Wkx6V3REMU8va3ViL0FFKzlrRVpuaEVja2x1MkdSdU9HQTNZeUFPMlFNMWM4VWFS
+Yw0KM2kybXFhYjU1MVhUbjMyOGNkd0lsbVVrYjQyM0FyaGdPdU04Y0VVQWREWEsrTUlOY2h1dEkx
+alJWa3VWc0oyTjNweVMrV2JxTjEyOA0KRWtLV1hPUUc2K29QWGQwclZyUFdiTDdYWlNtU0xlMFp5
+aktReW5CQkRBRWZpS3dOZHNaTmM4VzJHazNjN0hSMHRYdXA3UVd6RmJpUg0KWFVJR2x4dEFVL050
+QkJ5T2NpZ0RqdkZIaUtUeGltbXllSGRDMWw5YjBhNVRVSTdXOHMyaGlKQkNzamxpQnV3eEl4ay9L
+Y2RhOUYwWA0KeEhZNnlnaUVpd2FpaUtiaXhkdjNzRGxFWmxJNHp0M3FDUjNQWThWVjFLV2FMeDVv
+U0pKTjVVMXRkTElnYVhZY2VXUVNGQlRJNUdXSQ0KNm5HVFY3VS9EdWw2dGUyZDlkV3FtOXNuTDIx
+eWgyeVJrakhCSFVleHlEamtVQWFsRlpWbUx2VEhzTkw4dTZ2YlpMWWlUVXJpWkMrOQ0KZG9VT09D
+ek5rbklIYjNyVm9BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FhRVFPemhWRHNBQ3dI
+SngwL21hZFJSUUFWQg0KSlpXczEzRGR5VzBUM01BWVJUTWdMeGh2dmJUMUdjRE9Lbm9vQUt5dEMw
+T0hRb3IyT0dhU1VYZDdMZU1YVlJ0YVE1S2phQndQZm10Vw0KaWdERThSZUgvd0MxN09TU3lsV3kx
+ZFVBdDc1QVE2N1dEaEdJSUpRa0RLNXdhMlVEaU5SSXlzK0J1S2pBSjloazQvT25VVUFjN3JYaA0K
+KzFOdmMzVnBxYzJoU083M056ZFdteFBNYnlpbTZUY3BCQUhQYmxjOWVheklOUjFQUzlWdXRaa251
+ZFo4T1hsbUxtSzVnS2tXcW9ndw0KcXhLTXVYeVdMTDdjQUROVCtNUEM4bmk2OHNOTnZiRzJrMFZD
+MHM5d0xsNDdoSHdSdFFLTVlJT0RrOGdub1FEWFZRUXhXMEVjRUVheA0Kd3hLRVJFR0FxZ1lBQTdB
+Q2dEbWRXMWpSV2wwcldvcnZSR052TTBiWE4zTnRlR0ppRWtFZmNQdk1ha0hHTTRPSzZxdU04V1d1
+aHJxRw0KaDZmY1dXbWlTOXVuejUxcXhKalg5OUp0ZE1iQ1dWR0pZNFBPYzgxc1d1cGF1bXMzRnRx
+T214cllFeVNXOS9CTUNnaVVKZ1NCc0VNYw0KdDB5T1B4b0FyK1BGUC9DRjZqTDlraXV4YnF0dzBF
+c2JPSFdOdzV3RlpTVGhUam5yMTRyWTB6VXJUV05NdHRSc1psbXRiaU1TUnVwQg0KQkIrbmZzZmVy
+RVVzYzhLU3hTTEpFNmhrZERrTUR5Q0QzRmMvYjZUcG5oYlZHdWJHMnZ3dXFUSkNiYTJEUGJ3Tmhq
+NW13Y1JnL3dBVA0KZE00OVRRQjBkRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZB
+QlJSUlFBVVVVVUFGRkZGQUZUVVk3K1cyVmRPdUlJSg0KaEtoWnBvaklDZ1lieGdFY2xjZ0dxbHRy
+OEVtcnlhWGRReVdkMldrTnZITVZKdUlrMlprWGFUaGN1Qmc0UHRXdFdINHUwaisyZkRsMQ0KRkhF
+NzNrS21lek1aVU9rNmpLRlMzQU9jZGVLQU11RVFlTHZFMXpNSTlPdmRDczdlZlQ1UkxEbVlYUmZi
+S21XWElYWUFEZzRPYTNyQg0KNExxMnVyRCt6SkxhMXRtTm9zVThTaEpZd29HVUFKQmpJT0JuMEl4
+WEplRG44WGVIN0NTRHhOcGYydDdtNlNRVDJNNW1LdEt4MzdrYg0KRzFVUEoyOGZOd0R5YXh2RHZp
+Mks2K0puaU82dE5BMTZVVHhXY0xrUkFMRXd3cERxY2JTUE1CUExIQ3NlQlFCMitzdzZycGtOZy9o
+eQ0KQkpJN2JFSjB0ZGtVYm9TcTd0eEdWQ0xrNFhyVmg5ZFgremhQUFk2amF0TGRHempRd0ZuM2J5
+aXY4dTRCRGpJWThZSVBlbjJkZzl6cQ0KUDlwNm5wOXRGZjI3VFFXc3NVcGMvWjJZRUU1QXdUdEdS
+emoxNU5hMUFITStFOVVlUFF0SjA3VzV4YmE2YmNlWmFYVjJrbHcyTndESA0KR054SVVuSUhyNkd1
+bXJMMWZ3NW8rdlJzbXBhZkJPeklZeEtWeElxa0VmSzQrWmVHYm9lNTlhaHNOTTFleW14THJuMnEy
+RWNxckhMYQ0KcUdERjhvZHdJeUZYNWNkK3BQb0FiVlpIaU02eStuQzIwQ2EwaDFDV1JSNXR3Y2lL
+TGNON2hmNHlBZW5BNUhQWTE3WFNOZThoRTFEeA0KSTBycExCSUh0clJJdHdRRHpFYk83S3VjbmpC
+SFFIRlc3WHcvWVcycVM2bVZrdUwxM2RrbXVIOHhvVmZidVJDZnVwOG9PTzJUNjBBYQ0KZ3pqbnJS
+UlJRQVVVVVVBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJUVlJFWm1WVkJj
+N21JSDNqZ0RKL0FBZg0KaFRxS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWln
+QW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2lpaWdBbw0Kb29vQUtLS0tBQ2lpaWdBb29vb0Ev
+OWs9PC9EYXRhPg0KICAgIDwvVGh1bWJuYWlsPg0KICA8L0JpbmFyeT4NCjwvbWV0YWRhdGE+</Data>
+</Enclosure>
+</Binary>
+<mdLang>
+<languageCode value="eng"/>
+<countryCode Sync="TRUE" value="USA"/>
+</mdLang>
+<mdChar>
+<CharSetCd value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd value="005"/>
+</mdHrLv>
+<mdContact>
+<rpIndName>Michael Trust</rpIndName>
+<rpOrgName>MassGIS</rpOrgName>
+<rpPosName>Sr. Database Administrator</rpPosName>
+<rpCntInfo>
+<cntPhone>
+<voiceNum tddtty="">(617) 619-5615</voiceNum>
+</cntPhone>
+<cntAddress addressType="postal">
+<delPoint>One Ashburton Place, Room 1601</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<country>US</country>
+<eMailAdd>michael.trust@state.ma.us</eMailAdd>
+</cntAddress>
+<cntHours>9 AM - 5 PM</cntHours>
+</rpCntInfo>
+<role>
+<RoleCd value="005"/>
+</role>
+</mdContact>
+<mdStanName>ArcGIS Metadata</mdStanName>
+<mdStanVer>1.0</mdStanVer>
+<distInfo>
+<distributor>
+<distorCont>
+<rpIndName>Michael Trust</rpIndName>
+<rpOrgName>MassGIS</rpOrgName>
+<rpPosName>Sr. Database Administrator</rpPosName>
+<rpCntInfo>
+<cntPhone>
+<voiceNum tddtty="">(617) 619-5615</voiceNum>
+</cntPhone>
+<cntAddress addressType="postal">
+<delPoint>One Ashburton Place, Room 1601</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<country>US</country>
+<eMailAdd>michael.trust@state.ma.us</eMailAdd>
+</cntAddress>
+<cntHours>9 AM - 5 PM</cntHours>
+</rpCntInfo>
+<role>
+<RoleCd value="005"/>
+</role>
+</distorCont>
+<distorOrdPrc>
+<ordInstr>Download from http://www.mass.gov/itd/highwayexits.</ordInstr>
+</distorOrdPrc>
+<distorFormat>
+<formatName>Shapefile</formatName>
+<formatVer>ArcGIS 10.1</formatVer>
+</distorFormat>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\MassGIS2013_3\exits\MAHighwayExit13.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.015</transSize>
+</distorTran>
+</distributor>
+<distFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+<formatVer>ArcGIS 10</formatVer>
+</distFormat>
+<distTranOps>
+<transSize Sync="TRUE">0.000</transSize>
+</distTranOps>
+</distInfo>
+<dataIdInfo>
+<idCitation>
+<resTitle Sync="FALSE">Limited Access Highway Exits</resTitle>
+<citRespParty>
+<rpOrgName>Massachusetts Department of Transportation</rpOrgName>
+<role>
+<RoleCd value="006"/>
+</role>
+</citRespParty>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+<date>
+<pubDate>2013-07-17T00:00:00</pubDate>
+</date>
+</idCitation>
+<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;This statewide point represents major highway exit locations, with one point at each interchange for every limited access road that has numbered exits. The point is located where the two roadways cross. Attributes include the exit number and the highway route number associated with each exit. In ArcSDE the layer is named EXITS_PT.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<idPurp>Highway exit locations for map display, planning and analysis</idPurp>
+<idStatus>
+<ProgCd value="001"/>
+</idStatus>
+<resMaint>
+<maintFreq>
+<MaintFreqCd value="009"/>
+</maintFreq>
+</resMaint>
+<themeKeys>
+<keyword>highways exits interchanges exit numbers</keyword>
+</themeKeys>
+<searchKeys>
+<keyword>highways</keyword>
+<keyword>exits</keyword>
+<keyword>interchanges</keyword>
+<keyword>exit numbers</keyword>
+</searchKeys>
+<dataLang>
+<languageCode value="eng"/>
+<countryCode Sync="TRUE" value="USA"/>
+</dataLang>
+<dataExt>
+<exDesc>Publication Date</exDesc>
+<tempEle>
+<TempExtent>
+<exTemp>
+<TM_Instant>
+<tmPosition>2013-07-17T00:00:00</tmPosition>
+</TM_Instant>
+</exTemp>
+</TempExtent>
+</tempEle>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">46169.063975</westBL>
+<eastBL Sync="TRUE">325924.802859</eastBL>
+<northBL Sync="TRUE">958290.858915</northBL>
+<southBL Sync="TRUE">820829.108515</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<exTypeCode Sync="TRUE">1</exTypeCode>
+<westBL Sync="TRUE">-73.382374</westBL>
+<eastBL Sync="TRUE">-69.959021</eastBL>
+<northBL Sync="TRUE">42.875240</northBL>
+<southBL Sync="TRUE">41.622711</southBL>
+</GeoBndBox>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">46169.063975</westBL>
+<eastBL Sync="TRUE">325924.802859</eastBL>
+<northBL Sync="TRUE">958290.858915</northBL>
+<southBL Sync="TRUE">820829.108515</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<idCredit>Massachusetts Department of Transportation (MassDOT)</idCredit>
+<dataChar>
+<CharSetCd value="004"/>
+</dataChar>
+<idPoC>
+<rpIndName>Michael Trust</rpIndName>
+<rpOrgName>MassGIS</rpOrgName>
+<rpPosName>Sr. Database Administrator</rpPosName>
+<rpCntInfo>
+<cntPhone>
+<voiceNum tddtty="">(617) 619-5615</voiceNum>
+</cntPhone>
+<cntAddress addressType="postal">
+<delPoint>One Ashburton Place, Room 1601</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<country>US</country>
+<eMailAdd>michael.trust@state.ma.us</eMailAdd>
+</cntAddress>
+<cntHours>9 AM - 5 PM</cntHours>
+</rpCntInfo>
+<role>
+<RoleCd value="005"/>
+</role>
+<displayName>Michael Trust</displayName>
+</idPoC>
+<resConst>
+<LegConsts>
+<useLimit>None</useLimit>
+</LegConsts>
+</resConst>
+<tpCat>
+<TopicCatCd value="018"/>
+</tpCat>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-73.382374</westBL>
+<eastBL Sync="TRUE">-69.959021</eastBL>
+<northBL Sync="TRUE">42.87524</northBL>
+<southBL Sync="TRUE">41.622711</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE" code="26986">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</identCode>
+<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+<idVersion Sync="TRUE">7.11.2</idVersion>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="MAHighwayExit13">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">422</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140522</mdDateSt>
+<mdMaint>
+<maintFreq>
+<MaintFreqCd value="009"/>
+</maintFreq>
+</mdMaint>
+<mdConst>
+<Consts>
+<useLimit>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;None&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</useLimit>
+</Consts>
+</mdConst>
+<mdConst>
+<SecConsts>
+<class>
+<ClasscationCd value="001"/>
+</class>
+</SecConsts>
+</mdConst>
+<dataqual>
+<lineage>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Changed name of file from EXITS_PT to MAHighwayExit13</procdesc>
+<procdate>20131029</procdate>
+</procstep>
+<srcinfo>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+</lineage>
+</dataqual>
+</metadata>

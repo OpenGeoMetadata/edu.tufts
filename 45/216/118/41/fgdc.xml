@@ -1,0 +1,2651 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Massachusetts. Division of Marine Fisheries</origin>
+				<pubdate>20130717</pubdate>
+				<title>Designated Shellfish Growing Areas Massachusetts1966-2013</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+				</pubinfo>
+				<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/dsga.html</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>MassGIS (Office : Mass.)</origin>
+						<pubdate>20130717</pubdate>
+						<title>MassGIS Data</title>
+						<pubinfo>
+							<pubplace>Massachusetts</pubplace>
+							<publish>MassGIS (Office : Mass.)</publish>
+						</pubinfo>
+						<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/dsga.html</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">MAShellfish6613</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents designated shellfish growing areas in Massachusetts.  It shows potential shellfish habitat, and all three hundred four DSGA's make up the territorial waters (intertidal zone to the state line) of the Commonwealth. Growing areas are managed with respect to shellfish harvest for direct human consumption, and comprise at least one or more classification areas. The classification areas (732 total) are the management units, and range from being approved to prohibited (five different classification types in all) with respect to shellfish harvest. For example, one growing area may be composed of four classification areas, all of which are managed separately (have a classification type the same or different from the rest of the growing area). This layer reflects classification areas as of July 1, 2013.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>20130717</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-71.288200</westbc>
+				<eastbc>
+-69.830024</eastbc>
+				<northbc>
+42.878807</northbc>
+				<southbc>
+41.186918</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">217768.328200</leftbc>
+<rightbc Sync="TRUE">336460.464500</rightbc>
+<bottombc Sync="TRUE">772062.503400</bottombc>
+<topbc Sync="TRUE">958709.756100</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>biota</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Shellfish populations</themekey>
+				<themekey>Shellfish fisheries--Sanitation</themekey>
+				<themekey>Fishery management</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Massachusetts</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>North America</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Greg Bettencourt</cntper>
+					<cntorg>Massachusetts Department of Fish and Game, Division of Marine Fisheries</cntorg>
+				</cntperp>
+				<cntpos>Aquatic Biologist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>30 Emerson Ave</address>
+					<city>Gloucester</city>
+					<state>MA</state>
+					<postal>01930</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>978-282-0308 x161</cntvoice>
+				<cntemail>Greg.Bettencourt@state.ma.us</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browset>JPEG</browset>
+		</browse>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>Unknown</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Changed the name  of the file from DSGA_POLY to MAShellfish6613</procdesc>
+				<procdate>20131028</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="MAShellfish6613">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>732</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="MAShellfish6613">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">732</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+				<gridsys>
+<gridsysn>State Plane Coordinate System</gridsysn>
+<spcs>
+<spcszone Sync="TRUE">2001</spcszone>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">200000.000000</feast>
+<fnorth Sync="TRUE">750000.000000</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+</cordsysn>
+</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>0.000100</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="MAShellfish6613">
+			<enttyp>
+				<enttypl>
+MAShellfish6613</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">732</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>CONTACT</attrlabl>
+				<attrdef>Name of shellfish biologist responsible for the area</attrdef>
+				<attrdefs>Massachusetts. Division of Marine Fisheries</attrdefs>
+				<attalias Sync="TRUE">CONTACT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACRES</attrlabl>
+				<attrdef>Acreage of classification area</attrdef>
+				<attrdefs>Massachusetts. Division of Marine Fisheries</attrdefs>
+				<attalias Sync="TRUE">ACRES</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">8</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>BEGIN_DATE</attrlabl>
+				<attrdef>Date when the last change in the classification area occurred, either a classification change or a line/boundary redefinition.</attrdef>
+				<attrdefs>Massachusetts. Division of Marine Fisheries</attrdefs>
+				<attalias Sync="TRUE">BEGIN_DATE</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Classification area name. Format starts with the Growing area and is appended by a &amp;#145;.&amp;#146; and a unique number within the growing area. For example: Growing area N2 contains a classification area N2.1.</attrdef>
+				<attrdefs>Massachusetts. Division of Marine Fisheries</attrdefs>
+				<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>GROWING_AR</attrlabl>
+				<attrdef>Code name for growing area.</attrdef>
+				<attrdefs>Department of Fish and Game's Massachusetts. Division of Marine Fisheries</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>BB1</edomv>
+						<edomvd>Westport South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB2</edomv>
+						<edomvd>Richmond Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB3</edomv>
+						<edomvd>West Branch Westport River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB4</edomv>
+						<edomvd>East Branch Westport River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB5</edomv>
+						<edomvd>Little Beach Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB6</edomv>
+						<edomvd>Allens Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB7</edomv>
+						<edomvd>Allens Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB8</edomv>
+						<edomvd>Slocums River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB9</edomv>
+						<edomvd>Little River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB10</edomv>
+						<edomvd>Smith Neck South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB11</edomv>
+						<edomvd>Dartmouth East Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB12</edomv>
+						<edomvd>Apponagansett Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB13</edomv>
+						<edomvd>Clark Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB14</edomv>
+						<edomvd>New Bedford East Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB15</edomv>
+						<edomvd>New Bedford/Fairhaven Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB16</edomv>
+						<edomvd>Fairhaven South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB17</edomv>
+						<edomvd>West Island South</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB18</edomv>
+						<edomvd>West Island North</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB19</edomv>
+						<edomvd>West Island East Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB20</edomv>
+						<edomvd>Fairhaven East Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB21</edomv>
+						<edomvd>Nasketucket Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB22</edomv>
+						<edomvd>Little Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB23</edomv>
+						<edomvd>Brandt Island Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB24</edomv>
+						<edomvd>Mattapoisett South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB25</edomv>
+						<edomvd>Mattapoisett Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB26</edomv>
+						<edomvd>Mattapoisett River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB27</edomv>
+						<edomvd>Eel Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB28</edomv>
+						<edomvd>North Buzzards Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB29</edomv>
+						<edomvd>Point Connett</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB30</edomv>
+						<edomvd>Hiller Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB31</edomv>
+						<edomvd>Aucoot Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB32</edomv>
+						<edomvd>Sippican Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB33</edomv>
+						<edomvd>Stony Point Dike</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB34</edomv>
+						<edomvd>Wings Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB35</edomv>
+						<edomvd>Weweantic River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB36</edomv>
+						<edomvd>Wareham River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB37</edomv>
+						<edomvd>Wings Neck North</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB38</edomv>
+						<edomvd>Wings Neck North</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB39</edomv>
+						<edomvd>Widow Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB40</edomv>
+						<edomvd>Onset Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB41</edomv>
+						<edomvd>Sunset Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB42</edomv>
+						<edomvd>East River System</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB43</edomv>
+						<edomvd>Fisherman Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB44</edomv>
+						<edomvd>Buttermilk Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB45</edomv>
+						<edomvd>Cape Cod Canal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB46</edomv>
+						<edomvd>Phinneys Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB47</edomv>
+						<edomvd>Back River/Eel Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB48</edomv>
+						<edomvd>Pocasset River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB49</edomv>
+						<edomvd>Pocasset And Red Brook Harbors</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB50</edomv>
+						<edomvd>Megansett Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB51</edomv>
+						<edomvd>North Falmouth Outer Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB52</edomv>
+						<edomvd>Wild Harbor/Wild Harbor River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB53</edomv>
+						<edomvd>Herring Brook</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB54</edomv>
+						<edomvd>West Falmouth Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB55</edomv>
+						<edomvd>Falmouth West Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB56</edomv>
+						<edomvd>Great Sippiwisset Marsh</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB57</edomv>
+						<edomvd>Little Sippiwisset Marsh</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BB58</edomv>
+						<edomvd>Quissett Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB1</edomv>
+						<edomvd>Herring Cove/Long Point</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB2</edomv>
+						<edomvd>Hatches Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB3</edomv>
+						<edomvd>Provincetown Outer Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB4</edomv>
+						<edomvd>Provincetown Inner Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB5</edomv>
+						<edomvd>The Breakwater</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB6</edomv>
+						<edomvd>Truro West Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB7</edomv>
+						<edomvd>Pamet River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB8</edomv>
+						<edomvd>Wellfleet West Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB9</edomv>
+						<edomvd>Eastham West Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB10</edomv>
+						<edomvd>Hatches Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB11</edomv>
+						<edomvd>Wellfleet Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB12</edomv>
+						<edomvd>Herring River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB13</edomv>
+						<edomvd>Wellfleet Inner Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB14</edomv>
+						<edomvd>Loagy Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB15</edomv>
+						<edomvd>Herring River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB16</edomv>
+						<edomvd>Boat Meadow River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB17</edomv>
+						<edomvd>Orleans North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB18</edomv>
+						<edomvd>Rock Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB19</edomv>
+						<edomvd>Little Namskaket Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB20</edomv>
+						<edomvd>Brewster North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB21</edomv>
+						<edomvd>Namskaket Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB22</edomv>
+						<edomvd>Stony Brook</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB23</edomv>
+						<edomvd>Dennis North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB24</edomv>
+						<edomvd>Quivett Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB25</edomv>
+						<edomvd>Sesuit Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB26</edomv>
+						<edomvd>Yarmouth North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB27</edomv>
+						<edomvd>Chase Garden Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB28</edomv>
+						<edomvd>Bass Creek &amp;amp; Lone Tree Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB29</edomv>
+						<edomvd>Mill Creek &amp;amp; Short Wharf Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB30</edomv>
+						<edomvd>Barnstable North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB31</edomv>
+						<edomvd>Barnstable Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB32</edomv>
+						<edomvd>Barnstable Inner Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB33</edomv>
+						<edomvd>Barnstable Marshes</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB34</edomv>
+						<edomvd>Scorton Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB35</edomv>
+						<edomvd>Sandwich North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB36</edomv>
+						<edomvd>Scorton Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB37</edomv>
+						<edomvd>Sandwich Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB38</edomv>
+						<edomvd>Bourne North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB39</edomv>
+						<edomvd>Plymouth South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB40</edomv>
+						<edomvd>Ellisville Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB41</edomv>
+						<edomvd>Plymouth North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB42</edomv>
+						<edomvd>Plymouth Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB43</edomv>
+						<edomvd>Kingston Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB44</edomv>
+						<edomvd>Jones River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB45</edomv>
+						<edomvd>Duxbury Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB46</edomv>
+						<edomvd>Bluefish River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB47</edomv>
+						<edomvd>Back River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB48</edomv>
+						<edomvd>Northwest Cape Cod Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB49</edomv>
+						<edomvd>Northeast Cape Cod Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB50</edomv>
+						<edomvd>Southeast Cape Cod Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CCB51</edomv>
+						<edomvd>Southwest Cape Cod Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E1</edomv>
+						<edomvd>E1 Naushon Island West Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E2</edomv>
+						<edomvd>Hadleys Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E3</edomv>
+						<edomvd>Northwest Gutter</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E4</edomv>
+						<edomvd>Gosnold West Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E5</edomv>
+						<edomvd>Robinsons Hole</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E6</edomv>
+						<edomvd>Quicks Hole</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E7</edomv>
+						<edomvd>Quicks Hole Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E8</edomv>
+						<edomvd>Cuttyhunk Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E9</edomv>
+						<edomvd>Cuttyhunk Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E10</edomv>
+						<edomvd>Westend Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E11</edomv>
+						<edomvd>Gosnold East Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E12</edomv>
+						<edomvd>Naushon East Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E13</edomv>
+						<edomvd>Tarpaulin Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E14</edomv>
+						<edomvd>Lackeys Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GBH1</edomv>
+						<edomvd>Hingham And Hull Bays</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GBH2</edomv>
+						<edomvd>Quincy Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GBH3</edomv>
+						<edomvd>Neponset River &amp;amp; Dorchester Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GBH4</edomv>
+						<edomvd>Boston Inner Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GBH5</edomv>
+						<edomvd>North Boston Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GBH6</edomv>
+						<edomvd>Boston Outer Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB1</edomv>
+						<edomvd>Duxbury Beach</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB2</edomv>
+						<edomvd>Marshfield East Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB3</edomv>
+						<edomvd>Green Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB4</edomv>
+						<edomvd>Scituate South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB5</edomv>
+						<edomvd>North River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB6</edomv>
+						<edomvd>South River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB7</edomv>
+						<edomvd>Scituate Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB8</edomv>
+						<edomvd>Scituate North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB9</edomv>
+						<edomvd>Cohasset North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB10</edomv>
+						<edomvd>Cohasset Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB11</edomv>
+						<edomvd>Little Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB14</edomv>
+						<edomvd>Massachusetts Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MHB1</edomv>
+						<edomvd>Mount Hope Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MHB2</edomv>
+						<edomvd>Taunton River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MHB3</edomv>
+						<edomvd>Lee River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MHB4</edomv>
+						<edomvd>Cole River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MHB5</edomv>
+						<edomvd>Palmer River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N1</edomv>
+						<edomvd>Salisbury Beach</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N2</edomv>
+						<edomvd>Merrimack River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N3</edomv>
+						<edomvd>Plum Island</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N4</edomv>
+						<edomvd>Plum Island Sound</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N5</edomv>
+						<edomvd>Ipswich River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N6</edomv>
+						<edomvd>Cranes Beach</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N7</edomv>
+						<edomvd>Essex Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N8</edomv>
+						<edomvd>Coffins Beach</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N9</edomv>
+						<edomvd>Annisquam River Gloucester Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N10</edomv>
+						<edomvd>Outer North Gloucester</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N11</edomv>
+						<edomvd>Rockport</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N12</edomv>
+						<edomvd>Good Harbor Beach</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N13</edomv>
+						<edomvd>Eastern Point</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N14</edomv>
+						<edomvd>Magnolia</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N15</edomv>
+						<edomvd>Manchester</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N16</edomv>
+						<edomvd>Beverly</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N17</edomv>
+						<edomvd>Danvers River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N18</edomv>
+						<edomvd>Salem Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N19</edomv>
+						<edomvd>Folger/Peaches Point</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N20</edomv>
+						<edomvd>Marblehead Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N21</edomv>
+						<edomvd>Marblehead</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N22</edomv>
+						<edomvd>Swampscott</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N23</edomv>
+						<edomvd>Lynn</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N24</edomv>
+						<edomvd>Nahant Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N25</edomv>
+						<edomvd>Nahant Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N26</edomv>
+						<edomvd>Lynn Hbr and Saugus/Pines Rivers</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N27</edomv>
+						<edomvd>Winthrop Beach</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N28</edomv>
+						<edomvd>Deer Island</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NS1</edomv>
+						<edomvd>Nantucket Sound NE Center</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NS2</edomv>
+						<edomvd>Nantucket Sound SE Center</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NS3</edomv>
+						<edomvd>Nantucket Sound SW Center</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NS4</edomv>
+						<edomvd>Nantucket Sound NW Center</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT1</edomv>
+						<edomvd>Nantucket Northeast Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT2</edomv>
+						<edomvd>Nantucket Harbor West</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT3</edomv>
+						<edomvd>Nantucket Harbor East</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT4</edomv>
+						<edomvd>Polpis Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT5</edomv>
+						<edomvd>Head Of The Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT6</edomv>
+						<edomvd>Coskata Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT7</edomv>
+						<edomvd>Nantucket East Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT8</edomv>
+						<edomvd>Nantucket Southeast Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT9</edomv>
+						<edomvd>Sesachacha Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT10</edomv>
+						<edomvd>Nantucket Southwest Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT11</edomv>
+						<edomvd>Madaket Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT12</edomv>
+						<edomvd>Nantucket Northwest Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT13</edomv>
+						<edomvd>Tuckernuck Island</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NT14</edomv>
+						<edomvd>Muskeget Island</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OC1</edomv>
+						<edomvd>Nauset Beach South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OC2</edomv>
+						<edomvd>Nauset Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OC3</edomv>
+						<edomvd>Mill Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OC4</edomv>
+						<edomvd>Town Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OC5</edomv>
+						<edomvd>Nauset Marsh</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OC6</edomv>
+						<edomvd>Salt Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OC7</edomv>
+						<edomvd>Nauset Beach North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OC8</edomv>
+						<edomvd>Wellfleet East Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OC9</edomv>
+						<edomvd>Truro East Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OC10</edomv>
+						<edomvd>Provincetown North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC1</edomv>
+						<edomvd>Woods Hole West Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC2</edomv>
+						<edomvd>Great Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC3</edomv>
+						<edomvd>Woods Hole Outer Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC4</edomv>
+						<edomvd>Little Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC5</edomv>
+						<edomvd>South Falmouth Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC6</edomv>
+						<edomvd>Oyster Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC7</edomv>
+						<edomvd>Salt Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC8</edomv>
+						<edomvd>East Falmouth Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC9</edomv>
+						<edomvd>Falmouth Inner Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC10</edomv>
+						<edomvd>Little Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC11</edomv>
+						<edomvd>Great Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC12</edomv>
+						<edomvd>Green Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC13</edomv>
+						<edomvd>Bournes Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC14</edomv>
+						<edomvd>Eel Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC15</edomv>
+						<edomvd>Waquoit Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC16</edomv>
+						<edomvd>Little and Great Rivers Complex</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC17</edomv>
+						<edomvd>Mashpee South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC18</edomv>
+						<edomvd>Barnstable South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC19</edomv>
+						<edomvd>Popponesset Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC20</edomv>
+						<edomvd>Mashpee River and Shoestring Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC21</edomv>
+						<edomvd>Cotuit Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC22</edomv>
+						<edomvd>West Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC23</edomv>
+						<edomvd>North Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC24</edomv>
+						<edomvd>East Bay and Centerville River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC25</edomv>
+						<edomvd>Bumps River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC26</edomv>
+						<edomvd>Squaw Island</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC27</edomv>
+						<edomvd>Hyannis Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC28</edomv>
+						<edomvd>Lewis Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC29</edomv>
+						<edomvd>Yarmouth South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC30</edomv>
+						<edomvd>Parkers River &amp;amp; Seine Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC31</edomv>
+						<edomvd>Lewis Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC32</edomv>
+						<edomvd>Dennis South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC33</edomv>
+						<edomvd>Bass River South</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC34</edomv>
+						<edomvd>Bass River Center</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC35</edomv>
+						<edomvd>Bass River North</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC36</edomv>
+						<edomvd>Swan Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC37</edomv>
+						<edomvd>Harwich South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC38</edomv>
+						<edomvd>Herring River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC39</edomv>
+						<edomvd>Allens Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC40</edomv>
+						<edomvd>Wychmere Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC41</edomv>
+						<edomvd>Saquatucket Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC42</edomv>
+						<edomvd>Chatham South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC43</edomv>
+						<edomvd>Red River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC44</edomv>
+						<edomvd>Mill Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC45</edomv>
+						<edomvd>Taylors Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC46</edomv>
+						<edomvd>Bucks &amp;amp; Cockle Cove Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC47</edomv>
+						<edomvd>Monomoy Island</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC48</edomv>
+						<edomvd>Stage Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC49</edomv>
+						<edomvd>Oyster Pond River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC50</edomv>
+						<edomvd>Oyster Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC51</edomv>
+						<edomvd>Mitchell River and Mill Ponds</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC52S</edomv>
+						<edomvd>Chatham Harbor South</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC53</edomv>
+						<edomvd>Pleasant Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC54</edomv>
+						<edomvd>Bassing Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC55</edomv>
+						<edomvd>Crows Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC56</edomv>
+						<edomvd>Ryders Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC57</edomv>
+						<edomvd>Frostfish Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC58</edomv>
+						<edomvd>Muddy Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC59</edomv>
+						<edomvd>Round Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC60</edomv>
+						<edomvd>Quanset Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC61</edomv>
+						<edomvd>Little Pleasant Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC62</edomv>
+						<edomvd>Pochet Creek</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC63</edomv>
+						<edomvd>Namequoit River</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC64</edomv>
+						<edomvd>Paw Wah Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V1</edomv>
+						<edomvd>Menemsha Bight</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V2</edomv>
+						<edomvd>Menemsha Inlet and Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V3</edomv>
+						<edomvd>Nashaquitsa and Stonewall Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V4</edomv>
+						<edomvd>Chilmark North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V5</edomv>
+						<edomvd>West Tisbury North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V6</edomv>
+						<edomvd>James Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V7</edomv>
+						<edomvd>Tisbury North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V8</edomv>
+						<edomvd>Lake Tashmoo</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V9</edomv>
+						<edomvd>Oak Bluffs North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V10</edomv>
+						<edomvd>Vineyard Haven Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V11</edomv>
+						<edomvd>Lagoon Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V12</edomv>
+						<edomvd>Edgartown North Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V13</edomv>
+						<edomvd>Edgartown Outer Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V14</edomv>
+						<edomvd>Oak Bluffs Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V15</edomv>
+						<edomvd>Hamlin Pond and Farm Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V16</edomv>
+						<edomvd>Sengekontacket Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V17</edomv>
+						<edomvd>Eel Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V18</edomv>
+						<edomvd>Chappaquiddick Beach</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V19</edomv>
+						<edomvd>Edgartown Inner Harbor</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V20</edomv>
+						<edomvd>Katama Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V21</edomv>
+						<edomvd>Cape Poge Bay</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V22</edomv>
+						<edomvd>Pocha Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V23</edomv>
+						<edomvd>Edgartown East Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V24</edomv>
+						<edomvd>Edgartown South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V25</edomv>
+						<edomvd>Crackatuxet Cove</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V26</edomv>
+						<edomvd>Edgartown Great Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V27</edomv>
+						<edomvd>Jobs Neck Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V28</edomv>
+						<edomvd>Paqua Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB12</edomv>
+						<edomvd>Nantasket Beach</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MB13</edomv>
+						<edomvd>Outer Boston Harbor Islands</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V29</edomv>
+						<edomvd>Oyster Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V30</edomv>
+						<edomvd>Martha's Vineyard South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V31</edomv>
+						<edomvd>Tisbury Great Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V32</edomv>
+						<edomvd>Chilmark Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V33</edomv>
+						<edomvd>Gay Head South Coastal</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V34</edomv>
+						<edomvd>Nomans Land</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V35</edomv>
+						<edomvd>Squibnocket Pond</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SC52N</edomv>
+						<edomvd>Chatham Harbor North</edomvd>
+						<edomvds>Massachusetts. Division of Marine Fisheries</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GROWING_AR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>AREA_DESC</attrlabl>
+				<attrdef>Well-known local name for each classification area.</attrdef>
+				<attrdefs>Massachusetts. Division of Marine Fisheries</attrdefs>
+				<attalias Sync="TRUE">AREA_DESC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CLASS</attrlabl>
+				<attrdef>Sanitary classification of shellfish growing area in accordance with the National Shellfish Sanitation Program.</attrdef>
+				<attrdefs>Massachusetts. Division of Marine Fisheries</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>APPROVED</edomv>
+						<edomvd>Harvest of shellstock for direct human consumption allowed.</edomvd>
+						<edomvds>DFG DMF</edomvds>
+					</edom>
+					<edom>
+						<edomv>CONDITIONALLY APPROVED</edomv>
+						<edomvd>Meets the criteria for the approved classification except under certain conditions described in a management plan.</edomvd>
+						<edomvds>DFG DMF</edomvds>
+					</edom>
+					<edom>
+						<edomv>RESTRICTED</edomv>
+						<edomvd>Harvest allowed by special license and the shellstock, following harvest, is subjected to a suitable and effective treatment process through relaying or depuration.</edomvd>
+						<edomvds>DFG DMF</edomvds>
+					</edom>
+					<edom>
+						<edomv>CONDITIONALLY RESTRICTED</edomv>
+						<edomvd>Meets the criteria for the restricted classification except under certain conditions described in a management plan.</edomvd>
+						<edomvds>DFG DMF</edomvds>
+					</edom>
+					<edom>
+						<edomv>PROHIBITED</edomv>
+						<edomvd>Harvest of shellstock for any purpose is not permitted.</edomvd>
+						<edomvds>DFG DMF</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">CLASS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CONDITION</attrlabl>
+				<attrdef>Denotes what type of condition applies for conditional area management. There are three types possible: rainfall, season, or both.</attrdef>
+				<attrdefs>Massachusetts. Division of Marine Fisheries</attrdefs>
+				<attalias Sync="TRUE">CONDITION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LGL_DESC</attrlabl>
+				<attrdef>Classification area legal description</attrdef>
+				<attrdefs>Massachusetts. Division of Marine Fisheries</attrdefs>
+				<attalias Sync="TRUE">LGL_DESC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SHAPE_AREA</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SHAPE_AREA</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>SHAPE_LEN</attrlabl>
+				<attrdef>Length of the feature area in the unit of meter</attrdef>
+				<attrdefs>Massachusetts. Division of Marine Fisheries</attrdefs>
+				<attalias Sync="TRUE">SHAPE_LEN</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>8.532</transize>
+					<dssize Sync="TRUE">8.532</dssize>
+</digtinfo>
+			</digform>
+			<ordering>Download from http://www.mass.gov/itd/dsga.</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130717</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.mass.gov/itd/dsga</onlink>
+			<metprof>MassGIS Web Documentation</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">MAShellfish6613</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">217768.3282</westBL>
+<eastBL Sync="TRUE">336460.4645</eastBL>
+<northBL Sync="TRUE">958709.7561</northBL>
+<southBL Sync="TRUE">772062.5034</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.2882</westBL>
+<eastBL Sync="TRUE">-69.830024</eastBL>
+<northBL Sync="TRUE">42.878807</northBL>
+<southBL Sync="TRUE">41.186918</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\MassGIS2013_3\dsga\MAShellfish6613.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">8.532</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="MAShellfish6613">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">732</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140522</SyncDate>
+<SyncTime>21253300</SyncTime>
+<ModDate>20140522</ModDate>
+<ModTime>21260500</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140522</mdDateSt>
+</metadata>

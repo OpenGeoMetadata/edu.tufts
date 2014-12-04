@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Concord (Mass.). Dept. of Public Works</origin>
+				<pubdate>2006</pubdate>
+				<title>Catch Basins Concord 1995</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+				</serinfo>
+				<pubinfo>
+				</pubinfo>
+				<onlink>http://www.mapsonline.net/concord/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Concord (Mass.). Dept. of Public Works</origin>
+						<pubdate>2006</pubdate>
+						<title>Town of Concord GIS Data</title>
+						<pubinfo>
+							<pubplace>Concord (Mass.)</pubplace>
+							<publish>Concord (Mass.). Dept. of Public Works</publish>
+						</pubinfo>
+						<onlink>http://www.mapsonline.net/concord/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">ConcordCatchBasin95</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset represents locations of catch basins in Concord, MA.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2006</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Unknown</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-71.429406</westbc>
+				<eastbc>
+-71.289239</eastbc>
+				<northbc>
+42.503817</northbc>
+				<southbc>
+42.415042</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">675229.580000</leftbc>
+<rightbc Sync="TRUE">713000.480000</rightbc>
+<bottombc Sync="TRUE">2976341.900009</bottombc>
+<topbc Sync="TRUE">3008632.510008</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>location</themekey>
+				<themekey>inlandWaters</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Hydrography</themekey>
+				<themekey>Bodies of Water</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Concord</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Middlesex</placekey>
+				<placekey>New England</placekey>
+				<placekey>MA</placekey>
+			</place>
+		</keywords>
+		<accconst>Restricted Access Online:Access is granted to licensee only. Available only to Tufts University affiliates.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Concord Public Works</cntorg>
+					<cntper>Matthew Barrett</cntper>
+				</cntorgp>
+				<cntpos>GIS Program Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>133 Keyes Road</address>
+					<city>Concord</city>
+					<state>MA</state>
+					<postal>01742</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>978-318-3210</cntvoice>
+				<cntemail>mbarret@concordnet.org</cntemail>
+				<hours>Monday - Friday 8:30am-4:30pm, EST-USA</hours>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>Unknown</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Name changed from ConcordCatchBasins95</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM- 5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlD60A.tmp</srcused>
+				<procdate>20130109</procdate>
+				<proctime>10475600</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="ConcordCatchBasin95">
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>3576</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="ConcordCatchBasin95">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">3576</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">656166.666667</feast>
+<fnorth Sync="TRUE">2460625.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="ConcordCatchBasin95">
+			<enttyp>
+				<enttypl>
+ConcordCatchBasin95</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">3576</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>FRAME</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FRAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">7</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SOURCE</attrlabl>
+				<attrdef>Data source</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SOURCE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATUS</attrlabl>
+				<attrdef>Indicates if other fields have been populated</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Other fields have been populated, and the record has been investigated</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Indicates there is no known data for this record</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STATUS</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>STRUCT_ID</attrlabl>
+				<attrdef>Structure identification number</attrdef>
+				<attrdefs>Concord (Mass.). Dept. of Public Works</attrdefs>
+				<attalias Sync="TRUE">STRUCT_ID</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>CREW</attrlabl>
+				<attrdef>Indicates the crew in charge of investigating the manhole</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CREW</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DATE_</attrlabl>
+				<attrdef>Geoprocessing identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DATE_</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTHTOTAL</attrlabl>
+				<attrdef>Depth total in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTHTOTAL</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTHSILT</attrlabl>
+				<attrdef>Silt depth in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTHSILT</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTHSUMP</attrlabl>
+				<attrdef>Depth of sump pit</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTHSUMP</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>STREETNAME</attrlabl>
+				<attrdef>Street name</attrdef>
+				<attrdefs>Concord (Mass.). Dept. of Public Works</attrdefs>
+				<attalias Sync="TRUE">STREETNAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CATCHAREA</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CATCHAREA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TREATMENT</attrlabl>
+				<attrdef>Indicates whether there has been treated</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">TREATMENT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OUTFALL</attrlabl>
+				<attrdef>Indicates where the sewer or drain empties into</attrdef>
+				<attrdefs>Concord (Mass.). Dept. of Public Works</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Indicates the drain ahs not been populated yet</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Wetlands</edomv>
+						<edomvd>The drain empties into wetlands</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">OUTFALL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OUTFALLOTH</attrlabl>
+				<attrdef>Indicates other types of outfall options</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OUTFALLOTH</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIZE_</attrlabl>
+				<attrdef>Size of the outfall</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SIZE_</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIZEOTHER</attrlabl>
+				<attrdef>Indicates the size of the outfall if the SIZE_ field is populated with "other"</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SIZEOTHER</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TYPE</attrlabl>
+				<attrdef>Type of structure</attrdef>
+				<attrdefs>Concord (Mass.). Dept. of Public Works</attrdefs>
+				<attalias Sync="TRUE">TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TYPEOTHER</attrlabl>
+				<attrdef>Indicates further details about the type of manhole or drainhole</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Leaching</edomv>
+						<edomvd>Indicates a drain or manhole which participates in a decontamination process</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TYPEOTHER</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MATERIAL</attrlabl>
+				<attrdef>Material of structure</attrdef>
+				<attrdefs>Concord (Mass.). Dept. of Public Works</attrdefs>
+				<attalias Sync="TRUE">MATERIAL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MATOTHER</attrlabl>
+				<attrdef>Additional material information</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">MATOTHER</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CONDITION</attrlabl>
+				<attrdef>Condition of the drain or manhole</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CONDITION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PHOTONAME</attrlabl>
+				<attrdef>Records the location of photographic records</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PHOTONAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OCLOCK1</attrlabl>
+				<attrdef>Indicates structure orientation</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OCLOCK1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_FT1</attrlabl>
+				<attrdef>Depth in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_FT1</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_M1</attrlabl>
+				<attrdef>Depth in meters</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_M1</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DIAMETER1</attrlabl>
+				<attrdef>Diameter in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIAMETER1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPETYPE1</attrlabl>
+				<attrdef>Pipe type</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPETYPE1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRAP1</attrlabl>
+				<attrdef>Indicates the presence of a catch basin trap</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Trap</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>No trap</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRAP1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HOOD1</attrlabl>
+				<attrdef>Indicates if the sewer has a hood</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Yes</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>No</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">HOOD1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIRECTION1</attrlabl>
+				<attrdef>Indicates direction of flow</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIRECTION1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPE_ID1</attrlabl>
+				<attrdef>Indicates condition of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_ID1</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PIPE_COND1</attrlabl>
+				<attrdef>Condition of pipe (Excellent, good, fair, poor)</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_COND1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OCLOCK2</attrlabl>
+				<attrdef>Orientation of structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OCLOCK2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_FT2</attrlabl>
+				<attrdef>Depth in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_FT2</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_M2</attrlabl>
+				<attrdef>Depth in meters</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_M2</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DIAMETER2</attrlabl>
+				<attrdef>Diameter in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIAMETER2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPETYPE2</attrlabl>
+				<attrdef>Pipe structure material</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPETYPE2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRAP2</attrlabl>
+				<attrdef>Indicates if there is a catch basin trap</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Trap is present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Trap is not present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRAP2</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HOOD2</attrlabl>
+				<attrdef>Indicates if there is a hood</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">HOOD2</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIRECTION2</attrlabl>
+				<attrdef>Direction of structure</attrdef>
+				<attrdefs>Concord (Mass.). Dept. of Public Works</attrdefs>
+				<attalias Sync="TRUE">DIRECTION2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPE_ID2</attrlabl>
+				<attrdef>ID of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_ID2</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PIPE_COND2</attrlabl>
+				<attrdef>Condition of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_COND2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OCLOCK3</attrlabl>
+				<attrdef>Orientation of structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OCLOCK3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_FT3</attrlabl>
+				<attrdef>Depth in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_FT3</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_M3</attrlabl>
+				<attrdef>Depth in meters</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_M3</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DIAMETER3</attrlabl>
+				<attrdef>Diameter in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIAMETER3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPETYPE3</attrlabl>
+				<attrdef>Pipe type material</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPETYPE3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRAP3</attrlabl>
+				<attrdef>Indicates if there is a trap</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Trap is present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Trap is not present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRAP3</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HOOD3</attrlabl>
+				<attrdef>Indicates if there is a hood</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">HOOD3</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIRECTION3</attrlabl>
+				<attrdef>Direction of structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIRECTION3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPE_ID3</attrlabl>
+				<attrdef>Identifier of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_ID3</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PIPE_COND3</attrlabl>
+				<attrdef>Pipe condition (excellent, good, fair, poor)</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_COND3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OCLOCK4</attrlabl>
+				<attrdef>Orientation of structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OCLOCK4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_FT4</attrlabl>
+				<attrdef>Depth in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_FT4</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_M4</attrlabl>
+				<attrdef>Depth in meters</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_M4</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DIAMETER4</attrlabl>
+				<attrdef>Diameter in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIAMETER4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPETYPE4</attrlabl>
+				<attrdef>Pipe type material</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPETYPE4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRAP4</attrlabl>
+				<attrdef>Indicates if there is a trap</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>There is a trap</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>There is a trap</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRAP4</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HOOD4</attrlabl>
+				<attrdef>Indicates if there is a hood</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">HOOD4</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIRECTION4</attrlabl>
+				<attrdef>Direction of structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIRECTION4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPE_ID4</attrlabl>
+				<attrdef>Identifier of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_ID4</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PIPE_COND4</attrlabl>
+				<attrdef>Pipe condition (excellent, good, fair, poor)</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_COND4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OCLOCK5</attrlabl>
+				<attrdef>Orientation of structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OCLOCK5</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_FT5</attrlabl>
+				<attrdef>Depth in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_FT5</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_M5</attrlabl>
+				<attrdef>Depth in meters</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_M5</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DIAMETER5</attrlabl>
+				<attrdef>Diameter in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIAMETER5</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPETYPE5</attrlabl>
+				<attrdef>Pipe type material</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPETYPE5</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRAP5</attrlabl>
+				<attrdef>Indicates if there is a trap</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Trap is present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Trap is not present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRAP5</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HOOD5</attrlabl>
+				<attrdef>Indicates if there is a hood over the drain</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">HOOD5</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIRECTION5</attrlabl>
+				<attrdef>Direction of structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIRECTION5</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPE_ID5</attrlabl>
+				<attrdef>Identifier of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_ID5</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PIPE_COND5</attrlabl>
+				<attrdef>Pipe condition (excellent, good, fair, poor)</attrdef>
+				<attrdefs>Concord (Mass.). Public Works</attrdefs>
+				<attalias Sync="TRUE">PIPE_COND5</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OCLOCK6</attrlabl>
+				<attrdef>Structure orientation</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OCLOCK6</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_FT6</attrlabl>
+				<attrdef>Depth in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_FT6</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_M6</attrlabl>
+				<attrdef>Depth in meters</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_M6</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DIAMETER6</attrlabl>
+				<attrdef>Diameter in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIAMETER6</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPETYPE6</attrlabl>
+				<attrdef>Pipe type material</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPETYPE6</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRAP6</attrlabl>
+				<attrdef>Indicates if there is a trap present</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Trap is present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Trap is not present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRAP6</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HOOD6</attrlabl>
+				<attrdef>Indicates if there is a hood for the sewer</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">HOOD6</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIRECTION6</attrlabl>
+				<attrdef>Direction of structure</attrdef>
+				<attrdefs>Concord (Mass.). Dept. of Public Works</attrdefs>
+				<attalias Sync="TRUE">DIRECTION6</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPE_ID6</attrlabl>
+				<attrdef>Identifier of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_ID6</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PIPE_COND6</attrlabl>
+				<attrdef>Pipe condition (excellent, good, fair, poor)</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_COND6</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OCLOCK7</attrlabl>
+				<attrdef>Structure orienation</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OCLOCK7</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_FT7</attrlabl>
+				<attrdef>Depth in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_FT7</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_M7</attrlabl>
+				<attrdef>Depth in meters</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_M7</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DIAMETER7</attrlabl>
+				<attrdef>Diameter in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIAMETER7</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPETYPE7</attrlabl>
+				<attrdef>Pipe type material</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPETYPE7</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRAP7</attrlabl>
+				<attrdef>Indicates if there is a trap present</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Trap is present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Trap is not present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRAP7</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HOOD7</attrlabl>
+				<attrdef>Indicates if the sewer has a hood</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">HOOD7</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIRECTION7</attrlabl>
+				<attrdef>Direction of structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIRECTION7</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPE_ID7</attrlabl>
+				<attrdef>Identifier of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_ID7</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PIPE_COND7</attrlabl>
+				<attrdef>Pipe condition (excellent, good, fair, poor)</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_COND7</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OCLOCK8</attrlabl>
+				<attrdef>Orientation of the structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OCLOCK8</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_FT8</attrlabl>
+				<attrdef>Depth in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_FT8</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_M8</attrlabl>
+				<attrdef>Depth in meters</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_M8</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DIAMETER8</attrlabl>
+				<attrdef>Diameter of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIAMETER8</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPETYPE8</attrlabl>
+				<attrdef>Type of pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPETYPE8</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRAP8</attrlabl>
+				<attrdef>Indicates if there is a trap</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>There is a trap</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>There is not a trap</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRAP8</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HOOD8</attrlabl>
+				<attrdef>Indicates if there is a hood</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>There is a hood</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>There is not a hood</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">HOOD8</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIRECTION8</attrlabl>
+				<attrdef>Direction of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIRECTION8</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPE_ID8</attrlabl>
+				<attrdef>Identifier of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_ID8</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PIPE_COND8</attrlabl>
+				<attrdef>Condition of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_COND8</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OCLOCK9</attrlabl>
+				<attrdef>Orientation of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OCLOCK9</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_FT9</attrlabl>
+				<attrdef>Depth in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_FT9</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_M9</attrlabl>
+				<attrdef>Depth in meters</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_M9</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DIAMETER9</attrlabl>
+				<attrdef>Diameter of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIAMETER9</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPETYPE9</attrlabl>
+				<attrdef>Type of pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPETYPE9</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRAP9</attrlabl>
+				<attrdef>indicates if there is a trap</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>There is a trap</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>There is not a trap</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRAP9</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HOOD9</attrlabl>
+				<attrdef>Indicates if there is a hood over the sewer</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">HOOD9</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIRECTION9</attrlabl>
+				<attrdef>Direction of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIRECTION9</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPE_ID9</attrlabl>
+				<attrdef>Identifier of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_ID9</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PIPE_COND9</attrlabl>
+				<attrdef>Condition of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_COND9</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OCLOCK10</attrlabl>
+				<attrdef>Orientation of the structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OCLOCK10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_FT10</attrlabl>
+				<attrdef>Depth in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_FT10</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPTH_M10</attrlabl>
+				<attrdef>Depth in meters</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DEPTH_M10</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DIAMETER10</attrlabl>
+				<attrdef>Diameter of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIAMETER10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPETYPE10</attrlabl>
+				<attrdef>Type of pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPETYPE10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRAP10</attrlabl>
+				<attrdef>Indicate sif there is a trap present</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>There is a trap present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>There is no trap present</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRAP10</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HOOD10</attrlabl>
+				<attrdef>Indicates if there is a sewer hood</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">HOOD10</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIRECTION0</attrlabl>
+				<attrdef>Direction of flow</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DIRECTION0</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PIPE_ID10</attrlabl>
+				<attrdef>Identifier of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_ID10</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PIPE_COND0</attrlabl>
+				<attrdef>Condition of the pipe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PIPE_COND0</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OFALL_TYPE</attrlabl>
+				<attrdef>Indicates where the outfall drains</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OFALL_TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OFALL_NAME</attrlabl>
+				<attrdef>Name of the outfall location</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OFALL_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OFALL_OTHR</attrlabl>
+				<attrdef>Indicates type of outfall if does not specifiy in OFALL_TYPE</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OFALL_OTHR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>IL_FOAM</attrlabl>
+				<attrdef>Indicates if the catchbasin had foam constructed components</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Presence of foam components</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>No pfoam components</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">IL_FOAM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>IL_ODOR</attrlabl>
+				<attrdef>Indicates if drain or sewer has odor</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">IL_ODOR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>IL_COMMENT</attrlabl>
+				<attrdef>Describes type of odor</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">IL_COMMENT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">250</attwidth>
+</attr>
+			<attr>
+				<attrlabl>IL_DRYFLOW</attrlabl>
+				<attrdef>Indicates if the drain or manhole is a dryflow, or arriving from a residential, institutional, or community property</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">IL_DRYFLOW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>IL_STAIN</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">IL_STAIN</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>IL_VPC</attrlabl>
+				<attrdef>Indicates if the drain or manhole is a fiberglass metering manhole</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">IL_VPC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>IL_VPC_CMT</attrlabl>
+				<attrdef>Comments on the VPC</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">IL_VPC_CMT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">250</attwidth>
+</attr>
+			<attr>
+				<attrlabl>IL_OTHER</attrlabl>
+				<attrdef>Further comments on the VPC, if needed</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">IL_OTHER</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">250</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SU_CH_COND</attrlabl>
+				<attrdef>Structure condition (excellent, good, fair, poor)</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SU_CH_COND</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SU_F_COND</attrlabl>
+				<attrdef>Structure condition (excellent, good, fair, poor)</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SU_F_COND</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SU_F_TYPE</attrlabl>
+				<attrdef>Structure type</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SU_F_TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SU_F_OTHER</attrlabl>
+				<attrdef>Describes a diameter larger than those included in SU_F_TYPE</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SU_F_OTHER</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SU_G_COND</attrlabl>
+				<attrdef>Condition of the drain or manhole</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SU_G_COND</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SU_G_TYPE</attrlabl>
+				<attrdef>Type of manhole or drain</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SU_G_TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SU_G_OTHER</attrlabl>
+				<attrdef>Further comments on the structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SU_G_OTHER</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SU_C_COND</attrlabl>
+				<attrdef>Structure condition</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SU_C_COND</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SU_C_TYPE</attrlabl>
+				<attrdef>Structure type</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SU_C_TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SU_C_OTHER</attrlabl>
+				<attrdef>Security functions</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SU_C_OTHER</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NORTHING</attrlabl>
+				<attrdef>Northward measured distance</attrdef>
+				<attrdefs>Concord (Mass.). Dept. of Public Works</attrdefs>
+				<attalias Sync="TRUE">NORTHING</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>EASTING</attrlabl>
+				<attrdef>Eastward measured distance</attrdef>
+				<attrdefs>Concord (Mass.). Dept. of Public Works</attrdefs>
+				<attalias Sync="TRUE">EASTING</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.096</transize>
+					<dssize Sync="TRUE">0.096</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.tufts.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130416</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">ConcordCatchBasin95</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">675229.58</westBL>
+<eastBL Sync="TRUE">713000.48</eastBL>
+<northBL Sync="TRUE">3008632.510008</northBL>
+<southBL Sync="TRUE">2976341.900009</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.429406</westBL>
+<eastBL Sync="TRUE">-71.289239</eastBL>
+<northBL Sync="TRUE">42.503817</northBL>
+<southBL Sync="TRUE">42.415042</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\TownofConcordGISData\ConcordCatchBasin95.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.096</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="ConcordCatchBasin95">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">3576</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130416</SyncDate>
+<SyncTime>13435500</SyncTime>
+<ModDate>20130416</ModDate>
+<ModTime>13435500</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130416</mdDateSt>
+</metadata>

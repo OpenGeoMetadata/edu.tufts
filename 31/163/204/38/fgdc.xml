@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo Sync="TRUE">
+				<origin>TechniGraphics, Inc.</origin>
+				<pubdate>20100226</pubdate>
+				<title>Nursing Home Locations New Hampshire 2009-2010</title>
+				<edition Sync="TRUE">2010 Q1</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nursing_homes&amp;amp;#47;nh</onlink>
+<ftname Sync="TRUE">NHNursingHomes0910</ftname>
+<origin>CACI, Inc. - Federal</origin>
+<lworkcit>
+<citeinfo>
+<origin>University of New Hampshire. Complex Systems Research Center</origin>
+<title>NH GRANIT Database</title>
+<pubdate>19860101</pubdate>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+<onlink>http://www.granit.sr.unh.edu/</onlink>
+</citeinfo>
+</lworkcit>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+</citeinfo>
+		</citation>
+		<descript Sync="TRUE">
+			<abstract>This point dataset shows the locations for nursing homes in New Hampshire.
+
+A nursing home is commonly referred to as a skilled nursing facility, long term care (LTC) facility, or rest home, and may have a different standardized name throughout the United States, but is most commonly referred to as a nursing home. A nursing home traditionally offers 24-hour (skilled) nursing to the elderly or to disabled patients having a variety of medical conditions who require personal care services above that of an assisted living but do not require hospitalization. The personal care services provided may or may not include, but are not limited to: skilled nursing, long term inpatient care, room and board, meals, laundry, and assistance with: dressing, grooming, getting in and out of bed, medications, bathing, and toileting.
+
+For purposes of this dataset, an assisted living facility is defined as a facility where the elderly, who are not related to the operator, reside and receive care, treatment, or services. Although not at the level of a nursing home, the services are above the level of an independent living community. They may include several hours per week of supportive care, personal care, or nursing care per resident. Generally, an assisted living facility offers help in daily living (laundry, cooking, cleaning, etc.) and personal assistance (bathing, eating, clothing, etc.). Many assisted living facilities offer assistance with medication and a lesser level of nursing care than what is offered at a nursing home.
+
+Assisted living facilities may be regulated by size restrictions depending on which type of assisted living facility it is considered to be in the state in which it exists. For example, Adult Family Homes in Wisconsin have between 3-4 elderly residents while Community Based Residential Facilities have 5 or more. Almost every state has different terminology to describe their version of the assisted living facility system.
+
+The structures in which assisted living facilities exist are varied as well. Depending on the type, an assisted living facility may operate out of a personal residence or a nursing home style structure, and it may be set up as apartment style living or as a campus setting in a continuing care retirement community. Multiple assisted living facilities may exist at one location or may be co-located with nursing homes and/or other similar health care facilities.
+
+If a facility is licensed by a state and holds multiple licenses, it is represented once in this dataset for each license, even if the licenses are for the same location.
+
+This dataset does not include retirement communities, adult daycare facilities, or rehabilitation facilities. Nursing Homes that are operated by and co-located with a hospital are also excluded because the locations are included in the hospital dataset.
+
+Records with "-DOD" appended to the end of the [NAME] value are located on a military base, as defined by the Defense Installation Spatial Data Infrastructure (DISDI) military installations and military range boundaries.
+
+"#" and "*" characters were automatically removed from standard fields populated by TechniGraphics. Double spaces were replaced by single spaces in these same fields.
+
+Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results.
+
+All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics. 
+
+The currentness of this dataset is indicated by the [CONTDATE] field. Based on this field, the oldest record dates from 09/29/2009 and the newest record dates from 01/08/2010.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo Sync="TRUE">
+				<rngdates Sync="TRUE">
+					<begdate Sync="TRUE">20090929</begdate>
+					<enddate Sync="TRUE">20100108</enddate>
+				</rngdates>
+			</timeinfo>
+			<current Sync="TRUE">ground condition</current>
+		</timeperd>
+		<status>
+			<progress Sync="TRUE">Complete</progress>
+			<update Sync="TRUE">Unknown</update>
+		</status>
+		<spdom Sync="TRUE">
+			<bounding Sync="TRUE">
+				<westbc Sync="TRUE">-72.492825</westbc>
+				<eastbc Sync="TRUE">-70.723121</eastbc>
+				<northbc Sync="TRUE">44.989149</northbc>
+				<southbc Sync="TRUE">42.706908</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">770492.276555</leftbc>
+<rightbc Sync="TRUE">1228384.098188</rightbc>
+<bottombc Sync="TRUE">76718.012350</bottombc>
+<topbc Sync="TRUE">907325.279561</topbc>
+</lboundng>
+</spdom>
+		<keywords Sync="TRUE">
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>New Hampshire</placekey>
+			</place>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>location</themekey>
+<themekey>structure</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>health</themekey>
+</theme>
+<theme>
+<themekey>Nursing homes</themekey>
+<themekey>Congregate housing</themekey>
+<themekey>Rehabilitation</themekey>
+<themekt>LCSH</themekt>
+<themekey>Older people--Care</themekey>
+</theme>
+<place>
+<placekey>Norhtern Hemishpere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational noncommercial use only. </useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>Director of Research and Development</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>3351 Eastbrook Drive</address>
+					<city>Fort Collins</city>
+					<state>CO</state>
+					<postal Sync="TRUE">80525</postal>
+					<country Sync="TRUE">USA</country>
+				</cntaddr>
+				<cntvoice>970-224-4996</cntvoice>
+				<cntfax>970-224-3001</cntfax>
+				<cntemail>mike.thompson@tgstech.com</cntemail>
+				<hours>Monday - Friday 8:00 - 5:00 MST</hours>
+				<cntorgp>
+<cntorg>TechniGraphics, Inc.</cntorg>
+<cntper>Mike Thompson</cntper>
+</cntorgp>
+</cntinfo>
+		</ptcontac>
+		<secinfo Sync="TRUE">
+			<secsys Sync="TRUE">DOD</secsys>
+			<secclass>Unclassified</secclass>
+			<sechandl>Unclassified</sechandl>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual Sync="TRUE">
+		<attracc Sync="TRUE">
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.</attraccr>
+		</attracc>
+		<logic>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.  </logic>
+		<complete Sync="TRUE">
+If a facility is licensed by a state and holds multiple licenses, it is represented once in this dataset for each license, even if the licenses are for the same location.
+
+This dataset does not include retirement communities, adult daycare facilities, or rehabilitation facilities.  Nursing Homes that are operated by and co-located with a hospital are also excluded because the locations are included in the hospital dataset.
+
+TechniGraphics was not tasked with ensuring the completeness of this layer.
+</complete>
+		<posacc Sync="TRUE">
+			<horizpa Sync="TRUE">
+				<horizpar Sync="TRUE">
+The horizontal accuracy is indicated by the [GEOPREC] field. Values are either "APPROXIMATE" or "ONENTITY". Based on the accuracy of the ortho imagery available to TechniGraphics, points are placed "ONENTITY" at the center of the main building. If the main building is not readily identifiable, points are placed "APPROXIMATE" at the center of the core building complex within the overall facility. If no specific core building complex is readily identifiable due to the size of the facility area or there being multiple building clusters, the point is placed "APPROXIMATE" in the center of the overall facility area. If the center of the overall facility area is unable to be determined, the point is placed "APPROXIMATE" along the correct street segment (block) on the correct side of the street.
+
+Records with "-DOD" appended to the end of the [NAME] value are located on a military base, as defined by the Defense Installation Spatial Data Infrastructure (DISDI) military installations and military range boundaries.
+</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>TechniGraphics, Inc.</origin>
+						<pubdate>2009</pubdate>
+						<title>TechniGraphics Research</title>
+						<edition>Unspecified</edition>
+						<geoform>tabular digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<typesrc>Digital Database File</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2009</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>TGS_Research</srccitea>
+				<srccontr>This was used as a source for Nursing Homes and Assisted Living Facilities in the United States.</srccontr>
+				<srcscale>Unknown</srcscale>
+</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>United States Department of Health and Human Services (USDHHS)</origin>
+						<pubdate>20090824</pubdate>
+						<title>Nursing Home Compare</title>
+						<edition>Unspecified</edition>
+						<geoform>tabular digital data</geoform>
+						<onlink>http://www.medicare.gov/Download/DownloadDB.asp?%20language=Englishversion=default</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20090824</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>USDHHS_Nursing_Home</srccitea>
+				<srccontr>This was used as a source for Nursing Homes in the United States to supplement state-supplied data and data gathered by TechniGraphics.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NAVTEQ</origin>
+						<pubdate>2009</pubdate>
+						<title>NAVSTREETS</title>
+						<edition>2009.2</edition>
+						<geoform>vector digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<typesrc>CD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2009</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NAVTEQ_Streets_2009_Q2</srccitea>
+				<srccontr>This version of NAVTEQ streets was used as a reference in the automatic geocoding and manual geolocating of entities during processing.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+1) At the onset of processing, TechniGraphics attempted to contact all entities to determine or verify their name, physical address, city, state, five (5) digit zip code, ten (10) digit phone number, and geospatial location.
+
+2) On 10/23/09, TechniGraphics ceased making phone calls to the entity. Entities were verified through alternate resources, such as maps and ortho imagery, or phone calls to alternative resources, such as city halls and county assessors.
+
+3) All text fields were set to all upper case.
+
+4) Leading and trailing spaces were trimmed from all text fields.
+
+5) Non printable and diacritic characters were removed from all text fields.
+</procdesc>
+				<srcused>TGS_Research</srcused>
+				<srcused>USDHHS_Nursing_Home</srcused>
+				<srcused>NAVTEQ_Streets_2009_Q2</srcused>
+				<procdate>20100226</procdate>
+				<srcprod>Nursing_Homes</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Nicole Hackworth</cntper>
+							<cntorg>TechniGraphics, Inc.</cntorg>
+						</cntperp>
+						<cntpos>Production Manager</cntpos>
+						<cntaddr>
+							<addrtype>Mailing and Physical Address</addrtype>
+							<address>2000 Noble Drive</address>
+							<city>Wooster</city>
+							<state>OH</state>
+							<postal>44691</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>330-263-6222</cntvoice>
+						<cntemail>nicole.hackworth@tgstech.com</cntemail>
+						<hours>Monday - Friday 0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Dataset copied.</procdesc>
+<date Sync="TRUE">20100301</date>
+<time Sync="TRUE">10002800</time>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00am-5:00pm, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</proccont>
+<procdesc>The file name of this dataset was changed from nursing_homes to NHNursingHomes0910.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+<procdate>20140626</procdate>
+<proctime>9:30am</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo Sync="TRUE">
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf Sync="TRUE">
+			<sdtsterm Name="NHNursingHomes0910">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">262</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NHNursingHomes0910">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">262</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref Sync="TRUE">
+		<horizsys Sync="TRUE">
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">survey feet</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999967</sfctrmer>
+<longcm Sync="TRUE">-71.666667</longcm>
+<latprjo Sync="TRUE">42.500000</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+</horizsys>
+	</spref>
+	<eainfo Sync="TRUE">
+		<detailed Name="NHNursingHomes0910" Sync="TRUE">
+			<enttyp Sync="TRUE">
+				<enttypl>Nursing Homes</enttypl>
+				<enttypd Sync="TRUE">
+A nursing home is commonly referred to as a skilled nursing facility, long term care (LTC) facility, or rest home, and may have a different standardized name throughout the United States, but is most commonly referred to as a nursing home. A nursing home traditionally offers 24-hour (skilled) nursing to the elderly or to disabled patients having a variety of medical conditions who require personal care services above that of an assisted living but do not require hospitalization. The personal care services provided may or may not include, but are not limited to: skilled nursing, long term inpatient care, room and board, meals, laundry, and assistance with: dressing, grooming, getting in and out of bed, medications, bathing, and toileting.
+
+For purposes of this dataset, an assisted living facility is defined as a facility where the elderly, who are not related to the operator, reside and receive care, treatment, or services. Although not at the level of a nursing home, the services are above the level of an independent living community. They may include several hours per week of supportive care, personal care, or nursing care per resident. Generally, an assisted living facility offers help in daily living (laundry, cooking, cleaning, etc.) and personal assistance (bathing, eating, clothing, etc.). Many assisted living facilities offer assistance with medication and a lesser level of nursing care than what is offered at a nursing home.
+
+Assisted living facilities may be regulated by size restrictions depending on which type of assisted living facility it is considered to be in the state in which it exists. For example, Adult Family Homes in Wisconsin have between 3-4 elderly residents while Community Based Residential Facilities have 5 or more. Almost every state has different terminology to describe their version of the assisted living facility system.
+
+The structures in which assisted living facilities exist are varied as well. Depending on the type, an assisted living facility may operate out of a personal residence or a nursing home style structure, and it may be set up as apartment style living or as a campus setting in a continuing care retirement community. Multiple assisted living facilities may exist at one location or may be co-located with nursing homes and/or other similar health care facilities.
+</enttypd>
+				<enttypds>TechniGraphics, Inc. </enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">262</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+				<attrlabl Sync="TRUE">SHAPE</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attalias Sync="TRUE">ID</attalias>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl Sync="TRUE">ID</attrlabl>
+				<attrdef Sync="TRUE">Unique identifier for feature assigned by TechniGraphics. These identifiers are intended to be unique across all layers on which TechniGraphics has worked.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv Sync="TRUE">
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attalias Sync="TRUE">SECCLASS</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>SECCLASS</attrlabl>
+				<attrdef Sync="TRUE">Security classification of feature.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv Sync="TRUE">
+					<edom Sync="TRUE">
+						<edomv Sync="TRUE">UNCLASSIFIED</edomv>
+						<edomvd Sync="TRUE">Entity is unclassified.</edomvd>
+						<edomvds Sync="TRUE">TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attalias Sync="TRUE">NAME</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl Sync="TRUE">NAME</attrlabl>
+				<attrdef Sync="TRUE">Name of entity.</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attalias Sync="TRUE">TELEPHONE</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>TELEPHONE</attrlabl>
+				<attrdef Sync="TRUE">Ten (10) digit telephone number for entity formatted as nnn-nnn-nnnn.</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv Sync="TRUE">
+					<udom>Phone numbers formatted as nnn-nnn-nnnn. Only numeric digits are used. The area code and exchange must form a valid combination. A list of valid area code and exchange combinations can be obtained from &amp;lt;http://www.nanpa.com&amp;gt;.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+<attalias Sync="TRUE">ADDRESS</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>ADDRESS</attrlabl>
+				<attrdef Sync="TRUE">Physical street address for entity. "PO Box", "General Delivery", "Rural Route", and "Highway Contract" addresses are not considered physical addresses and should not appear in this field. Some areas do not have regular city style addressing, so entities in those areas may not have a street number. In such cases, the name of the road on which they are located is listed in this field. Some rural areas may not have named roads. In these rare cases, this field will be blank.</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">80</attwidth>
+<attalias Sync="TRUE">ADDRESS2</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>ADDRESS2</attrlabl>
+				<attrdef Sync="TRUE">Location within physical address, e.g., floor, suite, building.</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">80</attwidth>
+<attalias Sync="TRUE">CITY</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl Sync="TRUE">CITY</attrlabl>
+				<attrdef Sync="TRUE">
+The name of the city associated with the entity's physical address. For physical addresses that the U.S. Postal Service (USPS) delivers to, this should be a "city" acceptable to the USPS as defined in their Address Information System (AIS). Sometimes the USPS does not deliver mail to a physical address but recognizes the location (i.e., they list the location as "undeliverable"). The cities associated with these locations are acceptable. In some cases, the USPS does not recognize individual physical addresses in a city; rather, they list the city as having "General Delivery". In these cases, the city and associated zip code are acceptable (the entity's [ADDRESS] field will contain a street address, not "general delivery"). The entity may not actually be located within the city limits of the "city" specified in its [CITY] field. Instead, it may actually be located within the city limits of another city. In some cases, the "city" that appears in this field may not even be a city in an administrative sense, but it is still an acceptable "city" to the USPS. An example of this is "Notre Dame, IN". There is no city in Indiana called "Notre Dame", but this is considered an acceptable city by the USPS for any delivery going to the University of Notre Dame which is actually located in the city of South Bend. "Notre Dame", like most USPS cities, is an easily recognized place, and it gives the user of the data a good general idea of where the entity is located (if the entity is located in a small municipality, the USPS "city" may be more recognizable than the name of the municipality), and it would be part of the address one would use to send a shipment to the entity's location. Using the USPS acceptable "city" also allows someone to do a logical consistency check between the zip code and the city by using the USPS AIS.
+
+Sometimes an entity may report a city that is not accepted by the USPS, and although TechniGraphics has tried to replace those cities with an acceptable alternative, some of them may remain in this dataset.
+</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">120</attwidth>
+<attalias Sync="TRUE">STATE</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl Sync="TRUE">STATE</attrlabl>
+				<attrdef Sync="TRUE">Two (2) character abbreviation for state associated with the entity's physical address. In almost all cases, this is the same as the state where the entity has been depicted geospatially. However, there are cases, particularly where an entity is part of a larger facility that cuts across state lines, where the entity's location may be depicted in a state other than the one indicated in this field. Also, the state in which an entity appears to be located may change depending on the scale of the state boundary theme being used.</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official USPS Abbreviations - State Abbreviations</codesetn>
+						<codesets>United States Postal Service. </codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attalias Sync="TRUE">ZIP</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>ZIP</attrlabl>
+				<attrdef Sync="TRUE">Five (5) digit USPS zip code for entity's physical location.</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>USPS Address Information System - Domain is further restricted by only allowing physical (non PO Box) zip codes.</codesetn>
+						<codesets>United States Postal Service. </codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attalias Sync="TRUE">ZIPP4</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>ZIPP4</attrlabl>
+				<attrdef Sync="TRUE">Four (4) digit USPS zip code extension.  These values are automatically assigned using the entity's physical address and USPS address information system (AIS) data.</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>USPS Address Information System (AIS) - ZIP9</codesetn>
+						<codesets>United States Postal Service. </codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attalias Sync="TRUE">COUNTY</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">COUNTY</attrlabl>
+				<attrdef Sync="TRUE">County name where entity is located.</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Geographic Names Information System (GNIS)</codesetn>
+						<codesets>Geological Survey (U.S.)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attalias Sync="TRUE">FIPS</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>FIPS</attrlabl>
+				<attrdef Sync="TRUE">Five (5) digit FIPS (Federal Information Processing Standards) Code for the County where entity is located. The first two (2) digits represent the state and the last three (3) digits identify the county within the state.</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>
+Federal Information Processing Standards Publications - Counties and Equivalent Entities of the U.S., Its Possessions,
+and Associated Areas.
+</codesetn>
+						<codesets>National Institute of Standards and Technology (U.S.)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attalias Sync="TRUE">DIRECTIONS</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">DIRECTIONS</attrlabl>
+				<attrdef Sync="TRUE">A description of the entity's location or status.</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attalias Sync="TRUE">EMERGTITLE</attalias>
+</attr>
+			<attr>
+				<attrlabl>EMERGTITLE</attrlabl>
+				<attrdef Sync="TRUE">Title of person or name of office for emergency point of contact.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attalias Sync="TRUE">EMERGTEL</attalias>
+</attr>
+			<attr>
+				<attrlabl>EMERGTEL</attrlabl>
+				<attrdef Sync="TRUE">Ten (10) digit telephone number of emergency point of contact formatted as nnn-nnn-nnnn. All alphabetic characters have been translated to the corresponding numeric digit.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Phone numbers, including area code, formatted as nnn-nnn-nnnn. A list of valid area code and exchange combinations can be found at http://www.nanpa.com</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+<attalias Sync="TRUE">EMERGEXT</attalias>
+</attr>
+			<attr>
+				<attrlabl>EMERGEXT</attrlabl>
+				<attrdef Sync="TRUE">Telephone extension for emergency point of contact.</attrdef>
+				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">CONTDATE</attalias>
+</attr>
+			<attr>
+				<attrlabl>CONTDATE</attrlabl>
+				<attrdef Sync="TRUE">Date entity was contacted by TechniGraphics.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Date</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attalias Sync="TRUE">CONTHOW</attalias>
+</attr>
+			<attr>
+				<attrlabl>CONTHOW</attrlabl>
+				<attrdef Sync="TRUE">Method by which entity was contacted.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>ALT REF</edomv>
+						<edomvd>Geospatial reference information obtained from local authorities, e.g., downloadable parcel maps, 911 streets, and shape files.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>EMAIL</edomv>
+						<edomvd>Entity was contacted by email.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom Sync="TRUE">
+						<edomv Sync="TRUE">FAX</edomv>
+						<edomvd>Entity was contacted by fax.</edomvd>
+						<edomvds Sync="TRUE">TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PHONE</edomv>
+						<edomvd>Entity was contacted by phone.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Entity has not been contacted by TechniGraphics.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">GEODATE</attalias>
+</attr>
+			<attr>
+				<attrlabl>GEODATE</attrlabl>
+				<attrdef>Date entity was geocoded by TechniGraphics.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Date</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attalias Sync="TRUE">GEOHOW</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GEOHOW</attrlabl>
+				<attrdef>Method by which entity was geocoded.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>AUTO</edomv>
+						<edomvd>Entity was automatically geocoded.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MANUAL</edomv>
+						<edomvd>Entity was manually geocoded.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">NAICSCODE</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NAICSCODE</attrlabl>
+				<attrdef>NAICS (North American Industry Classification System) Code for entity. NAICS Codes (and NAICS Descriptions) have been assigned based upon the entity's primary function, regardless of if that is the function that qualified it to be included in this dataset.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>North American Industry Classification System (NAICS 2007)</codesetn>
+						<codesets>U.S. Census Bureau </codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<attalias Sync="TRUE">NAICSDESCR</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NAICSDESCR</attrlabl>
+				<attrdef>NAICS (North American Industry Classification System) Description for entity. The "Index Entries" that appear on the NAICS webpage (http://www.census.gov/epcd/www/naics.html) are being used to populate this attribute as opposed to the "NAICS Title". While there is a one to one correspondence between NAICS Codes and "NAICS Titles", there is a one to many relationship between NAICS Codes and the "Index Entries". By using the "Index Entries", we have placed the entities that make up this layer into more specific categories; however, the user of this data should be aware that this was not the intended purpose of these "Index Entries". The "Index Entries" were intended as a way to search the NAICS database and as a way of enumerating ways in which establishments falling under the given NAICS Code may be named. Thus, there are often two or more "Index Entries" that are synonyms, for example: "Prisons" and "Penitentiaries". In cases like this, we have standardized on one "Index Entry".  NAICS Descriptions (and NAICS Codes) have been assigned based upon the entity's primary function, regardless of the function that qualified it to be included in this dataset.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>HOMES FOR THE ELDERLY WITHOUT NURSING CARE</edomv>
+						<edomvd>
+[NAICS Code: 623312]: This industry comprises establishments primarily engaged in providing residential and personal care services (i.e., without on-site nursing care facilities) for (1) the elderly or other persons who are unable to fully care for themselves and/or (2) the elderly or other persons who do not desire to live independently. The care typically includes room, board, supervision, and assistance in daily living, such as housekeeping services.
+
+Entities that operate as an Assisted Living Facility are classified under this description.
+</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NURSING HOMES</edomv>
+						<edomvd>
+[NAICS Code: 623110]: This industry comprises establishments primarily engaged in providing inpatient nursing and rehabilitative services. The care is generally provided for an extended period of time to individuals requiring nursing care. These establishments have a permanent core staff of registered or licensed practical nurses who, along with other staff, provide nursing and continuous personal care services.
+
+Entities that operate as a Nursing Home are classified under this description.
+
+Entities that operate as both a Nursing Home and an Assisted Living Facility are classified under this description.
+</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">120</attwidth>
+<attalias Sync="TRUE">GEOLINKID</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GEOLINKID</attrlabl>
+				<attrdef>Link ID for the street segment to which the entity was geocoded. Refer to the [ST_VENDOR] and [ST_VERSION] fields for the street vendor and version that was used to geocode the entity.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">X</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">X</attrlabl>
+				<attrdef>Longitude in WGS 84 Decimal Degrees.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-180</rdommin>
+						<rdommax>180</rdommax>
+						<attrunit>WGS 84 Decimal Degrees</attrunit>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attalias Sync="TRUE">Y</attalias>
+<atnumdec Sync="TRUE">7</atnumdec>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Y</attrlabl>
+				<attrdef>Latitude in WGS 84 Decimal Degrees.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-90</rdommin>
+						<rdommax>90</rdommax>
+						<attrunit>WGS 84 Decimal Degrees</attrunit>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attalias Sync="TRUE">ST_VENDOR</attalias>
+<atnumdec Sync="TRUE">7</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>ST_VENDOR</attrlabl>
+				<attrdef>Indicates name of vendor providing original street data used for geocoding.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NAVTEQ</edomv>
+						<edomvd>NAVTEQ streets were used for geocoding.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TGS</edomv>
+						<edomvd>TechniGraphics drew in a new street segment that does not exist in the file supplied by NAVTEQ.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">ST_VERSION</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>ST_VERSION</attrlabl>
+				<attrdef>Indicates the year and quarter of streets used for geocoding.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>2009Q2</edomv>
+						<edomvd>2nd Quarter 2009 NAVTEQ street data was used for geocoding.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">GEOPREC</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GEOPREC</attrlabl>
+				<attrdef>Geocoding precision.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>APPROXIMATE</edomv>
+						<edomvd>Entity is geocoded either to the center of the core building cluster, to the center of the facility area per aerial imagery (in most cases USGS DOQQs), or to the correct block and correct side of street per street data indicated by [ST_VENDOR] and [ST_VERSION].</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ONENTITY</edomv>
+						<edomvd>Entity is geocoded on entity rooftop per aerial imagery (in most cases USGS DOQQs). If entity is not plotted on rooftop, it will be denoted in the [DIRECTIONS] field.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+<attalias Sync="TRUE">PHONELOC</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PHONELOC</attrlabl>
+				<attrdef>Indicates whether the phone number in the [TELEPHONE] field rings to the actual location of the entity.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>YES</edomv>
+						<edomvd>Phone number rings to the actual entity location.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NO</edomv>
+						<edomvd>Phone number does not ring to the actual entity location. It may ring to an administrative office or central location.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown - It is not known if the entity's phone number rings to the entity's location.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attalias Sync="TRUE">QC_QA</attalias>
+</attr>
+			<attr>
+				<attrlabl>QC_QA</attrlabl>
+				<attrdef>Organization that performed Quality Control/Quality Assurance on the record.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>TECHNIGRAPHICS</edomv>
+						<edomvd>TechniGraphics has performed Quality Control/Quality Assurance on the entity record.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>The record was not added by TechniGraphics or has not had Quality Control/Quality Assurance performed by TechniGraphics.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+<attalias Sync="TRUE">WEBSITE</attalias>
+</attr>
+			<attr>
+				<attrlabl>WEBSITE</attrlabl>
+				<attrdef>Uniform Resource Locator (URL) for website associated with facility.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attalias Sync="TRUE">GNIS_ID</attalias>
+</attr>
+			<attr>
+				<attrlabl>GNIS_ID</attrlabl>
+				<attrdef>
+Geographic Names Information System ID
+
+A permanent, unique number assigned to a geographic feature for the sole purpose of uniquely identifying that feature as a record in any information system database, dataset, file, or document and for distinguishing it from all other feature records so identified. The number is assigned sequentially (highest existing number plus one) to new records as they are created in the Geographic Names Information System. The number, by design, carries no information or association to the content of the feature record and therefore is not subject to change as attribute values change. Once assigned to a feature, the number is never changed or withdrawn, and never reassigned. The Feature ID can be applied in conjunction with system-unique record identifiers in any database or system, thus providing a national standard common reference identifier across multiple datasets. The Feature ID is stored in the GNIS database as an integer with a maximum of ten digits.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+<attalias Sync="TRUE">SOURCE</attalias>
+</attr>
+			<attr>
+				<attrlabl>SOURCE</attrlabl>
+				<attrdef>Original source of entity record.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>TECHNIGRAPHICS</edomv>
+						<edomvd>Entity information was provided by TechniGraphics.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>USDHHS</edomv>
+						<edomvd>Entity information was gathered from the United States Department of Health and Human Services.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+<attalias Sync="TRUE">FAC_TYPE</attalias>
+</attr>
+			<attr>
+				<attrlabl>FAC_TYPE</attrlabl>
+				<attrdef>Type of facility.</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>HOMES FOR THE ELDERLY (ASSISTED LIVING FACILITIES)</edomv>
+						<edomvd>Entity operates as a home for the elderly (Assisted Living Facility).</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>HOMES FOR THE ELDERLY (ASSISTED LIVING FACILITIES)|NURSING FACILITIES</edomv>
+						<edomvd>Entity operates both as a home for the elderly (Assisted Living Facility) and a nursing facility.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NURSING FACILITIES</edomv>
+						<edomvd>Entity operates as a nursing facility.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attalias Sync="TRUE">TOT_STAFF</attalias>
+</attr>
+			<attr>
+				<attrlabl>TOT_STAFF</attrlabl>
+				<attrdef>
+Total Staff
+
+Total number of staff at the nursing home or assisted living facility.
+
+The values in this field were taken from source data and have not been verified by TechniGraphics.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">TOT_RES</attalias>
+</attr>
+			<attr>
+				<attrlabl>TOT_RES</attrlabl>
+				<attrdef>
+Total Residents
+
+Total number of residents at the nursing home or assisted living facility.
+
+The values in this field were taken from source data and have not been verified by TechniGraphics.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">BEDS</attalias>
+</attr>
+			<attr>
+				<attrlabl>BEDS</attrlabl>
+				<attrdef>
+Number of Beds
+
+Number of beds at the nursing home or assisted living facility.
+
+The values in this field were taken from source data and have not been verified by TechniGraphics.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">EXC_BEDS</attalias>
+</attr>
+			<attr>
+				<attrlabl>EXC_BEDS</attrlabl>
+				<attrdef>
+Excess Beds
+
+Number of excess beds at the nursing home or assisted living facility.
+
+The values in this field were taken from source data and have not been verified by TechniGraphics.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">OWNERSHIP</attalias>
+</attr>
+			<attr>
+				<attrlabl>OWNERSHIP</attrlabl>
+				<attrdef>
+Ownership Category
+
+Indicates the type of ownership for the nursing home or assisted living facility.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NON-PROFIT</edomv>
+						<edomvd>Entity is owned by a non-profit organization.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OTHER GOVERNMENT</edomv>
+						<edomvd>Entity is owned by a government agency other than the Veterans' Administration.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PRIVATE</edomv>
+						<edomvd>Entity is owned by a private organization.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PRIVATE|NON-PROFIT</edomv>
+						<edomvd>Entity is owned by a private non-profit organization.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>VETERANS ADMINISTRATION</edomv>
+						<edomvd>Entity is owned by the Veterans' Administration.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>TechniGraphics was unable to verify the Ownership Category.</edomvd>
+						<edomvds>TechniGraphics, Inc. </edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+<attalias Sync="TRUE">MEDICAIDID</attalias>
+</attr>
+			<attr>
+				<attrlabl>MEDICAIDID</attrlabl>
+				<attrdef>
+Medicaid ID
+
+The Medicaid ID for the facility.
+
+The values in this field were taken from source data and have not been verified by TechniGraphics.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+<attalias Sync="TRUE">MEDICAREID</attalias>
+</attr>
+			<attr>
+				<attrlabl>MEDICAREID</attrlabl>
+				<attrdef>
+Medicare ID
+
+The Medicare ID for the facility.
+
+The values in this field were taken from source data and have not been verified by TechniGraphics.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+<attalias Sync="TRUE">STATELICID</attalias>
+</attr>
+			<attr>
+				<attrlabl>STATELICID</attrlabl>
+				<attrdef>
+State License ID
+
+The state license ID for the facility.
+
+The values in this field were taken from source data and have not been verified by TechniGraphics.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+<attalias Sync="TRUE">SUPFACTYPE</attalias>
+</attr>
+			<attr>
+				<attrlabl>SUPFACTYPE</attrlabl>
+				<attrdef>
+Supplied Facility Type
+
+The supplied type of facility.
+
+The values in this field were taken from source data and have not been verified by TechniGraphics.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc. </attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<metainfo>
+		<metd>20100226</metd>
+		<metc>
+			<cntinfo>
+				<cntpos>Director of Research and Development</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and Physical Address</addrtype>
+					<address>3351 Eastbrook Drive</address>
+					<city>Fort Collins</city>
+					<state>CO</state>
+					<postal>80525</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>970-224-4996</cntvoice>
+				<cntfax>970-224-3001</cntfax>
+				<cntemail>mike.thompson@tgstech.com</cntemail>
+				<hours>Monday - Friday 8:00 - 5:00 MST</hours>
+				<cntorgp>
+<cntorg>TechniGraphics, Inc.</cntorg>
+<cntper>Mike Thompson</cntper>
+</cntorgp>
+</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<langmeta Sync="TRUE">en</langmeta>
+<mettc Sync="TRUE">local time</mettc>
+<metrd>20140707</metrd>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{5F18C045-FBE6-4C45-AEAE-2C2BC42973B5}</MetaID>
+<CreaDate>20100301</CreaDate>
+<CreaTime>10002800</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140707</SyncDate>
+<SyncTime>13405100</SyncTime>
+<ModDate>20140707</ModDate>
+<ModTime>13405100</ModTime>
+</Esri>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\NHNursingHomes0910.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+<orDesc Sync="TRUE">002</orDesc>
+</onLineSrc>
+<transSize Sync="TRUE">0.007</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NHNursingHomes0910</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">770492.276555</westBL>
+<eastBL Sync="TRUE">1228384.098188</eastBL>
+<northBL Sync="TRUE">907325.279561</northBL>
+<southBL Sync="TRUE">76718.01235</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-72.492825</westBL>
+<eastBL Sync="TRUE">-70.723121</eastBL>
+<northBL Sync="TRUE">44.989149</northBL>
+<southBL Sync="TRUE">42.706908</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">0.007</transize>
+<dssize Sync="TRUE">0.007</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00am-5:00pm, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</distrib>
+</distinfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NHNursingHomes0910">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">262</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140707</mdDateSt>
+</metadata>

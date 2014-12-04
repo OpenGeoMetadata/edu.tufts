@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo Sync="TRUE">
+				<origin>TechniGraphics, Inc.</origin>
+				<pubdate>20080920</pubdate>
+				<title>Hospital Locations New Hampshire 2006-2008</title>
+				<edition Sync="TRUE">4th Quarter 2008</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.granit.sr.unh.edu/data/search?dset=hospitals</onlink>
+<ftname Sync="TRUE">NHHospitals0608</ftname>
+<lworkcit>
+<citeinfo>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+<onlink>http://www.granit.sr.unh.edu/data/downloadfreedata/category/databycategory.html</onlink>
+<title>NH GRANIT Database</title>
+<pubdate>20080920</pubdate>
+<origin>TechniGraphics, Inc.</origin>
+<origin>CACI, Inc. - Federal</origin>
+<origin>University of New Hampshire. Complex Systems Research Center</origin>
+</citeinfo>
+</lworkcit>
+<origin>CACI, Inc. - Federal</origin>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+</citeinfo>
+		</citation>
+		<descript Sync="TRUE">
+			<abstract>This point dataset shows hospitals in New Hampshire from 2006 to 2008.
+
+The term "hospital" ... means an institution which-
+
+(1) is primarily engaged in providing, by or under the supervision of physicians, to inpatients
+
+&amp;gt;	(A) diagnostic services and therapeutic services for medical diagnosis, treatment, and care of injured, disabled, or sick persons, or 
+&amp;gt;	(B) rehabilitation services for the rehabilitation of injured, disabled, or sick persons; 
+
+(...)
+
+(5) provides 24-hour nursing service rendered or supervised by a registered professional nurse, and has a licensed practical nurse or registered professional nurse on duty at all times; ...
+
+(...)
+
+(7) in the case of an institution in any State in which State or applicable local law provides for the licensing of hospitals,
+
+&amp;gt;	(A) is licensed pursuant to such law or 
+&amp;gt;	(B) is approved, by the agency of such State or locality responsible for licensing hospitals, as meeting the standards established for such licensing; 
+
+(Excerpt from Title XVIII of the Social Security Act [42 U.S.C. § 1395x(e)], &amp;lt;http://www4.law.cornell.edu/uscode/html/uscode42/usc_sec_42_00001395---x000-.html&amp;gt;)
+
+Included in this dataset are General Medical and Surgical Hospitals, Psychiatric and Substance Abuse Hospitals, and Specialty Hospitals (e.g., Children's Hospitals, Cancer Hospitals, Maternity Hospitals, Rehabilitation Hospitals, etc.).
+
+TGS has made a concerted effort to include all general medical/surgical hospitals in New Hampshire. Other types of hospitals are included if they were represented in datasets sent by the state. Therefore, not all of the specialty hospitals in New Hampshire are represented in this dataset.
+
+Hospitals operated by the Veterans Administration (VA) are included, even if the state they are located in does not license VA Hospitals.
+
+Nursing homes and Urgent Care facilities are excluded because they are included in a separate dataset. Locations that are administrative offices only are excluded from the dataset.
+
+Records with "-DOD" appended to the end of the [NAME] value are located on a military base, as defined by the Defense Installation Spatial Data Infrastructure (DISDI) military installations and military range boundaries.
+
+Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results.
+
+All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics.
+
+The currentness of this dataset is indicated by the [CONTDATE] field. Based upon this field, the oldest record dates from 11/07/2006 and the newest record dates from 05/06/2008</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo Sync="TRUE">
+				<rngdates Sync="TRUE">
+					<begdate Sync="TRUE">20061107</begdate>
+					<enddate Sync="TRUE">20080506</enddate>
+				</rngdates>
+			</timeinfo>
+			<current Sync="TRUE">ground condition</current>
+		</timeperd>
+		<status>
+			<progress Sync="TRUE">Complete</progress>
+			<update Sync="TRUE">Unknown</update>
+		</status>
+		<spdom Sync="TRUE">
+			<bounding Sync="TRUE">
+				<westbc Sync="TRUE">-72.358905</westbc>
+				<eastbc Sync="TRUE">-70.762795</eastbc>
+				<northbc Sync="TRUE">44.904613</northbc>
+				<southbc Sync="TRUE">42.746233</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">804881.931049</leftbc>
+<rightbc Sync="TRUE">1218461.008810</rightbc>
+<bottombc Sync="TRUE">90946.823521</bottombc>
+<topbc Sync="TRUE">876504.431606</topbc>
+</lboundng>
+</spdom>
+		<keywords Sync="TRUE">
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>health</themekey>
+<themekey>location</themekey>
+<themekt>ISO 19115 Topic Category </themekt>
+<themekey>structure</themekey>
+</theme>
+<theme>
+<themekey>Hospitals.</themekey>
+<themekey>Specialty hospitals</themekey>
+<themekey>Veterans' hospitals</themekey>
+<themekey>Prison hospitals</themekey>
+<themekey>Public hospitals</themekey>
+<themekey>Substance abuse treatment facilities</themekey>
+<themekt>LCSH</themekt>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>New Hampshire</placekey>
+</place>
+<place>
+<placekey>Northern Hemishpere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational and noncommercial use only. </useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>Director of Geospatial Datasets</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>3351 Eastbrook Drive</address>
+					<city>Fort Collins</city>
+					<state>CO</state>
+					<postal Sync="TRUE">80525</postal>
+					<country Sync="TRUE">USA</country>
+				</cntaddr>
+				<cntvoice>970-224-4996</cntvoice>
+				<cntfax>970-224-3001</cntfax>
+				<cntemail>mthompson@tgstech.com</cntemail>
+				<hours>Monday - Friday 8:00 - 5:00 MST</hours>
+				<cntorgp>
+<cntorg>TechniGraphics, Inc.</cntorg>
+<cntper>Mike Thompson</cntper>
+</cntorgp>
+</cntinfo>
+		</ptcontac>
+		<secinfo Sync="TRUE">
+			<secsys Sync="TRUE">DOD</secsys>
+			<secclass>Unclassified</secclass>
+			<sechandl>Unclassified</sechandl>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual Sync="TRUE">
+		<attracc Sync="TRUE">
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.  </attraccr>
+			<qattracc>
+<attracce>For entities that were contacted, the name, address, city, state, and five (5) digit zip codes were verified to be correct as of the date indicated by the [CONTDATE] field. The existence of the entity was also verified, as well as whether or not it met the criteria for inclusion in this dataset. Four (4) digit zip code extensions were derived from USPS (United States Postal Service) data and were not verified.
+
+ID Check: The [ID] field is not blank and each of its values is unique.
+
+Coordinate Check: Coordinates are not null or zero and the x and y fields match the shape.
+
+Basic Address Check: Physical addresses were verified to be non blank and to not be a "PO Box", "General Delivery", "Highway Contract", or "Rural Route" address.
+
+Highway Address without Type Check: Physical addresses containing the word "Highway" or "Route" were verified to also contain a type designator such as "State", "US", or "County", if one actually exists for the highway or route. These type designators are often missing from addresses, leading to confusion if more than one "Highway" of the given number exists in an area.
+
+Basic Name Check: Entity name is not blank, is not the same as entity city, and has a minimum of 2 characters. Name does not contain punctuation characters that can interfere with database operations, such as " (quote) and * (asterisk).
+
+City Check: Entity's [CITY] field is not blank, and entity is located within 25 miles of its tabular city as found in the NAVTEQ Named Places reference file.
+
+State Check: The entity is located within its tabular state.
+
+County FIPS to State Compare Check: The county represented by the tabular FIPS Code is actually in the state specified in the [STATE] field.
+
+County Name to State Compare Check: The county represented by the tabular county name is actually in the state specified in the [STATE] field.
+
+Basic Phone Check: All phone numbers (including the area code) are ten (10) numeric digits. Alphabetic characters have been converted to the corresponding numeric digit.
+
+NPA_NXX Check: Area codes (sometimes called "Number Planning Areas", or NPA's) and central office codes (sometimes known as exchanges, or NXX's) were validated against data from the North American Number Planning Administration (NANPA). In some cases, NPA-NXX combinations did not show up in the NANPA data but were verified to work.
+
+Area Code Distance Check: The entity's area code (NPA) is valid, and the entity is not more than 25 miles from its area code boundary, as defined by data from the North American Number Planning Administration (NANPA), unless TGS has previously verified that the phone number rings to a headquarters location or otherwise does not ring to the entity's location.
+
+Zip Code Check: The zip code is five (5) or nine (9) numeric digits, is listed in the postal database, is in the same state as indicated by the entity's [STATE] value, and is not a PO Box only zip code.
+
+Zip City Check: The entity's zip code and its city were verified to match according to the USPS Address Information System (AIS).
+
+Zip Code Distance Check: The entity is located within 25 miles of its zip code boundary, as defined by the U.S. Census Bureau's 1999 Zip Code file.
+
+NAICS Code Check: The NAICS field is not blank, the NAICS Code is one of the accepted codes for this layer, the NAICS Description is an acceptable Index Entry for the NAICS Code, and certain key words in the entity name do not conflict with the NAICS Code.
+
+Collocation Check: Entities with different addresses must not share the exact same geospatial location.
+
+Geographic Spell Check: Words that appear in the entity name were checked against a standard English word list (and Spanish word list for entities in Puerto Rico). Words not appearing in these standard word lists were then checked against names appearing in the Geographic Names Information System (GNIS) of geographic features that are located within 25 miles of the entity. Proper names were manually reviewed for correct spelling.</attracce>
+</qattracc>
+</attracc>
+		<logic Sync="TRUE">See "Attribute_Accuracy_Report". Many of the checks described in that section check for both attribute accuracy and logical consistency.</logic>
+		<complete Sync="TRUE">
+Included in this dataset are General Medical and Surgical Hospitals, Psychiatric and Substance Abuse Hospitals, and Specialty Hospitals (e.g., Children's Hospitals, Cancer Hospitals, Maternity Hospitals, Rehabilitation Hospitals, etc.).
+
+TGS has made a concerted effort to include all general medical/surgical hospitals in New Hampshire. Other types of hospitals are included if they were represented in datasets sent by the state. Therefore, not all of the specialty hospitals in New Hampshire are represented in this dataset.
+
+Hospitals operated by the Veterans Administration (VA) are included, even if the state they are located in does not license VA Hospitals.
+
+Nursing homes and Urgent Care facilities are excluded because they are included in a separate dataset. Locations that are administrative offices only are excluded from the dataset.
+</complete>
+		<posacc Sync="TRUE">
+			<horizpa Sync="TRUE">
+				<horizpar Sync="TRUE">
+The geographic location of entities was verified to be correct relative to the street data and version indicated by the [ST_VENDOR] and [ST_VERSION] fields. The horizontal accuracy is indicated by the [GEOPREC] field. A value of "BLOCKFACE" indicates the entity was geocoded on the correct street segment (block) and correct side of the street. A value of "ONENTITY" indicates that the location is on the entity's facility, as determined by USGS DOQQ imagery, and that it is on the correct street segment (block) and correct side of the street. Entities that are part of a larger institution (e.g., University Campus or Military Base) with "BLOCKFACE" precision may be located at the main entrance to the larger institution.
+
+Records with "-DOD" appended to the end of the [NAME] value are located on a military base, as defined by the Defense Installation Spatial Data Infrastructure (DISDI) military installations and military range boundaries.
+</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>TechniGraphics, Inc.</origin>
+						<pubdate>20080430</pubdate>
+						<title>Hospitals 2008 Q2</title>
+						<edition>2nd Quarter 2008</edition>
+						<geoform>vector digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<typesrc>Digital Database File</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>20050323</begdate>
+							<enddate>20080325</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>Hospitals_2008_Q2</srccitea>
+				<srccontr>The basic attribution (name, address, city, state, zip code, and telephone number) came from this dataset, unless the entity was updated by TGS during Q408 processing.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>New Hampshire Hospital Association (NHHA)</origin>
+						<pubdate>Unknown</pubdate>
+						<title>Hospital List</title>
+						<edition>Unspecified</edition>
+						<othercit>Publication date is unknown - downloaded on 20080411</othercit>
+						<onlink>http://www.nhha.org/downloads/hospital%20list.xls</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20080411</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NH_Hospitals</srccitea>
+				<srccontr>This was used as a source for hospitals in New Hampshire.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NAVTEQ</origin>
+						<pubdate>2008</pubdate>
+						<title>NAVSTREETS</title>
+						<edition>2008.1</edition>
+						<geoform>vector digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<typesrc>CD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2008</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NAVTEQ_Streets_2008_Q1</srccitea>
+				<srccontr>This version of NAVTEQ streets was used as a reference for automatic shifting of entities that were previously manually geocoded and for the manual geolocating of entities.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+1) Entities were processed to determine or verify their name, physical address, city, state, five (5) digit zip code, phone number, and geospatial location. Entities not located on military bases were contacted and asked to describe their location relative to landmarks in reference data (mainly streets) and features visible in ortho imagery.
+&amp;gt;
+&amp;gt;
+2) Due to a request made by the Department of Defense, TGS made every effort to not contact military bases starting 03/27/2007 and ending 05/28/2008. During this time, entities located on military bases were verified through alternate resources, such as maps and ortho imagery. These records have not been contacted by TGS, and therefore, do not have directions.
+&amp;gt;
+&amp;gt;
+3) All text fields were set to all upper case.
+&amp;gt;
+&amp;gt;
+4) Leading and trailing spaces were trimmed from all text fields. 
+&amp;gt;
+&amp;gt;
+5) Non printable and diacritic characters were removed from all text fields.
+&amp;gt;
+&amp;gt;
+</procdesc>
+				<srcused>Hospitals_2008_Q2</srcused>
+				<srcused>NH_Hospitals</srcused>
+				<srcused>NAVTEQ_Streets_2008_Q1</srcused>
+				<procdate>20080920</procdate>
+				<srcprod>NH_Hospitals_2008_Q4</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Nicole Hackworth</cntper>
+							<cntorg>TechniGraphics, Inc.</cntorg>
+						</cntperp>
+						<cntpos>Project Manager</cntpos>
+						<cntaddr>
+							<addrtype>Mailing and Physical Address</addrtype>
+							<address>2000 Noble Drive</address>
+							<city>Wooster</city>
+							<state>OH</state>
+							<postal>44691</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>330-263-6222</cntvoice>
+						<cntemail>nhackworth@tgstech.com</cntemail>
+						<hours>Monday - Friday 0730 - 1630 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Dataset copied.</procdesc>
+<date Sync="TRUE">20090408</date>
+<time Sync="TRUE">09471800</time>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd. </address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00am - 5:00pm, ETS-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name of dataset was changed from Hospitals to NHHospitals0608
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards
+</procdesc>
+<srcused>Tufts University GIS Center</srcused>
+<procdate>20140612</procdate>
+<proctime>12:03pm</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo Sync="TRUE">
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf Sync="TRUE">
+			<sdtsterm Name="NHHospitals0608">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">33</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NHHospitals0608">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">33</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref Sync="TRUE">
+		<horizsys Sync="TRUE">
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">survey feet</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999967</sfctrmer>
+<longcm Sync="TRUE">-71.666667</longcm>
+<latprjo Sync="TRUE">42.500000</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+</horizsys>
+	</spref>
+	<eainfo Sync="TRUE">
+		<detailed Name="NHHospitals0608" Sync="TRUE">
+			<enttyp Sync="TRUE">
+				<enttypl>Hospitals New Hampshire 2006-2008</enttypl>
+				<enttypd Sync="TRUE">
+The term "hospital" ... means an institution which-
+
+(1) is primarily engaged in providing, by or under the supervision of physicians, to inpatients    
+
+&amp;gt;	(A) diagnostic services and therapeutic services for medical diagnosis, treatment, and care of injured, disabled, or sick persons, or    
+&amp;gt;	(B) rehabilitation services for the rehabilitation of injured, disabled, or sick persons;  
+
+(...)     
+
+(5) provides 24-hour nursing service rendered or supervised by a registered professional nurse, and has a licensed practical nurse or registered professional nurse on duty at all times; ...   
+
+(...)   
+
+(7) in the case of an institution in any State in which State or applicable local law provides for the licensing of hospitals,    
+
+&amp;gt;	(A) is licensed pursuant to such law or    
+&amp;gt;	(B) is approved, by the agency of such State or locality responsible for licensing hospitals, as meeting the standards established for such licensing
+</enttypd>
+				<enttypds Sync="TRUE">Excerpt from Title XVIII of the Social Security Act [42 U.S.C. § 1395x(e)]  http://www4.law.cornell.edu/uscode/html/uscode42/usc_sec_42_00001395---x000-.html</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">33</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+				<attrlabl Sync="TRUE">SHAPE</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attalias Sync="TRUE">ID</attalias>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl Sync="TRUE">ID</attrlabl>
+				<attrdef Sync="TRUE">Unique identifier for feature.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv Sync="TRUE">
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attalias Sync="TRUE">SECCLASS</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>SECCLASS</attrlabl>
+				<attrdef Sync="TRUE">Security classification of feature.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv Sync="TRUE">
+					<edom Sync="TRUE">
+						<edomv Sync="TRUE">UNCLASSIFIED</edomv>
+						<edomvd Sync="TRUE">Entity is unclassified.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attalias Sync="TRUE">NAME</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl Sync="TRUE">NAME</attrlabl>
+				<attrdef Sync="TRUE">Name of entity.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attalias Sync="TRUE">TELEPHONE</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>TELEPHONE</attrlabl>
+				<attrdef Sync="TRUE">Ten (10) digit telephone number for entity formatted as nnn-nnn-nnnn.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv Sync="TRUE">
+					<udom>Phone numbers formatted as nnn-nnn-nnnn. Only numeric digits are used. The area code and exchange must form a valid combination. A list of valid area code and exchange combinations can be obtained from &amp;lt;http://www.nanpa.com&amp;gt;.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+<attalias Sync="TRUE">ADDRESS</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>ADDRESS</attrlabl>
+				<attrdef Sync="TRUE">Physical street address for entity. "PO Box", "General Delivery", "Rural Route", and "Highway Contract" addresses are not considered physical addresses and should not appear in this field. Some areas do not have regular city style addressing, so entities in those areas may not have a street number. In such cases, the name of the road on which they are located is listed in this field. Some rural areas may not have named roads. In these rare cases, this field will be blank.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">80</attwidth>
+<attalias Sync="TRUE">ADDRESS2</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>ADDRESS2</attrlabl>
+				<attrdef Sync="TRUE">Location within physical address, e.g., floor, suite, building.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">80</attwidth>
+<attalias Sync="TRUE">CITY</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl Sync="TRUE">CITY</attrlabl>
+				<attrdef Sync="TRUE">
+The name of the city associated with the entity's physical address. For physical addresses that the U.S. Postal Service (USPS) delivers to, this should be a "city" acceptable to the USPS as defined in their Address Information System (AIS). Sometimes the USPS does not deliver mail to a physical address but recognizes the location (i.e., they list the location as "undeliverable"). The cities associated with these locations are acceptable. In some cases, the USPS does not recognize individual physical addresses in a city, rather, they list the city as having "General Delivery". In these cases, the city and associated zip code are acceptable (the entity's [ADDRESS] field will contain a street address, not "general delivery"). The entity may not actually be located within the city limits of the "city" specified in its [CITY] field. Instead, it may actually be located within the city limits of another city. In some cases, the "city" that appears in this field may not even be a city in an administrative sense, but it is still an acceptable "city" to the USPS. An example of this is "Notre Dame, IN". There is no city in Indiana called "Notre Dame", but this is considered an acceptable city by the USPS for any delivery going to the University of Notre Dame which is actually located in the city of South Bend. "Notre Dame", like most USPS cities, is an easily recognized place, and it gives the user of the data a good general idea of where the entity is located (if the entity is located in a small municipality, the USPS "city" may be more recognizable than the name of the municipality), and it would be part of the address one would use to send a shipment to the entity's location. Using the USPS acceptable "city" also allows someone to do a logical consistency check between the zip code and the city by using the USPS AIS.
+
+Sometimes an entity may report a city that is not accepted by the USPS, and although TGS has tried to replace those cities with an acceptable alternative, some of them may remain in this dataset.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">120</attwidth>
+<attalias Sync="TRUE">STATE</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl Sync="TRUE">STATE</attrlabl>
+				<attrdef Sync="TRUE">Two (2) character abbreviation for state associated with the entity's physical address. In almost all cases, this is the same as the state where the entity has been depicted geospatially. However, there are cases, particularly where an entity is part of a larger facility that cuts across state lines, where the entity's location may be depicted in a state other than the one indicated in this field. Also, the state in which an entity appears to be located may change depending on the scale of the state boundary theme being used.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official USPS Abbreviations - State Abbreviations</codesetn>
+						<codesets>United States Postal Service </codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attalias Sync="TRUE">ZIP</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>ZIP</attrlabl>
+				<attrdef Sync="TRUE">Five (5) digit USPS zip code for entity's physical location.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>USPS Address Information System - Domain is further restricted by only allowing physical (non PO Box) zip codes.</codesetn>
+						<codesets>United States Postal Service</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attalias Sync="TRUE">ZIPP4</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>ZIPP4</attrlabl>
+				<attrdef Sync="TRUE">Four (4) digit USPS zip code extension.  These values are automatically assigned using the entity's physical address and USPS address information system (AIS) data.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>USPS Address Information System (AIS) - ZIP9</codesetn>
+						<codesets>United States Postal Service</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attalias Sync="TRUE">COUNTY</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">COUNTY</attrlabl>
+				<attrdef Sync="TRUE">County name where entity is located.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Geographic Names Information System (GNIS)</codesetn>
+						<codesets>Geological Survey (U.S.)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attalias Sync="TRUE">FIPS</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>FIPS</attrlabl>
+				<attrdef Sync="TRUE">Five (5) digit FIPS (Federal Information Processing Standards) Code for the County where entity is located. The first two (2) digits represent the state and the last three (3) digits identify the county within the state.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>
+Federal Information Processing Standards Publications - Counties and Equivalent Entities of the U.S., Its Possessions,
+and Associated Areas.
+</codesetn>
+						<codesets>National Institute of Standards and Technology (U.S.)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attalias Sync="TRUE">DIRECTIONS</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">DIRECTIONS</attrlabl>
+				<attrdef Sync="TRUE">Directions to entity location, or description of the entity's location.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attalias Sync="TRUE">EMERGTITLE</attalias>
+</attr>
+			<attr>
+				<attrlabl>EMERGTITLE</attrlabl>
+				<attrdef Sync="TRUE">Title of person or name of office for emergency point of contact.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attalias Sync="TRUE">EMERGTEL</attalias>
+</attr>
+			<attr>
+				<attrlabl>EMERGTEL</attrlabl>
+				<attrdef Sync="TRUE">Ten (10) digit telephone number of emergency point of contact formatted as nnn-nnn-nnnn. All alphabetic characters have been translated to the corresponding numeric digit.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Phone numbers, including area code, formatted as nnn-nnn-nnnn. A list of valid area code and exchange combinations can be found at http://www.nanpa.com</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+<attalias Sync="TRUE">EMERGEXT</attalias>
+</attr>
+			<attr>
+				<attrlabl>EMERGEXT</attrlabl>
+				<attrdef Sync="TRUE">Telephone extension for emergency point of contact.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">CONTDATE</attalias>
+</attr>
+			<attr>
+				<attrlabl>CONTDATE</attrlabl>
+				<attrdef Sync="TRUE">Date entity was contacted by TGS.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Date</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attalias Sync="TRUE">CONTHOW</attalias>
+</attr>
+			<attr>
+				<attrlabl>CONTHOW</attrlabl>
+				<attrdef Sync="TRUE">Method by which entity was contacted.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>PHONE</edomv>
+						<edomvd>Entity was contacted by phone.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom Sync="TRUE">
+						<edomv Sync="TRUE">FAX</edomv>
+						<edomvd>Entity was contacted by fax.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MAIL</edomv>
+						<edomvd>Entity was contacted by mail.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>EMAIL</edomv>
+						<edomvd>Entity was contacted by email.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>WEB</edomv>
+						<edomvd>Entity information was gathered and/or verified by official entity website as a last resort.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ALT REF</edomv>
+						<edomvd>Geospatial reference information obtained from local authorities, e.g., downloadable parcel maps, 911 streets, and shape files.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Entity has not been contacted by TGS.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">GEODATE</attalias>
+</attr>
+			<attr>
+				<attrlabl>GEODATE</attrlabl>
+				<attrdef>Date entity was geocoded by TGS.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Date</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attalias Sync="TRUE">GEOHOW</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GEOHOW</attrlabl>
+				<attrdef>Method by which entity was geocoded.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>AUTO</edomv>
+						<edomvd>Entity was automatically geocoded.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MANUAL</edomv>
+						<edomvd>Entity was manually geocoded.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ADJUSTED</edomv>
+						<edomvd>Entity was shifted by TGS to an updated set of NAVTEQ streets. This only applies if the entity was manually geocoded by TGS to a previous version of NAVTEQ streets.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PROVIDED</edomv>
+						<edomvd>Entity was geocoded using coordinates provided by the original source.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">NAICSCODE</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NAICSCODE</attrlabl>
+				<attrdef>NAICS (North American Industry Classification System) Code for entity. NAICS Codes (and NAICS Descriptions) have been assigned based upon the entity's primary function, regardless of if that is the function that qualified it to be included in this dataset.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>North American Industry Classification System (NAICS 2007)</codesetn>
+						<codesets>US Census Bureau - &amp;lt;http://www.census.gov/epcd/www/naics.html&amp;gt;</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<attalias Sync="TRUE">NAICSDESCR</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NAICSDESCR</attrlabl>
+				<attrdef>
+NAICS (North American Industry Classification System) Description for entity. The "Index Entries" that appear on the NAICS webpage (&amp;lt;http://www.census.gov/epcd/www/naics.html&amp;gt;) are being used to populate this field, as opposed to the "NAICS Title". While there is a one to one correspondence between NAICS Codes and "NAICS Titles", there is a one to many relationship between NAICS Codes and the "Index Entries". By using the "Index Entries", we have placed the entities that make up this layer into more specific categories; however, the user of this data should be aware that this was not the intended purpose of these "Index Entries". The "Index Entries" were intended as a way to search the NAICS database and as a way of enumerating ways in which establishments falling under the given NAICS Code may be named. Thus, there are often two or more "Index Entries" that are synonyms, for example: "Prisons" and "Penitentiaries". In cases like this, we have standardized on one "Index Entry".
+
+NAICS Descriptions (and NAICS Codes) have been assigned based upon the entity's primary function, regardless of if that is the function that qualified it to be included in this dataset.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>CANCER HOSPITALS</edomv>
+						<edomvd>CANCER HOSPITALS - [NAICS Code 622310]: Entities that are known and licensed as specialty hospitals that provide care for cancer patients are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CHILDREN'S HOSPITALS, GENERAL</edomv>
+						<edomvd>CHILDREN'S HOSPITALS, GENERAL - [NAICS Code 622110]: Entities that are known and licensed as general medical and surgical hospitals that provide general care to children are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CHILDREN'S HOSPITALS, PSYCHIATRIC OR SUBSTANCE ABUSE</edomv>
+						<edomvd>CHILDREN'S HOSPITALS, PSYCHIATRIC OR SUBSTANCE ABUSE - [NAICS Code 622210]:  Entities that are known and licensed as psychiatric and substance abuse hospitals that provide treatment for children are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CHILDREN'S HOSPITALS, SPECIALTY (EXCEPT PSYCHIATRIC, SUBSTANCE ABUSE)</edomv>
+						<edomvd>CHILDREN'S HOSPITALS, SPECIALTY (EXCEPT PSYCHIATRIC, SUBSTANCE ABUSE) - [NAICS Code 622310]:  Entities that are known and licensed as specialty hospitals that provide treatment of a specific type of disease or medical condition for children that is not psychiatric or substance abuse related are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>DETOXIFICATION HOSPITALS</edomv>
+						<edomvd>DETOXIFICATION HOSPITALS - [NAICS Code 622210]:  Entities that are known and licensed as psychiatric and substance abuse hospitals that provide medically supervised inpatient treatment to people with physical and psychological dependence on alcohol or drugs are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>EYE, EAR, NOSE, AND THROAT HOSPITALS</edomv>
+						<edomvd>EYE, EAR, NOSE, AND THROAT HOSPITALS - [NAICS Code 622310]:  Entities that are known and licensed as specialty hospitals that provide treatment for all conditions relating to the eyes, ears, nose, and throat are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>HOSPITALS, ADDICTION</edomv>
+						<edomvd>HOSPITALS, ADDICTION - [NAICS Code 622210]:  Entities that are known and licensed as psychiatric and substance abuse hospitals that provide inpatient treatment for all people with a physical or psychological need for a habit-forming substance, such as a drug or alcohol, are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>HOSPITALS, GENERAL MEDICAL AND SURGICAL</edomv>
+						<edomvd>HOSPITALS, GENERAL MEDICAL AND SURGICAL - [NAICS Code 622110]:  Entities that are known and licensed as general medical and surgical hospitals that provide general medical treatment are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>HOSPITALS, MENTAL (EXCEPT MENTAL RETARDATION)</edomv>
+						<edomvd>HOSPITALS, MENTAL (EXCEPT MENTAL RETARDATION) - [NAICS Code 622210]:  Entities that are known and licensed as psychiatric and substance abuse hospitals that provide inpatient treatment for all people affected with disorders of the mind who are not mentally retarded are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>HOSPITALS, PSYCHIATRIC (EXCEPT CONVALESCENT)</edomv>
+						<edomvd>HOSPITALS, PSYCHIATRIC (EXCEPT CONVALESCENT) - [NAICS Code 622210]:  Entities that are known and licensed as psychiatric and substance abuse hospitals that provide treatment and prevention of mental and emotional disorders without recovery are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>HOSPITALS, SPECIALTY (EXCEPT PSYCHIATRIC, SUBSTANCE ABUSE)</edomv>
+						<edomvd>HOSPITALS, SPECIALTY (EXCEPT PSYCHIATRIC, SUBSTANCE ABUSE) - [NAICS Code 622310]:  Entities that are known and licensed as specialty hospitals that provide treatment for a specific type of disease or medical condition that is not psychiatric or substance abuse related are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MENTAL RETARDATION HOSPITALS</edomv>
+						<edomvd>MENTAL RETARDATION HOSPITALS - [NAICS Code 623210]:  Entities that are known and licensed as mental retardation hospitals that provide residential care services for persons diagnosed with mental retardation are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NEUROLOGICAL HOSPITALS</edomv>
+						<edomvd>NEUROLOGICAL HOSPITALS - [NAICS Code 622310]:  Entities that are known and licensed as specialty hospitals that provide treatment in dealing with disorders of the nervous system are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OBSTETRICAL HOSPITAL</edomv>
+						<edomvd>OBSTETRICAL HOSPITAL - [NAICS Code 622310]:  Entities that are known and licensed as specialty hospitals that provide treatment of women during and after pregnancy are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ORTHOPEDIC HOSPITALS</edomv>
+						<edomvd>ORTHOPEDIC HOSPITALS - [NAICS Code 622310]:  Entities that are known and licensed as specialty hospitals that provide prevention or correction of injuries or disorders of the skeletal system and associated muscles, joints, and ligaments are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OSTEOPATHIC HOSPITALS</edomv>
+						<edomvd>OSTEOPATHIC HOSPITALS - [NAICS Code 622110]:  Entities that are known and licensed as general medical and surgical hospitals that provide treatment for disorders which can be corrected by various manipulative techniques in conjunction with conventional medical, surgical, pharmacological, and other therapeutic procedures are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>REHABILITATION HOSPITALS (EXCEPT ALCOHOLISM, DRUG ADDICTION)</edomv>
+						<edomvd>REHABILITATION HOSPITALS (EXCEPT ALCOHOLISM, DRUG ADDICTION) - [NAICS Code 622310]:  Entities that are known and licensed as specialty hospitals that provide restoration of a sick or disabled person by therapeutic measures and reeducation that are not dependent on drugs or alcohol are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TUBERCULOSIS AND OTHER RESPIRATORY ILLNESS HOSPITALS</edomv>
+						<edomvd>TUBERCULOSIS AND OTHER RESPIRATORY ILLNESS HOSPITALS - [NAICS Code 622310]: This industry consists of establishments known and licensed as specialty hospitals primarily engaged in providing diagnostic and medical treatment to inpatients with tuberculosis and other respiratory illnesses (except psychiatric or substance abuse).</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">120</attwidth>
+<attalias Sync="TRUE">GEOLINKID</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GEOLINKID</attrlabl>
+				<attrdef>Link ID for the street segment to which the entity was geocoded. Refer to the [ST_VENDOR] and [ST_VERSION] fields for the street vendor and version that was used to geocode the entity.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">X</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">X</attrlabl>
+				<attrdef>Longitude in WGS 84 Decimal Degrees.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-180</rdommin>
+						<rdommax>180</rdommax>
+						<attrunit>WGS 84 Decimal Degrees</attrunit>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attalias Sync="TRUE">Y</attalias>
+<atnumdec Sync="TRUE">7</atnumdec>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Y</attrlabl>
+				<attrdef>Latitude in WGS 84 Decimal Degrees.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-90</rdommin>
+						<rdommax>90</rdommax>
+						<attrunit>WGS 84 Decimal Degrees</attrunit>
+					</rdom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attalias Sync="TRUE">ST_VENDOR</attalias>
+<atnumdec Sync="TRUE">7</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>ST_VENDOR</attrlabl>
+				<attrdef>Indicates name of vendor providing original street data used for geocoding.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NAVTEQ</edomv>
+						<edomvd>NAVTEQ streets were used for geocoding.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TechniGraphics, Inc.</edomv>
+						<edomvd>TGS drew in a new street segment that does not exist in the file supplied by NAVTEQ.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TIGER</edomv>
+						<edomvd>TIGER/Line streets were used for geocoding.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">ST_VERSION</attalias>
+</attr>
+			<attr Sync="TRUE">
+				<attrlabl>ST_VERSION</attrlabl>
+				<attrdef>Indicates the year and quarter of streets used for geocoding.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>2008Q1</edomv>
+						<edomvd>1st Quarter 2008 NAVTEQ street data was used for geocoding.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2006FE</edomv>
+						<edomvd>2006fe version of TIGER/Line streets were used for geocoding in areas where NAVTEQ does not have coverage.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">GEOPREC</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GEOPREC</attrlabl>
+				<attrdef>Geocoding precision.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>BLOCKFACE</edomv>
+						<edomvd>Entity is geocoded to correct block and correct side of street per street data indicated by [ST_VENDOR] and [ST_VERSION].</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ONENTITY</edomv>
+						<edomvd>Entity is geocoded on entity rooftop per aerial imagery (in most cases USGS DOQQs).</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+<attalias Sync="TRUE">PHONELOC</attalias>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PHONELOC</attrlabl>
+				<attrdef>Indicates whether the phone number in the [TELEPHONE] field rings to the actual location of the entity.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>YES</edomv>
+						<edomvd>Phone number rings to the actual entity location.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NO</edomv>
+						<edomvd>Phone number does not ring to the actual entity location. It may ring to an administrative office or central location.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown - It is not known if the entity's phone number rings to the entity's location.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attalias Sync="TRUE">QC_QA</attalias>
+</attr>
+			<attr>
+				<attrlabl>QC_QA</attrlabl>
+				<attrdef>Organization that performed Quality Control/Quality Assurance on the record.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>TechniGraphics, Inc.</edomv>
+						<edomvd>TGS has performed Quality Control/Quality Assurance on all TGS added records and all records contacted since 01/01/2005.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>The record is not TGS added or has not had Quality Control/Quality Assurance performed by TGS, or Quality Control/Quality Assurance was performed prior to 01/01/2005.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attalias Sync="TRUE">STATE_ID</attalias>
+</attr>
+			<attr>
+				<attrlabl>STATE_ID</attrlabl>
+				<attrdef>State Hospital Data ID. For states that contributed data, this field is populated with the unique ID used by the state to track hospitals.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">90</attwidth>
+<attalias Sync="TRUE">LIC_NUMBER</attalias>
+</attr>
+			<attr>
+				<attrlabl>LIC_NUMBER</attrlabl>
+				<attrdef>
+Hospital's license number.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attalias Sync="TRUE">NUMBEDS</attalias>
+</attr>
+			<attr>
+				<attrlabl>NUMBEDS</attrlabl>
+				<attrdef>
+Total number of beds per facility.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attalias Sync="TRUE">EMERPHONE</attalias>
+</attr>
+			<attr>
+				<attrlabl>EMERPHONE</attrlabl>
+				<attrdef>
+Emergency Contact Number as provided by individual states.  Some values also include telephone extensions and/or alternate telephone numbers.  All alphabetic characters have been translated to the corresponding numeric digit.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Phone numbers, including area code, formatted as nnn-nnn-nnnn. A list of valid area code and exchange combinations can be found at &amp;lt;http://www.nanpa.com&amp;gt;</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+<attalias Sync="TRUE">TRAUMA_1</attalias>
+</attr>
+			<attr>
+				<attrlabl>TRAUMA_1</attrlabl>
+				<attrdef>
+Indicates whether or not the hospital is a Trauma Level 1 facility.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>Entity is a trauma level 1 facility.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>Entity is not a trauma level 1 facility.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown or not available.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">TRAUMA_2</attalias>
+</attr>
+			<attr>
+				<attrlabl>TRAUMA_2</attrlabl>
+				<attrdef>
+Indicates whether or not the hospital is a Trauma Level 2 facility.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>Entity is a trauma level 2 facility.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>Entity is not a trauma level 2 facility.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown or not available.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">TRAUMA_3</attalias>
+</attr>
+			<attr>
+				<attrlabl>TRAUMA_3</attrlabl>
+				<attrdef>
+Indicates whether or not the hospital is a Trauma Level 3 facility.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>Entity is a trauma level 3 facility.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>Entity is not a trauma level 3 facility.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown or not available.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">TRAUMA_4</attalias>
+</attr>
+			<attr>
+				<attrlabl>TRAUMA_4</attrlabl>
+				<attrdef>
+Indicates whether or not the hospital is a Trauma Level 4 facility.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>Entity is a trauma level 4 facility.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>Entity is not a trauma level 4 facility.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown or not available.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attalias Sync="TRUE">BURN_UNIT</attalias>
+</attr>
+			<attr>
+				<attrlabl>BURN_UNIT</attrlabl>
+				<attrdef>
+Indicates whether or not the hospital has a Burn Unit. 
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>Entity has a burn unit.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>Entity does not have a burn unit.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown or not available.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<attalias Sync="TRUE">ER_STATUS</attalias>
+</attr>
+			<attr>
+				<attrlabl>ER_STATUS</attrlabl>
+				<attrdef>
+Indicates whether or not the hospital has an emergency room.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>Indicates that facility has an emergency room.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>Indicates that facility does not have an emergency room.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown or not available.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attalias Sync="TRUE">LIC_ED_LEV</attalias>
+</attr>
+			<attr>
+				<attrlabl>LIC_ED_LEV</attrlabl>
+				<attrdef>
+Level of emergency care offered at hospital.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>EMERGENCY - BASIC</edomv>
+						<edomvd>This facility offers basic emergency level care.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>EMERGENCY - COMPREHENSIVE</edomv>
+						<edomvd>This facility offers comprehensive emergency level care.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>EMERGENCY - STANDBY</edomv>
+						<edomvd>This facility offers standby emergency level care.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown or not available.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+<attalias Sync="TRUE">ACUTE</attalias>
+</attr>
+			<attr>
+				<attrlabl>ACUTE</attrlabl>
+				<attrdef>
+Indicates whether or not the hospital provides acute care.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>Hospital does provide acute care.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>Hospital does not provide acute care.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown or not available.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attalias Sync="TRUE">ICU</attalias>
+</attr>
+			<attr>
+				<attrlabl>ICU</attrlabl>
+				<attrdef>
+Indicates whether or not the hospital has an Intensive Care Unit.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>Hospital has an ICU.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>No ICU.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown or not available.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attalias Sync="TRUE">HOSP_TYPE</attalias>
+</attr>
+			<attr>
+				<attrlabl>HOSP_TYPE</attrlabl>
+				<attrdef>
+Indicates the type of hospital.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+<attalias Sync="TRUE">OWNER_TYPE</attalias>
+</attr>
+			<attr>
+				<attrlabl>OWNER_TYPE</attrlabl>
+				<attrdef>
+Indicates the type of owner for the hospital.
+
+The values in this field have not been verified by TechniGraphics, Inc..
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+<attalias Sync="TRUE">PERM_ID</attalias>
+</attr>
+			<attr>
+				<attrlabl>PERM_ID</attrlabl>
+				<attrdef>
+The unique permanent identifier of The National Structures Dataset.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+<attalias Sync="TRUE">GNIS_ID</attalias>
+</attr>
+			<attr>
+				<attrlabl>GNIS_ID</attrlabl>
+				<attrdef>
+The unique permanent identifier of the Geographic Names Information System that is up to eight (8) digits in length and unique within the nation.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<metainfo>
+		<metd>20080920</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Mike Thompson</cntper>
+					<cntorg>TechniGraphics, Inc.</cntorg>
+				</cntperp>
+				<cntpos>Director of Geospatial Datasets</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>3351 Eastbrook Drive</address>
+					<city>Fort Collins</city>
+					<state>CO</state>
+					<postal>80525</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>970-224-4996</cntvoice>
+				<cntfax>970-224-3001</cntfax>
+				<cntemail>mthompson@tgstech.com</cntemail>
+				<hours>Monday - Friday 9:00 - 5:00 MST</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<langmeta Sync="TRUE">en</langmeta>
+<mettc Sync="TRUE">local time</mettc>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{03BE87D5-A2DD-4A62-A77F-77C66B0CAFF7}</MetaID>
+<CreaDate>20090408</CreaDate>
+<CreaTime>09471800</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<DataProperties>
+<lineage>
+<Process Date="20090408" Name="Project_1" Time="094719" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project">Project 2008_09_20_NH_Hospitals L:\contact\dataarchive\CSD\hospitals\2008_09_20_NH_Hospitals_Proj.shp PROJCS['NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',984250.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-71.66666666666667],PARAMETER['Scale_Factor',0.9999666666666667],PARAMETER['Latitude_Of_Origin',42.5],UNIT['Foot_US',0.3048006096012192]] NAD_1983_To_WGS_1984_5 GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]</Process>
+</lineage>
+</DataProperties>
+<SyncDate>20140707</SyncDate>
+<SyncTime>11123100</SyncTime>
+<ModDate>20140707</ModDate>
+<ModTime>11171400</ModTime>
+</Esri>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\NHHospitals0608.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+<orDesc Sync="TRUE">002</orDesc>
+</onLineSrc>
+<transSize Sync="TRUE">0.001</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NHHospitals0608</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">804881.931049</westBL>
+<eastBL Sync="TRUE">1218461.00881</eastBL>
+<northBL Sync="TRUE">876504.431606</northBL>
+<southBL Sync="TRUE">90946.823521</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-72.358905</westBL>
+<eastBL Sync="TRUE">-70.762795</eastBL>
+<northBL Sync="TRUE">44.904613</northBL>
+<southBL Sync="TRUE">42.746233</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">0.001</transize>
+<dssize Sync="TRUE">0.001</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd. </address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00am - 5:00pm, EST-USA</hours>
+</cntinfo>
+</distrib>
+</distinfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NHHospitals0608">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">33</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140707</mdDateSt>
+</metadata>

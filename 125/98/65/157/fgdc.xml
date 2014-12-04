@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Russia (Federation). Ministerstvo prirodnykh resursov. Head Research Information Computer Center</origin>
+				<origin>American Geological Institute</origin>
+				<pubdate>1998</pubdate>
+				<title>Dikes Russia 1998</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<lworkcit>
+					<citeinfo>
+						<origin>American Geological Institute</origin>
+						<pubdate>1998</pubdate>
+						<title>Natural Resources GIS of Russia</title>
+						<pubinfo>
+							<pubplace>Alexandria (Va.)</pubplace>
+							<publish>American Geological Institute</publish>
+						</pubinfo>
+						<onlink>http://www.mnr.gov.ru/english/</onlink>
+						<onlink>http://www.agiweb.org/pubs/pubdetail.html?item=302000</onlink>
+</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">RussiaDikes98</ftname>
+<onlink>http://www.mnr.gov.ru/english/</onlink>
+<onlink>http://www.agiweb.org/pubs/pubdetail.html?item=302000</onlink>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This line dataset represents geological dikes in Russia.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1998</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">99.923941</westbc>
+				<eastbc Sync="TRUE">128.371964</eastbc>
+				<northbc Sync="TRUE">70.940238</northbc>
+				<southbc Sync="TRUE">59.211741</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">99.923941</leftbc>
+<rightbc Sync="TRUE">128.371964</rightbc>
+<bottombc Sync="TRUE">59.211741</bottombc>
+<topbc Sync="TRUE">70.940238</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>line</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>geoscientificinformation</themekey>
+				<themekey>location</themekey>
+</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Geology, Structural</themekey>
+				<themekey>Dikes (Geology)</themekey>
+</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Russia</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Asia</placekey>
+				<placekey>Nothern Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+			</place>
+		</keywords>
+		<accconst>Restricted Access Online: Access is granted to licensee only. Available only to Tufts University affiliates.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Ministry of Natural Resources and Environment of the Russion Federation</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>4/6</address>
+					<address>Bolshaya Gruzinskaya str</address>
+					<city>Moscow</city>
+					<country>Russia</country>
+				</cntaddr>
+				<cntvoice>(495) 254-48-00</cntvoice>
+				<cntfax>254-43-10, 254-66-10</cntfax>
+				<cntemail>admin@cbi-mpr.ru</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>1:2,500,000</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc Sync="TRUE">Dataset copied.</procdesc>
+				<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Bangladesh\WATER</srcused>
+				<procdate Sync="TRUE">20121009</procdate>
+				<proctime Sync="TRUE">12453800</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Changed name from dik_arc to RussiaDikes98</procdesc>
+				<procdate>20121023</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd. </address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\Users\gberes01\AppData\Local\Temp\xmlBD47.tmp</srcused>
+				<procdate Sync="TRUE">20121009</procdate>
+				<proctime Sync="TRUE">13510200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\Users\gberes01\AppData\Local\Temp\xml7CE5.tmp</srcused>
+				<procdate Sync="TRUE">20121011</procdate>
+				<proctime Sync="TRUE">14210200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\Users\gberes01\AppData\Local\Temp\xmlCB75.tmp</srcused>
+				<procdate Sync="TRUE">20121023</procdate>
+				<proctime Sync="TRUE">16320400</proctime>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\Users\gberes01\AppData\Local\Temp\xmlDD5B.tmp</srcused>
+				<procdate Sync="TRUE">20121025</procdate>
+				<proctime Sync="TRUE">14505400</proctime>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\gberes01\AppData\Local\Temp\xml2133.tmp</srcused>
+<procdate Sync="TRUE">20121025</procdate>
+<proctime Sync="TRUE">16512000</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="RussiaDikes98">
+				<sdtstype Sync="TRUE">String</sdtstype>
+				<ptvctcnt Sync="TRUE">0</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="RussiaDikes98">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">0</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">D_Clarke_1866</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_Clarke_1866</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="RussiaDikes98">
+			<enttyp>
+				<enttypl Sync="TRUE">RussiaDikes98</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">0</enttypc>
+</enttyp>
+			<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Sync="TRUE">ESRI</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">FNODE_</attrlabl>
+<attalias Sync="TRUE">FNODE_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Geoprocessing identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">TNODE_</attrlabl>
+<attalias Sync="TRUE">TNODE_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Geoprocessing identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LPOLY_</attrlabl>
+<attalias Sync="TRUE">LPOLY_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Geoprocessing identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">RPOLY_</attrlabl>
+<attalias Sync="TRUE">RPOLY_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Geoprocessing identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LENGTH</attrlabl>
+<attalias Sync="TRUE">LENGTH</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Length of dike in decimal degrees.</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DIK_</attrlabl>
+<attalias Sync="TRUE">DIK_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Numerical identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DIK_ID</attrlabl>
+<attalias Sync="TRUE">DIK_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Numerical identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+				<attrlabl Sync="TRUE">NUMLEG</attrlabl>
+				<attrdef>Numerical look-up code for rock type</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">NUMLEG</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>367</edomv>
+<edomvd>Gabbro, norite, gabbro-norite, and gabbro-dorite</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center
+</edomvds>
+</edom>
+<edom>
+<edomv>368</edomv>
+<edomvd>gabbro-dolerite, dolerite, gabbro-diabase, and picrit diabase</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center
+</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NUML</attrlabl>
+				<attrdef>Legend number for geological age</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">NUML</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>113</edomv>
+<edomvd>Triassic undivided</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center
+</edomvds>
+</edom>
+<edom>
+<edomv>123</edomv>
+<edomvd>Lower triassic</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center
+</edomvds>
+</edom>
+<edom>
+<edomv>129</edomv>
+<edomvd>Upper Paleozoic (Permian, Carboniferous, and Devonian)</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center
+</edomvds>
+</edom>
+<edom>
+<edomv>237</edomv>
+<edomvd>Lower Proterozoic, undivided</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center
+</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">Shape_Leng</attrlabl>
+<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academy Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.000</transize>
+					<dssize Sync="TRUE">0.000</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140513</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<lineage/>
+	<lineage/>
+	<lineage/>
+	<Esri>
+<MetaID>{67DD274E-9A70-4A02-940D-B5BDB42C20FD}</MetaID>
+<CreaDate>20121025</CreaDate>
+<CreaTime>16512000</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140513</SyncDate>
+<SyncTime>15202100</SyncTime>
+<ModDate>20140513</ModDate>
+<ModTime>15202100</ModTime>
+<DataProperties>
+<lineage>
+<Process Date="20140513" Time="152023" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures">CopyFeatures S:\GIS_Center_Projects\EnterpriseGIS\Layers\Russia\GlavNIVC\geomap\Geomap.gdb\RussiaDikes98 S:\GIS_Center_Projects\EnterpriseGIS\Layers\Russia\GlavNIVC\geomap\RussiaDikes98.shp # 0 0 0</Process>
+</lineage>
+</DataProperties>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">RussiaDikes98</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">99.923941</westBL>
+<eastBL Sync="TRUE">128.371964</eastBL>
+<northBL Sync="TRUE">70.940238</northBL>
+<southBL Sync="TRUE">59.211741</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">99.923941</westBL>
+<eastBL Sync="TRUE">128.371964</eastBL>
+<northBL Sync="TRUE">70.940238</northBL>
+<southBL Sync="TRUE">59.211741</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Russia\GlavNIVC\geomap\RussiaDikes98.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.000</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_Clarke_1866</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="RussiaDikes98">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">0</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140513</mdDateSt>
+</metadata>

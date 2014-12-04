@@ -1,0 +1,2695 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>MassGIS (Office : Mass.)</origin>
+				<pubdate>20130605</pubdate>
+				<title>Master Street Address Guide Community Boundaries Massachusetts 2013</title>
+				<edition>1</edition>
+				<geoform>vector digital data</geoform>
+				<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/esz.html</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>MassGIS (Office : Mass.)</origin>
+						<pubdate>20131108</pubdate>
+						<title>MassGIS Data</title>
+						<pubinfo>
+							<pubplace>Massachusetts</pubplace>
+							<publish>MassGIS (Office : Mass.)</publish>
+						</pubinfo>
+						<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/esz.html</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">MACommunityBoundaries13</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents community boundaries in Massachusetts. The  datalayer represents Master Street Address Guide(MSAG) community boundaries created from the MassGIS Community Boundaries (Towns) From Survey Points layer, the assigned MSAG community values in the NAVSTREETS layer, and parcel data (where available).</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>20130605</begdate>
+				</rngdates>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-73.533318</westbc>
+				<eastbc>
+-69.898590</eastbc>
+				<northbc>
+42.888312</northbc>
+				<southbc>
+41.231170</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">33863.744200</leftbc>
+<rightbc Sync="TRUE">330836.972500</rightbc>
+<bottombc Sync="TRUE">777606.388600</bottombc>
+<topbc Sync="TRUE">959743.044600</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Communities</themekey>
+				<themekey>Street addresses</themekey>
+				<themekey>Assistance in emergencies</themekey>
+				<themekey>Police</themekey>
+				<themekey>Medical care</themekey>
+				<themekey>Public safety</themekey>
+				<themekey>Administrative and political divisions</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Massachusetts</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>North America</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Sean Sweeney</cntper>
+					<cntorg>MassGIS</cntorg>
+				</cntperp>
+				<cntpos>GIS Database Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>251 CAUSEWAY ST STE 500</address>
+					<city>BOSTON</city>
+					<state>MA</state>
+					<postal>02114-2119</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-626-1198</cntvoice>
+				<cntfax>617-626-1249</cntfax>
+				<cntemail>sean.sweeney@state.ma.us</cntemail>
+				<hours>0800 - 1630 EST</hours>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>There have been no deliberate or intentional omissions or inclusions of polygon attributes within this data set.</attraccr>
+		</attracc>
+		<posacc>
+			<horizpa>
+				<horizpar>Curt Crowe (the National Geodetic Survey's liason to Massachusetts) has stated the following concerning the TOWNSURVEY_POLYM layer: "these are not survey quality coordinates. The atlas coordinates were only published to the nearest foot on an early datum and the survey work was done over a thirty year span. The conversion updated the coordinates but it did not improve their accuracy. I would expect these values to be good to within 3 feet (1 meter) in most cases. Some areas will be slightly better and some could be much worse."
+
+The inside MSAG boundaries are estimates based on assignment of MSAG community to segments in a street layer plus parcel polygons where available and appropriate.  These boundaries are not official.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srcscale>Unknown</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Changed name of file from ESN_BOUNDARIES_20130604 to MACommunityBoundaries13</procdesc>
+				<procdate>20131108</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+		<cloud>Not Applicable</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="MACommunityBoundaries13">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>506</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="MACommunityBoundaries13">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">506</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000100</absres>
+						<ordres>0.000100</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>1.000000</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="MACommunityBoundaries13">
+			<enttyp>
+				<enttypl>
+MACommunityBoundaries13</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">506</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>Shape_Area</attrlabl>
+				<attrdef>Area of feature in internal units squared meters.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">PSAP_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>PSAP_ID</attrlabl>
+				<attrdef>Unique identifier for a Public Safety Answering Points (PSAP), assigned by the FCC and obtained from Verizon&amp;#146;s VoIP MSAG</attrdef>
+				<attrdefs>United States. Federal Communications Commission</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>3149</edomv>
+						<edomvd>Acushnet Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3150</edomv>
+						<edomvd>Ashland Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3151</edomv>
+						<edomvd>Barnstable County Sheriff</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3152</edomv>
+						<edomvd>Barnstable Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3153</edomv>
+						<edomvd>Bellingham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3154</edomv>
+						<edomvd>Berkshire County Sheriff</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3156</edomv>
+						<edomvd>Boston Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3157</edomv>
+						<edomvd>Cambridge Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3158</edomv>
+						<edomvd>Canton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3159</edomv>
+						<edomvd>Dalton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3160</edomv>
+						<edomvd>Dartmouth Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3161</edomv>
+						<edomvd>Dennis Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3162</edomv>
+						<edomvd>Dover Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3164</edomv>
+						<edomvd>Fairhaven Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3165</edomv>
+						<edomvd>Fall River Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3167</edomv>
+						<edomvd>Framingham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3168</edomv>
+						<edomvd>Franklin Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3169</edomv>
+						<edomvd>Freetown Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3170</edomv>
+						<edomvd>Holliston Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3171</edomv>
+						<edomvd>Hopkinton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3172</edomv>
+						<edomvd>Lee Communication Center</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3173</edomv>
+						<edomvd>Marion Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3177</edomv>
+						<edomvd>Middleboro State Police</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3178</edomv>
+						<edomvd>Northampton State Police</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3179</edomv>
+						<edomvd>Shelburne Falls State Police</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3181</edomv>
+						<edomvd>Medfield Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3182</edomv>
+						<edomvd>Medway Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3183</edomv>
+						<edomvd>Mills Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3184</edomv>
+						<edomvd>Natick Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3185</edomv>
+						<edomvd>New Bedford Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3186</edomv>
+						<edomvd>Norfolk Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3187</edomv>
+						<edomvd>Norwood Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3188</edomv>
+						<edomvd>Pittsfield Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3191</edomv>
+						<edomvd>Sharon Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3192</edomv>
+						<edomvd>Sherborn Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3193</edomv>
+						<edomvd>Somerset Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3194</edomv>
+						<edomvd>Somerville Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3196</edomv>
+						<edomvd>Springfield Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3198</edomv>
+						<edomvd>Stoughton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3199</edomv>
+						<edomvd>Swansea Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3200</edomv>
+						<edomvd>Walpole Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3201</edomv>
+						<edomvd>Wareham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3202</edomv>
+						<edomvd>Westport Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3203</edomv>
+						<edomvd>Worcester Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3204</edomv>
+						<edomvd>Wrentham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7669</edomv>
+						<edomvd>Abington Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7670</edomv>
+						<edomvd>Acton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7671</edomv>
+						<edomvd>Adams Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7672</edomv>
+						<edomvd>Agawam Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7673</edomv>
+						<edomvd>Amesbury Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7674</edomv>
+						<edomvd>Amherst Communications</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7675</edomv>
+						<edomvd>Andover Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7676</edomv>
+						<edomvd>Arlington Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7677</edomv>
+						<edomvd>Ashburnham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7678</edomv>
+						<edomvd>Ashby Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7679</edomv>
+						<edomvd>Athol Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7680</edomv>
+						<edomvd>Attleboro Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7681</edomv>
+						<edomvd>Auburn Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7682</edomv>
+						<edomvd>Avon Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7683</edomv>
+						<edomvd>Ayer Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7685</edomv>
+						<edomvd>Bedford Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7686</edomv>
+						<edomvd>Belchertown Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7687</edomv>
+						<edomvd>Belmont Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7688</edomv>
+						<edomvd>Berkley Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7689</edomv>
+						<edomvd>Berlin Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7690</edomv>
+						<edomvd>Beverly Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7691</edomv>
+						<edomvd>Billerica Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7692</edomv>
+						<edomvd>Blackstone Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7693</edomv>
+						<edomvd>Bolton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7694</edomv>
+						<edomvd>Bourne Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7695</edomv>
+						<edomvd>Boxborough Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7696</edomv>
+						<edomvd>Boxford Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7697</edomv>
+						<edomvd>Boylston Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7698</edomv>
+						<edomvd>Braintree Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7700</edomv>
+						<edomvd>Bridgewater Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7701</edomv>
+						<edomvd>Brockton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7702</edomv>
+						<edomvd>Brookline Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7703</edomv>
+						<edomvd>Burlington Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7704</edomv>
+						<edomvd>Carlisle Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7705</edomv>
+						<edomvd>Carver Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7706</edomv>
+						<edomvd>Charlton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7707</edomv>
+						<edomvd>Chelmsford Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7708</edomv>
+						<edomvd>Chelsea Emergency Communications</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7709</edomv>
+						<edomvd>Chicopee Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7710</edomv>
+						<edomvd>Clinton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7712</edomv>
+						<edomvd>Concord Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7713</edomv>
+						<edomvd>Danvers Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7714</edomv>
+						<edomvd>Dedham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7715</edomv>
+						<edomvd>Devens</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7716</edomv>
+						<edomvd>Dighton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7717</edomv>
+						<edomvd>Douglas Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7718</edomv>
+						<edomvd>Dracut Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7719</edomv>
+						<edomvd>Dudley Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7720</edomv>
+						<edomvd>Dukes County (Martha's Vineyard)</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7721</edomv>
+						<edomvd>Duxbury Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7722</edomv>
+						<edomvd>East Bridgewater Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7723</edomv>
+						<edomvd>East Longmeadow Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7724</edomv>
+						<edomvd>Eastham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7725</edomv>
+						<edomvd>Easthampton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7726</edomv>
+						<edomvd>Easton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7727</edomv>
+						<edomvd>Essex Communications Center</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7728</edomv>
+						<edomvd>Everett Communications Center</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7729</edomv>
+						<edomvd>Fitchburg Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7730</edomv>
+						<edomvd>Foxborough Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7731</edomv>
+						<edomvd>Gardener Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7732</edomv>
+						<edomvd>Georgetown Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7733</edomv>
+						<edomvd>Gloucester Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7734</edomv>
+						<edomvd>Grafton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7735</edomv>
+						<edomvd>Granby Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7736</edomv>
+						<edomvd>Great Barrington Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7737</edomv>
+						<edomvd>Greenfield Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7738</edomv>
+						<edomvd>Groton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7739</edomv>
+						<edomvd>Groveland Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7740</edomv>
+						<edomvd>Hadley Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7741</edomv>
+						<edomvd>Halifax Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7742</edomv>
+						<edomvd>Hamilton/Wenham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7743</edomv>
+						<edomvd>Hampden Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7744</edomv>
+						<edomvd>Hanover Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7745</edomv>
+						<edomvd>Hanscom Air Force Base</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7746</edomv>
+						<edomvd>Hanson Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7747</edomv>
+						<edomvd>Harvard Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7748</edomv>
+						<edomvd>Harverhill Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7750</edomv>
+						<edomvd>Holbrook Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7751</edomv>
+						<edomvd>Holden Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7752</edomv>
+						<edomvd>Holyoke Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7755</edomv>
+						<edomvd>Hudson Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7757</edomv>
+						<edomvd>Ipswich Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7758</edomv>
+						<edomvd>Kingston Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7759</edomv>
+						<edomvd>Lakeville Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7760</edomv>
+						<edomvd>Lancaster Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7761</edomv>
+						<edomvd>Lawrence Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7762</edomv>
+						<edomvd>Leicester Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7763</edomv>
+						<edomvd>Leominster Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7764</edomv>
+						<edomvd>Lexington Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7765</edomv>
+						<edomvd>Lincoln Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7766</edomv>
+						<edomvd>Littleton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7767</edomv>
+						<edomvd>Longmeadow Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7768</edomv>
+						<edomvd>Lowell Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7769</edomv>
+						<edomvd>Ludlow Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7770</edomv>
+						<edomvd>Lunenburg Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7771</edomv>
+						<edomvd>Lynn Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7772</edomv>
+						<edomvd>Lynnfield Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7773</edomv>
+						<edomvd>Malden Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7774</edomv>
+						<edomvd>Manchester Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7775</edomv>
+						<edomvd>Mansfield Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7776</edomv>
+						<edomvd>Marblehead Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7777</edomv>
+						<edomvd>Marlboro Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7778</edomv>
+						<edomvd>Marshfield Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7779</edomv>
+						<edomvd>Mattapoisett Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7780</edomv>
+						<edomvd>Maynard Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7781</edomv>
+						<edomvd>Medford Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7782</edomv>
+						<edomvd>Melrose Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7783</edomv>
+						<edomvd>Mendon Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7784</edomv>
+						<edomvd>Merrimac Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7785</edomv>
+						<edomvd>Methuen Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7786</edomv>
+						<edomvd>Middleboro Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7787</edomv>
+						<edomvd>Middleton Fire Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7788</edomv>
+						<edomvd>Milford Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7789</edomv>
+						<edomvd>Millbury Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7791</edomv>
+						<edomvd>Milton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7792</edomv>
+						<edomvd>Monson Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7793</edomv>
+						<edomvd>Montague Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7794</edomv>
+						<edomvd>Nahant Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7795</edomv>
+						<edomvd>Nantucket Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7796</edomv>
+						<edomvd>Needham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7797</edomv>
+						<edomvd>New Braintree State Police</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7798</edomv>
+						<edomvd>Newbury Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7799</edomv>
+						<edomvd>Newburyport Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7800</edomv>
+						<edomvd>Newton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7801</edomv>
+						<edomvd>North Adams Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7802</edomv>
+						<edomvd>North Andover Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7803</edomv>
+						<edomvd>North Attleboro Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7804</edomv>
+						<edomvd>North Reading Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7805</edomv>
+						<edomvd>Northampton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7806</edomv>
+						<edomvd>Northboro Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7807</edomv>
+						<edomvd>Northbridge Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7808</edomv>
+						<edomvd>Norton Communications Center</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7810</edomv>
+						<edomvd>Oxford Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7811</edomv>
+						<edomvd>Palmer Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7812</edomv>
+						<edomvd>Paxton Communications Center</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7813</edomv>
+						<edomvd>Peabody Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7814</edomv>
+						<edomvd>Pembroke Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7815</edomv>
+						<edomvd>Pepperell Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7816</edomv>
+						<edomvd>Plainville Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7817</edomv>
+						<edomvd>Princeton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7818</edomv>
+						<edomvd>Provincetown Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7819</edomv>
+						<edomvd>Quincy Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7820</edomv>
+						<edomvd>Randolph Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7821</edomv>
+						<edomvd>Raynham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7822</edomv>
+						<edomvd>Reading Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7823</edomv>
+						<edomvd>Rehoboth Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7824</edomv>
+						<edomvd>Revere Fire Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7825</edomv>
+						<edomvd>Rochester Communications</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7826</edomv>
+						<edomvd>Rockland Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7827</edomv>
+						<edomvd>Rockport Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7828</edomv>
+						<edomvd>Rowley Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7829</edomv>
+						<edomvd>Rutland Fire Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7830</edomv>
+						<edomvd>Salem Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7831</edomv>
+						<edomvd>Salisbury Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7832</edomv>
+						<edomvd>Sandwich Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7833</edomv>
+						<edomvd>Saugus Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7834</edomv>
+						<edomvd>Scituate Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7835</edomv>
+						<edomvd>Seekonk Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7836</edomv>
+						<edomvd>Shirley Communications</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7837</edomv>
+						<edomvd>Shrewsbury Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7838</edomv>
+						<edomvd>South Hadley Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7839</edomv>
+						<edomvd>Southampton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7840</edomv>
+						<edomvd>Southborough Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7841</edomv>
+						<edomvd>Southbridge Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7842</edomv>
+						<edomvd>Southwick Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7843</edomv>
+						<edomvd>Spencer Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7844</edomv>
+						<edomvd>Sterling Communications</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7845</edomv>
+						<edomvd>Stoneham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7846</edomv>
+						<edomvd>Stow Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7847</edomv>
+						<edomvd>Sturbridge Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7848</edomv>
+						<edomvd>Sudbury Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7849</edomv>
+						<edomvd>Sutton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7851</edomv>
+						<edomvd>Taunton Fire Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7852</edomv>
+						<edomvd>Templeton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7853</edomv>
+						<edomvd>Tewksbury Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7854</edomv>
+						<edomvd>Topsfield Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7855</edomv>
+						<edomvd>Townsend Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7856</edomv>
+						<edomvd>Truro Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7857</edomv>
+						<edomvd>Tyngsboro Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7858</edomv>
+						<edomvd>Upton Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7859</edomv>
+						<edomvd>Uxbridge Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7860</edomv>
+						<edomvd>Wakefield Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7861</edomv>
+						<edomvd>Waltham Communications</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7862</edomv>
+						<edomvd>Ware Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7863</edomv>
+						<edomvd>Warren Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7864</edomv>
+						<edomvd>Watertown Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7865</edomv>
+						<edomvd>Wayland Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7866</edomv>
+						<edomvd>Webster Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7867</edomv>
+						<edomvd>Wellesley Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7869</edomv>
+						<edomvd>West Boylston Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7870</edomv>
+						<edomvd>West Bridgewater Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7871</edomv>
+						<edomvd>West Newbury Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7872</edomv>
+						<edomvd>West Springfield Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7873</edomv>
+						<edomvd>Westborough Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7874</edomv>
+						<edomvd>Westfield Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7875</edomv>
+						<edomvd>Westford Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7876</edomv>
+						<edomvd>Westminster Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7877</edomv>
+						<edomvd>Weston Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7878</edomv>
+						<edomvd>Westwood Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7879</edomv>
+						<edomvd>Weymouth Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7880</edomv>
+						<edomvd>Wilbraham Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7881</edomv>
+						<edomvd>Williamstown Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7882</edomv>
+						<edomvd>Wilmington Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7883</edomv>
+						<edomvd>Winchendon Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7884</edomv>
+						<edomvd>Winchester Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7885</edomv>
+						<edomvd>Winthrop Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7886</edomv>
+						<edomvd>Woburn Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7887</edomv>
+						<edomvd>Yarmouth Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7905</edomv>
+						<edomvd>Plymouth Police Department</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8329</edomv>
+						<edomvd>South Shore Regional Emergency Communications Center</edomvd>
+						<edomvds>United States. Federal Communications Commission</edomvds>
+					</edom>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TOWN_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOWN_ID</attrlabl>
+				<attrdef>Unique identifier for towns.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TOWN</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOWN</attrlabl>
+				<attrdef>City or Town Name</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FIPS_STCO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">21</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIPS_STCO</attrlabl>
+				<attrdef>Federal Information Processing Standard (FIPS) State/County Code</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>25001</edomv>
+						<edomvd>Barnstable</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25003</edomv>
+						<edomvd>Berkshire</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25005</edomv>
+						<edomvd>Bristol</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25007</edomv>
+						<edomvd>Dukes</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25009</edomv>
+						<edomvd>Essex</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25011</edomv>
+						<edomvd>Franklin</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25013</edomv>
+						<edomvd>Hampden</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25015</edomv>
+						<edomvd>Hampshire</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25017</edomv>
+						<edomvd>Middlesex</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25019</edomv>
+						<edomvd>Nantucket</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25021</edomv>
+						<edomvd>Norfolk</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25023</edomv>
+						<edomvd>Plymouth</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25025</edomv>
+						<edomvd>Suffolk</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25027</edomv>
+						<edomvd>Worcester</edomvd>
+						<edomvds>National Institute of Standards and Technology (U.S.)</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ESN</attalias>
+<attrtype Sync="TRUE">Integer</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atprecis Sync="TRUE">9</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>ESN</attrlabl>
+				<attrdef>Emergency Service Number (ESN). Defined as a three to five digit number representing a unique combination of emergency service agencies (Law Enforcement, Fire, and Emergency Medical Service) designated to serve a specific range of addresses within a particular geographical area, or Emergency Service Zone (ESZ). The ESN facilitates selective routing and selective transfer, if required, to the appropriate PSAP and the dispatching of the proper service agency (ies).</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MSAG_COMM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MSAG_COMM</attrlabl>
+				<attrdef>Master Street Address Guide (MSAG) Community name.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MULT_ESN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MULT_ESN</attrlabl>
+				<attrdef>Either a yes (Y) or no (N) value that describes if the TOWN contains more than one ESN per the MSAG</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">PACEL_LEVE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PACEL_LEVE</attrlabl>
+				<attrdef>The standard to which digital parcels comply.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>The parcels do not meet the MassGIS Standards for Digital Parcels, bit were available in digital format</edomvd>
+						<edomvds>MassGIS (Office : Mass.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>The parcels comply with the MassGIS Standards for Digital Parcels</edomvd>
+						<edomvds>MassGIS (Office : Mass.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>The parcel whose data model were revised to eliminate situations in which one tax listing links to more than one polygon on the assessor&amp;#146;s map.</edomvd>
+						<edomvds>MassGIS (Office : Mass.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PARCELS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PARCELS</attrlabl>
+				<attrdef>Either a yes (Y) or no (N) value that describes if the TOWN has digital parcel data available.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">PRIMARY_PS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRIMARY_PS</attrlabl>
+				<attrdef>Public Safety Answering Points (PSAP) name obtained from MA911.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Shape_Leng</attrlabl>
+				<attrdef>Length of feature measured in the unit of meter</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">EXISTING_R</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>EXISTING_R</attrlabl>
+				<attrdef>Either a yes (Y) or no (N) value that describes if PRIMARY_PSAP is associated with more than one TOWN. Used for symbology purposes.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>9.548</transize>
+					<dssize Sync="TRUE">9.548</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>June 2004</caldate>
+					<time>unknown</time>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd>20140522</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">MACommunityBoundaries13</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">33863.7442</westBL>
+<eastBL Sync="TRUE">330836.9725</eastBL>
+<northBL Sync="TRUE">959743.0446</northBL>
+<southBL Sync="TRUE">777606.3886</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\MassGIS2013_3\ESN_BOUNDARIES_20130604\MACommunityBoundaries13.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">9.548</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="MACommunityBoundaries13">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">506</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140522</SyncDate>
+<SyncTime>21253200</SyncTime>
+<ModDate>20140522</ModDate>
+<ModTime>21253200</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140522</mdDateSt>
+</metadata>

@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. National Geospatial-Intelligence Agency</origin>
+				<pubdate>1995</pubdate>
+				<title>Administrative Boundaries Lines World 1995</title>
+				<geoform>vector digital data</geoform>
+				<onlink>\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\WVS\WorldBoundariesLn95.shp</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. National Geospatial-Intelligence Agency</origin>
+						<pubdate>1995</pubdate>
+						<title>World Vector Shoreline Dataset</title>
+						<pubinfo>
+							<pubplace>Charleston (S.C.)</pubplace>
+							<publish>United States. National Geospatial-Intelligence Agency</publish>
+						</pubinfo>
+						<onlink>http://shoreline.noaa.gov/data/datasheets/wvs.html</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">WorldBoundariesLn95</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This line dataset represent world vector boundaries from the World Vector Shoreline dataset. The original World Vector Shoreline (WVS) was a digital data file containing the shorelines, international boundaries, and country names of the world. WVS data were processed into NGA&amp;#146;s Vector Product Format in 1995, resulting in the highest resolution demarcation of coastline globally available, the World Vector Shoreline Plus.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1995</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-180.000000</westbc>
+				<eastbc>
+45.000000</eastbc>
+				<northbc>
+83.633392</northbc>
+				<southbc>
+-90.000000</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-180.000000</leftbc>
+<rightbc Sync="TRUE">45.000000</rightbc>
+<bottombc Sync="TRUE">-90.000000</bottombc>
+<topbc Sync="TRUE">83.633392</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>line</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Boundaries</themekey>
+				<themekey>Administrative and political divisions</themekey>
+			</theme>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Southern Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>Africa</placekey>
+				<placekey>Asia</placekey>
+				<placekey>Australia</placekey>
+				<placekey>Europe</placekey>
+				<placekey>North America</placekey>
+				<placekey>South America</placekey>
+				<placekey>Polar Regions</placekey>
+			</place>
+			<place>
+				<placekt>Getty</placekt>
+				<placekey>World</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NOAA Coastal Services Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>NOAA Coastal Services Center</address>
+					<address>2234 South Hobson Avenue</address>
+					<city>Charleston</city>
+					<state>South Carolina</state>
+					<postal>29405-2413</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>843-740-1220</cntvoice>
+				<cntfax>843-740-1224</cntfax>
+				<cntemail>csc@csc.noaa.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>1: 250,000</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>11073200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\Starter Metadata Template -Tufts - UTF-8</srcused>
+				<procdate>20130319</procdate>
+				<proctime>13133300</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Name changed from cocline_In_Export to WorldBoundaries95.</procdesc>
+				<procdate>20130319</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University Geographic Information Systems Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Ave</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>is-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\WVS\WVS.xml</srcused>
+				<procdate>20130319</procdate>
+				<proctime>13221300</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\WVS\WVS.gdb</srcused>
+				<procdate>20130319</procdate>
+				<proctime>14084500</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>\\UITATECHGISFL3\C$\Users\nsusma01\Desktop\WVS.gdb</srcused>
+				<procdate>20130319</procdate>
+				<proctime>14095800</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="WorldBoundariesLn95">
+				<sdtstype>String</sdtstype>
+				<ptvctcnt>143000</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="WorldBoundariesLn95">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">143000</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="WorldBoundariesLn95">
+			<enttyp>
+				<enttypl>
+WorldBoundariesLn95</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">143000</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>OBJECTID_1</attrlabl>
+				<attrdef>Unique identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OBJECTID_1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>edg_id</attrlabl>
+				<attrdef>Unique identifier of the edge</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">edg_id</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>facc</attrlabl>
+				<attrdef>Feature and attribute coding catalog identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>BA010</edomv>
+						<edomvd>Coastline/shoreline</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FA000</edomv>
+						<edomvd>Administrative Boundary</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ZD003</edomv>
+						<edomvd>Artifact location</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FA020</edomv>
+						<edomvd>Amistice line</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FA040</edomv>
+						<edomvd>Claim line</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FA050</edomv>
+						<edomvd>Mandate line/Convention</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FA060</edomv>
+						<edomvd>Defacto Boundary</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FA070</edomv>
+						<edomvd>Demilitarized zone</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">facc</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>facc_descr</attrlabl>
+				<attalias Sync="TRUE">facc_descr</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>acc</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">acc</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>acc_descri</attrlabl>
+				<attalias Sync="TRUE">acc_descri</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>bst</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">bst</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>bst_descri</attrlabl>
+				<attalias Sync="TRUE">bst_descri</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>nm3</attrlabl>
+				<attrdef>Country abbreviation (refers to one of the countries the line is associated with the border(</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">nm3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>nm3_descri</attrlabl>
+				<attalias Sync="TRUE">nm3_descri</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>nm4</attrlabl>
+				<attrdef>Country abbreviation (refers to one of the countries the line is associated with the border(</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-</edomv>
+						<edomvd>Unknown or undeclared</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">nm4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>nm4_descri</attrlabl>
+				<attalias Sync="TRUE">nm4_descri</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>use</attrlabl>
+				<attrdef>Type of boundary</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">use</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>use_descri</attrlabl>
+				<attalias Sync="TRUE">use_descri</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>tile_id</attrlabl>
+				<attrdef>Tile identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">tile_id</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Shape_Leng</attrlabl>
+				<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>63.762</transize>
+					<dssize Sync="TRUE">63.762</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20131115</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">WorldBoundariesLn95</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-180</westBL>
+<eastBL Sync="TRUE">45</eastBL>
+<northBL Sync="TRUE">83.633392</northBL>
+<southBL Sync="TRUE">-90</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-180</westBL>
+<eastBL Sync="TRUE">45</eastBL>
+<northBL Sync="TRUE">83.633392</northBL>
+<southBL Sync="TRUE">-90</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\WVS\WorldBoundariesLn95.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">63.762</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="WorldBoundariesLn95">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">143000</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20131115</SyncDate>
+<SyncTime>13263500</SyncTime>
+<ModDate>20131115</ModDate>
+<ModTime>13263500</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20131115</mdDateSt>
+</metadata>

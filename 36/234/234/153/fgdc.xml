@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20100923</CreaDate>
+<CreaTime>17144100</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140522</SyncDate>
+<SyncTime>23253500</SyncTime>
+<ModDate>20140522</ModDate>
+<ModTime>23254500</ModTime>
+<DataProperties>
+<lineage>
+<Process Date="20100826" Time="165149" ToolSource="c:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Merge">Merge MN_Waterfront_Parks_WEB;BX_Waterfront_Parks_WEB;PAWS_BK_Parks;QN_Waterfront_Parks_WEB;SI_Waterfront_Parks_WEB "C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\PAWS_NYC_Parks" "FACILITY_N 'FACILITY_N' true true false 70 Text 0 0 ,First,#,MN_Waterfront_Parks_WEB,FACILITY_N,-1,-1,BX_Waterfront_Parks_WEB,FACILITY_N,-1,-1,QN_Waterfront_Parks_WEB,FACILITY_N,-1,-1,SI_Waterfront_Parks_WEB,FACILITY_N,-1,-1;Acres 'Acres' true true false 8 Double 0 0 ,First,#,MN_Waterfront_Parks_WEB,Acres,-1,-1,BX_Waterfront_Parks_WEB,Acres,-1,-1,PAWS_BK_Parks,Acres,-1,-1,QN_Waterfront_Parks_WEB,Acres,-1,-1,SI_Waterfront_Parks_WEB,Acres,-1,-1;CD 'CD' true true false 15 Text 0 0 ,First,#,MN_Waterfront_Parks_WEB,CD,-1,-1,BX_Waterfront_Parks_WEB,CD,-1,-1,PAWS_BK_Parks,CD,-1,-1,QN_Waterfront_Parks_WEB,CD,-1,-1,SI_Waterfront_Parks_WEB,CD,-1,-1;Boro_Code 'Boro_Code' true true false 2 Short 0 0 ,First,#,MN_Waterfront_Parks_WEB,Boro_Code,-1,-1,BX_Waterfront_Parks_WEB,Boro_Code,-1,-1,PAWS_BK_Parks,Boro_Code,-1,-1,QN_Waterfront_Parks_WEB,Boro_Code,-1,-1,SI_Waterfront_Parks_WEB,Boro_Code,-1,-1;Reach_ID 'Reach_ID' true true false 2 Short 0 0 ,First,#,MN_Waterfront_Parks_WEB,Reach_ID,-1,-1,BX_Waterfront_Parks_WEB,Reach_ID,-1,-1,PAWS_BK_Parks,Reach_ID,-1,-1,QN_Waterfront_Parks_WEB,Reach_ID,-1,-1,SI_Waterfront_Parks_WEB,Reach_ID,-1,-1;Name 'Name' true true false 50 Text 0 0 ,First,#,MN_Waterfront_Parks_WEB,Name,-1,-1,BX_Waterfront_Parks_WEB,Name,-1,-1,PAWS_BK_Parks,Name,-1,-1,QN_Waterfront_Parks_WEB,Name,-1,-1;FuturePark 'FuturePark' true true false 50 Text 0 0 ,First,#,MN_Waterfront_Parks_WEB,FuturePark,-1,-1,BX_Waterfront_Parks_WEB,FuturePark,-1,-1,PAWS_BK_Parks,FuturePark,-1,-1,QN_Waterfront_Parks_WEB,FuturePark,-1,-1,SI_Waterfront_Parks_WEB,FuturePark,-1,-1;CD_text 'CD_text' true true false 50 Text 0 0 ,First,#,MN_Waterfront_Parks_WEB,CD_text,-1,-1,BX_Waterfront_Parks_WEB,CD_text,-1,-1,PAWS_BK_Parks,CD_text,-1,-1,QN_Waterfront_Parks_WEB,CD_text,-1,-1,SI_Waterfront_Parks_WEB,CD_text,-1,-1;Project_ID 'Project_ID' true true false 2 Short 0 0 ,First,#,MN_Waterfront_Parks_WEB,Project_ID,-1,-1,BX_Waterfront_Parks_WEB,Project_ID,-1,-1,PAWS_BK_Parks,Project_ID,-1,-1,SI_Waterfront_Parks_WEB,Project_ID,-1,-1;Borough 'Borough' true true false 254 Text 0 0 ,First,#,MN_Waterfront_Parks_WEB,Borough,-1,-1,BX_Waterfront_Parks_WEB,Borough,-1,-1,PAWS_BK_Parks,Borough,-1,-1,QN_Waterfront_Parks_WEB,Borough,-1,-1,SI_Waterfront_Parks_WEB,Borough,-1,-1;Boro_CD 'Boro_CD' true true false 254 Text 0 0 ,First,#,MN_Waterfront_Parks_WEB,Boro_CD,-1,-1,BX_Waterfront_Parks_WEB,Boro_CD,-1,-1,PAWS_BK_Parks,Boro_CD,-1,-1,QN_Waterfront_Parks_WEB,Boro_CD,-1,-1,SI_Waterfront_Parks_WEB,Boro_CD,-1,-1;Jurisdicti 'Jurisdicti' true true false 254 Text 0 0 ,First,#,MN_Waterfront_Parks_WEB,Jurisdicti,-1,-1,BX_Waterfront_Parks_WEB,Jurisdicti,-1,-1,PAWS_BK_Parks,Jurisdicti,-1,-1,QN_Waterfront_Parks_WEB,Jurisdicti,-1,-1,SI_Waterfront_Parks_WEB,Jurisdicti,-1,-1;Access 'Access' true true false 2 Short 0 0 ,First,#,MN_Waterfront_Parks_WEB,Access,-1,-1,BX_Waterfront_Parks_WEB,Access,-1,-1,PAWS_BK_Parks,Access,-1,-1,QN_Waterfront_Parks_WEB,Access,-1,-1,SI_Waterfront_Parks_WEB,Access,-1,-1;Shape_Length 'Shape_Length' false true true 8 Double 0 0 ,First,#,MN_Waterfront_Parks_WEB,Shape_Length,-1,-1,BX_Waterfront_Parks_WEB,Shape_Length,-1,-1,PAWS_BK_Parks,Shape_Length,-1,-1,QN_Waterfront_Parks_WEB,Shape_Length,-1,-1,SI_Waterfront_Parks_WEB,Shape_Length,-1,-1;Shape_Area 'Shape_Area' false true true 8 Double 0 0 ,First,#,MN_Waterfront_Parks_WEB,Shape_Area,-1,-1,BX_Waterfront_Parks_WEB,Shape_Area,-1,-1,PAWS_BK_Parks,Shape_Area,-1,-1,QN_Waterfront_Parks_WEB,Shape_Area,-1,-1,SI_Waterfront_Parks_WEB,Shape_Area,-1,-1;Status 'Status' true true false 2 Short 0 0 ,First,#,MN_Waterfront_Parks_WEB,Status,-1,-1;Shape_Leng 'Shape_Leng' true true false 8 Double 0 0 ,First,#,BX_Waterfront_Parks_WEB,Shape_Leng,-1,-1,QN_Waterfront_Parks_WEB,Shape_Leng,-1,-1,SI_Waterfront_Parks_WEB,Shape_Leng,-1,-1;FACILITY_1 'FACILITY_1' true true false 70 Text 0 0 ,First,#,PAWS_BK_Parks,FACILITY_1,-1,-1;Project_ID_1 'Project_ID_1' true true false 255 Text 0 0 ,First,#,PAWS_BK_Parks,Project_ID_1,-1,-1;Name_1 'Name_1' true true false 50 Text 0 0 ,First,#,SI_Waterfront_Parks_WEB,Name_1,-1,-1"</Process>
+<Process Date="20100914" Time="094955" ToolSource="c:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AssignDomainToField">AssignDomainToField NYC_Waterfront_Parks Construction_Status Construction # NYC_Waterfront_Parks</Process>
+<Process Date="20100923" Time="170248" ToolSource="c:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass">FeatureClassToFeatureClass "C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks" "C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\Shapefile_Exports" NYC_Waterfront_Parks.shp # "Park_Name 'Park_Name' true true false 70 Text 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Park_Name,-1,-1;WF_Park_ID 'WF_Park_ID' true true false 10 Text 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,WF_Park_ID,-1,-1;FAC_ID 'FAC_ID' true true false 25 Text 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,FAC_ID,-1,-1;DPR_ID 'DPR_ID' true true false 20 Text 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,DPR_ID,-1,-1;Status 'Status' true true false 50 Text 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Status,-1,-1;StatusCode 'StatusCode' true true false 2 Short 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,StatusCode,-1,-1;Agency 'Agency' true true false 254 Text 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Agency,-1,-1;Boro_Name 'Boro_Name' true true false 255 Text 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Boro_Name,-1,-1;Borough 'Borough' true true false 254 Text 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Borough,-1,-1;Boro_Code 'Boro_Code' true true false 2 Short 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Boro_Code,-1,-1;CD 'CD' true true false 4 Long 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,CD,-1,-1;CD_text 'CD_text' true true false 50 Text 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,CD_text,-1,-1;Boro_CD 'Boro_CD' true true false 254 Text 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Boro_CD,-1,-1;Reach_ID 'Reach_ID' true true false 2 Short 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Reach_ID,-1,-1;Reach_Name 'Reach_Name' true true false 50 Text 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Reach_Name,-1,-1;View_Only 'View_Only' true true false 2 Short 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,View_Only,-1,-1;Acres 'Acres' true true false 8 Double 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Acres,-1,-1;Shape_Leng 'Shape_Length' false true true 8 Double 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Shape_Length,-1,-1;Shape_Area 'Shape_Area' false true true 8 Double 0 0 ,First,#,C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\PAWS.mdb\NYC_Waterfront_Parks,Shape_Area,-1,-1" # "C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\Shapefile_Exports\NYC_Waterfront_Parks.shp"</Process>
+</lineage>
+</DataProperties>
+<MetaID>{B22DB3AB-618A-4970-A7A9-1129B6D150F4}</MetaID>
+</Esri>
+<idinfo>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<descript>
+<langdata Sync="TRUE">en</langdata>
+<abstract>This polygon dataset represents parklands on the water's edge in New York City. Any portions of a park that are located upland (separated from water by the first upland street) are excluded.</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+<supplinf>
+
+Related data: 
+
+PAWS:
+PAWS is a polygon shapefile of publicly accessible waterfront spaces in NYC containing jurisdictional and construction status information. The majority of these spaces were constructed in conjunction with private waterfront developments, pursuant to the NYC Zoning Resolution.  This feature class also includes spaces that are under construction (in progress), or have been approved through ULURP (Uniform Land Use Review Procedure) but construction of the waterfront spaces has not commenced.  The publicly owned spaces in this database do not include parks or open spaces under the jurisdiction of NYC Department of Parks and Recreation, NYS Office of Parks, Recreation &amp;amp; Historic Preservation, or the National Park Service. This shapefile was created by the New York City Department of City Planning and is located on their website (www.nyc.gov/dcp) in the BYTES of the Big Apple section.
+
+Publicly Accessible Waterfront Spaces Database: 
+This database contains information about publicly accessible waterfront spaces in NYC. The database can be joined to the NYC_PAWS shapefile on the PAWS_ID field. The database includes many additional attribute fields and provides more detailed information on each publicly accessible waterfront space. This database was created by the New York City Department of City Planning and is located on their website (www.nyc.gov/dcp) in the BYTES of the Big Apple section.
+
+Selected Facilities and Program Sites in New York City Database:
+Data providing the location, type and capacity of public and private community facilities in New York City, including schools, parks, libraries, public safety, day care, foster care, special needs housing, health and mental health facilities and programs. To facilitate analysis and mapping, the data is geocoded and available in two formats: ASCII delimited text files and Microsoft Access database. This can be joined to NYC_Waterfront_Parks shapefile on the FAC_ID field. This database was created by the New York City Department of City Planning and is located on their website (www.nyc.gov/dcp) in the BYTES of the Big Apple section.</supplinf>
+</descript>
+<citation>
+<citeinfo>
+<origin>New York (N.Y.). Department of City Planning</origin>
+<pubdate>20101031</pubdate>
+<title>Waterfront Parks New York City 2010</title>
+<ftname Sync="TRUE">NYCWaterfrontParks13</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<edition>10v1</edition>
+<serinfo>
+<sername>BYTES of the Big Apple</sername>
+<issue>10v1</issue>
+</serinfo>
+<pubinfo>
+<pubplace>New York (N.Y.) </pubplace>
+<publish>New York (N.Y.). Department of City Planning</publish>
+</pubinfo>
+<onlink>http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml</onlink>
+<lworkcit>
+<citeinfo>
+<origin>New York (N.Y.). Department of City Planning</origin>
+<pubdate>20131213</pubdate>
+<title>City of New York, NY Planning</title>
+<pubinfo>
+<pubplace>New York (N.Y.) </pubplace>
+<publish>New York (N.Y.). Department of City Planning</publish>
+</pubinfo>
+<onlink>http://www.nyc.gov/html/dcp/html/bytes/meta_waterfront_parks.shtml</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<timeperd>
+<current>publication date</current>
+<timeinfo>
+<sngdate>
+<caldate>20101031</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Bi-Annually</update>
+</status>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">-74.257019</westbc>
+<eastbc Sync="TRUE">-73.735981</eastbc>
+<northbc Sync="TRUE">40.903747</northbc>
+<southbc Sync="TRUE">40.495747</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">913201.122572</leftbc>
+<rightbc Sync="TRUE">1057233.927000</rightbc>
+<bottombc Sync="TRUE">120000.131769</bottombc>
+<topbc Sync="TRUE">268537.684600</topbc>
+</lboundng>
+</spdom>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>polygon</themekey>
+</theme>
+<place>
+<placekey>New York (State)</placekey>
+<placekey>New York (N.Y.) </placekey>
+<placekey>Manhattan (New York, N.Y.)</placekey>
+<placekey>Staten Island (New York, N.Y.)</placekey>
+<placekey>Brooklyn (New York, N.Y.)</placekey>
+<placekey>Bronx (New York, N.Y.)</placekey>
+<placekey>Queens (New York, N.Y.)</placekey>
+<placekt>GNIS</placekt>
+<placekey>Richmond (New York, N.Y.)</placekey>
+</place>
+<theme>
+<themekey>boundaries</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>location</themekey>
+</theme>
+<theme>
+<themekey>Waterfronts</themekey>
+<themekt>LCSH </themekt>
+<themekey>Parks</themekey>
+<themekey>Open spaces</themekey>
+<themekey>Public spaces</themekey>
+</theme>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH </placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>New York City Department of City Planning</cntorg>
+</cntorgp>
+<cntpos>BYTES of the BIG APPLE Coordinator</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>22 Reade Street</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10007</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>212.720.3505</cntvoice>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NYCWaterfrontParks13</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">913201.122572</westBL>
+<eastBL Sync="TRUE">1057233.927</eastBL>
+<northBL Sync="TRUE">268537.6846</northBL>
+<southBL Sync="TRUE">120000.131769</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-74.257019</westBL>
+<eastBL Sync="TRUE">-73.735981</eastBL>
+<northBL Sync="TRUE">40.903747</northBL>
+<southBL Sync="TRUE">40.495747</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<metainfo>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<address>Academic Technology</address>
+<country>USA</country>
+<address>16 Dearborn Rd</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntpos>Data Technician</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</metc>
+<metd Sync="TRUE">20140522</metd>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+<address>16 Dearborn Rd</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntpos>Data Technician</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</distrib>
+<stdorder>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">1.715</transize>
+<dssize Sync="TRUE">1.715</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+</distinfo>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NYCPlanning2013\Waterfront\NYCWaterfrontParks13.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">1.715</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="NYCWaterfrontParks13">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">186</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="NYCWaterfrontParks13">
+<sdtstype Sync="TRUE">G-polygon</sdtstype>
+<ptvctcnt Sync="TRUE">186</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">survey feet</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">40.666667</stdparll>
+<stdparll Sync="TRUE">41.033333</stdparll>
+<longcm Sync="TRUE">-74.000000</longcm>
+<latprjo Sync="TRUE">40.166667</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+<geodetic>
+<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NYCWaterfrontParks13">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">186</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<eainfo>
+<detailed Name="NYCWaterfrontParks13">
+<enttyp>
+<enttypl Sync="TRUE">NYCWaterfrontParks13</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">186</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Park_Name</attrlabl>
+<attalias Sync="TRUE">Park_Name</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">70</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The name of the waterfront park.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">WF_Park_ID</attrlabl>
+<attalias Sync="TRUE">WF_Park_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>A unique identification number assigned to each waterfront park. Seven digit ID: first number is the one digit borough code, followed by a two digit community district number (waterfront parks within multiple community districts are set to '00'), followed by four digit waterfront park ID.</attrdef>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FAC_ID</attrlabl>
+<attalias Sync="TRUE">FAC_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The ID number of the waterfront park in NYC Department of City Planning's Selected Facilities database. If the value is null then the waterfront park is not in the Selected Facilities database.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DPR_ID</attrlabl>
+<attalias Sync="TRUE">DPR_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The official park ID number assigned by the New York City Department of Parks and Recreation. If value is null then park is not under NYC DPR's jurisdiction.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Acres</attrlabl>
+<attalias Sync="TRUE">Acres</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>Area of waterfront park in acres.</attrdef>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">StatusCode</attrlabl>
+<attalias Sync="TRUE">StatusCode</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The one digit code assigned to represent the construction status of the waterfront park.</attrdef>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+<edomv>1</edomv>
+<edomvd>Constructed/Completed</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>In Progress/Remediation</edomvd>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Not Started</edomvd>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Agency</attrlabl>
+<attalias Sync="TRUE">Agency</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The name of the agency that operates or maintains the waterfront park.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Boro_Name</attrlabl>
+<attalias Sync="TRUE">Boro_Name</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The full name of the borough in which the waterfront park is located.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">CD</attrlabl>
+<attalias Sync="TRUE">CD</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The three digit code identifying the community district in which the waterfront park is located. The first digit contains the borough code. The second and third digits contain the community district number. If a waterfront park spans multiple community districts the lowest number community district is given. For a list of all the community districts for a given waterfront park.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Boro_Code</attrlabl>
+<attalias Sync="TRUE">Boro_Code</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The one digit code identifying the borough in which the waterfront park is located. </attrdef>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+<edomv>1</edomv>
+<edomvd>Manhattan</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+<edomv>2</edomv>
+<edomvd>Bronx</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+<edomv>3</edomv>
+<edomvd>Brooklyn</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+<edomv>4</edomv>
+<edomvd>Queens</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Staten Island</edomvd>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Reach_ID</attrlabl>
+<attalias Sync="TRUE">Reach_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The two digit code identifying the Comprehensive Waterfront Plan reach in which the waterfront park is located.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">CD_text</attrlabl>
+<attalias Sync="TRUE">CD_text</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The two digit code identifying the community district in which the waterfront park is located. This does not include the borough code and is in a text format. Waterfront parks can span multiple community districts.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Borough</attrlabl>
+<attalias Sync="TRUE">Borough</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The two-character borough abbreviation identifying the borough in which the waterfront park is located. </attrdef>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+<edomv>MN</edomv>
+<edomvd>Manhattan</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+<edomv>BX</edomv>
+<edomvd>Bronx</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+<edomv>BK</edomv>
+<edomvd>Brooklyn</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+<edomv>QN</edomv>
+<edomvd>Queens</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SI</edomv>
+<edomvd>Staten Island</edomvd>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Boro_CD</attrlabl>
+<attalias Sync="TRUE">Boro_CD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The combination of the borough abbreviation and the community district number identifying the borough and community district in which the waterfront park is located.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Reach_Name</attrlabl>
+<attalias Sync="TRUE">Reach_Name</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The name of the Comprehensive Waterfront Plan reach in which the waterfront park is located.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">View_Only</attrlabl>
+<attalias Sync="TRUE">View_Only</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>A one digit code assigned to represent if the waterfront park is a "visual access only" park. </attrdef>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+<edomv>1</edomv>
+<edomvd>True</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>False</edomvd>
+<edomvds>New York (N.Y.). Department of City Planning</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Status</attrlabl>
+<attalias Sync="TRUE">Status</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+<attrdef>The construction status of the waterfront park.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape_Leng</attrlabl>
+<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdefs>Tufts University</attrdefs>
+<attrdef>Length of feature measured in the unit of  feet.</attrdef>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape_Area</attrlabl>
+<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Area of feature in the unit of squared feet.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20140522</mdDateSt>
+<dataqual>
+<lineage>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02155</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Changed name of file from NYC_Waterfront_Parks to NYCWaterfrontParks13</procdesc>
+<procdate>20131213</procdate>
+</procstep>
+<srcinfo>
+<srctime>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+<procstep>
+<procdesc Sync="TRUE">Dataset copied.</procdesc>
+<srcused Sync="TRUE">C:\MyFiles\Waterfront Comprehensive Plan\GIS\PAWS\Shapefile_Exports\NYC_Waterfront_Parks</srcused>
+<procdate Sync="TRUE">20100923</procdate>
+<proctime Sync="TRUE">17144200</proctime>
+</procstep>
+</lineage>
+<attracc>
+<attraccr>The Department of City Planning makes no assurances about the accuracy of these data.</attraccr>
+</attracc>
+<posacc>
+<horizpa>
+<horizpar>NYC_Waterfront_Parks is spatially aligned with NYCMap aerial photography (2008) and MapPLUTO 10v1.</horizpar>
+</horizpa>
+</posacc>
+</dataqual>
+</metadata>

@@ -1,0 +1,2672 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Instituto Geografico "Agustin Codazzi."</origin>
+				<pubdate>2007</pubdate>
+				<title>Irrigation Colombia 2007</title>
+				<geoform>vector digital data</geoform>
+				<onlink>http://sigotn.igac.gov.co/sigotn/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Instituto Geografico "Agustin Codazzi."</origin>
+						<pubdate>2007</pubdate>
+						<title>SIGOT Colombia Data</title>
+						<pubinfo>
+							<pubplace>Bogota (Colombia)</pubplace>
+							<publish>Instituto Geografico "Agustin Codazzi."</publish>
+						</pubinfo>
+						<onlink>http://sigotn.igac.gov.co/sigotn/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">ColombiaIrrigation07</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset represents centers of irrigation in Colombia.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2007</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-77.788287</westbc>
+				<eastbc>
+-72.168101</eastbc>
+				<northbc>
+11.232343</northbc>
+				<southbc>
+0.801588</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-77.788287</leftbc>
+<rightbc Sync="TRUE">-72.168101</rightbc>
+<bottombc Sync="TRUE">0.801588</bottombc>
+<topbc Sync="TRUE">11.232343</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>location</themekey>
+				<themekey>farming</themekey>
+</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Irrigation</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Colombia</placekey>
+				<placekey>República de Colombia </placekey>
+</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>South America</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Instituto Geografico Agustin Codazzi</cntorg>
+				</cntorgp>
+				<cntpos>Centro de Investigacion y Desarrollo en Informacion Geografica-- CIAF</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Carrera 30 No. 48-51</address>
+					<city>Bogota</city>
+					<state>Cundinamarca</state>
+					<country>Colombia</country>
+				</cntaddr>
+				<cntvoice>(571) 369-4000</cntvoice>
+				<cntfax>(571) 369-4098</cntfax>
+				<cntemail>aboadar@igac.gov.co</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>Unknown</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>11073200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\Starter Metadata Template -Tufts - UTF-8</srcused>
+				<procdate>20130724</procdate>
+				<proctime>12500700</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Name changed from am_distrito_riego to ColombiaIrrigation07.</procdesc>
+				<procdate>20132407</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University Geographic Information Systems Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Ave</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\Ecuador\Colombia\ColombiaBlackComm10</srcused>
+				<procdate>20130725</procdate>
+				<proctime>09442800</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\Ecuador\Colombia\ColombiaSeismic99</srcused>
+				<procdate>20130731</procdate>
+				<proctime>16200600</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\Ecuador\Colombia\ColombiaIrrigation07</srcused>
+				<procdate>20130801</procdate>
+				<proctime>11145700</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\Ecuador\Colombia\ColombiaIrrigation07.xml</srcused>
+				<procdate>20130913</procdate>
+				<proctime>10005600</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="ColombiaIrrigation07">
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>528</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="ColombiaIrrigation07">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">528</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="ColombiaIrrigation07">
+			<enttyp>
+				<enttypl>
+ColombiaIrrigation07</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">528</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Numeric object identifier</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>gml_id</attrlabl>
+				<attrdef>Internal identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">gml_id</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>Object identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ESTADO</attrlabl>
+				<attrdef>Indicates whether the location is active or not</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">ESTADO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VEREDA</attrlabl>
+				<attrdef>Address</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">VEREDA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">70</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ESCALA</attrlabl>
+				<attrdef>Size of the location</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">ESCALA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ASOCIACION</attrlabl>
+				<attrdef>Association of the irrigation canal</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attalias Sync="TRUE">ASOCIACION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FUENTE</attrlabl>
+				<attrdef>Name of the water source</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FUENTE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">39</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CAPTACION</attrlabl>
+				<attrdef>Type of catchment</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>BOCATOMA</edomv>
+						<edomvd>Intake</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>Date description range from 1850-1954</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20</edomv>
+						<edomvd>Date description range from 1954-1959</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>30</edomv>
+						<edomvd>Date description range from 1994-1996</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>40</edomv>
+						<edomvd>Date description range from 1994-2009</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>50</edomv>
+						<edomvd>Date description range from 2004-2011</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BOMBEO</edomv>
+						<edomvd>Pumping</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>EMBALSE</edomv>
+						<edomvd>Reservoir</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GRAVEDAD</edomv>
+						<edomvd>Gravity</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>LAGO</edomv>
+						<edomvd>Lake</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OTRA</edomv>
+						<edomvd>Other</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SUPERFICIAL</edomv>
+						<edomvd>Artificial source</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TOMA DIRECT</edomv>
+						<edomvd>Direct means</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">CAPTACION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">28</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CAUDAL__LT</attrlabl>
+				<attrdef>Size of the flow</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CAUDAL__LT</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FUNCIONA</attrlabl>
+				<attrdef>If the location is functional</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FUNCIONA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TIPO</attrlabl>
+				<attrdef>Type of usage</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>GRAVEDAD</edomv>
+						<edomvd>Gravity</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GRAVEDAD Y ASPERCION</edomv>
+						<edomvd>Gravity and sprinklers</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GRAVEDAD Y BOMBEO</edomv>
+						<edomvd>Gravity and pumping</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TIPO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>USUARIOS</attrlabl>
+				<attrdef>Number of uses</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">USUARIOS</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>AREA_REGAD</attrlabl>
+				<attrdef>Area of the irrigated area</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">AREA_REGAD</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>AREA_BENEF</attrlabl>
+				<attrdef>Area of the beneficiary</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">AREA_BENEF</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FECHA_PERS</attrlabl>
+				<attrdef>Date of the irrigated area</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FECHA_PERS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RESOLUCION</attrlabl>
+				<attrdef>Resolution of the dataset</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">RESOLUCION</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FECHA_CONC</attrlabl>
+				<attrdef>Date of the concession</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FECHA_CONC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ALTURA__MS</attrlabl>
+				<attrdef>Height of the location</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">ALTURA__MS</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>CULTIVO_1</attrlabl>
+				<attrdef>Type of crop</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CULTIVO_1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CULTIVO_2</attrlabl>
+				<attrdef>Secondary crop</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CULTIVO_2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">17</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CULTIVO_3</attrlabl>
+				<attrdef>Tertiary crop</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CULTIVO_3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CULTIVO_4</attrlabl>
+				<attrdef>Fourth type of crop</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CULTIVO_4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CULTIVO_5</attrlabl>
+				<attrdef>Fifth type of crop</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CULTIVO_5</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CULTIVO_6</attrlabl>
+				<attrdef>Sixth type of crop</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CULTIVO_6</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CULTIVO_7</attrlabl>
+				<attrdef>Seventh type of crop</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CULTIVO_7</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PERSONERIA</attrlabl>
+				<attrdef>Numeric identifier of legal personell</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PERSONERIA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CORPORACIO</attrlabl>
+				<attrdef>Name of the corporation</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CORPORACIO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">17</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ANO</attrlabl>
+				<attrdef>Year of publication</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">ANO</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>AMBITO</attrlabl>
+				<attrdef>Indicates if the dataset is national or regional</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>National</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">AMBITO</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NOMDISTRIT</attrlabl>
+				<attrdef>Name of the district</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">NOMDISTRIT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NOMDEPARTA</attrlabl>
+				<attrdef>Name of the departamento</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">NOMDEPARTA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">70</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NOMMUNICIP</attrlabl>
+				<attrdef>Name of the municipality</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">NOMMUNICIP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">70</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CODMUNICIP</attrlabl>
+				<attrdef>Municipality code</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>05001</edomv>
+						<edomvd>Medellin</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05042</edomv>
+						<edomvd>Santafe de Antioquia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05091</edomv>
+						<edomvd>Betania</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05125</edomv>
+						<edomvd>Caicedo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05138</edomv>
+						<edomvd>Canasgordas</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05190</edomv>
+						<edomvd>Cisneros</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05264</edomv>
+						<edomvd>Enterios</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05306</edomv>
+						<edomvd>Giraldo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05411</edomv>
+						<edomvd>Liborina</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05501</edomv>
+						<edomvd>Olaya</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05543</edomv>
+						<edomvd>Peque</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05628</edomv>
+						<edomvd>Sabanalarga</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05656</edomv>
+						<edomvd>San Jeromino</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05674</edomv>
+						<edomvd>San Vicente</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05761</edomv>
+						<edomvd>Sopetran</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05789</edomv>
+						<edomvd>Tamesis</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>05847</edomv>
+						<edomvd>Urrao</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08078</edomv>
+						<edomvd>Baranoa</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08141</edomv>
+						<edomvd>Candelaria</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08296</edomv>
+						<edomvd>Galapa</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08421</edomv>
+						<edomvd>Luruaco</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08436</edomv>
+						<edomvd>Manati</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08549</edomv>
+						<edomvd>Piojo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08558</edomv>
+						<edomvd>Polo Nuevo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08560</edomv>
+						<edomvd>Malambo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08606</edomv>
+						<edomvd>Repelon</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08638</edomv>
+						<edomvd>Sabanalarga</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08675</edomv>
+						<edomvd>Santa Lucia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08685</edomv>
+						<edomvd>San Tomas</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08832</edomv>
+						<edomvd>Tubara</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08849</edomv>
+						<edomvd>Usiacuri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>13052</edomv>
+						<edomvd>Arjona</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>13212</edomv>
+						<edomvd>Cordoba</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>13244</edomv>
+						<edomvd>Carmen de Bolivar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>13430</edomv>
+						<edomvd>Magangue</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>13442</edomv>
+						<edomvd>Maria de la Baja</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>13654</edomv>
+						<edomvd>San Jancinto</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>13836</edomv>
+						<edomvd>Turbaco</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>13894</edomv>
+						<edomvd>Zambrano</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15022</edomv>
+						<edomvd>Almeida</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15047</edomv>
+						<edomvd>Aquitania</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15087</edomv>
+						<edomvd>Boavita</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15109</edomv>
+						<edomvd>Buenavista</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15183</edomv>
+						<edomvd>Chita</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15189</edomv>
+						<edomvd>Cienaga</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15238</edomv>
+						<edomvd>Duitama</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15244</edomv>
+						<edomvd>El Cocuy</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15248</edomv>
+						<edomvd>El Espino</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15317</edomv>
+						<edomvd>Guacamayas</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15325</edomv>
+						<edomvd>Guayata</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15380</edomv>
+						<edomvd>La Capilla</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15403</edomv>
+						<edomvd>La Uvita</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15425</edomv>
+						<edomvd>Manacal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15469</edomv>
+						<edomvd>Moniquira</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15494</edomv>
+						<edomvd>Nueva Colon</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15537</edomv>
+						<edomvd>Paz del Rio</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15638</edomv>
+						<edomvd>Sachica</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15646</edomv>
+						<edomvd>Samaca</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15660</edomv>
+						<edomvd>San Eduardo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15673</edomv>
+						<edomvd>San Mateo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15693</edomv>
+						<edomvd>San Rosa de Viterbo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15696</edomv>
+						<edomvd>Santa Sofia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15740</edomv>
+						<edomvd>Siachoque</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15753</edomv>
+						<edomvd>Soata</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15759</edomv>
+						<edomvd>Sogamosa</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15798</edomv>
+						<edomvd>Tenza</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>15837</edomv>
+						<edomvd>Tuta</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>17050</edomv>
+						<edomvd>Aranzazu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>17873</edomv>
+						<edomvd>Villamaria</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19075</edomv>
+						<edomvd>Balboa</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19100</edomv>
+						<edomvd>Bolivar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19137</edomv>
+						<edomvd>Caldono</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19355</edomv>
+						<edomvd>Inza</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19450</edomv>
+						<edomvd>Mercaderes</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19455</edomv>
+						<edomvd>Miranda</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19517</edomv>
+						<edomvd>Paez</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19532</edomv>
+						<edomvd>Patia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19548</edomv>
+						<edomvd>Piendamo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19622</edomv>
+						<edomvd>Rosas</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19743</edomv>
+						<edomvd>Silvia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19760</edomv>
+						<edomvd>Sotara</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19807</edomv>
+						<edomvd>Timbio</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19842</edomv>
+						<edomvd>Totoro</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20001</edomv>
+						<edomvd>Valledupar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20443</edomv>
+						<edomvd>Manaure</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20621</edomv>
+						<edomvd>La Paz</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>23001</edomv>
+						<edomvd>Monteria</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25040</edomv>
+						<edomvd>Anolaima</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25086</edomv>
+						<edomvd>Beltran</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25120</edomv>
+						<edomvd>Cabrera</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25123</edomv>
+						<edomvd>Cachipay</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25279</edomv>
+						<edomvd>Fomeque</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25281</edomv>
+						<edomvd>Fosca</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25290</edomv>
+						<edomvd>Fusagasuga</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25438</edomv>
+						<edomvd>Medina</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25535</edomv>
+						<edomvd>Pasca</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25596</edomv>
+						<edomvd>Quipile</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25662</edomv>
+						<edomvd>San Rio de Seco</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25841</edomv>
+						<edomvd>Ubaque</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25845</edomv>
+						<edomvd>Une</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41001</edomv>
+						<edomvd>Neiva</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41020</edomv>
+						<edomvd>Algecircas</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41078</edomv>
+						<edomvd>Baraya</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41132</edomv>
+						<edomvd>Campoalegre</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41206</edomv>
+						<edomvd>Colombia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41298</edomv>
+						<edomvd>Garzon</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41306</edomv>
+						<edomvd>Gigante</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41319</edomv>
+						<edomvd>Guadalupe</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41357</edomv>
+						<edomvd>Iquira</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41378</edomv>
+						<edomvd>Argentina</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41396</edomv>
+						<edomvd>La Plata</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41503</edomv>
+						<edomvd>Oporapa</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41518</edomv>
+						<edomvd>Paicol</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41525</edomv>
+						<edomvd>Palermo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41551</edomv>
+						<edomvd>Pitalito</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41615</edomv>
+						<edomvd>Rivera</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41668</edomv>
+						<edomvd>San Agustin</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41770</edomv>
+						<edomvd>Suaza</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41779</edomv>
+						<edomvd>Tello</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41791</edomv>
+						<edomvd>Tarqui</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41801</edomv>
+						<edomvd>Teruel</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41872</edomv>
+						<edomvd>Villavieja</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41885</edomv>
+						<edomvd>Yaguar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>44078</edomv>
+						<edomvd>Barrancas</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>44098</edomv>
+						<edomvd>Distraccion</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>44110</edomv>
+						<edomvd>El Molino</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>44279</edomv>
+						<edomvd>Fonseca</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>44378</edomv>
+						<edomvd>Hato nuevo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>44420</edomv>
+						<edomvd>La Jaguar del Pilar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>44650</edomv>
+						<edomvd>San Juan del Cesar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>47001</edomv>
+						<edomvd>Santa Marta</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>47053</edomv>
+						<edomvd>Arataca</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>47189</edomv>
+						<edomvd>Cienaga</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>47258</edomv>
+						<edomvd>El Pinon</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>47288</edomv>
+						<edomvd>Fundacion</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>47318</edomv>
+						<edomvd>Guamal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>47660</edomv>
+						<edomvd>Sabanas de San Angel</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>47707</edomv>
+						<edomvd>Santa Ana</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>47980</edomv>
+						<edomvd>Zona Bananera</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>50006</edomv>
+						<edomvd>Acacias</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>50223</edomv>
+						<edomvd>Cubarral</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>50226</edomv>
+						<edomvd>Cumaral</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>50245</edomv>
+						<edomvd>El Calvario</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>50270</edomv>
+						<edomvd>El Dorado</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>50330</edomv>
+						<edomvd>Mesetas</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>50400</edomv>
+						<edomvd>Lejanias</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>50689</edomv>
+						<edomvd>San Martin</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52110</edomv>
+						<edomvd>Buesaco</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52203</edomv>
+						<edomvd>Colon Genova</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52207</edomv>
+						<edomvd>Consaca</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52210</edomv>
+						<edomvd>Buesaco</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52203</edomv>
+						<edomvd>Colon Genova</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52207</edomv>
+						<edomvd>Consaco</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52210</edomv>
+						<edomvd>El Contadero</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52227</edomv>
+						<edomvd>Cumbal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52240</edomv>
+						<edomvd>Chachagui</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52254</edomv>
+						<edomvd>El Penol</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52256</edomv>
+						<edomvd>El Rosario</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52258</edomv>
+						<edomvd>Tablon de Gomez</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52287</edomv>
+						<edomvd>Funes</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52323</edomv>
+						<edomvd>Gulamatan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52352</edomv>
+						<edomvd>Illes</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52356</edomv>
+						<edomvd>Ipiales</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52405</edomv>
+						<edomvd>Leiva</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52411</edomv>
+						<edomvd>Linares</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52540</edomv>
+						<edomvd>Policarpa</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52560</edomv>
+						<edomvd>Potosi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52573</edomv>
+						<edomvd>Puerres</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52678</edomv>
+						<edomvd>Samaniego</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52694</edomv>
+						<edomvd>San pedro de Cartago</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52720</edomv>
+						<edomvd>Sapuyes</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52838</edomv>
+						<edomvd>Tuquerres</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>52885</edomv>
+						<edomvd>Yacuanquer</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54003</edomv>
+						<edomvd>Abrego</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54125</edomv>
+						<edomvd>Cacota</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54099</edomv>
+						<edomvd>Bochalema</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54128</edomv>
+						<edomvd>Cachira</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54172</edomv>
+						<edomvd>Chinacota</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54174</edomv>
+						<edomvd>Chitaga</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54223</edomv>
+						<edomvd>Cuchtilla</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54261</edomv>
+						<edomvd>El Zulia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54347</edomv>
+						<edomvd>Herran</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54377</edomv>
+						<edomvd>Labateca</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54385</edomv>
+						<edomvd>La Esperanza</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54398</edomv>
+						<edomvd>La Playa</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54480</edomv>
+						<edomvd>Mutisca</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54518</edomv>
+						<edomvd>Pamplona</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54520</edomv>
+						<edomvd>Plamplonita</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54599</edomv>
+						<edomvd>Ragovalia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54743</edomv>
+						<edomvd>Santo Domingo de Silos</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54820</edomv>
+						<edomvd>Toledo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>54871</edomv>
+						<edomvd>Villacardo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>63272</edomv>
+						<edomvd>Filandia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>66001</edomv>
+						<edomvd>Pereira</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>66045</edomv>
+						<edomvd>Apia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>66088</edomv>
+						<edomvd>Belen de Umbria</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>66318</edomv>
+						<edomvd>Guatica</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>66594</edomv>
+						<edomvd>Quinchia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68079</edomv>
+						<edomvd>Barichara</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68101</edomv>
+						<edomvd>Bolivar</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68152</edomv>
+						<edomvd>Carcasi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68162</edomv>
+						<edomvd>Cerrito</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68207</edomv>
+						<edomvd>Concepcion</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68211</edomv>
+						<edomvd>Contracion</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68266</edomv>
+						<edomvd>Enciso</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68296</edomv>
+						<edomvd>Galan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68307</edomv>
+						<edomvd>Giron</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68318</edomv>
+						<edomvd>Guaca</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68385</edomv>
+						<edomvd>Landazuri</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68425</edomv>
+						<edomvd>Macaravita</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68432</edomv>
+						<edomvd>Malaga</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68468</edomv>
+						<edomvd>Molagavita</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68549</edomv>
+						<edomvd>Pinchote</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68669</edomv>
+						<edomvd>San Andres</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68684</edomv>
+						<edomvd>San Jose de Miranda</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68686</edomv>
+						<edomvd>San Miguel</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68745</edomv>
+						<edomvd>Simacota</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68780</edomv>
+						<edomvd>Surata</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68861</edomv>
+						<edomvd>Velez</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68895</edomv>
+						<edomvd>Zapatoca</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70001</edomv>
+						<edomvd>Sincelejop</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70204</edomv>
+						<edomvd>Coloso</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70215</edomv>
+						<edomvd>Corozal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70418</edomv>
+						<edomvd>Palmitos</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70473</edomv>
+						<edomvd>Morroa</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70508</edomv>
+						<edomvd>Ovejas</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70670</edomv>
+						<edomvd>Sampues</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70713</edomv>
+						<edomvd>San Onofre</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>707017</edomv>
+						<edomvd>San Pedro</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70823</edomv>
+						<edomvd>Tolu Viejo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73024</edomv>
+						<edomvd>Alpujarra</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73030</edomv>
+						<edomvd>Ambalema</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73055</edomv>
+						<edomvd>Armero</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73067</edomv>
+						<edomvd>Ataco</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73124</edomv>
+						<edomvd>Cajamarca</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73148</edomv>
+						<edomvd>Carmen de Apical</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73168</edomv>
+						<edomvd>Chaparral</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73200</edomv>
+						<edomvd>Coello</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73217</edomv>
+						<edomvd>Coyaima</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73226</edomv>
+						<edomvd>Cunday</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73236</edomv>
+						<edomvd>Dolores</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73268</edomv>
+						<edomvd>El Espinal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73319</edomv>
+						<edomvd>Guamo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73349</edomv>
+						<edomvd>Honda</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73352</edomv>
+						<edomvd>Icononzo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73408</edomv>
+						<edomvd>Lerida</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73483</edomv>
+						<edomvd>Natagaima</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73504</edomv>
+						<edomvd>Ortega</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73563</edomv>
+						<edomvd>Prado</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73671</edomv>
+						<edomvd>Saldana</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73675</edomv>
+						<edomvd>San Antonio</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73678</edomv>
+						<edomvd>San Luis</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>73854</edomv>
+						<edomvd>El Valle de San Juan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>76233</edomv>
+						<edomvd>Dagua</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>76250</edomv>
+						<edomvd>El Dovio</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>76400</edomv>
+						<edomvd>La Union</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>76520</edomv>
+						<edomvd>Palmira</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>76563</edomv>
+						<edomvd>Pradera</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>76622</edomv>
+						<edomvd>Roldanillo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>76780</edomv>
+						<edomvd>Bugalagrande</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>85001</edomv>
+						<edomvd>Yopal</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>85162</edomv>
+						<edomvd>Monterrey</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>85225</edomv>
+						<edomvd>Nunchia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>85400</edomv>
+						<edomvd>Tamara</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>85410</edomv>
+						<edomvd>Tuaramena</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>85440</edomv>
+						<edomvd>Villanueva</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>86749</edomv>
+						<edomvd>Sibundoy Putumayo</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">CODMUNICIP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SHAPE_1</attrlabl>
+				<attrdef>Feature geometry</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SHAPE_1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.236</transize>
+					<dssize Sync="TRUE">0.014</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130913</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">ColombiaIrrigation07</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-77.788287</westBL>
+<eastBL Sync="TRUE">-72.168101</eastBL>
+<northBL Sync="TRUE">11.232343</northBL>
+<southBL Sync="TRUE">0.801588</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-77.788287</westBL>
+<eastBL Sync="TRUE">-72.168101</eastBL>
+<northBL Sync="TRUE">11.232343</northBL>
+<southBL Sync="TRUE">0.801588</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Ecuador\Colombia\ColombiaIrrigation07.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.014</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="ColombiaIrrigation07">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">528</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>15293600</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>15293600</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

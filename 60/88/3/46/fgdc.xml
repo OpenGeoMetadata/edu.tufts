@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United Nations. Office for the Coordination of Humanitarian Affairs</origin>
+				<pubdate>2008</pubdate>
+				<onlink>http://www.ochaopt.org/</onlink>
+				<ftname Sync="TRUE">WestBankCheckpt08</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<title>Checkpoints West Bank 2008</title>
+<lworkcit>
+<citeinfo>
+<title>Israel-Palestine GIS Data</title>
+<pubinfo>
+<pubplace>New York (N.Y.)</pubplace>
+<publish>United Nations. Office for the Coordination of Humanitarian Affairs</publish>
+</pubinfo>
+<origin>United Nations. Office for the Coordination of Humanitarian Affairs</origin>
+<pubdate>2008</pubdate>
+<onlink>http://www.ochaopt.org/</onlink>
+</citeinfo>
+</lworkcit>
+<pubinfo>
+<pubplace>New York (N.Y.)</pubplace>
+<publish>United Nations. Office for the Coordination of Humanitarian Affairs</publish>
+</pubinfo>
+</citeinfo>
+		</citation>
+		<descript>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+<abstract>This point dataset represents the West Bank checkpoints for the year 2008. Checkpoints are barriers manned by Israeli Defense Forces (IDF) and/or Border Police and are used to control pedestrian and vehicular access.</abstract>
+<supplinf>The designations employed and the presentation of material on this map do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.</supplinf>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2008</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<keywords>
+<place>
+<placekt>GNS</placekt>
+<placekey>West Bank</placekey>
+<placekey>Israel</placekey>
+</place>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>intelligenceMilitary</themekey>
+<themekey>boundaries</themekey>
+<themekey>location</themekey>
+<themekey>transportation</themekey>
+</theme>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Border stations</themekey>
+<themekey>Arab-Israeli conflict</themekey>
+<themekey>Israel. Tseva haganah le-Yisra'el</themekey>
+<themekey>Israeli West Bank Barrier</themekey>
+</theme>
+<place>
+<placekey>Asia</placekey>
+<placekey>Northern Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>Eastern Hemisphere</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Assess Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntaddr>
+<address>MAC House 7 St.</address>
+<address>George Street.</address>
+<addrtype>mailing address</addrtype>
+<city>E. Jerusalem </city>
+<postal>P.O. Box 38712</postal>
+<country>Israel</country>
+</cntaddr>
+<cntorgp>
+<cntorg>United Nations Office for the Coordination of Humanitarian Affairs occupied Palestinian territory (UN OCHA oPT)</cntorg>
+</cntorgp>
+<cntvoice>+972 (02) 582 9962 </cntvoice>
+<cntemail>ochaopt@un.org</cntemail>
+<cntpos>Information Management Officer </cntpos>
+</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">34.958372</westbc>
+<eastbc Sync="TRUE">35.504041</eastbc>
+<northbc Sync="TRUE">32.468376</northbc>
+<southbc Sync="TRUE">31.371688</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">196389.340900</leftbc>
+<rightbc Sync="TRUE">247688.095400</rightbc>
+<bottombc Sync="TRUE">586728.487200</bottombc>
+<topbc Sync="TRUE">708298.190700</topbc>
+</lboundng>
+</spdom>
+<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+<procdesc>Name changed from Checkpoint to WestBankCheckpt08</procdesc>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdate>20120315</procdate>
+</procstep>
+</lineage>
+	</dataqual>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+				<cntpos>Data Technician</cntpos>
+</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.tufts.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+				<digtinfo>
+<transize Sync="TRUE">0.002</transize>
+<dssize Sync="TRUE">0.002</dssize>
+</digtinfo>
+</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20130308</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<CreaDate>20110330</CreaDate>
+<CreaTime>09323700</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20130308</SyncDate>
+<SyncTime>10301500</SyncTime>
+<ModDate>20130308</ModDate>
+<ModTime>10301500</ModTime>
+<MetaID>{6C68B090-237E-40C3-9C2D-4136633704B9}</MetaID>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">WestBankCheckpt08</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">196389.3409</westBL>
+<eastBL Sync="TRUE">247688.0954</eastBL>
+<northBL Sync="TRUE">708298.1907</northBL>
+<southBL Sync="TRUE">586728.4872</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">34.958372</westBL>
+<eastBL Sync="TRUE">35.504041</eastBL>
+<northBL Sync="TRUE">32.468376</northBL>
+<southBL Sync="TRUE">31.371688</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Israel-Palestine GIS Data\OCHA\WestBankCheckpt08.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.002</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="WestBankCheckpt08">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">66</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="WestBankCheckpt08">
+<sdtstype Sync="TRUE">Entity point</sdtstype>
+<ptvctcnt Sync="TRUE">66</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_Israel</geogcsn>
+<projcsn Sync="TRUE">Israel_TM_Grid</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">meters</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">1.000007</sfctrmer>
+<longcm Sync="TRUE">35.204517</longcm>
+<latprjo Sync="TRUE">31.734394</latprjo>
+<feast Sync="TRUE">219529.584000</feast>
+<fnorth Sync="TRUE">626907.390000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+<geodetic>
+<horizdn Sync="TRUE">D_Israel</horizdn>
+<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">Israel_TM_Grid</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="WestBankCheckpt08">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">66</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<eainfo>
+<detailed Name="WestBankCheckpt08">
+<enttyp>
+<enttypl Sync="TRUE">WestBankCheckpt08</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">66</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Cat_ID</attrlabl>
+<attalias Sync="TRUE">Cat_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdefs>Tufts University. Geographic Information Services Center</attrdefs>
+<attrdef>Unknown attribute</attrdef>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NAME</attrlabl>
+<attalias Sync="TRUE">Name</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdef>Checkpoint name</attrdef>
+<attrdefs>United Nations. Office for the Coordination of Humanitarian Affairs</attrdefs>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Descrip</attrlabl>
+<attalias Sync="TRUE">Descrip</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+<attrdefs>United Nations. Office for the Coordination of Humanitarian Affairs</attrdefs>
+<attrdef>Checkpoint description</attrdef>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">CreatDate</attrlabl>
+<attalias Sync="TRUE">CreatDate</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdefs>United Nations. Office for the Coordination of Humanitarian Affairs</attrdefs>
+<attrdef>Checkpoint creation date</attrdef>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GPS_X</attrlabl>
+<attalias Sync="TRUE">GPS_X</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdefs>United Nations. Office for the Coordination of Humanitarian Affairs</attrdefs>
+<attrdef>GPS x-coordinates</attrdef>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GPS_Y</attrlabl>
+<attalias Sync="TRUE">GPS_Y</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdefs>United Nations. Office for the Coordination of Humanitarian Affairs</attrdefs>
+<attrdef>GPS y-coordinates</attrdef>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Gov</attrlabl>
+<attalias Sync="TRUE">Gov</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdefs>United Nations. Office for the Coordination of Humanitarian Affairs</attrdefs>
+<attrdef>Numeric identifier for region of West Bank (Governorate)</attrdef>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Jenin</edomvd>
+</edom>
+<edom>
+<edomv>5</edomv>
+<edomvd>Tubas</edomvd>
+</edom>
+<edom>
+<edomv>10</edomv>
+<edomvd>Tulkarm</edomvd>
+</edom>
+<edom>
+<edomv>15</edomv>
+<edomvd>Nablus</edomvd>
+</edom>
+<edom>
+<edomv>20</edomv>
+<edomvd>Qalqiliya</edomvd>
+</edom>
+<edom>
+<edomv>25</edomv>
+<edomvd>Salfit</edomvd>
+</edom>
+<edom>
+<edomv>30</edomv>
+<edomvd>Ramallah &amp;amp; Al Bireh</edomvd>
+</edom>
+<edom>
+<edomv>35</edomv>
+<edomvd>Jericho</edomvd>
+</edom>
+<edom>
+<edomv>40</edomv>
+<edomvd>Jerusalem</edomvd>
+</edom>
+<edom>
+<edomv>45</edomv>
+<edomvd>Bethlehem</edomvd>
+</edom>
+<edom>
+<edomv>50</edomv>
+<edomvd>Hebron</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Category</attrlabl>
+<attalias Sync="TRUE">Category</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdefs>United Nations. Office for the Coordination of Humanitarian Affairs</attrdefs>
+<attrdef>Checkpoint category</attrdef>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NoPals</attrlabl>
+<attalias Sync="TRUE">NoPals</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdefs>Tufts University. Geographic Information Services Center</attrdefs>
+<attrdef>Unknown attribute</attrdef>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20130308</mdDateSt>
+</metadata>

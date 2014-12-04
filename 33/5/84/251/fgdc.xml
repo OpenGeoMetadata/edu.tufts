@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Cambridge (Mass.). Geographic Information Systems</origin>
+				<pubdate>20100412</pubdate>
+				<title>Street Trees Cambridge MA 2003-2005</title>
+				<geoform>vector digital data</geoform>
+				<onlink>http://www.cambridgema.gov/GIS.aspx</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Cambridge (Mass.). Geographic Information Systems</origin>
+						<title>City of Cambridge MA GIS Data</title>
+						<pubinfo>
+							<pubplace>Cambridge (Mass.)</pubplace>
+							<publish>Cambridge (Mass.) Geographic Information Systems</publish>
+						</pubinfo>
+						<onlink>http://www.cambridgema.gov/GIS.aspx</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">CambridgeStreetTrees0305</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset represents the locations of trees in Cambridge, MA.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>More detailed information in the ISO stylesheet</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<mdattim>
+					<sngdate>
+						<caldate>2003</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>2005</caldate>
+					</sngdate>
+				</mdattim>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-71.160364</westbc>
+				<eastbc>
+-71.068627</eastbc>
+				<northbc>
+42.403590</northbc>
+				<southbc>
+42.353367</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">747970.170000</leftbc>
+<rightbc Sync="TRUE">772675.130313</rightbc>
+<bottombc Sync="TRUE">2954090.450000</bottombc>
+<topbc Sync="TRUE">2972281.600000</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>biota</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Trees</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Cambridge</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Middlesex</placekey>
+				<placekey>New England</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>City of Cambridge MA GIS</cntorg>
+					<cntper>Jeff Amero</cntper>
+				</cntorgp>
+				<cntpos>GIS Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>831 Massachusetts Ave., 2nd Floor</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02139</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-349-4140</cntvoice>
+				<cntfax>617-349-6165</cntfax>
+				<cntemail>gis@cambridgema.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<posacc>
+			<horizpa>
+				<horizpar>Block boundaries follow street centerlines or rail lines.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdesc>Name changed from SPW_StreetTrees to CambridgeStreetTrees0305</procdesc>
+				<procdate>201201</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\2_Finished\Cambridge\Shapefiles\CambridgeAddressBlk03</srcused>
+				<procdate>20120130</procdate>
+				<proctime>12533000</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xml786E.tmp</srcused>
+				<procdate>20120206</procdate>
+				<proctime>17021000</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="CambridgeStreetTrees0305">
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>17108</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="CambridgeStreetTrees0305">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">17108</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">656166.666667</feast>
+<fnorth Sync="TRUE">2460625.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</projcsn>
+</cordsysn>
+</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>1.000000</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="CambridgeStreetTrees0305">
+			<enttyp>
+				<enttypl>
+CambridgeStreetTrees0305</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">17108</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>created</attrlabl>
+				<attrdef>Date created</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">created</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>creator</attrlabl>
+				<attrdef>Name of the creator</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">creator</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+			<attr>
+				<attrlabl>modified</attrlabl>
+				<attrdef>Date modified</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">modified</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>inspectr</attrlabl>
+				<attrdef>Name of the inspector</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">inspectr</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+			<attr>
+				<attrlabl>growspac</attrlabl>
+				<attrdef>Tree growth space</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">growspac</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">17</attwidth>
+</attr>
+			<attr>
+				<attrlabl>species</attrlabl>
+				<attrdef>Species of tree</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">species</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">17</attwidth>
+</attr>
+			<attr>
+				<attrlabl>diameter</attrlabl>
+				<attrdef>Diameter in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">diameter</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>height</attrlabl>
+				<attrdef>Height of tree in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">height</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>spread</attrlabl>
+				<attrdef>Spread in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">spread</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>trunks</attrlabl>
+				<attrdef>Number of trunks</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">trunks</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>def_cult</attrlabl>
+				<attrdef>Lift of surface by tree in inches</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">def_cult</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">17</attwidth>
+</attr>
+			<attr>
+				<attrlabl>notes</attrlabl>
+				<attrdef>Notes by author</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">notes</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SiteType</attrlabl>
+				<attrdef>Type of site</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">SiteType</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FormerSite</attrlabl>
+				<attrdef>Former type of site</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">FormerSite</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SidewalkOb</attrlabl>
+				<attrdef>Indicates whether the sidewalk is obstructed</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>No obstruction</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SidewalkOb</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PlantDate</attrlabl>
+				<attrdef>Plant date (if known)</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">PlantDate</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RemovalDat</attrlabl>
+				<attrdef>Removal date of tree</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">RemovalDat</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Status</attrlabl>
+				<attrdef>Status of removal (either existing or removed)</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">Status</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SpeciesSho</attrlabl>
+				<attrdef>Species type</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SpeciesSho</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LocationSi</attrlabl>
+				<attrdef>Location of site</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">LocationSi</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TreeID</attrlabl>
+				<attrdef>Tree ID</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">TreeID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TreeCondit</attrlabl>
+				<attrdef>Tree condition</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">TreeCondit</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OverheadWi</attrlabl>
+				<attrdef>Overhead width</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">OverheadWi</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Cultivar</attrlabl>
+				<attrdef>Cultivated variety, indicating if the tree was cultivated for specific reason</attrdef>
+				<attrdefs>Ann Arbor (Mich.). City Planning Dept.</attrdefs>
+				<attalias Sync="TRUE">Cultivar</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Diseases</attrlabl>
+				<attrdef>Diseases in tree</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">Diseases</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Pests</attrlabl>
+				<attrdef>Pests on tree</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">Pests</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Structural</attrlabl>
+				<attrdef>Structural issues</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">Structural</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DefectCode</attrlabl>
+				<attrdef>Defect code</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">DefectCode</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">75</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Probabilit</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">Probabilit</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SizeoDefec</attrlabl>
+				<attrdef>Size of defect</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">SizeoDefec</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Probabil_1</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">Probabil_1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OtherRiskF</attrlabl>
+				<attrdef>Other risk factors</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">OtherRiskF</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Descriptio</attrlabl>
+				<attrdef>Description</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">Descriptio</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">150</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RiskRating</attrlabl>
+				<attrdef>Risk rating</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">RiskRating</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>contractty</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">contractty</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>StreetNumb</attrlabl>
+				<attrdef>Street number</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">StreetNumb</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>StreetName</attrlabl>
+				<attrdef>Street name</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">StreetName</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SidewalkWi</attrlabl>
+				<attrdef>Sidewalk width in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SidewalkWi</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>MemTree</attrlabl>
+				<attrdef>Memorial tree</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>True</edomvd>
+						<edomvds>Cambridge (Mass.). Geographic Information Systems</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>False</edomvd>
+						<edomvds>Cambridge (Mass.). Geographic Information Systems</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">MemTree</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.457</transize>
+					<dssize Sync="TRUE">0.457</dssize>
+</digtinfo>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based Distribution Only.</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20121121</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">CambridgeStreetTrees0305</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">747970.17</westBL>
+<eastBL Sync="TRUE">772675.130313</eastBL>
+<northBL Sync="TRUE">2972281.6</northBL>
+<southBL Sync="TRUE">2954090.45</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.160364</westBL>
+<eastBL Sync="TRUE">-71.068627</eastBL>
+<northBL Sync="TRUE">42.40359</northBL>
+<southBL Sync="TRUE">42.353367</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\CityofCambridge\CambridgeStreetTrees0305.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.457</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="CambridgeStreetTrees0305">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">17108</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130927</SyncDate>
+<SyncTime>11030800</SyncTime>
+<ModDate>20130927</ModDate>
+<ModTime>11030800</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130927</mdDateSt>
+</metadata>

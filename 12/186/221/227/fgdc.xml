@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20130819</CreaDate>
+<CreaTime>16203200</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140522</SyncDate>
+<SyncTime>21365300</SyncTime>
+<ModDate>20140522</ModDate>
+<ModTime>21365300</ModTime>
+<DataProperties>
+<itemProps>
+<itemLocation>
+<linkage Sync="TRUE">file://\\ES-AP-AMAP-2\E$\MassGIS\mtrust\grp\shp\GRP_OTHER_PT.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</itemLocation>
+<itemName Sync="TRUE">GRP_OTHER_PT</itemName>
+<imsContentType Sync="TRUE">002</imsContentType>
+<itemSize Sync="TRUE">0.000</itemSize>
+</itemProps>
+<lineage/>
+<coordRef>
+<type Sync="TRUE">Projected</type>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;LatestWKID&amp;gt;26986&amp;lt;/LatestWKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+</coordRef>
+</DataProperties>
+<ArcGISFormat>1.0</ArcGISFormat>
+<scaleRange>
+<minScale>50000</minScale>
+<maxScale>5000</maxScale>
+</scaleRange>
+<ArcGISProfile>FGDC</ArcGISProfile>
+<ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+</Esri>
+<idinfo>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<descript>
+<langdata Sync="TRUE">en</langdata>
+<abstract>The point dataset represents geographic features that are relevant to marine oil spill response and referenced in the GRP, in Massachusetts. Developed under contract with MassDEP by Nuka planning and research, Geographic Response Plans (GRP) are pre-arranged plans for what equipment and tactics should be deployed where to contain a marine oil spill.</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+</descript>
+<citation>
+<citeinfo>
+<origin>Massachusetts. Department of Environmental Protection</origin>
+<pubdate>20130821</pubdate>
+<title>Geographic Response Plan Others Massachusetts 2013</title>
+<ftname Sync="TRUE">MAGRPOther13</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/grp.html</onlink>
+<lworkcit>
+<citeinfo>
+<origin>MassGIS (Office : Mass.) </origin>
+<pubdate>20130821</pubdate>
+<title>MassGIS Data</title>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/grp.html</onlink>
+<pubinfo>
+<pubplace>Massachusetts</pubplace>
+<publish>MassGIS (Office : Mass.) </publish>
+</pubinfo>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<timeperd>
+<current>publication date</current>
+<timeinfo>
+<sngdate>
+<caldate>20130821</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Unknown</update>
+</status>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">-71.098314</westbc>
+<eastbc Sync="TRUE">-69.939988</eastbc>
+<northbc Sync="TRUE">42.840633</northbc>
+<southbc Sync="TRUE">41.285706</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">233647.522000</leftbc>
+<rightbc Sync="TRUE">327549.336000</rightbc>
+<bottombc Sync="TRUE">782872.260100</bottombc>
+<topbc Sync="TRUE">954527.433600</topbc>
+</lboundng>
+</spdom>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>environment</themekey>
+</theme>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Oil pollution of the sea</themekey>
+<themekey>Oil spills--Cleanup</themekey>
+<themekey>Oil spills</themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>Massachusetts</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>Richard F. Packard </cntper>
+<cntorg>Massachusetts. Department of Environmental Protection</cntorg>
+</cntperp>
+<cntvoice> 508-946-2856</cntvoice>
+<cntemail>richard.packard@massmail.state.ma.us</cntemail>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="FALSE" value="eng"/>
+<countryCode Sync="TRUE" value="USA"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="FALSE">Geographic Response Plan Other (GRP_Points_Other)</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+<date>
+<pubDate>2013-07-31T00:00:00</pubDate>
+</date>
+<citRespParty>
+<rpIndName>Brian Brodeur</rpIndName>
+<rpOrgName>MassDEP</rpOrgName>
+<rpPosName>GIS Program Manager</rpPosName>
+<role>
+<RoleCd value="006"/>
+</role>
+<rpCntInfo>
+<cntAddress addressType="both">
+<delPoint>1 Winter St</delPoint>
+<city>Boston </city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<eMailAdd>brian.brodeur@state.ma.us</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">617-574-6856</voiceNum>
+</cntPhone>
+</rpCntInfo>
+</citRespParty>
+</idCitation>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">233647.522</westBL>
+<eastBL Sync="TRUE">327549.336</eastBL>
+<northBL Sync="TRUE">954527.4336</northBL>
+<southBL Sync="TRUE">782872.2601</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.098314</westBL>
+<eastBL Sync="TRUE">-69.939988</eastBL>
+<northBL Sync="TRUE">42.840633</northBL>
+<southBL Sync="TRUE">41.285706</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<idPurp>The Geographic Response Plan Points Other (GRP_Points_Other) layer contains the location of geographic point features referenced in the GRP.</idPurp>
+<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;Developed under contract with MassDEP by Nuka planning and research, Geographic Response Plans (GRP) are pre-arranged plans for what equipment and tactics should be deployed where to contain a marine oil spill. The GRP_Points_Other layer contains geographic features that are relevant to marine oil spill response and referenced in the GRP.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<resConst>
+<Consts>
+<useLimit>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;None&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</useLimit>
+</Consts>
+</resConst>
+<searchKeys>
+<keyword>Geographic Response Plans</keyword>
+<keyword>GRP</keyword>
+<keyword>Oil Spill</keyword>
+</searchKeys>
+<dataChar>
+<CharSetCd value="004"/>
+</dataChar>
+<idCredit>Nuka Research &amp;amp; Planning Group, LLC.</idCredit>
+<resMaint>
+<maintFreq>
+<MaintFreqCd value="009"/>
+</maintFreq>
+</resMaint>
+<idStatus>
+<ProgCd value="001"/>
+</idStatus>
+<idPoC>
+<rpIndName>Michael Trust</rpIndName>
+<rpOrgName>Massachusetts Office of Geographic Information (MassGIS)</rpOrgName>
+<rpPosName>GeoDatabase Administrator</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="both">
+<eMailAdd>michael.trust@state.ma.us</eMailAdd>
+<delPoint>One Ashburton Place</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">(617) 619-5615</voiceNum>
+</cntPhone>
+<cntHours>9 AM - 5 PM</cntHours>
+<cntInstr>Monday - Friday</cntInstr>
+</rpCntInfo>
+<role>
+<RoleCd value="001"/>
+</role>
+<displayName>Michael Trust</displayName>
+</idPoC>
+</dataIdInfo>
+<metainfo>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02155</postal>
+<address>Academic Technology</address>
+<address>16 Dearborn Rd</address>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntpos>Data Technician</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</metc>
+<metd Sync="TRUE">20140522</metd>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+<countryCode Sync="TRUE" value="USA"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">0.008</transize>
+<dssize Sync="TRUE">0.008</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</distrib>
+</distinfo>
+<distInfo>
+<distributor>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+<formatVer>10.0</formatVer>
+</distorFormat>
+<distorCont>
+<rpIndName>Michael Trust</rpIndName>
+<rpOrgName>Massachusetts Office of Geographic Information (MassGIS)</rpOrgName>
+<rpPosName>GeoDatabase Administrator</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="both">
+<eMailAdd>michael.trust@state.ma.us</eMailAdd>
+<delPoint>One Ashburton Place</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">(617) 619-5615</voiceNum>
+</cntPhone>
+<cntHours>9 AM - 5 PM</cntHours>
+<cntInstr>Monday - Friday</cntInstr>
+</rpCntInfo>
+<role>
+<RoleCd value="001"/>
+</role>
+</distorCont>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\MassGIS2013_3\grp_shp\MAGRPOther13.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.008</transSize>
+</distorTran>
+</distributor>
+<distFormat>
+<formatName>File Geodatabase Feature Class</formatName>
+<formatVer>10.0</formatVer>
+</distFormat>
+<distTranOps>
+<transSize Sync="TRUE">0.000</transSize>
+</distTranOps>
+</distInfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="MAGRPOther13">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE" code="1">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">279</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="MAGRPOther13">
+<sdtstype Sync="TRUE">Entity point</sdtstype>
+<ptvctcnt Sync="TRUE">279</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">meters</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<gridsys>
+<gridsysn Sync="TRUE">State Plane Coordinate System 1983</gridsysn>
+<spcs>
+<spcszone Sync="TRUE">2001</spcszone>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">200000.000000</feast>
+<fnorth Sync="TRUE">750000.000000</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+</planar>
+<geodetic>
+<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE" code="26986">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</identCode>
+<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+<idVersion Sync="TRUE">7.11.2</idVersion>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="MAGRPOther13">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">279</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<eainfo>
+<detailed Name="MAGRPOther13">
+<enttyp>
+<enttypl Sync="TRUE">MAGRPOther13</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">279</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">P_Type</attrlabl>
+<attalias Sync="TRUE">P_TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdomv>
+<edom>
+<edomv>PA</edomv>
+<edomvd>Primary Attachment</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdef>Code for the type of point</attrdef>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MD</edomv>
+<edomvd>Misquito Ditch</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>BR</edomv>
+<edomvd>Boat Ramp</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>WI</edomv>
+<edomvd>Water Intake</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>WO</edomv>
+<edomvd>Wash Over Point</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>CG</edomv>
+<edomvd>Coast Guard Station</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>AP</edomv>
+<edomvd>Access Point</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>SA</edomv>
+<edomvd>Staging Area</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>HB</edomv>
+<edomvd>Hurricane Barrier</edomvd>
+</edom>
+</attrdomv>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Point_Desc</attrlabl>
+<attalias Sync="TRUE">POINT_DESC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+<attrdef>A description of the type of point</attrdef>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GRP_Area_C</attrlabl>
+<attalias Sync="TRUE">GRP_AREA_C</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>BB</edomv>
+<edomvd>Buzzards Bay</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Code for the geographic area of the original Study</attrdef>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>CI</edomv>
+<edomvd>Cape and Islands</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>NS</edomv>
+<edomvd>North Shore</edomvd>
+</edom>
+</attrdomv>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Site_Num</attrlabl>
+<attalias Sync="TRUE">SITE_NUM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Site Number, unique only within the Geographic area of the original study</attrdef>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Site_Name</attrlabl>
+<attalias Sync="TRUE">SITE_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdef>Name used to describe the site in the original study</attrdef>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GRP_Link</attrlabl>
+<attalias Sync="TRUE">GRP_LINK</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">120</attwidth>
+<attrdef>URL to the original GRP</attrdef>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20140522</mdDateSt>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc>Changed name of file from GRP_OTHER_PT to MAGRPOther13</procdesc>
+<srcused Sync="TRUE">\\NUKA-PC\C$\Users\Nuka\Documents\MA redo\Geographic Response Plans.gdb</srcused>
+<procdate>20131031</procdate>
+<proctime Sync="TRUE">14355500</proctime>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Dataset copied.</procdesc>
+<srcused Sync="TRUE">\\NUKA-PC\C$\Users\Nuka\Documents\MA redo\Geographic Response PlansV1.gdb</srcused>
+<procdate Sync="TRUE">20120220</procdate>
+<proctime Sync="TRUE">14441400</proctime>
+</procstep>
+<srcinfo>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+</lineage>
+</dataqual>
+<mdMaint>
+<maintFreq>
+<MaintFreqCd value="009"/>
+</maintFreq>
+<maintCont>
+<rpIndName>Brian Brodeur</rpIndName>
+<rpOrgName>MassDEP</rpOrgName>
+<rpPosName>GIS Program Manager</rpPosName>
+<role>
+<RoleCd value="006"/>
+</role>
+<rpCntInfo>
+<cntAddress addressType="both">
+<delPoint>1 Winter St</delPoint>
+<city>Boston </city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<eMailAdd>brian.brodeur@state.ma.us</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">617-574-6856</voiceNum>
+</cntPhone>
+</rpCntInfo>
+<displayName>Brian Brodeur</displayName>
+</maintCont>
+</mdMaint>
+<mdContact>
+<rpIndName>Michael Trust</rpIndName>
+<rpOrgName>Massachusetts Office of Geographic Information (MassGIS)</rpOrgName>
+<rpPosName>GeoDatabase Administrator</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="both">
+<eMailAdd>michael.trust@state.ma.us</eMailAdd>
+<delPoint>One Ashburton Place</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">(617) 619-5615</voiceNum>
+</cntPhone>
+<cntHours>9 AM - 5 PM</cntHours>
+<cntInstr>Monday - Friday</cntInstr>
+</rpCntInfo>
+<role>
+<RoleCd value="001"/>
+</role>
+<displayName>Michael Trust</displayName>
+</mdContact>
+<Binary>
+<Thumbnail>
+<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigArG1zxRpnhxlbVWmt7YxmRrsxMYUwyqFZh0YlxgexrZqtqENpPp1xFfxQy2
+jRt5yTgFCmOd2eMUARaXrWma3BJPpV/bXsMb+W0lvIHUNgHGR7EH8avV5B8CUlaHxLPBNbf2Sb5Y
+7WC1ZzCjBcsU3/Nghk68nHtXr9ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAB
+RRRQAUUUUAFFFcz4w8R6t4Zt47+00CTVdPjR2vDBMFlhAxghCPmHXOOmKAOTvNGT4e+LbvXNKh1P
+V9S16QxWukwKIoEwAzFmA2jaF4JwcZ68kXNJ+JsHiTXJ9HtZrbS7qHUxaxpdHznu1TJlCqpGzheG
+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
+FFFABRRRQAUUUUAFFFFABRRRQB//2Q==</Data>
+</Thumbnail>
+</Binary>
+</metadata>

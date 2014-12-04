@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Afghanistan Information Management Service</origin>
+				<origin>Management Sciences for Health (Firm)</origin>
+				<pubdate>2003</pubdate>
+				<title>Health Facilities Afghanistan 2003</title>
+				<geoform>vector digital data</geoform>
+				<othercit>Time Period of Content: 2003-2005</othercit>
+				<onlink>http://www.aims.org.af/GIS.aspx</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Afghanistan Information Management Service</origin>
+						<pubdate>2003</pubdate>
+						<title>AIMS Afghanistan GIS Data</title>
+						<pubinfo>
+							<pubplace>Kabul (Afghanistan)</pubplace>
+							<publish>Afghanistan Information Management Service</publish>
+						</pubinfo>
+						<onlink>http://www.aims.org.af/GIS.aspx</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">AfghanistanHealthFacilities03</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point data set represents point locations of health facilities (Basic Health Centers, Mobile Clinics, District Hospitals, EPI Fixed Centers, Eye Clinic, Malaria Centers, Physiotherapy Centers, TB Control Centers, Provincial Hospitals) of Afghanistan.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2003</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+60.971344</westbc>
+				<eastbc>
+71.661898</eastbc>
+				<northbc>
+38.329860</northbc>
+				<southbc>
+30.241903</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-440301.898829</leftbc>
+<rightbc Sync="TRUE">495984.665440</rightbc>
+<bottombc Sync="TRUE">-405315.945196</bottombc>
+<topbc Sync="TRUE">480258.700967</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>health</themekey>
+				<themekey>location</themekey>
+				<themekey>society</themekey>
+				<themekey>structure</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Health facilities</themekey>
+				<themekey>Hospitals</themekey>
+				<themekey>Clinics</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Afghanistan</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Asia</placekey>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>United Nations Development Programme</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>One United Nations Plaza</address>
+					<city>New York City</city>
+					<state>New York</state>
+					<postal>10017</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>+1 (212) 906-5000</cntvoice>
+				<cntemail>publications.queries@undp.org</cntemail>
+				<cntinst>United Nations Development Programme took over the Afghanistan Information Management Services, who originally provided the file.</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.</attraccr>
+		</attracc>
+		<lineage>
+			<srcinfo>
+				<srcscale>Unknown</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Dataset moved.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Old Folders\1_Layers\Starter Metadata Template -Tufts - UTF-8</srcused>
+				<procdate>20120910</procdate>
+				<proctime>15085700</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xml19C9.tmp</srcused>
+				<procdate>20120910</procdate>
+				<proctime>15114000</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Name changed from health_facilities to AfghanistanHealthFacilities03</procdesc>
+				<procdate>20120910</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Ave</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\AIMSafghanistan\admin\AfghanistanBoundaries93</srcused>
+				<procdate>20120910</procdate>
+				<proctime>16320200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset moved.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\AIMSafghanistan\admin\source\AfghanTemplate</srcused>
+				<procdate>20120910</procdate>
+				<proctime>16504200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xml486B.tmp</srcused>
+				<procdate>20121001</procdate>
+				<proctime>12141800</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="AfghanistanHealthFacilities03">
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>793</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="AfghanistanHealthFacilities03">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">793</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999600</sfctrmer>
+<longcm Sync="TRUE">66.000000</longcm>
+<latprjo Sync="TRUE">34.000000</latprjo>
+<feast Sync="TRUE">0.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+<projcsn Sync="TRUE">WGS_1984_Transverse_Mercator</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="AfghanistanHealthFacilities03">
+			<enttyp>
+				<enttypl>
+AfghanistanHealthFacilities03</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">793</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>Numerical Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">5</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FIELD1</attrlabl>
+				<attrdef>Numerical Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FIELD1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIELD2</attrlabl>
+				<attrdef>Facility type</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FIELD2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIELD3</attrlabl>
+				<attrdef>Active status</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>The facility is active (as of publication date)</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FIELD3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIELD4</attrlabl>
+				<attrdef>Province name</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FIELD4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIELD5</attrlabl>
+				<attrdef>District name</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FIELD5</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIELD6</attrlabl>
+				<attrdef>Village code, which gives a unique identifier to each village in Afghanistan</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FIELD6</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRIMARY_NA</attrlabl>
+				<attrdef>Name of the village</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PRIMARY_NA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">80</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NAME_32_DI</attrlabl>
+				<attrdef>District name</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">NAME_32_DI</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ID_32_DIST</attrlabl>
+				<attrdef>District numerical identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">ID_32_DIST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NAME_32_PR</attrlabl>
+				<attrdef>Province name</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">NAME_32_PR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ID_32_PROV</attrlabl>
+				<attrdef>Province numerical identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">ID_32_PROV</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LAT</attrlabl>
+				<attrdef>Latitudinal coordinate in degrees</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">LAT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>LON</attrlabl>
+				<attrdef>Longitudinal coordinate in degrees</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">LON</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>TYPE_ID</attrlabl>
+				<attrdef>Numerical category for type of location</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Village</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>District Center</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Province Centre</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Capital</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TYPE_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TYPE_NAME</attrlabl>
+				<attrdef>Name of the location type</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">TYPE_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.021</transize>
+					<dssize Sync="TRUE">0.021</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.tufts.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20121005</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">AfghanistanHealthFacilities03</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-440301.898829</westBL>
+<eastBL Sync="TRUE">495984.66544</eastBL>
+<northBL Sync="TRUE">480258.700967</northBL>
+<southBL Sync="TRUE">-405315.945196</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">60.971344</westBL>
+<eastBL Sync="TRUE">71.661898</eastBL>
+<northBL Sync="TRUE">38.32986</northBL>
+<southBL Sync="TRUE">30.241903</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\AIMSafghanistan\infra\AfghanistanHealthFacilities03.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.021</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">WGS_1984_Transverse_Mercator</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="AfghanistanHealthFacilities03">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">793</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130301</SyncDate>
+<SyncTime>09522000</SyncTime>
+<ModDate>20130301</ModDate>
+<ModTime>09522000</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130301</mdDateSt>
+</metadata>

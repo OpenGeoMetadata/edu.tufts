@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Environmental Protection Agency. Region I</origin>
+				<pubdate>1998</pubdate>
+				<pubtime>Unknown</pubtime>
+				<title>Environmentally Sensitive Area Points New England 1998</title>
+				<geoform>vector digital data</geoform>
+				<onlink>http://www.epa.gov/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Environmental Protection Agency. Region I</origin>
+						<pubdate>1998</pubdate>
+						<title>United States Environmental Protection Agency GIS Data</title>
+						<pubinfo>
+							<pubplace>Boston (Mass.)</pubplace>
+							<publish>United States. Environmental Protection Agency. Region I</publish>
+						</pubinfo>
+						<onlink>http://www.epa.gov/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">NewEngESApts98</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This dataset represents point equivalents of environmentally sensitive areas in New England. ESAs were developed as part of an EPA headquarters initiative based on reviews of various regulatory and guidance documents, as well as phone interviews with federal/state/local government agencies and private organizations. ESAs include, but are not limited to, wetlands, biological resources, habitats, national parks, archaeological/historic sites, natural heritage areas, tribal lands, drinking water intakes, marinas/boat ramps, wildlife areas, etc.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1998</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-73.827</westbc>
+				<eastbc>
+-66.8685</eastbc>
+				<northbc>
+47.5557</northbc>
+				<southbc>
+40.839</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">79754.400000</leftbc>
+<rightbc Sync="TRUE">596379.900000</rightbc>
+<bottombc Sync="TRUE">236365.400000</bottombc>
+<topbc Sync="TRUE">945397.600000</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>environment</themekey>
+				<themekey>planningCadastre</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Natural resources conservation areas</themekey>
+				<themekey>Human ecology</themekey>
+				<themekey>Agriculture</themekey>
+				<themekey>Environmental sciences</themekey>
+				<themekey>Ecology</themekey>
+				<themekey>Ecosystem</themekey>
+				<themekey>Ground water</themekey>
+				<themekey>Environmental health</themekey>
+				<themekey>Land use</themekey>
+				<themekey>Wetlands</themekey>
+				<themekey>Biological resource management</themekey>
+				<themekey>Habitats</themekey>
+				<themekey>United States. National Park Service</themekey>
+				<themekey>Archaeological sites</themekey>
+				<themekey>Historic sites</themekey>
+				<themekey>Indian reservations</themekey>
+				<themekey>Forest reserves</themekey>
+				<themekey>National Wildlife Refuge System (U.S.)</themekey>
+				<themekey>Hydrography</themekey>
+				<themekey>Wildlife management areas</themekey>
+				<themekey>Flood control.</themekey>
+				<themekey>Marshes.</themekey>
+				<themekey>Islands</themekey>
+				<themekey>Parks</themekey>
+				<themekey>United States. Environmental Protection Agency.</themekey>
+				<themekey>United States. Environmental Protection Agency. Region I</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Connecticut</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>Vermont</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>North America</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Region 1</cntorg>
+					<cntper>Tom Giffen</cntper>
+				</cntorgp>
+				<cntpos>GIS Technical Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1 Congress St. Suite 1100</address>
+					<city>Boston</city>
+					<state>MA</state>
+					<postal>02114-2023</postal>
+				</cntaddr>
+				<cntvoice>(617) 918-2089</cntvoice>
+				<cntfax>(617) 918-0089</cntfax>
+				<cntemail>giffen.tom@epa.gov</cntemail>
+				<cntinst>http://www.epa.gov/region01/</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secsys>FIPS Pub 199</secsys>
+			<secclass>No Confidentiality</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 9.1.0.722</native>
+		<crossref>
+			<citeinfo>
+				<origin>US EPA Region 1, New England, Roy F. Weston</origin>
+				<pubdate>1998</pubdate>
+				<pubtime>Unknown</pubtime>
+				<title>EPA - New England Environmentally Sensitive Areas</title>
+				<geoform>map</geoform>
+				<pubinfo>
+					<pubplace>Boston, MA</pubplace>
+					<publish>US EPA Region1, New England</publish>
+				</pubinfo>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>See entity and attribute section.</attraccr>
+		</attracc>
+		<logic>Point Topology Exists</logic>
+		<complete>Data set is complete.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Unknown</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>US EPA Region 1, New England, Roy F. Weston</origin>
+						<pubdate>1998</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Region 1 New England Environmentally Sensitive Areas</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Boston, MA</pubplace>
+							<publish>US EPA Region1, New England</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>1: 24000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+							<time>unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<procstep>
+				<procdesc>Points were generated from .dbf file provided from Roy F. Weston.  Associated attribute data were joined to coverage from .dbf data files for each state.</procdesc>
+				<procdate>19991116</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR1/MIKE/PROJECTS/RI_EMERG/POLYDIS5</procdesc>
+				<procdate>19950828</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR1/MIKE/PROJECTS/RI_EMERG/POLYDIS5</procdesc>
+				<procdate>19950828</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR1/MIKE/PROJECTS/RI_EMERG/POLYDIS5</procdesc>
+				<procdate>19950828</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR1/MIKE/PROJECTS/RI_EMERG/POLYDIS5</procdesc>
+				<procdate>19950828</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR1/MIKE/PROJECTS/RI_EMERG/POLYDIS5</procdesc>
+				<procdate>19950828</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR1/MIKE/PROJECTS/RI_EMERG/POLYDIS5</procdesc>
+				<procdate>19950828</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR1/MIKE/PROJECTS/RI_EMERG/POLYDIS5</procdesc>
+				<procdate>19950828</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>BUILD POLYDIS5 POLY</procdesc>
+				<procdate>19950828</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>LABELERRORS POLYDIS5</procdesc>
+				<procdate>19950828</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR1/MIKE/PROJECTS/RI_EMERG/POLYDIS5</procdesc>
+				<procdate>19950828</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>BUILD POLYDIS5 POLY</procdesc>
+				<procdate>19950828</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>COPY /USR1/MIKE/PROJECTS/RI_EMERG/POLYDIS5 RI_ESA.ALB</procdesc>
+				<procdate>19960515</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960520</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>BUILD RI_ESA.ALB POLY</procdesc>
+				<procdate>19960520</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960520</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960520</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960520</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>BUILD RI_ESA.ALB POLY</procdesc>
+				<procdate>19960520</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960520</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960520</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>BUILD RI_ESA.ALB</procdesc>
+				<procdate>19960520</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960917</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>RESTOREARCEDIT RI_ESA.ALB</procdesc>
+				<procdate>19960917</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960917</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960917</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960917</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960917</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960917</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>BUILD RI_ESA.ALB POLY</procdesc>
+				<procdate>19960917</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960917</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960918</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960918</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960919</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/RI_ESA.ALB</procdesc>
+				<procdate>19960919</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>LABELERRORS RI_ESA.ALB</procdesc>
+				<procdate>19961220</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>EXPORT COVER RI_ESA.ALB EXPORT_SPACE/RI_ESA.E00</procdesc>
+				<procdate>19970416</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>RENAME RI_ESA.ALB RI_ESA</procdesc>
+				<procdate>19980427</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>COPY RI_ESA COVER_SPACE/RI_ESA</procdesc>
+				<procdate>19980629</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/COVER_SPACE/RI_ESA</procdesc>
+				<procdate>19980629</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>COPYFEATURES RI_ESA ANNO RI_ESA ANNO.ESA_NUM</procdesc>
+				<procdate>19980715</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/COVER_SPACE/RI_ESA</procdesc>
+				<procdate>19980715</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ARCEDIT /USR9/MISC/EMER_RESP/COVER_SPACE/RI_ESA</procdesc>
+				<procdate>19980715</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>EXPORT COVER RI_ESA RI_ESAPOL.E00</procdesc>
+				<procdate>19980723</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>COPY RI_ESA L:\DATA\STATE-WIDE\RHODEISLAND\ESA_RI24</procdesc>
+				<procdate>19991001</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>DOCUMENT ESA_RI24 CREATE</procdesc>
+				<procdate>19991102</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>DOCUMENT ESA_RI24 UPDATE</procdesc>
+				<procdate>19991103</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>DOCUMENT ESA_RI24 UPDATE</procdesc>
+				<procdate>19991103</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<procdate>20090226</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<procdate>20090226</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata updated</procdesc>
+				<procdate>20092027</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>L:\Production\Library\Metadata\EPA\ESAs_Points.xml</srcused>
+				<procdate>20090303</procdate>
+				<proctime>16361800</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>L:\Production\Library\Metadata\EPA\ESAs_Points.xml</srcused>
+				<procdate>20090317</procdate>
+				<proctime>11164500</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts' metadata standards:
+
+&amp;gt;Changed name of file from "ESA_points_r24" to "NewEngESApts98"
+&amp;gt;Changed citation title from "EPA Region 1 Environmentally Sensitive Areas (Points)" to "Environmentally Sensitive Area Points New England 1998"
+&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&amp;gt;Substituted "United States. Environmental Protection Agency. Region I" for "US Environmental Protection Agency" as the originator
+&amp;gt;changed geospatial data presentation from "map" to "vector digital data"
+&amp;gt;Added Larger Work Citation, removed non-larger work citation publisher
+&amp;gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added LCSH theme keywords
+&amp;gt;Added GNIS place keywords
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Refreshed sdts tags
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20130322</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+		<cloud>Unknown</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NewEngESApts98">
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>690</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NewEngESApts98">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">690</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.001</absres>
+						<ordres>0.010</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Albers Conical Equal Area</mapprojn>
+<albers>
+<stdparll Sync="TRUE">40.333333</stdparll>
+<stdparll Sync="TRUE">44.666667</stdparll>
+<longcm Sync="TRUE">-74.500000</longcm>
+<latprjo Sync="TRUE">39.000000</latprjo>
+<feast Sync="TRUE">0.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</albers>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378206</semiaxis>
+				<denflat>294.9786982</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">New_England_Albers_Equal_Area_Conic</projcsn>
+</cordsysn>
+</horizsys>
+		<vertdef>
+			<altsys>
+				<altdatum>North American Vertical Datum of 1988</altdatum>
+				<altres>1.0</altres>
+				<altunits>meters</altunits>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="NewEngESApts98">
+			<enttyp>
+				<enttypl>
+ESA_points_r24</enttypl>
+				<enttypd>Point feature class</enttypd>
+				<enttypds>EPA Region 1</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">690</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>ESA_R_ID</attrlabl>
+				<attrdef>Unique identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">ESA_R_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ADDRESS_1</attrlabl>
+				<attrdef>First address of ESA</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>First address of ESA.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ADDRESS_1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ADDRESS_2</attrlabl>
+				<attrdef>Second address of ESA.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Second address of ESA.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ADDRESS_2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ALTE_24PH</attrlabl>
+				<attrdef>24 hour phone number.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>24 hour phone number.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ALTE_24PH</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ALTE_DAPH</attrlabl>
+				<attrdef>Emergency contact phone number.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Emergency contact phone number.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ALTE_DAPH</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ALTE_EVPH</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ALTE_EVPH</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ALTE_NAME</attrlabl>
+				<attrdef>Alternate contact name.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Alternate contact name.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ALTE_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ALTE_TITL</attrlabl>
+				<attrdef>Alternate title of the contact person</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Alternate title.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ALTE_TITL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CITY</attrlabl>
+				<attrdef>City location of ESA.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>City location of ESA.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">CITY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COUNTY</attrlabl>
+				<attrdef>County in which ESA is located.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>County in which ESA is located.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EMER_24PH</attrlabl>
+				<attrdef>24 hour phone number.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>24 hour phone number.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">EMER_24PH</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EMER_DAPH</attrlabl>
+				<attrdef>Emergency contact phone number.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Emergency contact phone number.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">EMER_DAPH</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EMER_EVPH</attrlabl>
+				<attrdef>Emergency telephone number</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">EMER_EVPH</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EMER_NAME</attrlabl>
+				<attrdef>Emergency contact name.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Emergency contact name.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">EMER_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EMER_TITL</attrlabl>
+				<attrdef>Emergency contact title.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Emergency contact title.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">EMER_TITL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ESA_NAME</attrlabl>
+				<attrdef>Name of ESA.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Name of ESA.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ESA_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ESA_NUM</attrlabl>
+				<attrdef>Assigned number of ESA.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Assigned number of ESA.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ESA_NUM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GIS</attrlabl>
+				<attrdef>Indicates if the record is "in GIS"</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>True</edomv>
+						<edomvd>In GIS (T)</edomvd>
+						<edomvds>EPA Region 1</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>False</edomv>
+						<edomvd>Not in GIS (F)</edomvd>
+						<edomvds>EPA Region 1</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GIS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LATITUDE</attrlabl>
+				<attrdef>Latitude in decimal degrees.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Latitude in decimal degrees.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">LATITUDE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">8</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>LONGITUDE</attrlabl>
+				<attrdef>Longitude in decimal degrees.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Longitude in decimal degrees.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">LONGITUDE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">8</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PRIME_DES1</attrlabl>
+				<attrdef>Primary description of ESA.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Primary description of ESA.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">PRIME_DES1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRIME_DES2</attrlabl>
+				<attrdef>Secondary description of ESA.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Secondary description of ESA.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">PRIME_DES2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRIME_DES3</attrlabl>
+				<attrdef>Tertiary description of ESA.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Tertiary description of ESA.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">PRIME_DES3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRIME_NAME</attrlabl>
+				<attrdef>General heading which ESA falls into.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>General heading which ESA falls into.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">PRIME_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRIME_NUM</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">PRIME_NUM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRIME_REF</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">PRIME_REF</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RIV_BASIN</attrlabl>
+				<attrdef>River basin in which ESA is located.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>River basin in which ESA is located.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">RIV_BASIN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATE</attrlabl>
+				<attrdef>State location of ESA.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>State location of ESA.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB01_DES1</attrlabl>
+				<attrdef>First description of ESA habitat.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>First description of ESA habitat.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB01_DES1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB01_DES2</attrlabl>
+				<attrdef>Second description of ESA habitat.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Second description of ESA habitat.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB01_DES2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB01_DES3</attrlabl>
+				<attrdef>Tertiary description of ESA habitat.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Tertiary description of ESA habitat.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB01_DES3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB01_NAME</attrlabl>
+				<attrdef>First name given to ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>First name given to ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB01_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB01_NUM</attrlabl>
+				<attrdef>Geoprocessing identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB01_NUM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB01_REF</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB01_REF</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB02_DES1</attrlabl>
+				<attrdef>First description of secondary ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>First description of secondary ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB02_DES1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB02_DES2</attrlabl>
+				<attrdef>Secondary description of second ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Secondary description of second ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB02_DES2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB02_DES3</attrlabl>
+				<attrdef>Tertiary description of second ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Tertiary description of second ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB02_DES3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB02_NAME</attrlabl>
+				<attrdef>Secondary name of ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Secondary name of ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB02_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB02_NUM</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB02_NUM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB02_REF</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB02_REF</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB03_DES1</attrlabl>
+				<attrdef>First description of tertiary ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>First description of tertiary ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB03_DES1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB03_DES2</attrlabl>
+				<attrdef>Secondary description of tertiary ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Secondary description of tertiary ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB03_DES2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB03_DES3</attrlabl>
+				<attrdef>Tertiary description of tertiary ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Tertiary description of tertiary ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB03_DES3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB03_NAME</attrlabl>
+				<attrdef>Tertiary name of ESA.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Tertiary name of ESA.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB03_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB03_NUM</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB03_NUM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB03_REF</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB03_REF</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB04_DES1</attrlabl>
+				<attrdef>First description of fourth ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>First description of fourth ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB04_DES1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB04_DES2</attrlabl>
+				<attrdef>Secondary description of fourth ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Secondary description of fourth ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB04_DES2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB04_DES3</attrlabl>
+				<attrdef>Tertiary description of fourth ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Tertiary description of fourth ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB04_DES3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB04_NAME</attrlabl>
+				<attrdef>Fourth name of ESA</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Fourth name of ESA</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB04_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB04_NUM</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB04_NUM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB04_REF</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB04_REF</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB05_DES1</attrlabl>
+				<attrdef>First description of fifth ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>First description of fifth ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB05_DES1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB05_DES2</attrlabl>
+				<attrdef>Secondary description of fifth ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Secondary description of fifth ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB05_DES2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB05_DES3</attrlabl>
+				<attrdef>Tertiary description of fifth ESA type.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Tertiary description of fifth ESA type.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB05_DES3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB05_NAME</attrlabl>
+				<attrdef>Fifth name of ESA.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Fifth name of ESA.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB05_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB05_NUM</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB05_NUM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB05_REF</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Unknown.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB05_REF</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TYPE</attrlabl>
+				<attrdef>Type of ESA (similar to PRIME_NAME).</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Assigned ESA number by state</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ZIP_CODE</attrlabl>
+				<attrdef>Zip-code of ESA.</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Zip-code of ESA.</codesetn>
+						<codesets>EPA Region 1</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ZIP_CODE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ZONE</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Environmental Protection Agency. Region I</attrdefs>
+				<attrdomv>
+					<udom>Unknown</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ZONE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+		</detailed>
+		<overview>
+			<eaover>Environmentally sensitive areas represented by points.  This coverage complements the Environmentally Sensitve Area polygon dataset and is intended to show the ESA's that could not be represented by polygons.</eaover>
+			<eadetcit>See Attribute Label descriptions for further information.</eadetcit>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.019</transize>
+					<dssize Sync="TRUE">0.019</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20090303</metd>
+		<metrd>20051110</metrd>
+		<metfrd>20130303</metfrd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Tom Giffen</cntper>
+					<cntorg>U.S. Environmental Protection Agency, Region 1</cntorg>
+				</cntperp>
+				<cntpos>GIS Technical Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1 Congress St. Suite 1100</address>
+					<city>Boston</city>
+					<state>MA</state>
+					<postal>02114-2023</postal>
+				</cntaddr>
+				<cntvoice>(617) 918-2089</cntvoice>
+				<cntfax>(617) 918-0089</cntfax>
+				<cntemail>giffen.tom@epa.gov</cntemail>
+				<cntinst>http://www.epa.gov/region01/</cntinst>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metac>None</metac>
+		<metuc>None</metuc>
+		<metsi>
+			<metscs>None</metscs>
+			<metsc>Unclassified</metsc>
+			<metshd>None</metshd>
+		</metsi>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NewEngESApts98</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">79754.4</westBL>
+<eastBL Sync="TRUE">596379.9</eastBL>
+<northBL Sync="TRUE">945397.6</northBL>
+<southBL Sync="TRUE">236365.4</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-73.549853</westBL>
+<eastBL Sync="TRUE">-66.63202</eastBL>
+<northBL Sync="TRUE">47.507837</northBL>
+<southBL Sync="TRUE">40.904903</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\USEnviroProt\NewEngESApts98.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.019</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">New_England_Albers_Equal_Area_Conic</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NewEngESApts98">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">690</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130322</SyncDate>
+<SyncTime>12184500</SyncTime>
+<ModDate>20130322</ModDate>
+<ModTime>12184500</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130322</mdDateSt>
+</metadata>

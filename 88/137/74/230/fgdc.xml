@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>TechniGraphics, Inc.</origin>
+				<pubdate>20080919</pubdate>
+				<title>Emergency Medical Service Locations New Hampshire 2005-2008</title>
+				<edition>4th Quarter 2008</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.granit.sr.unh.edu/data/search?dset=ems</onlink>
+				<ftname Sync="TRUE">NHEmergencyMedicalServices0508</ftname>
+<origin>CACI, Inc. - Federal</origin>
+<lworkcit>
+<citeinfo>
+<pubinfo>
+<pubplace>NH GRANIT (Firm)</pubplace>
+<publish>Durham (N.H.)</publish>
+</pubinfo>
+<title>GRANIT Database</title>
+<onlink>http://www.granit.sr.unh.edu/data/search?dset=ems</onlink>
+<origin>TechniGraphics, Inc.</origin>
+<origin>CACI, Inc. - Federal</origin>
+<origin>Complex Systems Research Center, University of New Hampshire</origin>
+<pubdate>20080919</pubdate>
+</citeinfo>
+</lworkcit>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset shows Emergency Medical Service (EMS) locations in New Hampshire. 
+
+The EMS stations dataset consists of any location where emergency medical services (EMS) personnel are stationed or based out of, or where equipment that such personnel use in carrying out their jobs is stored for ready use. Ambulance services are included even if they only provide transportation services, but not if they are located at, and operated by, a hospital. If an independent ambulance service or EMS provider happens to be collocated with a hospital, it will be included in this dataset. The dataset includes both private and governmental entities.
+
+This dataset is comprised completely of license free data.
+
+The Fire Station dataset and the EMS dataset were merged into one working file. TGS processed as one file and then separated for delivery purposes.
+
+Records with "-DOD" appended to the end of the [NAME] value are located on a military base, as defined by the Defense Installation Spatial Data Infrastructure (DISDI) military installations and military range boundaries.
+
+Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results.
+
+All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics.
+
+The currentness of this dataset is indicated by the [CONTDATE] field. Based upon this field, the oldest record dates from 01/07/2005 and the newest record dates from 08/12/2008</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>20050107</begdate>
+					<enddate>20080812</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Unknown</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-72.549611</westbc>
+				<eastbc Sync="TRUE">-70.683747</eastbc>
+				<northbc Sync="TRUE">45.051581</northbc>
+				<southbc Sync="TRUE">42.704730</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">756046.136261</leftbc>
+<rightbc Sync="TRUE">1238296.948650</rightbc>
+<bottombc Sync="TRUE">76032.987223</bottombc>
+<topbc Sync="TRUE">930087.586664</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>New Hampshire</placekey>
+			</place>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>location</themekey>
+<themekey>structure</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>health</themekey>
+</theme>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western hemipshere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Airplane ambulances. </themekey>
+<themekey>Ambulances</themekey>
+<themekey>Ambulance service. </themekey>
+<themekey>Emergency medical services. </themekey>
+<themekey>Emergency medical personnel </themekey>
+<themekey>Fire departments</themekey>
+<themekey>Fire stations</themekey>
+<themekey>Helicopter ambulances</themekey>
+<themekey>Search and rescue operations. </themekey>
+</theme>
+</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>Director of Geospatial Datasets</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>3351 Eastbrook Drive</address>
+					<city>Fort Collins</city>
+					<state>CO</state>
+					<postal>80525</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>970-224-4996</cntvoice>
+				<cntfax>970-224-3001</cntfax>
+				<cntemail>mthompson@tgstech.com</cntemail>
+				<hours>Monday - Friday, 8:00 - 5:00 MST</hours>
+				<cntorgp>
+<cntorg>TechniGraphics, Inc.</cntorg>
+<cntper>Mike Thompson</cntper>
+</cntorgp>
+</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secsys>DOD</secsys>
+			<secclass>Unclassified</secclass>
+			<sechandl>Unclassified</sechandl>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.  </attraccr>
+			<qattracc>
+<attracce>For entities that were contacted, the name, address, city, state, and five (5) digit zip codes were verified to be correct as of the date indicated by the [CONTDATE] field. The existence of the entity was also verified, as well as whether or not it met the criteria for inclusion in this dataset. Four (4) digit zip code extensions were derived from USPS (United States Postal Service) data and were not verified.
+
+ID Check: The [ID] field is not blank and each of its values is unique.
+
+Coordinate Check: Coordinates are not null or zero and the x and y fields match the shape.
+
+Basic Address Check: Physical addresses were verified to be non blank and to not be a "PO Box", "General Delivery", "Highway Contract", or "Rural Route" address.
+
+Highway Address without Type Check: Physical addresses containing the word "Highway" or "Route" were verified to also contain a type designator such as "State", "US", or "County", if one actually exists for the highway or route. These type designators are often missing from addresses, leading to confusion if more than one "Highway" of the given number exists in an area.
+
+Basic Name Check: Entity name is not blank, is not the same as entity city, and has a minimum of 2 characters. Name does not contain punctuation characters that can interfere with database operations, such as " (quote) and * (asterisk).
+
+City Check: Entity's [CITY] field is not blank, and entity is located within 25 miles of its tabular city as found in the NAVTEQ Named Places reference file.
+
+State Check: The entity is located within its tabular state.
+
+County FIPS to State Compare Check: The county represented by the tabular FIPS Code is actually in the state specified in the [STATE] field.
+
+County Name to State Compare Check: The county represented by the tabular county name is actually in the state specified in the [STATE] field.
+
+Basic Phone Check: All phone numbers (including the area code) are ten (10) numeric digits. Alphabetic characters have been converted to the corresponding numeric digit.
+
+NPA_NXX Check: Area codes (sometimes called "Number Planning Areas", or NPA's) and central office codes (sometimes known as exchanges, or NXX's) were validated against data from the North American Number Planning Administration (NANPA). In some cases, NPA-NXX combinations did not show up in the NANPA data but were verified to work.
+
+Area Code Distance Check: The entity's area code (NPA) is valid, and the entity is not more than 25 miles from its area code boundary, as defined by data from the North American Number Planning Administration (NANPA), unless TGS has previously verified that the phone number rings to a headquarters location or otherwise does not ring to the entity's location.
+
+Zip Code Check: The zip code is five (5) or nine (9) numeric digits, is listed in the postal database, is in the same state as indicated by the entity's [STATE] value, and is not a PO Box only zip code.
+
+Zip City Check: The entity's zip code and its city were verified to match according to the USPS Address Information System (AIS).
+
+Zip Code Distance Check: The entity is located within 25 miles of its zip code boundary, as defined by the U.S. Census Bureau's 1999 Zip Code file.
+
+NAICS Code Check: The NAICS field is not blank, the NAICS Code is one of the accepted codes for this layer, the NAICS Description is an acceptable Index Entry for the NAICS Code, and certain key words in the entity name do not conflict with the NAICS Code.
+
+Collocation Check: Entities with different addresses must not share the exact same geospatial location.
+
+Geographic Spell Check: Words that appear in the entity name were checked against a standard English word list (and Spanish word list for entities in Puerto Rico). Words not appearing in these standard word lists were then checked against names appearing in the Geographic Names Information System (GNIS) of geographic features that are located within 25 miles of the entity. Proper names were manually reviewed for correct spelling.</attracce>
+</qattracc>
+</attracc>
+		<logic>See "Attribute_Accuracy_Report". Many of the checks described in that section check for both attribute accuracy and logical consistency.</logic>
+		<complete>
+The EMS dataset only includes entities that provide transportation and does not include fixed location clinics or hospitals, as these are included in other datasets.
+
+Administrative Locations: Locations that serve only an administrative function (e.g., a business office) are intended to be excluded from this dataset. Locations that serve both an administrative function as well as an operational function are included in the dataset.
+</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+The geographic location of entities was verified to be correct relative to the street data and version indicated by the [ST_VENDOR] and [ST_VERSION] fields. The horizontal accuracy is indicated by the [GEOPREC] field. A value of "BLOCKFACE" indicates the entity was geocoded on the correct street segment (block) and correct side of the street. A value of "ONENTITY" indicates that the location is on the entity's facility, as determined by USGS DOQQ imagery, and that it is on the correct street segment (block) and correct side of the street. Entities that are part of a larger institution (e.g., University Campus or Military Base) with "BLOCKFACE" precision may be located at the main entrance to the larger institution.
+
+Records with "-DOD" appended to the end of the [NAME] value are located on a military base, as defined by the Defense Installation Spatial Data Infrastructure (DISDI) military installations and military range boundaries.
+
+(Emergency Medical Services) not having a permanent location are depicted at the city/town hall or at the center of the town or service area if a city/town hall does not exist.
+</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>TechniGraphics, Inc.</origin>
+						<pubdate>20080513</pubdate>
+						<title>Emergency Medical Services 2008 Q2</title>
+						<edition>2nd Quarter 2008</edition>
+						<geoform>vector digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<typesrc>Digital Database File</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>20041229</begdate>
+							<enddate>20080501</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>EMS_2008_Q2</srccitea>
+				<srccontr>The basic attribution (name, address, city, state, zip code, and telephone number) came from this dataset, unless the entity was updated by TGS during Q408 processing.</srccontr>
+				<srcscale>Unknown</srcscale>
+</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>New Hampshire Fire Academy (NHFA)</origin>
+						<pubdate>Unknown</pubdate>
+						<title>New Hampshire Licensed Emergency Medical Services</title>
+						<edition>Unspecified</edition>
+						<othercit>Publication date is unknown - received on 20080507</othercit>
+					</citeinfo>
+				</srccite>
+				<typesrc>Electronic Mail System</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20080507</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NH_EMS_1</srccitea>
+				<srccontr>This was used as a source for emergency medical services in New Hampshire.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>New Hampshire Department of Safety, Division of Fire Safety, Office of the State Fire Marshal (NHDOSFM)</origin>
+						<pubdate>Unknown</pubdate>
+						<title>Fire Chiefs</title>
+						<edition>Unspecified</edition>
+						<othercit>Publication date is unknown - received on 20080506</othercit>
+					</citeinfo>
+				</srccite>
+				<typesrc>Electronic Mail System</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20080506</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NH_EMS_2</srccitea>
+				<srccontr>This was used as a source for emergency medical services in New Hampshire.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>United States Fire Administration (USFA)</origin>
+						<pubdate>20061201</pubdate>
+						<title>USFA National Fire Department Census Database</title>
+						<edition>Unspecified</edition>
+						<geoform>vector digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<typesrc>CD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20061201</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NFDC_1</srccitea>
+				<srccontr>This was used as a source for emergency medical services in the United States.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>United States Fire Administration (USFA)</origin>
+						<pubdate>20071128</pubdate>
+						<title>USFA National Fire Department Census Database</title>
+						<edition>Unspecified</edition>
+						<geoform>vector digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<typesrc>CD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20071128</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NFDC_2</srccitea>
+				<srccontr>This was used as a source for emergency medical services in the United States.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NAVTEQ</origin>
+						<pubdate>2007</pubdate>
+						<title>NAVSTREETS</title>
+						<edition>2007.2</edition>
+						<geoform>vector digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<typesrc>CD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2007</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NAVTEQ_Streets_2007_Q2</srccitea>
+				<srccontr>This version of NAVTEQ streets was used as a reference for automatic shifting of entities that were previously manually geocoded and for the automatic geocoding and manual geolocating of entities.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+1) The Fire Station dataset and the EMS dataset were merged into one working file. TGS processed as one file and then separated for delivery purposes.
+&amp;gt;
+&amp;gt;
+2) Entities were processed to determine or verify their name, physical address, city, state, five (5) digit zip code, phone number, and geospatial location. Entities that were contacted were also asked if they provided fire protection services, EMS services, or both. Entities not located on military bases were contacted and asked to describe their location relative to landmarks in reference data (mainly streets) and features visible in ortho imagery. A phone number was not available for some entities, so their information was verified using other verbal contacts made through a telephone call.
+&amp;gt;
+&amp;gt;
+3) Due to a request made by the Department of Defense, TGS made every effort to not contact military bases starting 03/27/2007 and ending 05/28/2008. During this time, entities located on military bases were verified through alternate resources, such as maps and ortho imagery. These records have not been contacted by TGS, and therefore, do not have directions.
+&amp;gt;
+&amp;gt;
+4) All text fields were set to all upper case.
+&amp;gt;
+&amp;gt;
+5) Leading and trailing spaces were trimmed from all text fields.
+&amp;gt;
+&amp;gt;
+6) Non printable and diacritic characters were removed from all text fields.
+&amp;gt;
+&amp;gt;
+</procdesc>
+				<srcused>EMS_2008_Q2</srcused>
+				<srcused>NH_EMS_1</srcused>
+				<srcused>NH_EMS_2</srcused>
+				<srcused>NFDC_1</srcused>
+				<srcused>NFDC_2</srcused>
+				<srcused>NAVTEQ_Streets_2007_Q2</srcused>
+				<procdate>20080919</procdate>
+				<srcprod>NH_EMS_2008_Q4</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Nicole Hackworth</cntper>
+							<cntorg>TechniGraphics, Inc.</cntorg>
+						</cntperp>
+						<cntpos>Project Manager</cntpos>
+						<cntaddr>
+							<addrtype>Mailing and Physical Address</addrtype>
+							<address>2000 Noble Drive</address>
+							<city>Wooster</city>
+							<state>Ohio</state>
+							<postal>44691</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>330-263-6222</cntvoice>
+						<cntemail>nhackworth@tgstech.com</cntemail>
+						<hours>Monday - Friday, 0730 - 1630 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>L:\contact\dataarchive\CSD\ems\2008_09_19_NH_EMS</srcused>
+				<procdate>20090305</procdate>
+				<proctime>13001100</proctime>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\ems-nh-ems.xml</srcused>
+<procdate Sync="TRUE">20140624</procdate>
+<proctime Sync="TRUE">09524500</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@tufts.elist.edu</cntemail>
+<hours>Monday -  Friday, 9:00am - 5:00pm, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name of dataset was changed from ems to NHEmergencyMedicalServices0508. 
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+<procdate>20140624</procdate>
+<proctime>11:00AM</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NHEmergencyMedicalServices0508">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">362</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NHEmergencyMedicalServices0508">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">362</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999967</sfctrmer>
+<longcm Sync="TRUE">-71.666667</longcm>
+<latprjo Sync="TRUE">42.500000</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NHEmergencyMedicalServices0508">
+			<enttyp>
+				<enttypl Sync="TRUE">NHEmergencyMedicalServices0508</enttypl>
+				<enttypd>The EMS stations dataset consists of any location where emergency medical services (EMS) personnel are stationed or based out of, or where equipment that such personnel use in carrying out their jobs is stored for ready use. Ambulance services are included even if they only provide transportation services, but not if they are located at, and operated by, a hospital. If an independent ambulance service or EMS provider happens to be collocated with a hospital, it will be included in this dataset. The dataset includes both private and governmental entities.</enttypd>
+				<enttypds>TechniGraphics, Inc.</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">362</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>Unique identifier for feature.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SECCLASS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SECCLASS</attrlabl>
+				<attrdef>Security classification of feature.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>UNCLASSIFIED</edomv>
+						<edomvd>Entity is unclassified.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Name of entity.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TELEPHONE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TELEPHONE</attrlabl>
+				<attrdef>Ten (10) digit telephone number for entity formatted as nnn-nnn-nnnn.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Phone numbers formatted as nnn-nnn-nnnn. Only numeric digits are used. The area code and exchange must form a valid combination. A list of valid area code and exchange combinations can be obtained from &amp;lt;http://www.nanpa.com&amp;gt;.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ADDRESS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ADDRESS</attrlabl>
+				<attrdef>Physical street address for entity. "PO Box", "General Delivery", "Rural Route", and "Highway Contract" addresses are not considered physical addresses and should not appear in this field. Some areas do not have regular city style addressing, so entities in those areas may not have a street number. In such cases, the name of the road on which they are located is listed in this field. Some rural areas may not have named roads. In these rare cases, this field will be blank.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ADDRESS2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">80</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ADDRESS2</attrlabl>
+				<attrdef>Location within physical address, e.g., floor, suite, building.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">CITY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">80</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CITY</attrlabl>
+				<attrdef>
+The name of the city associated with the entity's physical address. For physical addresses that the U.S. Postal Service (USPS) delivers to, this should be a "city" acceptable to the USPS as defined in their Address Information System (AIS). Sometimes the USPS does not deliver mail to a physical address but recognizes the location (i.e., they list the location as "undeliverable"). The cities associated with these locations are acceptable. In some cases, the USPS does not recognize individual physical addresses in a city, rather, they list the city as having "General Delivery". In these cases, the city and associated zip code are acceptable (the entity's [ADDRESS] field will contain a street address, not "general delivery"). The entity may not actually be located within the city limits of the "city" specified in its [CITY] field. Instead, it may actually be located within the city limits of another city. In some cases, the "city" that appears in this field may not even be a city in an administrative sense, but it is still an acceptable "city" to the USPS. An example of this is "Notre Dame, IN". There is no city in Indiana called "Notre Dame", but this is considered an acceptable city by the USPS for any delivery going to the University of Notre Dame which is actually located in the city of South Bend. "Notre Dame", like most USPS cities, is an easily recognized place, and it gives the user of the data a good general idea of where the entity is located (if the entity is located in a small municipality, the USPS "city" may be more recognizable than the name of the municipality), and it would be part of the address one would use to send a shipment to the entity's location. Using the USPS acceptable "city" also allows someone to do a logical consistency check between the zip code and the city by using the USPS AIS.
+
+Sometimes an entity may report a city that is not accepted by the USPS, and although TechniGraphics, Inc. has tried to replace those cities with an acceptable alternative, some of them may remain in this dataset.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">STATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">120</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATE</attrlabl>
+				<attrdef>Two (2) character abbreviation for state associated with the entity's physical address. In almost all cases, this is the same as the state where the entity has been depicted geospatially. However, there are cases, particularly where an entity is part of a larger facility that cuts across state lines, where the entity's location may be depicted in a state other than the one indicated in this field. Also, the state in which an entity appears to be located may change depending on the scale of the state boundary theme being used.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official USPS Abbreviations - State Abbreviations</codesetn>
+						<codesets>United States Postal Service</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ZIP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ZIP</attrlabl>
+				<attrdef>Five (5) digit USPS zip code for entity's physical location.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>USPS Address Information System - Domain is further restricted by only allowing physical (non PO Box) zip codes.</codesetn>
+						<codesets>United States Postal Service</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ZIPP4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ZIPP4</attrlabl>
+				<attrdef>Four (4) digit USPS zip code extension.  These values are automatically assigned using the entity's physical address and USPS address information system (AIS) data.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>USPS Address Information System (AIS) - ZIP9</codesetn>
+						<codesets>United States Postal Service</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COUNTY</attrlabl>
+				<attrdef>County name where entity is located.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Geographic Names Information System (GNIS)</codesetn>
+						<codesets>US Department of the Interior - US Geologic Survey</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">FIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIPS</attrlabl>
+				<attrdef>Five (5) digit FIPS (Federal Information Processing Standards) Code for the County where entity is located. The first two (2) digits represent the state and the last three (3) digits identify the county within the state.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards Publications - Counties and Equivalent Entities of the U.S., Its Possessions, and Associated Areas</codesetn>
+						<codesets>National Institute of Standards and Technology (NIST) http://www.itl.nist.gov/fipspubs/co-codes/states.txt</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">DIRECTIONS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIRECTIONS</attrlabl>
+				<attrdef>Directions to entity location, or description of the entity's location.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">EMERGTITLE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EMERGTITLE</attrlabl>
+				<attrdef>Title of person or name of office for emergency point of contact.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">EMERGTEL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EMERGTEL</attrlabl>
+				<attrdef>Ten (10) digit telephone number of emergency point of contact formatted as nnn-nnn-nnnn. All alphabetic characters have been translated to the corresponding numeric digit.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Phone numbers, including area code, formatted as nnn-nnn-nnnn. A list of valid area code and exchange combinations can be found at http://www.nanpa.com</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">EMERGEXT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EMERGEXT</attrlabl>
+				<attrdef>Telephone extension for emergency point of contact.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">CONTDATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CONTDATE</attrlabl>
+				<attrdef>Date entity was contacted by TGS.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Date</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">CONTHOW</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CONTHOW</attrlabl>
+				<attrdef>Method by which entity was contacted.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>PHONE</edomv>
+						<edomvd>Entity was contacted by phone.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FAX</edomv>
+						<edomvd>Entity was contacted by fax.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MAIL</edomv>
+						<edomvd>Entity was contacted by mail.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>EMAIL</edomv>
+						<edomvd>Entity was contacted by email.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>WEB</edomv>
+						<edomvd>Entity information was gathered and/or verified by official entity website as a last resort.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ALT REF</edomv>
+						<edomvd>Geospatial reference information obtained from local authorities, e.g., downloadable parcel maps, 911 streets, and shape files.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Entity has not been contacted by TGS.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GEODATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GEODATE</attrlabl>
+				<attrdef>Date entity was geocoded by TGS.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Date</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">GEOHOW</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GEOHOW</attrlabl>
+				<attrdef>Method by which entity was geocoded.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>AUTO</edomv>
+						<edomvd>Entity was automatically geocoded.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MANUAL</edomv>
+						<edomvd>Entity was manually geocoded.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ADJUSTED</edomv>
+						<edomvd>Entity was shifted by TGS to an updated set of NAVTEQ streets. This only applies if the entity was manually geocoded by TGS to a previous version of NAVTEQ streets.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PROVIDED</edomv>
+						<edomvd>Entity was geocoded using coordinates provided by the original source.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">NAICSCODE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NAICSCODE</attrlabl>
+				<attrdef>NAICS (North American Industry Classification System) Code for entity. NAICS Codes (and NAICS Descriptions) have been assigned based upon the entity's primary function, regardless of if that is the function that qualified it to be included in this dataset.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>North American Industry Classification System (NAICS 2007)</codesetn>
+						<codesets>US Census Bureau - http://www.census.gov/epcd/www/naics.html</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">NAICSDESCR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NAICSDESCR</attrlabl>
+				<attrdef>
+NAICS (North American Industry Classification System) Description for entity. The "Index Entries" that appear on the NAICS webpage (http://www.census.gov/epcd/www/naics.html) are being used to populate this field, as opposed to the "NAICS Title". While there is a one to one correspondence between NAICS Codes and "NAICS Titles", there is a one to many relationship between NAICS Codes and the "Index Entries". By using the "Index Entries", we have placed the entities that make up this layer into more specific categories; however, the user of this data should be aware that this was not the intended purpose of these "Index Entries". The "Index Entries" were intended as a way to search the NAICS database and as a way of enumerating ways in which establishments falling under the given NAICS Code may be named. Thus, there are often two or more "Index Entries" that are synonyms, for example: "Prisons" and "Penitentiaries". In cases like this, we have standardized on one "Index Entry".
+
+NAICS Descriptions (and NAICS Codes) have been assigned based upon the entity's primary function, regardless of if that is the function that qualified it to be included in this dataset.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>AIR AMBULANCE SERVICES</edomv>
+						<edomvd>AIR AMBULANCE SERVICES - [NAICS Code 621910]: Entities that are primarily engaged in providing transportation of patients by air that have medical care capabilities are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>AMBULANCE AND FIRE SERVICE COMBINED</edomv>
+						<edomvd>AMBULANCE AND FIRE SERVICE COMBINED - [NAICS Code 922160]: Entities providing ambulance services with fire protection service are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>AMBULANCE SERVICES, AIR OR GROUND</edomv>
+						<edomvd>AMBULANCE SERVICES, AIR OR GROUND - [NAICS Code 621910]: Entities that are primarily engaged in providing transportation of patients by ground or air that have medical care capabilities are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FIRE AND RESCUE SERVICE</edomv>
+						<edomvd>FIRE AND RESCUE SERVICE - [NAICS Code 922160]: Entities that are involved in fire fighting and rescue service are classified under this description, unless they are privately owned or primarily involved in forest fire fighting.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FIREFIGHTING, FOREST</edomv>
+						<edomvd>FIREFIGHTING, FOREST - [NAICS Code 115310]: Entities that are primarily involved in forest fire fighting are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FIRE FIGHTER TRAINING SCHOOLS</edomv>
+						<edomvd>FIRE FIGHTER TRAINING SCHOOLS - [NAICS Code 611519]: Entities that are primarily involved in training fire fighters are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FIRE FIGHTING SERVICES AS A COMMERCIAL ACTIVITY</edomv>
+						<edomvd>FIRE FIGHTING SERVICES AS A COMMERCIAL ACTIVITY - [NAICS Code 561990]: Entities providing fire protection for a commercial facility are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>POLICE AND FIRE DEPARTMENTS, COMBINED</edomv>
+						<edomvd>POLICE AND FIRE DEPARTMENTS, COMBINED - [NAICS Code 922120]: Entities providing combined police and fire protection service are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>RESCUE SERVICES, AIR</edomv>
+						<edomvd>RESCUE SERVICES, AIR - [NAICS Code 621910]: Entities that have medical care capabilities and are primarily engaged in the rescue of patients by air are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>RESCUE SERVICES, MEDICAL</edomv>
+						<edomvd>RESCUE SERVICES, MEDICAL - [NAICS Code 621910]: Entities that have medical care capabilities and are primarily engaged in the rescue of patients by ground are classified under this description.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GEOLINKID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">120</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GEOLINKID</attrlabl>
+				<attrdef>Link ID for the street segment to which the entity was geocoded. Refer to the [ST_VENDOR] and [ST_VERSION] fields for the street vendor and version that was used to geocode the entity.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">X</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>X</attrlabl>
+				<attrdef>Longitude in WGS 84 Decimal Degrees.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-180</rdommin>
+						<rdommax>180</rdommax>
+						<attrunit>WGS 84 Decimal Degrees</attrunit>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Y</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">7</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Y</attrlabl>
+				<attrdef>Latitude in WGS 84 Decimal Degrees.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-90</rdommin>
+						<rdommax>90</rdommax>
+						<attrunit>WGS 84 Decimal Degrees</attrunit>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">ST_VENDOR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">7</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>ST_VENDOR</attrlabl>
+				<attrdef>Indicates name of vendor providing original street data used for geocoding.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NAVTEQ</edomv>
+						<edomvd>NAVTEQ streets were used for geocoding.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TechniGraphics, Inc.</edomv>
+						<edomvd>TGS drew in a new street segment that does not exist in the file supplied by NAVTEQ.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TIGER</edomv>
+						<edomvd>TIGER/Line streets were used for geocoding.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">ST_VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ST_VERSION</attrlabl>
+				<attrdef>Indicates the year and quarter of streets used for geocoding.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>2007Q2</edomv>
+						<edomvd>2nd Quarter 2007 NAVTEQ street data was used for geocoding.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2006FE</edomv>
+						<edomvd>2006fe version of TIGER/Line streets were used for geocoding in areas where NAVTEQ does not have coverage.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GEOPREC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GEOPREC</attrlabl>
+				<attrdef>Geocoding precision.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>BLOCKFACE</edomv>
+						<edomvd>Entity is geocoded to correct block and correct side of street per street data indicated by [ST_VENDOR] and [ST_VERSION].</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ONENTITY</edomv>
+						<edomvd>Entity is geocoded on entity rooftop per aerial imagery (in most cases USGS DOQQs).</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PHONELOC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PHONELOC</attrlabl>
+				<attrdef>Indicates whether the phone number in the [TELEPHONE] field rings to the actual location of the entity.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>YES</edomv>
+						<edomvd>Phone number rings to the actual entity location.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NO</edomv>
+						<edomvd>Phone number does not ring to the actual entity location. It may ring to an administrative office or central location.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unknown - It is not known if the entity's phone number rings to the entity's location.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">QC_QA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+</attr>
+			<attr>
+				<attrlabl>QC_QA</attrlabl>
+				<attrdef>Organization that performed Quality Control/Quality Assurance on the record.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>TechniGraphics, Inc.</edomv>
+						<edomvd>TGS has performed Quality Control/Quality Assurance on all TGS added records and all records contacted since 01/01/2005.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>The record is not TGS added or has not had Quality Control/Quality Assurance performed by TGS, or Quality Control/Quality Assurance was performed prior to 01/01/2005.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STATE_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATE_ID</attrlabl>
+				<attrdef>State Emergency Medical Services Data ID. For states that contributed data, this field is populated with the unique ID used by the state to track EMS locations.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FDID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FDID</attrlabl>
+				<attrdef>A unique five-character identifier assigned by the state to identify a particular fire department within the state. The first two characters designate the county and the last three designate the department within the county. This identifier is only unique within each state, not nationwide.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FRST_MBRS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FRST_MBRS</attrlabl>
+				<attrdef>
+Total number of fire fighter members associated with the DEPARTMENT.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">EMS_MBRS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EMS_MBRS</attrlabl>
+				<attrdef>
+Total number of EMS members associated with the DEPARTMENT.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TOTALPERS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOTALPERS</attrlabl>
+				<attrdef>
+Total number of members associated with the DEPARTMENT.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NUMTRKS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NUMTRKS</attrlabl>
+				<attrdef>
+Total number of fire trucks associated with the DEPARTMENT.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NUMABUL</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NUMABUL</attrlabl>
+				<attrdef>
+Total number of ambulances associated with the DEPARTMENT.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TOTAL_VEHI</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOTAL_VEHI</attrlabl>
+				<attrdef>
+Total number of vehicles associated with the DEPARTMENT.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NBR_STA</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NBR_STA</attrlabl>
+				<attrdef>
+The total number of stations associated with the DEPARTMENT.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">OWNER</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OWNER</attrlabl>
+				<attrdef>
+The type of ownership for the entity.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">LEVEL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LEVEL</attrlabl>
+				<attrdef>
+Indicates the level of medical services provided.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TYPE</attrlabl>
+				<attrdef>
+Type of employees.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SPECIALTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SPECIALTY</attrlabl>
+				<attrdef>
+Indicates any type of specialty unit available at the facility.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">EMSLICENSE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EMSLICENSE</attrlabl>
+				<attrdef>
+License number for EMS agency provided by the state.
+
+The values that this field is populated with came from individual states and have not been validated or checked by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">EMERPHONE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EMERPHONE</attrlabl>
+				<attrdef>
+Emergency Contact Number as provided by individual states.  Some values also include telephone extensions and/or alternate telephone numbers.  All alphabetic characters have been translated to the corresponding numeric digit.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Phone numbers, including area code, formatted as nnn-nnn-nnnn. A list of valid area code and exchange combinations can be found at &amp;lt;http://www.nanpa.com&amp;gt;</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FRST</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FRST</attrlabl>
+				<attrdef>Indicates if the entity also has fire fighting capabilities.</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>Indicates the entity has fire fighting capabilities.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>Indicates the entity does not have fire fighting capabilities.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomvd>Unable to determine if entity has fire fighting capabilities.</edomvd>
+						<edomvds>TechniGraphics, Inc.</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PERM_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PERM_ID</attrlabl>
+				<attrdef>
+The unique permanent identifier of The National Structures Dataset.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">GNIS_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GNIS_ID</attrlabl>
+				<attrdef>
+The unique permanent identifier of the Geographic Names Information System that is up to eight (8) digits in length and unique within the nation.
+
+The values in this field have not been verified by TGS.
+</attrdef>
+				<attrdefs>TechniGraphics, Inc.</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<address>16 Dearborn Rd</address>
+<country>USA</country>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00am - 5:00pm, USA-EST</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>
+Digital data in NH GRANIT represent the efforts of the
+contributing agencies to record information from the cited
+source materials. Complex Systems Research Center, under
+contract to the NH Office of Energy and Planning, and in
+consultation with cooperating agencies, maintains a
+continuing program to identify and correct errors in these
+data. OEP, CSRC, and the cooperating agencies make no claim
+as to the validity or reliability or to any implied uses of
+these data.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<transize>0.8 MB</transize>
+					<dssize Sync="TRUE">0.010</dssize>
+</digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>CD/DVD</offmedia>
+						<recfmt>ESRI Shapefile</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>No charge when downloaded from website.  Cost of reproduction for provision on CD/DVD or other media.</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140707</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Mike Thompson</cntper>
+					<cntorg>TechniGraphics, Inc.</cntorg>
+				</cntperp>
+				<cntpos>Director of Geospatial Datasets</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and Physical Address</addrtype>
+					<address>3351 Eastbrook Drive</address>
+					<city>Fort Collins</city>
+					<state>CO</state>
+					<postal>80525</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>970-224-4996</cntvoice>
+				<cntfax>970-224-3001</cntfax>
+				<cntemail>mthompson@tgstech.com</cntemail>
+				<hours>Monday - Friday, 0800 - 1700 MST</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{FB616031-478F-4234-8C6B-0F2E0E7C29B9}</MetaID>
+<CreaDate>20140624</CreaDate>
+<CreaTime>09524500</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140707</SyncDate>
+<SyncTime>10572200</SyncTime>
+<ModDate>20140707</ModDate>
+<ModTime>10572200</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NHEmergencyMedicalServices0508</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">756046.136261</westBL>
+<eastBL Sync="TRUE">1238296.94865</eastBL>
+<northBL Sync="TRUE">930087.586664</northBL>
+<southBL Sync="TRUE">76032.987223</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-72.549611</westBL>
+<eastBL Sync="TRUE">-70.683747</eastBL>
+<northBL Sync="TRUE">45.051581</northBL>
+<southBL Sync="TRUE">42.70473</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\NHEmergencyMedicalServices0508.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.010</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NHEmergencyMedicalServices0508">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">362</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140707</mdDateSt>
+</metadata>

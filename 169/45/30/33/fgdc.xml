@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Geologic Survey (U.S.)</origin>
+				<pubdate>20140328</pubdate>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<title>Coastline Alaska 2014</title>
+<ftname Sync="TRUE">AlaskaCoastline14</ftname>
+<onlink>http://www.nationalatlas.gov/mld/1nethyd.html</onlink>
+<pubinfo>
+<pubplace>Reston (Va.)</pubplace>
+<publish>Geologic Survey (U.S.)</publish>
+</pubinfo>
+<lworkcit>
+<citeinfo>
+<origin>Geologic Survey (U.S.)</origin>
+<title>National Atlas of the United States</title>
+<pubinfo>
+<pubplace>Reston (Va.)</pubplace>
+<publish>Geologic Survey (U.S.)</publish>
+</pubinfo>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This line dataset represents coastlines in Alaska.  All feature classes are vertically integrated with each other and with 1:1,000,000-scale transportation and boundary data sets.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+<supplinf>This data was originally stored in a geodatabase.  All feature classes are vertically integrated with each other and with 1:1,000,000-scale transportation and boundary data sets.</supplinf>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2014</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-179.147340</westbc>
+				<eastbc Sync="TRUE">179.778480</eastbc>
+				<northbc Sync="TRUE">71.389210</northbc>
+				<southbc Sync="TRUE">51.215265</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-179.147340</leftbc>
+<rightbc Sync="TRUE">179.778480</rightbc>
+<bottombc Sync="TRUE">51.215265</bottombc>
+<topbc Sync="TRUE">71.389210</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>line</themekey>
+			</theme>
+			<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>boundaries</themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>Alaska</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Coasts</themekey>
+</theme>
+</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>U.S Geological Survey, National Atlas of the United States</cntorg>
+</cntorgp>
+<cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
+<cntemail>atlasmail@usgs.gov</cntemail>
+<cntinst>For questions about this geodatabase or metadata, please contact the National Atlas using the information above, or through the U.S. Geological Survey contact page at http://www.usgs.gov/ask/. For distribution questions, please see the Distribution Information elsewhere in this metadata.</cntinst>
+<cntaddr>
+<address>National Atlas of the United States</address>
+<addrtype>mailing and physical address</addrtype>
+<address>U.S. Geological Survey</address>
+<city>Reston</city>
+<state>VA</state>
+<postal>20192</postal>
+<country>USA</country>
+</cntaddr>
+</cntinfo>
+</ptcontac>
+</idinfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="AlaskaCoastline14">
+				<sdtstype Sync="TRUE">String</sdtstype>
+				<ptvctcnt Sync="TRUE">1158</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="AlaskaCoastline14">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">1158</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="AlaskaCoastline14">
+			<enttyp>
+				<enttypl Sync="TRUE">AlaskaCoastline14</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">1158</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">Coastln010</attrlabl>
+<attalias Sync="TRUE">Coastln010</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Unique identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Miles</attrlabl>
+<attalias Sync="TRUE">Miles</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Length of segment in miles</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SHAPE_Leng</attrlabl>
+<attalias Sync="TRUE">SHAPE_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Length of shape in meters</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">2.027</transize>
+					<dssize Sync="TRUE">2.027</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+		<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>GIS Data Analyst</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</distrib>
+</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140821</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<address>Academic Technology</address>
+<address>16 Dearborn Ave</address>
+<country>USA</country>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntpos>GIS Data Analyst</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<lineage/>
+	<Esri>
+<CreaDate>20140815</CreaDate>
+<CreaTime>15224300</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<ModDate>20140821</ModDate>
+<ModTime>13013100</ModTime>
+<MetaID>{27404DF6-E0FD-491C-8A21-4ABE4C15A6AE}</MetaID>
+<SyncDate>20140821</SyncDate>
+<SyncTime>13012100</SyncTime>
+</Esri>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+<procdate Sync="TRUE">20130212</procdate>
+<proctime Sync="TRUE">11073200</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Starter Metadata Template -Tufts - UTF-8.xml</srcused>
+<procdate Sync="TRUE">20140815</procdate>
+<proctime Sync="TRUE">15224300</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Tufts University GIS Center</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University Geographic Information Systems Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name changed from Coastline to AlaskaCoastline14</procdesc>
+<procdate>20140815</procdate>
+</procstep>
+<srcinfo>
+<srcscale> 1:1,000,000</srcscale>
+</srcinfo>
+</lineage>
+</dataqual>
+<mdDateSt Sync="TRUE">20140821</mdDateSt>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">AlaskaCoastline14</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-179.14734</westBL>
+<eastBL Sync="TRUE">179.77848</eastBL>
+<northBL Sync="TRUE">71.38921</northBL>
+<southBL Sync="TRUE">51.215265</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-179.14734</westBL>
+<eastBL Sync="TRUE">179.77848</eastBL>
+<northBL Sync="TRUE">71.38921</northBL>
+<southBL Sync="TRUE">51.215265</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NationalAtlas\Water - Tufts\Hydrographic Geodatabase\Alaska\AlaskaCoastline14.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">2.027</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_North_American_1983</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="AlaskaCoastline14">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">1158</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+</metadata>

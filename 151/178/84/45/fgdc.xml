@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Newton (Mass.). Engineering Department</origin>
+				<pubdate>2007</pubdate>
+				<title>Street Center Lines Newton MA 2007</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>City of Newton GIS Data</sername>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Newton (Mass.)</pubplace>
+					<publish>Newton (Mass.). Engineering Department</publish>
+				</pubinfo>
+				<onlink>http://www.newtonma.gov/MIS/Gis/GISpage.htm</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Newton (Mass.). Engineering Department</origin>
+						<pubdate>2007</pubdate>
+						<title>City of Newton GIS Data</title>
+						<pubinfo>
+							<pubplace>Newton (Mass.)</pubplace>
+							<publish>Newton (Mass.). Engineering Department</publish>
+						</pubinfo>
+						<onlink>http://www.newtonma.gov/MIS/Gis/GISpage.htm</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">NewtonStreetCl07</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This line dataset represents street centerlines in Newton, MA.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2007</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Unknown</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-71.267956</westbc>
+				<eastbc>
+-71.157456</eastbc>
+				<northbc>
+42.366718</northbc>
+				<southbc>
+42.288309</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">718952.822677</leftbc>
+<rightbc Sync="TRUE">748737.537105</rightbc>
+<bottombc Sync="TRUE">2930272.956626</bottombc>
+<topbc Sync="TRUE">2958746.814195</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>line</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Streets</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Newton</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Middlesex</placekey>
+				<placekey>New England</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>North America</placekey>
+			</place>
+		</keywords>
+		<accconst>Restricted Access Online: Access is granted to licensee only. Available only to Tufts University affiliates.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Newton (Mass.). Engineering Department</cntorg>
+				</cntorgp>
+				<cntpos>GIS Administrator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1000 Commonwealth Ave.</address>
+					<city>Newton</city>
+					<state>MA</state>
+					<postal>02459</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-796-1000</cntvoice>
+				<hours>M, Wednesday - Friday, 8:30AM - 5:00PM, Tuesday 8:30AM -8:00PM, EST-USA</hours>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Name changed from streetcl to NewtonStreetCl07.</procdesc>
+				<procdate>201201</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NewtonStreetCl07">
+				<sdtstype>String</sdtstype>
+				<ptvctcnt>4296</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NewtonStreetCl07">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">4296</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">656166.666667</feast>
+<fnorth Sync="TRUE">2460625.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NewtonStreetCl07">
+			<enttyp>
+				<enttypl>
+NewtonStreetCl07</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">4296</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>FNODE_</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FNODE_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TNODE_</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">TNODE_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LPOLY_</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">LPOLY_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RPOLY_</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">RPOLY_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LENGTH</attrlabl>
+				<attrdef>Length in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">LENGTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+<atnumdec Sync="TRUE">5</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>STREETCL_</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">STREETCL_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STREETCL_I</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">STREETCL_I</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>The street name of which the segment is a part.</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DPW_ID_OLD</attrlabl>
+				<attrdef>Dept. of Public Work Old ID</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">DPW_ID_OLD</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DPW_ID</attrlabl>
+				<attrdef>The city's Public Works Department presently manages its' street maintenance activities using Hansen Inc.'s Infrastructure Management System (IMS).  A pre-requisite for creating the street database in IMS was creating a unique numbering scheme for each street and each segment (street block) of each street.  For example, Adams Ave. has seven blocks, created by intersections with six cross streets.  The unique numbers for those seven blocks are 8001, 8002, ..., 8007.  In other words, each street name is assigned a unique number series (8000 in the above example) and each segment of that street has a unique sequential number (e.g., 8001) in that series.  This same number system is used in the GIS database for the street center line coverage.  Each record in the street center-line coverage .AAT includes the attribute DPW-ID; it contains the unique IMS street number for that record.  Note that some of the arcs in the street center line coverage, notably those representing the Massachusetts Turnpike, are not uniquely numbered; instead they have the number 10000.  Also, some streets have segments that are not contiguous (e.g., Washington St, Rokeby Rd.).  Finally, some streets are divided so that one direction of traffic is on a portion of road that is physically separate from the other direction (e.g., Commonwealth Ave, Washington St., Washington Pk.); the numbering scheme described above does not work for those streets.</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">DPW_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>LF</attrlabl>
+				<attrdef>The left-from address.</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">LF</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LT</attrlabl>
+				<attrdef>The left-to address.</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">LT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RF</attrlabl>
+				<attrdef>The right-from address</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">RF</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RT</attrlabl>
+				<attrdef>The right-to address.</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">RT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATUS</attrlabl>
+				<attrdef>Type of street.</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Null</edomv>
+						<edomvd>Public</edomvd>
+						<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PRIVATE</edomv>
+						<edomvd>Private street</edomvd>
+						<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STATUS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>UPDATE</attrlabl>
+				<attrdef>Since the unique street segment identifiers were first copied into the Hansen IMS database, there have been changes.  Streets have been added and existing segments have been split or combined.  These changes have not yet been copied into the Hansen database.  This attribute tracks the type of edit that has occurred.</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NO CHANGE</edomv>
+						<edomvd>some segments in the street have changed, but not that segment.</edomvd>
+						<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+					</edom>
+					<edom>
+						<edomv>SPLIT</edomv>
+						<edomvd>while the DPW-ID of the segment has not changed, the segment was split into two.</edomvd>
+						<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+					</edom>
+					<edom>
+						<edomv>NEWID</edomv>
+						<edomvd>the segment has a new DPW-ID because it was split off from an existing segment.</edomvd>
+						<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+					</edom>
+					<edom>
+						<edomv>NEW-SEG</edomv>
+						<edomvd>A newly created segment of the street (includes all of new streets.)</edomvd>
+						<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">UPDATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EXCLUSION</attrlabl>
+				<attrdef>An attribute value of "Y" indicates that city ordinance excludes heavy vehicles from this street segment.</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">EXCLUSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ONEWAY</attrlabl>
+				<attrdef>Direction of traffic.</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>FT</edomv>
+						<edomvd>from to</edomvd>
+						<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TF</edomv>
+						<edomvd>To from</edomvd>
+						<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B</edomv>
+						<edomvd>Both directions</edomvd>
+						<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>No traffic</edomvd>
+						<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">ONEWAY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ARTERY</attrlabl>
+				<attrdef>Attribute values of "Y" identify major streets and residential arteries.</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">ARTERY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TYPE</attrlabl>
+				<attrdef>Attribute values of "PAPER" identify streets where the legal right-of-way exists but where no street has been constructed ("paper streets").</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRE_DIR</attrlabl>
+				<attrdef>Street prefix cardinal direction</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">PRE_DIR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRE_TYPE</attrlabl>
+				<attrdef>Street type prefix</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">PRE_TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STREET_NAM</attrlabl>
+				<attrdef>Street name</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">STREET_NAM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">26</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STREET_TYP</attrlabl>
+				<attrdef>Street type (e.g., Ave, Rd, St, etc)</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">STREET_TYP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUF_DIR</attrlabl>
+				<attrdef>Street suffix cardinal direction</attrdef>
+				<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+				<attalias Sync="TRUE">SUF_DIR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.473</transize>
+					<dssize Sync="TRUE">0.473</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.tufts.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130808</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NewtonStreetCl07</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">718952.822677</westBL>
+<eastBL Sync="TRUE">748737.537105</eastBL>
+<northBL Sync="TRUE">2958746.814195</northBL>
+<southBL Sync="TRUE">2930272.956626</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.267956</westBL>
+<eastBL Sync="TRUE">-71.157456</eastBL>
+<northBL Sync="TRUE">42.366718</northBL>
+<southBL Sync="TRUE">42.288309</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NewtonCityofGISData\NewtonStreetCl07.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.473</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NewtonStreetCl07">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">4296</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130808</SyncDate>
+<SyncTime>10295900</SyncTime>
+<ModDate>20130808</ModDate>
+<ModTime>10295900</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130808</mdDateSt>
+</metadata>

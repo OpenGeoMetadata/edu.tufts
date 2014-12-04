@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Kokusai Kyoryoku Jigyodan</origin>
+				<pubdate>2010</pubdate>
+				<title>Land Use Nairobi 2010</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+					<sername>Nairobi GIS Maps and Database</sername>
+				</serinfo>
+				<pubinfo>
+					<publish>Columbia University. Spatial Information Design Lab</publish>
+					<pubplace>New York (N.Y.)</pubplace>
+</pubinfo>
+				<onlink>http://nairobigismaps.wikischolars.columbia.edu/home</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Columbia University. Spatial Information Design Lab</origin>
+						<pubdate>2010</pubdate>
+						<title>Nairobi GIS Maps and Database</title>
+						<pubinfo>
+							<publish>Columbia University. Spatial Information Design Lab</publish>
+							<pubplace>New York (N.Y.)</pubplace>
+</pubinfo>
+						<onlink>http://nairobigismaps.wikischolars.columbia.edu/home</onlink>
+</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">NairobiLanduse10</ftname>
+<origin>Columbia University. Spatial Information Design Lab</origin>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents land use in Nairobi. The landuse dataset was created by manually digitizing a map which was prepared jointly by the Japan International Cooperation Agency (JICA) and the Government of the Republic of Kenya under the Japanese Government Technical Cooperation Program. The landuse dataset was developed for use in a transportation model. Not all Landuses could be identified from the Landuse map - so there are many places where the landuses is marked as unknown. However this dataset represents a rough estimate of the landuse in Nairobi and will prove useful for the transportation model.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2010</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">36.663449</westbc>
+				<eastbc Sync="TRUE">37.103933</eastbc>
+				<northbc Sync="TRUE">-1.157844</northbc>
+				<southbc Sync="TRUE">-1.442558</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">240009.692000</leftbc>
+<rightbc Sync="TRUE">289019.308400</rightbc>
+<bottombc Sync="TRUE">9840465.733400</bottombc>
+<topbc Sync="TRUE">9871916.085400</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Land use</themekey>
+				<themekey>Buildings</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Nairobi</placekey>
+				<placekey>Kenya</placekey>
+				<placekey>Republic of Kenya</placekey>
+</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Southern hemisphere</placekey>
+				<placekey>Eastern hemisphere</placekey>
+				<placekey>Africa</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Spatial Information Design Lab, Columbia University</cntorg>
+					<cntper>Sarah Williams</cntper>
+</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>New York</city>
+					<postal>10027</postal>
+					<country>USA</country>
+					<state>NY</state>
+<address>Spatial Information Design Lab</address>
+<address>Graduate School of Architecture, Planning, and Presevation at Columbia University</address>
+<address>1172 Amsterdam Avenue</address>
+<address>400 Avery Hall</address>
+</cntaddr>
+				<cntemail>csudei@gmail.com</cntemail>
+				<cntpos>Director</cntpos>
+<cntvoice>202-854-8563</cntvoice>
+<cntemail>sew@alum.mit.edu</cntemail>
+</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>1:15,000</srcscale>
+				<typesrc>Scanned Paper Map</typesrc>
+<srccontr>Kokusai Kyoryoku Jigyodan</srccontr>
+</srcinfo>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>11073200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlB389.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>11135000</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Name changed from nairobi_LU to NairobiLanduse10.</procdesc>
+				<procdate>20130212</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University. Geographic Information Systems Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Ave</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-suuport@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Nairobi\NairobiLanduse03.shp.xml</srcused>
+<procdate Sync="TRUE">20130531</procdate>
+<proctime Sync="TRUE">09372700</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NairobiLanduse10">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">150510</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NairobiLanduse10">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">150510</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+<projcsn Sync="TRUE">WGS_1984_UTM_Zone_37S</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">meters</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<gridsys>
+<gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn>
+<utm>
+<utmzone Sync="TRUE">-37</utmzone>
+<transmer>
+<sfctrmer Sync="TRUE">0.999600</sfctrmer>
+<longcm Sync="TRUE">39.000000</longcm>
+<latprjo Sync="TRUE">0.000000</latprjo>
+<feast Sync="TRUE">500000.000000</feast>
+<fnorth Sync="TRUE">10000000.000000</fnorth>
+</transmer>
+</utm>
+</gridsys>
+</planar>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NairobiLanduse10">
+			<enttyp>
+				<enttypl Sync="TRUE">NairobiLanduse10</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">150510</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Unique identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+				<attrlabl>LANDUSE</attrlabl>
+				<attrdef>Landuse type</attrdef>
+				<attrdefs>Columbia University. Spatial Information Design Lab</attrdefs>
+				<attalias Sync="TRUE">LANDUSE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdomv>
+<edom>
+<edomv>Agricultural</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Cultivated land or land used to support livestock and poultry</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Commercial</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Office parks, retail, wholesale, furniture shops, banks, hotels, petrol service stations, restaurants, grocery stores, establishments oriented towards providing professional and personal services to the public</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Educational</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Schools, colleges, universities (public and private), research institutions</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Forest</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Forested</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Industrial</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Light or heavy industrial, motor garages, airport warehouses</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Public Purpose</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Hopsital,post office, library, fire stations, cemetery, churches, mosques, temples, stadiums, theatres, police stations, prisons, administrative offices</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Public Utility</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Power stations, mobile phone masts, water and waste water, land fills</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Recreational</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Municipal and community parks, golf courses, designated/restricted open spaces, protected forests</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Residential</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Municipal and community parks, golf courses, designated/restricted open spaces, protected forests</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Special Purpose</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Government security installations</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Transportation</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Roads, streets, municipal parking lots, railway lines, airports, terminals</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Undeveloped</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>All parcels with no interpretable building/structure (thereby undeveloped). All parcels with no obvious land use category as listed above</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>Waterbody</edomv>
+<edomvds>Columbia University. Spatial Information Design Lab
+</edomvds>
+<edomvd>Waterbodies</edomvd>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">LOCAL_NAME</attrlabl>
+<attalias Sync="TRUE">LOCAL_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+<attrdef>Local name of the landuse area</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape_Leng</attrlabl>
+<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Length of the shape in meters</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape_Area</attrlabl>
+<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Area of feature in internal meters squared.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>1.706</transize>
+					<dssize Sync="TRUE">25.068</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20131115</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NairobiLanduse10</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">240009.692</westBL>
+<eastBL Sync="TRUE">289019.3084</eastBL>
+<northBL Sync="TRUE">9871916.0854</northBL>
+<southBL Sync="TRUE">9840465.7334</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">36.663449</westBL>
+<eastBL Sync="TRUE">37.103933</eastBL>
+<northBL Sync="TRUE">-1.157844</northBL>
+<southBL Sync="TRUE">-1.442558</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Nairobi\NairobiLanduse10.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">25.068</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NairobiLanduse10">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">150510</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20131115</SyncDate>
+<SyncTime>12514700</SyncTime>
+<ModDate>20131115</ModDate>
+<ModTime>12514700</ModTime>
+<MetaID>{2A3EB9DC-E7CA-4E35-B262-E25B6F1784FC}</MetaID>
+<CreaDate>20130531</CreaDate>
+<CreaTime>09372700</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+</Esri>
+<mdDateSt Sync="TRUE">20131115</mdDateSt>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">WGS_1984_UTM_Zone_37S</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+</metadata>

@@ -1,0 +1,2030 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Federal Highway Administration Resource Center (U.S.)</origin>
+				<pubdate>2011</pubdate>
+				<title>National Highway Planning Network USA 2011</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington (D.C.)</pubplace>
+					<publish>Federal Highway Administration Resource Center (U.S.)</publish>
+				</pubinfo>
+				<othercit>The NHPN Version 09.03 database was created on behalf of FHWA by Wilbur Smith Associates.</othercit>
+				<onlink>http://www.fhwa.dot.gov/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Federal Highway Administration Resource Center (U.S.)</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Databases (NTAD) 2011</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>Federal Highway Administration Resource Center (U.S.)</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USHighways11</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This line dataset represents highways in the United States, based on the National Highway PLanning Network. The National Highway Planning Network is a comprehensive network database of the nation's major highway system.  It consists of the nation's highways comprised of Rural Arterials, Urban Principal Arterials and all National Highway System routes. The data set covers the 48 contiguous States plus the District of Columbia, Alaska, Hawaii, and Puerto Rico. The nominal scale of the data set is 1:100,000 with a maximal positional error of ±80 meters.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-176.763993</westbc>
+				<eastbc Sync="TRUE">-65.593643</eastbc>
+				<northbc Sync="TRUE">71.316994</northbc>
+				<southbc Sync="TRUE">17.934389</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-176.763993</leftbc>
+<rightbc Sync="TRUE">-65.593643</rightbc>
+<bottombc Sync="TRUE">17.934389</bottombc>
+<topbc Sync="TRUE">71.316994</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekey>line</themekey>
+				<themekt>FGDC</themekt>
+</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+<themekey>structure</themekey>
+</theme>
+			<place>
+<placekt>GNS</placekt>
+<placekey>United States</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekey>North America</placekey>
+<placekt>LCNH</placekt>
+</place>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Roads</themekey>
+</theme>
+</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommerical use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Office of Interstate &amp;amp; Border Planning, HEPI-1 , US Department of Transportation, Federal Highway Administration</cntorg>
+					<cntper>Mr. Mark Sarmiento</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Ave., SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(202) 366-4828</cntvoice>
+				<cntfax>(202) 493-2198</cntfax>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<crossref>
+			<citeinfo>
+				<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+				<pubdate>2011</pubdate>
+				<title>National Transportation Atlas Databases (NTAD) 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington DC</pubplace>
+					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+		</attracc>
+		<posacc>
+			<horizpa>
+				<horizpar>The original elements of the NHPN have been conflated to the 1:100,000 DLG-3 data set, which maintains a nominal accuracy of at least ±80 meters. Where new roads have been added which are not in the DLG-3 database, link alignments have been digitized or converted from digital sources acquired from state DOTs with a map scale of at least 1:100,000. Where State data source was not available, CENSUS TIGER/Line 2000 was used.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Bruce Peterson, Oak Ridge National Laboratory</origin>
+						<title>National Highway Planning Network V1.1</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>19920701</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>NHPN V1</srccitea>
+				<srccontr>Non-verified attributes for rural highways.</srccontr>
+				<srcscale>1:100000</srcscale>
+</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>USGS Digital Line Graph (DLG-3) Series</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1978</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>DLG-3</srccitea>
+				<srccontr>Road alignments for rural and urban highways.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>State-supplied digital and map data</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>19921231</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>State Data</srccitea>
+				<srccontr>Alignments and attributes for urban highways. Sign route and function class attributes for principal arterial system.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>State-supplied digital and map data</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>19931101</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>State Data</srccitea>
+				<srccontr>Alignments, sign route NHS classification for National Highway System.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>State-supplied digital and map data</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>19931101</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>State Data</srccitea>
+				<srccontr>Linear Referencing System Attributes</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>CENSUS TIGER/Line 1994</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1994</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>TIGER</srccitea>
+				<srccontr>Alignment, shape and location of ramp features</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>CENSUS TIGER/Line 2000</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2000</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>TIGER</srccitea>
+				<srccontr>Alignment, shape and location of intermodal connectors and terminals</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>State-supplied digital and map data</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2002</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>State Data</srccitea>
+				<srccontr>Alignment, shape and location of intermodal connectors and terminals</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>State</origin>
+						<title>Geographic Information System (GIS) Data and paper maps</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2005</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>State Data 2003</srccitea>
+				<srccontr>
+Fixed LRS route direction to match HPMS mileage direction.
+Calibrate LRS milepost attribute value to match state supplied HPMS.
+Create/modify of new LRS Routes to match state supplied HPMS.
+Assign a road name attribute for arcs where SIGN values are not available.
+</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>National Highway Planning Network V2002.10</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20021001</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NHPN 2002.10</srccitea>
+				<srccontr>Upgrade NHPN format to Geodatabase.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>State</origin>
+						<title>Highway Performance Monitoring System</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2003</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>HPMS 2002</srccitea>
+				<srccontr>
+Calibration of  LRS milepost attribute value.
+Creation of new LRS Routes.
+</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Transport Modeling and GIS-T Application Group, Transportation &amp;amp; Space division, Battelle</origin>
+						<title>Urban Area</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2003</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>Urban Area 2003</srccitea>
+				<srccontr>
+Assign CENSUS Small Urban Area code.
+Assign HPMS Urbanized Area code.
+Assign Rural/Urban Code.
+</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>National Highway Planning Network V2002.10 Geodatabase format</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2003</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>NHPN Geo 2003</srccitea>
+				<srccontr>Provided a platform for topological Q/C analysis.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>STRAHNET Connectors</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2005</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>STRAHNET connectors</srccitea>
+				<srccontr>Delineated STRAHNET Priority 1 and Priority 2 connectors.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>FHWA Intermodal Facility and Connectors</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2005</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>FHWA Intermodal Facility and Connectors</srccitea>
+				<srccontr>
+Updated FAC_ID, CONN_ID, CONN_DES and CONN_MILES.
+
+All the updates were made on this version of the NHPN
+</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Conflation of NHPN V1 to DLG-3 road alignments using R-MATCH software developed by the Geographic Information Systems Group, University of Tennessee.</procdesc>
+				<srcused>NHPN V1</srcused>
+				<srcused>DLG-3</srcused>
+				<procdate>19930701</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Digitizing and converting of state-supplied digital and map data. Line work geodetically controlled to match DLG-3 line work.</procdesc>
+				<srcused>State Data</srcused>
+				<srcused>DLG-3</srcused>
+				<procdate>19931231</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Integration of conflated version of NHPN V1 and assimilated state data into a comprehensive topologically integrated network database. States edge matched and NHS attributes verified.</procdesc>
+				<procdate>19940915</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Integration of supplemental state data into the NHPN V2.  NHS attributes verified.</procdesc>
+				<procdate>19970115</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Integration of intermodal connector links into the NHPN V2.  States edge matched and NHS attributes verified.</procdesc>
+				<procdate>19980101</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Attachment of a Linear Referencing System to the NHPN V2. State Data used for LRS attribute information.</procdesc>
+				<procdate>19991001</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Integration of Ramp Group Cordon Boundary nodes into the NHPN for future addition of ramp group features.  States edge matched, NHS attributes verified, and national LRSKEY added to facilitate a national route system.</procdesc>
+				<procdate>19991001</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Further integration of Ramp Group Cordon Boundary nodes into the NHPN for future addition of ramp group features.  States edge matched, NHS attributes verified.</procdesc>
+				<procdate>20000225</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Update of Linear Referencing System to the NHPN V4.0.  State data used for LRS attribute information.</procdesc>
+				<procdate>20010601</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Update and rebuild Linear Referencing System to the NHPN V 2002.10.  State data used for LRS attribute information.</procdesc>
+				<procdate>20020730</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Update LRS directionality and calibrate LRS milepost attribute value to match state supplied HPMS to the NHPN V 2002.10 route system.  State and FHWA HPMS-2001 data used for LRS attribute information.</procdesc>
+				<procdate>20020730</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Update NHS and intermodal connector links. States edge matched and NHS attributes verified.</procdesc>
+				<procdate>20020730</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Update and integrate intermodal terminals. States geo-location matched and attributes verified.</procdesc>
+				<procdate>20020730</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Conflation of NHPN V.4 RAT data to NHPN V 2002.10 arc and calibrate arc milepost LRS anchor information using R-TAG Interface developed by the Transport Modeling and GIS-T Applications Group, Transportation &amp;amp; Space division, Battelle, Columbus, Ohio.</procdesc>
+				<procdate>20020730</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>NHPN V.4 Route System's directionality, Route Attribute Table and milepost anchor values verified with state-submitted HPMS data elements. Anomalies are corrected or modified onto the NHPN V 2002.10 route system.</procdesc>
+				<procdate>20020730</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Coverage to geodatabase conversion.</procdesc>
+				<srcused>NHPN 2002.10</srcused>
+				<procdate>20030601</procdate>
+				<srcprod>NHPN Geo 2003</srcprod>
+			</procstep>
+			<procstep>
+				<procdesc>Conversion of Spatial co-ordinate system from NAD 27 to NAD 83.</procdesc>
+				<srcused>NHPN Geo 2003</srcused>
+				<procdate>20030601</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Assigned road name attributes for arcs where SIGN values are not available.</procdesc>
+				<srcused>State Data 2003</srcused>
+				<srcused>CENSUS/TIGER/Line 2000</srcused>
+				<procdate>20030701</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Corrected topological errors using ArcGIS 8.3 geodatabase topology rules.</procdesc>
+				<srcused>NHPN Geo 2003</srcused>
+				<procdate>20030801</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Transferred route information from the NHPN route to the NHPN arc features</procdesc>
+				<srcused>NHPN Geo 2003</srcused>
+				<procdate>20031001</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Revised and modified arc feature's topology direction with state submitted route feature and/or HPMS route direction.</procdesc>
+				<srcused>State Data 2003</srcused>
+				<srcused>State Data 2002</srcused>
+				<srcused>HPMS 2002</srcused>
+				<procdate>20031101</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Verified arcs direction with state submitted GIS data and HPMS.</procdesc>
+				<srcused>State Data 2003</srcused>
+				<srcused>State Data 2002</srcused>
+				<srcused>HPMS 2002</srcused>
+				<procdate>20031201</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Created new NHPN route system from the NHPN arc's embedded route information with the aid of computer algorithm developed under ArcGIS environment.</procdesc>
+				<srcused>NHPN Geo 2003</srcused>
+				<procdate>20040101</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Updated CENSUS small urban area code and HPMS urbanized area code to the arc and node features.</procdesc>
+				<srcused>Urban Area 2003</srcused>
+				<procdate>20040201</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Modified NHS codes as per direction of the FHWA. NHS codes 2,5, and 6 as reported in the previous versions of NHPN were changed to 7,3, and 4 respectively.</procdesc>
+				<srcused>NHPN Geo 2003</srcused>
+				<procdate>20040301</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Changed STRAHNET codes 1, 2, and 3 to 6, 1 and 2 respectively. Replaced definition of codes 3, 4 and 5 as Rural Non-Designated Interstate, Urban Designated Interstate and Urban Non-Designated Interstate respectively.</procdesc>
+				<srcused>NHPN 2004.10</srcused>
+				<procdate>20050615</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Added STRAHNET connectors and corresponding to FAC_ID and CONN_DES.</procdesc>
+				<srcused>STRAHNET Connectors</srcused>
+				<procdate>20050701</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Verified Intermodal terminals.</procdesc>
+				<procdate>20050715</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Modified NHS based on ammendments</procdesc>
+				<procdate>20050615</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Added status code as per direction of the FHWA. Status code 2 was added to identify ferry routes.</procdesc>
+				<procdate>20050701</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Identified and assigned status code 2 to the ferry routes.</procdesc>
+				<srcused>NHPN 2004.10</srcused>
+				<procdate>20050701</procdate>
+			</procstep>
+			<srcinfo>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2010</caldate>
+</sngdate>
+</timeinfo>
+</srctime>
+</srcinfo>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University Geographic Information Systems Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tudts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM -5:00 PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name changed from nhpn to USHighways11.</procdesc>
+<procdate>20130329</procdate>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USHighways11">
+				<sdtstype Sync="TRUE">String</sdtstype>
+				<ptvctcnt Sync="TRUE">176231</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Network chain, nonplanar graph</sdtstype>
+				<ptvctcnt>176124</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Node, network</sdtstype>
+				<ptvctcnt>138902</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USHighways11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">176231</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>0.001000</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="USHighways11">
+			<enttyp>
+				<enttypl Sync="TRUE">USHighways11</enttypl>
+				<enttypd>National Highway Planning Network</enttypd>
+				<enttypds>FHWA &amp;amp; RITA/BTS</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">176231</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>RECTYPE</attrlabl>
+				<attrdef>Identifies arc file records.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>"L"</codesetn>
+						<codesets>United States. Dept. of Transportation. Research and Innovative Technology Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">RECTYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>Used for maintaining consistency across data files containing alternate releases of the NHPN.  The Version Code consists of a leading Version Number  (the year of release) and a trailing number (the month of release), thus, 2004.06 describes Major Release for the year 2004 and month 06.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Character set</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">7</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RECID</attrlabl>
+				<attrdef>A unique numeric ID associated with each arc of NHPN version 2004.06.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Positive Integers.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">RECID</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>ORIGID</attrlabl>
+				<attrdef>A unique numeric ID associated with each arc of previous versions of NHPN as appropriate.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Positive Integers.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ORIGID</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>CTFIPS</attrlabl>
+				<attrdef>3 digit FIPS code for the county the arc resides.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard, Publication 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">CTFIPS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SOURCE</attrlabl>
+				<attrdef>Source of arc</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>'T'</edomv>
+						<edomvd>Tiger File</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'D'</edomv>
+						<edomvd>Digitized</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'S'</edomv>
+						<edomvd>State</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'U'</edomv>
+						<edomvd>Unknown</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SOURCE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HPMS07</attrlabl>
+				<attrdef>Record updated with 2007 HPMS Data</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>'Y'</edomv>
+						<edomvd>Record was updated with 2007 HPMS Data</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'N'</edomv>
+						<edomvd>Record was not updated with 2007 HPMS Data</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">HPMS07</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LGURB</attrlabl>
+				<attrdef>3 digit HPMS Urbanized Area code for the Urbanized Area in which the arc lies.  A value of 0 indicates the arc is outside any HPMS Urbanized Areas.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>999</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">LGURB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SMURB</attrlabl>
+				<attrdef>5 digit CENSUS Small Urban Area code for cities under 50,000 population in 2000.  A value of 0 indicates the arc is outside any Small Urban Area.</attrdef>
+				<attrdefs>United States. Bureau of the Census</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99999</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">SMURB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGN1</attrlabl>
+				<attrdef>Contains the designated primary Sign Route for the arc.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>The character string is composed of three sub fields SIGNT1, SIGNN1, and SIGNQ1.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGN1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNT1</attrlabl>
+				<attrdef>Describes the type of the sign route.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>'I'</edomv>
+						<edomvd>Interstate</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'U'</edomv>
+						<edomvd>US Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'S'</edomv>
+						<edomvd>State Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'O'</edomv>
+						<edomvd>Off-Interstate Business Marker</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'C'</edomv>
+						<edomvd>County Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'T'</edomv>
+						<edomvd>Township</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'M'</edomv>
+						<edomvd>Municipal</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'P'</edomv>
+						<edomvd>Parkway or Forest Route Marker</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'N'</edomv>
+						<edomvd>None of the above</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(blank)</edomv>
+						<edomvd>Not signed or not applicable</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNT1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNN1</attrlabl>
+				<attrdef>Contains the actual sign route numbers . Using HPMS standards, an optional directional indicator (N, S, E, W) can also be used as part of this field.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Alpha Numeric</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNN1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNQ1</attrlabl>
+				<attrdef>Sign Route Qualifier Record which is used to qualify the sign route description follows the Sign Route Number.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>'A'</edomv>
+						<edomvd>Alternate Route</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'B'</edomv>
+						<edomvd>Business Route</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'P'</edomv>
+						<edomvd>By Pass</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'S'</edomv>
+						<edomvd>Spur</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'L'</edomv>
+						<edomvd>Loop</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'F'</edomv>
+						<edomvd>Proposed (future)</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'D'</edomv>
+						<edomvd>Temporary (detour)</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'T'</edomv>
+						<edomvd>Truck Route</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'N'</edomv>
+						<edomvd>None of the above</edomvd>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(Blank)</edomv>
+						<edomvd>No Qualifier, not signed, or not applicable.</edomvd>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNQ1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGN2</attrlabl>
+				<attrdef>Contains the designated secondary Sign Route for the arc.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>The character string is composed of three sub fields SIGNT2, SIGNN2, and SIGNQ2.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGN2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNT2</attrlabl>
+				<attrdef>Describes the type of the sign route.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>'I'</edomv>
+						<edomvd>Interstate</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'U'</edomv>
+						<edomvd>US Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'S'</edomv>
+						<edomvd>State Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'O'</edomv>
+						<edomvd>Off-Interstate Business Marker</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'C'</edomv>
+						<edomvd>County Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'T'</edomv>
+						<edomvd>Township</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'M'</edomv>
+						<edomvd>Municipal</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'P'</edomv>
+						<edomvd>Parkway or Forest Route Marker</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'N'</edomv>
+						<edomvd>None of the above</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(blank)</edomv>
+						<edomvd>Not signed or not applicable</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNT2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNN2</attrlabl>
+				<attrdef>Contains the actual sign route numbers . Using HPMS standards, an optional directional indicator (N, S, E, W) can also be used as part of this field.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Alpha Numeric</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNN2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNQ2</attrlabl>
+				<attrdef>Sign Route Qualifier Record which is used to qualify the sign route description follows the Sign Route Number.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>'A'</edomv>
+						<edomvd>Alternate Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'B'</edomv>
+						<edomvd>Business Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'P'</edomv>
+						<edomvd>By Pass</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'S'</edomv>
+						<edomvd>Spur</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'L'</edomv>
+						<edomvd>Loop</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'F'</edomv>
+						<edomvd>Proposed (future)</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'D'</edomv>
+						<edomvd>Temporary (detour)</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'T'</edomv>
+						<edomvd>Truck Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'N'</edomv>
+						<edomvd>None of the above</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(Blank)</edomv>
+						<edomvd>No Qualifier, not signed, or not applicable.</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNQ2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGN3</attrlabl>
+				<attrdef>Contains the designated additional secondary Sign Route for the arc.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>The character string is composed of three sub fields SIGNT3, SIGNN3, and SIGNQ3.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGN3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNT3</attrlabl>
+				<attrdef>Describes the type of the sign route.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>'I'</edomv>
+						<edomvd>Interstate</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'U'</edomv>
+						<edomvd>US Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'S'</edomv>
+						<edomvd>State Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'O'</edomv>
+						<edomvd>Off-Interstate Business Marker</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'C'</edomv>
+						<edomvd>County Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'T'</edomv>
+						<edomvd>Township</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'M'</edomv>
+						<edomvd>Municipal</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'P'</edomv>
+						<edomvd>Parkway or Forest Route Marker</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'N'</edomv>
+						<edomvd>None of the above</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(blank)</edomv>
+						<edomvd>Not signed or not applicable</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNT3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNN3</attrlabl>
+				<attrdef>Contains the actual sign route numbers . Using HPMS standards, an optional directional indicator (N, S, E, W) can also be used as part of this field.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Alpha Numeric</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNN3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNQ3</attrlabl>
+				<attrdef>Sign Route Qualifier Record which is used to qualify the sign route description follows the Sign Route Number.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>'A'</edomv>
+						<edomvd>Alternate Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'B'</edomv>
+						<edomvd>Business Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'P'</edomv>
+						<edomvd>By Pass</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'S'</edomv>
+						<edomvd>Spur</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'L'</edomv>
+						<edomvd>Loop</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'F'</edomv>
+						<edomvd>Proposed (future)</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'D'</edomv>
+						<edomvd>Temporary (detour)</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'T'</edomv>
+						<edomvd>Truck Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>'N'</edomv>
+						<edomvd>None of the above</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(Blank)</edomv>
+						<edomvd>No Qualifier, not signed, or not applicable.</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNQ3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LNAME</attrlabl>
+				<attrdef>Contains the local street name for the arc.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Should not contain any punctuation characters other than blank, and hyphen.  Wherever possible CENSUS Feature Type abbreviations should be used to shorten the local name.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">LNAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MILES</attrlabl>
+				<attrdef>Contains measurement in miles for the arc chain.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Positive Integers</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MILES</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>KM</attrlabl>
+				<attrdef>Contains measurement in kilometers for the arc chain.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Positive Integers</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">KM</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FCLASS</attrlabl>
+				<attrdef>Identifies the assigned functional class of each arc.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>01</edomv>
+						<edomvd>Rural Principal Arterial - Interstate</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>02</edomv>
+						<edomvd>Rural Principal Arterial - Other</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>06</edomv>
+						<edomvd>Rural Minor Arterial</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>07</edomv>
+						<edomvd>Rural Major Collector</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08</edomv>
+						<edomvd>Rural Minor Collector</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>09</edomv>
+						<edomvd>Rural Local</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>Urban Principal Arterial - Interstate</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Urban Principal Arterial-Other Freeways &amp;amp; Expressways</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>Urban Principal Arterial - Other</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>16</edomv>
+						<edomvd>Urban Minor Arterial</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>17</edomv>
+						<edomvd>Urban Collector</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19</edomv>
+						<edomvd>Urban Local</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FCLASS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RUCODE</attrlabl>
+				<attrdef>Describes the Rural/Urban classification of the arc.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Rural</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Small Urban (2000 pop 5,000 -49,999)</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Large Urban (2000 pop &amp;gt;= 50,000)</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">RUCODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATUS</attrlabl>
+				<attrdef>Describes availability of the arc to through traffic.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Proposed/Under construction</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Open to traffic</edomvd>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STATUS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NHS</attrlabl>
+				<attrdef>Special subnetwork for the National Highway System. The following values were converted per direction from the FHWA: 2 (ISTEA High Priority Corridor) was converted to 7 (Other NHS) , 5 (ISTEA High Priority Corridor/ Non-Interstate STRAHNET) was converted to 3 (Non-Interstate STRAHNET), 6 (ISTEA High Priority Corridor/STRAHNET Connector) was converted to 4 (STRAHNET Connector).</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Not on NHS</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Interstate</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Non-Interstate STRAHNET</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>STRAHNET Connector</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Other NHS</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Approved Intermodal Connector</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">NHS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STRAHNET</attrlabl>
+				<attrdef>Special subnetwork for the Strategic Highway Corridor Network.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Not on STRAHNET</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Non-Interstate STRAHNET</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>STRAHNET Priority 1 Connector</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>STRAHNET Priority 2 Connector</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>STRAHNET Priority 3 Connector</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Temporary STRAHNET Route</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STRAHNET</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FAC_ID</attrlabl>
+				<attrdef>FHWA designated Intermodal Facility unique ID.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Alpha-Numeric character set (A-Z, 0-99)</codesetn>
+						<codesets>Federal Highway Administration Resource Center (U.S.)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">FAC_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CONN_ID</attrlabl>
+				<attrdef>FHWA designated Intermodal Facility Connector unique ID</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Alpha-Numeric character set (A-Z, 0-99)</codesetn>
+						<codesets>Federal Highway Administration Resource Center (U.S.)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">CONN_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CONN_DES</attrlabl>
+				<attrdef>Description of Intermodal Facility Connectors</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Alpha-Numeric character set (A-Z, 0-99)</codesetn>
+						<codesets>Federal Highway Administration Resource Center (U.S.)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">CONN_DES</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">200</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CONN_MILES</attrlabl>
+				<attrdef>Total Mileage of the designated Connector.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">CONN_MILES</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>LRSKEY</attrlabl>
+				<attrdef>Uniquely identifies a route within a state.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Created by combining 2 data items from the HPMS:  the 12 character LRS Identification field (HPMS Data Item 10) plus the 3 character County FIPS Code (HPMS Data Item 4).</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">LRSKEY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LRSSEQ</attrlabl>
+				<attrdef>NHPN arc mile point sequence number.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Alpha-Numeric character set (A-Z, 0-99)</codesetn>
+						<codesets>FHWA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">LRSSEQ</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>BEGMP</attrlabl>
+				<attrdef>Beginning mile point for the NHPN arc segment.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">BEGMP</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>ENDMP</attrlabl>
+				<attrdef>Ending mile point of the NHPN arc segment.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">ENDMP</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>AADT</attrlabl>
+				<attrdef>The Annual Average Daily Traffic field comes from the 2002 Highway Performance Monitoring System.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Numeric Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">AADT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>THRULANES</attrlabl>
+				<attrdef>The Number of through lanes field indicates the number of striped lanes in both directions.  This field does not include auxiliary lanes, such as collector-distributor lanes, weaving lanes, frontage road lanes, parking and turning lanes, acceleration/deceleration lanes, toll collection lanes and truck climbing lanes.</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Numeric Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">THRULANES</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OWNERSHIP</attrlabl>
+				<attrdef>Identifies the road owner</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>State Highway Agency</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>County Highway Agency</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Town or Township Highway Agency</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Municipal Highway Agency</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Other State Agency</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Other Local Agency</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Federal Agency</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Other</edomvd>
+						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">OWNERSHIP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>State FIPS Code</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard- FIPS Pub 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>BTSVERSION</attrlabl>
+				<attrdef>Version of the database</attrdef>
+				<attrdefs>Federal Highway Administration Resource Center (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">BTSVERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearbon Ave</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<cntpos>GIS Data Technician</cntpos>
+</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formverd>2011</formverd>
+					<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
+					<transize>145.986</transize>
+					<dssize Sync="TRUE">60.454</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka/>
+						</computer>
+						<accinstr>NTAD is available for download at www.bts.gov/programs/geographic_information_services.  The NTAD DVD can also be ordered from the online bookstore at www.bts.gov.</accinstr>
+					</onlinopt>
+					<offoptn>
+						<offmedia>DVD</offmedia>
+						<reccap>
+							<recden>650</recden>
+							<recdenu>megabytes</recdenu>
+						</reccap>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2011 DVD. This and other RITA/BTS products may be ordered from the RITA/BTS Internet site (&amp;lt;http://www.bts.gov/programs/geographic_information_services/&amp;gt;).</ordering>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd>20110215</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearborn Ave</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<cntpos>GIS Data Technician</cntpos>
+</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{0BDCB270-85F6-4158-A08D-1ACB1D00C972}</MetaID>
+<CreaDate>20100504</CreaDate>
+<CreaTime>15345300</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11472300</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11473300</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USHighways11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-176.763993</westBL>
+<eastBL Sync="TRUE">-65.593643</eastBL>
+<northBL Sync="TRUE">71.316994</northBL>
+<southBL Sync="TRUE">17.934389</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-176.763993</westBL>
+<eastBL Sync="TRUE">-65.593643</eastBL>
+<northBL Sync="TRUE">71.316994</northBL>
+<southBL Sync="TRUE">17.934389</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USHighways11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">60.454</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USHighways11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">176231</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

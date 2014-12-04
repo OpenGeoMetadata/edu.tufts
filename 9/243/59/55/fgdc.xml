@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<onlink>http://www.newtonma.gov/MIS/Gis/GISpage.htm</onlink>
+				<origin>Newton (Mass.). Engineering Department</origin>
+<pubdate>2007</pubdate>
+<title Sync="TRUE">NewtonZone07</title>
+<ftname Sync="TRUE">NewtonZone07</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<serinfo>
+<sername>City of Newton GIS Data</sername>
+</serinfo>
+<pubinfo>
+<pubplace>Newton (Mass.)</pubplace>
+<publish>Newton (Mass.). Engineering Department</publish>
+</pubinfo>
+<lworkcit>
+<citeinfo>
+<origin>Newton (Mass.). Engineering Department</origin>
+<title>City of Newton GIS Data</title>
+<pubinfo>
+<pubplace>Newton (Mass.)</pubplace>
+<publish>Newton (Mass.). Engineering Department</publish>
+</pubinfo>
+<pubdate>2007</pubdate>
+<onlink>http://www.newtonma.gov/MIS/Gis/GISpage.htm</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<keywords>
+			<place>
+<placekt>GNIS</placekt>
+<placekey>Newton</placekey>
+<placekey>Massachusetts</placekey>
+<placekey>Middlesex</placekey>
+<placekey>New England</placekey>
+</place>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>polygon</themekey>
+</theme>
+<theme>
+<themekey>boundaries</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>location</themekey>
+<themekey>planningCadastre</themekey>
+</theme>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Zoning</themekey>
+</theme>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Newton (Mass.). Engineering Department</cntorg>
+</cntorgp>
+<cntaddr>
+<address>1000 Commonwealth Ave. </address>
+<addrtype>mailing and physical address</addrtype>
+<city>Newton</city>
+<state>MA </state>
+<postal>02459</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-796-1000</cntvoice>
+<hours>M, Wednesday - Friday, 8:30AM - 5:00PM, Tuesday 8:30AM -8:00PM, EST-USA</hours>
+<cntpos>GIS Administrator</cntpos>
+</cntinfo>
+</ptcontac>
+<descript>
+<abstract>This polygon dataset contains the boundaries of zoning districts based on the CAMA zoning attribute for each property in Newton, MA. Extra information is added for properties split between two zoning districts. This data layer does not contain all these "split-lot" parcels because the effort required is too great for present resources and interest.  The split lots in this data layer were identified as the ones that had to appear on the zoning map.
+
+This dataset is NOT to be treated as an official zoning map at this time.</abstract>
+<langdata Sync="TRUE">en</langdata>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data. </purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>2007</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>In work</progress>
+<update>Unknown</update>
+</status>
+<accconst>Restricted Access Online: Access is granted to licensee only. Available only to Tufts University affiliates.</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">-71.270311</westbc>
+<eastbc Sync="TRUE">-71.156689</eastbc>
+<northbc Sync="TRUE">42.367840</northbc>
+<southbc Sync="TRUE">42.284070</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">718319.795172</leftbc>
+<rightbc Sync="TRUE">748943.259185</rightbc>
+<bottombc Sync="TRUE">2928728.981998</bottombc>
+<topbc Sync="TRUE">2959154.115263</topbc>
+</lboundng>
+</spdom>
+<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville </city>
+					<state>MA</state>
+					<country>USA</country>
+					<postal>02144</postal>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.tufts.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+				<digtinfo>
+<transize Sync="TRUE">4.691</transize>
+<dssize Sync="TRUE">4.691</dssize>
+</digtinfo>
+</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only </ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Somerville</city>
+					<state>MA</state>
+					<country>USA</country>
+					<address>Academic Technology</address>
+<postal>02144</postal>
+<address>16 Dearborn Rd.</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+</cntinfo>
+		</metc>
+		<metd Sync="TRUE">20130808</metd>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<ModDate>20130808</ModDate>
+<ModTime>10300600</ModTime>
+<CreaDate>20130808</CreaDate>
+<CreaTime>10163100</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20130808</SyncDate>
+<SyncTime>10300600</SyncTime>
+<MetaID>{00D554FE-DAAD-4F16-BC62-22217350F1CB}</MetaID>
+</Esri>
+<mdDateSt Sync="TRUE">20130808</mdDateSt>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NewtonCityofGISData\NewtonZone07.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+<orDesc Sync="TRUE">002</orDesc>
+</onLineSrc>
+<transSize Sync="TRUE">4.691</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<dataqual>
+<lineage>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name changed from Zoning to NewtonZoning07.</procdesc>
+<procdate>201201</procdate>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NewtonCityofGISData\NewtonZone07.shp.xml</srcused>
+<procdate Sync="TRUE">20130808</procdate>
+<proctime Sync="TRUE">10163100</proctime>
+</procstep>
+</lineage>
+</dataqual>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NewtonZone07</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">718319.795172</westBL>
+<eastBL Sync="TRUE">748943.259185</eastBL>
+<northBL Sync="TRUE">2959154.115263</northBL>
+<southBL Sync="TRUE">2928728.981998</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.270311</westBL>
+<eastBL Sync="TRUE">-71.156689</eastBL>
+<northBL Sync="TRUE">42.36784</northBL>
+<southBL Sync="TRUE">42.28407</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="NewtonZone07">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">2135</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="NewtonZone07">
+<sdtstype Sync="TRUE">G-polygon</sdtstype>
+<ptvctcnt Sync="TRUE">2135</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">survey feet</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">656166.666667</feast>
+<fnorth Sync="TRUE">2460625.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+<geodetic>
+<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NewtonZone07">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">2135</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<eainfo>
+<detailed Name="NewtonZone07">
+<enttyp>
+<enttypl Sync="TRUE">NewtonZone07</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">2135</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">AREA</attrlabl>
+<attalias Sync="TRUE">AREA</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+<attrdef>Area in US square feet</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">5</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">PERIMETER</attrlabl>
+<attalias Sync="TRUE">PERIMETER</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+<attrdef>Perimeter in US feet</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">5</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ZONING_</attrlabl>
+<attalias Sync="TRUE">ZONING_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<attrdef>Geoprocessed Identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ZONING_ID</attrlabl>
+<attalias Sync="TRUE">ZONING_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<attrdef>Geoprocessed Identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ZONING</attrlabl>
+<attalias Sync="TRUE">ZONING</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attrdef>Zoning type</attrdef>
+<attrdefs>Newton (Mass.). Engineering Department</attrdefs>
+<attrdomv>
+<edom>
+<edomv>BU1 - BU5</edomv>
+<edomvd>Business 1 - Bussiness 5 respectively</edomvd>
+<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+</edom>
+<edom>
+<edomv>LMD</edomv>
+<edomvd>Limited Manufacturing</edomvd>
+<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+</edom>
+<edom>
+<edomv>MAN</edomv>
+<edomvd>Manufacturing</edomvd>
+<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+</edom>
+<edom>
+<edomv>MR1 - MR4 </edomv>
+<edomvd>Multi-Residence 1 - Multi-Residence 4 respectively</edomvd>
+<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+</edom>
+<edom>
+<edomv>MU1 - MU2</edomv>
+<edomvd>Mixed Use 1 - Mixed Use 2 respectively</edomvd>
+<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+</edom>
+<edom>
+<edomv>ORD</edomv>
+<edomvd>Open Space/Recreation</edomvd>
+<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+</edom>
+<edom>
+<edomv>PUB</edomv>
+<edomvd>Public use</edomvd>
+<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+</edom>
+<edom>
+<edomv>SR1 - SR3 </edomv>
+<edomvd>Single Residence 1 - Single Residence 3 respectively </edomvd>
+<edomvds>Newton Public Works Department - Engineering Division</edomvds>
+</edom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+</metadata>

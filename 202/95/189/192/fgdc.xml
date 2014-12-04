@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Dept. of Agriculture</origin>
+				<pubdate>201006</pubdate>
+				<title>Agricultural Census USA 2007</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Reston, VA</pubplace>
+					<publish>National Atlas of the United States</publish>
+				</pubinfo>
+				<onlink>&amp;lt;http://nationalatlas.gov/atlasftp.html?openChapters=chpagri#chpagri&amp;gt;</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of the Census. Geography Division</origin>
+						<pubdate>2010</pubdate>
+						<title>National Atlas of the United States</title>
+						<pubinfo>
+							<pubplace>Reston (Va.)</pubplace>
+							<publish>Geological Survey (U.S.)</publish>
+						</pubinfo>
+						<onlink>http://www.census.gov/geo/www/tiger</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USAagcensus07</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This dataset represents a selected set of information that was collected
+for the 2007 Census of Agriculture by the National Agricultural
+Statistics Service, U.S. Department of Agriculture.  There are 25
+categories of data which include information about farms, crops,
+livestock, values of products, and farm operator characteristics.  The
+data is for the United States and is presented by county.  This is a
+replacement for the June 2005 Agriculture Census of the United States ?
+2002 map layer.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>The complete information for the 2007 Census of Agriculture is
+available from the National Agricultural Statistics Service, U.S.
+Department of Agriculture, &amp;lt;http://www.agcensus.usda.gov/&amp;gt;.
+Data for additional years are available from the same site.</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2007</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-179.133393</westbc>
+				<eastbc Sync="TRUE">179.788206</eastbc>
+				<northbc Sync="TRUE">71.398048</northbc>
+				<southbc Sync="TRUE">18.915493</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-179.133393</leftbc>
+<rightbc Sync="TRUE">179.788206</rightbc>
+<bottombc Sync="TRUE">18.915493</bottombc>
+<topbc Sync="TRUE">71.398048</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>farming</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Census.</themekey>
+				<themekey>Farms.</themekey>
+				<themekey>Crop zones</themekey>
+				<themekey>Agriculture--United States.</themekey>
+				<themekey>Crops.</themekey>
+				<themekey>Agricultural administration</themekey>
+				<themekey>Agricultural administration--United States.</themekey>
+				<themekey>Agriculture and state--United States.</themekey>
+				<themekey>Farmers.</themekey>
+				<themekey>Agricultural machinery.</themekey>
+				<themekey>Agriculture--Economic aspects--United States.</themekey>
+				<themekey>Chickens.</themekey>
+				<themekey>Broilers (Chickens)</themekey>
+				<themekey>Poultry.</themekey>
+				<themekey>Poultry farms</themekey>
+				<themekey>Poultry--United States.</themekey>
+				<themekey>Corn--United States.</themekey>
+				<themekey>Wheat--United States</themekey>
+				<themekey>Cotton.</themekey>
+				<themekey>Cotton trade--United States.</themekey>
+				<themekey>Soybean industry--United States</themekey>
+				<themekey>Soybean.</themekey>
+				<themekey>Vegetables.</themekey>
+				<themekey>Vegetable trade--United States</themekey>
+				<themekey>Cattle.</themekey>
+				<themekey>Cattle--Geographical distribution</themekey>
+				<themekey>Cattle--United States</themekey>
+				<themekey>Calves</themekey>
+				<themekey>Orchards.</themekey>
+				<themekey>Tractors.</themekey>
+				<themekey>Family farms--United States</themekey>
+				<themekey>Nurseries (Horticulture)</themekey>
+				<themekey>Irrigation farming.</themekey>
+				<themekey>Dairy cattle.</themekey>
+				<themekey>Livestock.</themekey>
+				<themekey>Food animals.</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Alaska</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>District of Columbia</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Hawaii</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>United States</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Jay Donnelly</cntper>
+					<cntorg>National Atlas of the United States</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>Mailing and physical address</addrtype>
+					<address>12201 Sunrise Valley Drive</address>
+					<address>Room 2D200</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+				</cntaddr>
+				<cntvoice>703-648-5395</cntvoice>
+				<cntemail>atlasmail@usgs.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.</attraccr>
+		</attracc>
+		<logic>The map layer was checked for topological consistency using the ArcGIS
+command BUILD.  No other checks for logical consistency were performed on
+this map layer.</logic>
+		<complete>This map layer includes 25 categories from the National Agricultural
+Statistics Service, U.S. Department of Agriculture's 2007 Census of
+Agriculture data.  It is based on county data for all 50 States.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>National Atlas of the United States</origin>
+						<pubdate>200208</pubdate>
+						<title>County Boundaries of the United States, 2001</title>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>National Atlas of the United States</publish>
+						</pubinfo>
+						<onlink>&amp;lt;http://nationalatlas.gov/atlasftp.html&amp;gt;</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<srcscale>2000000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>200208</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Atlas_Cnty2001</srccitea>
+				<srccontr>Spatial and attribute information</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Department of Agriculture, National Agricultural Statistics
+Service</origin>
+						<pubdate>2004</pubdate>
+						<title>2002 Census of Agriculture</title>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>U.S. Department of Agriculture</publish>
+						</pubinfo>
+						<onlink>&amp;lt;http://www.agcensus.usda.gov/&amp;gt;</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Email</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2007</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>AG-CENSUS2007</srccitea>
+				<srccontr>Attribute information</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Atlas_Cnty2001 which is a map layer containing 2001 county boundaries
+for the United States, and  AG-CENSUS2007 .dbf files were loaded into
+ArcMap.  Tables were joined using the Fips attribute.  New attribute fields
+were added for each .dbf and field calculations were made for each attribute
+field.  The join was then removed.</procdesc>
+				<srcused>Atlas_Cnty2001</srcused>
+				<srcused>AG-CENSUS2007</srcused>
+				<procdate>201005</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>&amp;gt;Defined projection (NAD 1983)
+&amp;gt;Imported metadata from provided agcensp020.txt (arcgis 9.3)
+&amp;gt;Changed citation title from "agcensp020" to "Agriculture Census USA 2007"
+&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&amp;gt;Changed name of file from "agcensp020" to "USAagcensus07"
+&amp;gt;Substituted "United States. Dept. of Agriculture" for "National Atlas of the United States" as the originator
+&amp;gt;Added Larger Work Citation
+&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added LCSH theme keywords
+&amp;gt;Added GNIS and GNS place keywords
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20111110</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Ave</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Census2010Tiger\xmls\USAagcensus07.shp.xml</srcused>
+<procdate Sync="TRUE">20131004</procdate>
+<proctime Sync="TRUE">15462800</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<indspref>U.S. Department of Commerce, 1987, Codes for the Identification of the
+States, the District of Columbia and the Outlying Areas of the United
+States, and Associated Areas (FIPS 5-2): Washington, DC, National Institute
+of Standards and Technology.
+
+U.S. Department of Commerce, 1990, Counties and Equivalent Entities of the
+United States, Its Possessions, and Associated Areas (FIPS 6-4): Washington,
+DC, National Institute of Standards and Technology.</indspref>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USAagcensus07">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">5927</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USAagcensus07">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">5927</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USAagcensus07">
+			<enttyp>
+				<enttypl Sync="TRUE">USAagcensus07</enttypl>
+				<enttypd>2007 agriculture census data by county.</enttypd>
+				<enttypds>National Atlas of the United States</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">5927</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>The representation of the entity in the data.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Polygon</edomv>
+						<edomvd>2-dimensional element.</edomvd>
+						<edomvds>ESRI GIS software</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Area</attrlabl>
+				<attrdef>The size of the shape in coverage units.  In the distributed file,
+coverage units represent square decimal degrees.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00001</rdommin>
+						<rdommax>128.59597</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">AREA</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+<atprecis Sync="TRUE">17</atprecis>
+<attscale Sync="TRUE">5</attscale>
+</attr>
+			<attr>
+				<attrlabl>Perimeter</attrlabl>
+				<attrdef>The perimeter of the shape in coverage units.  In the distributed
+file, coverage units represent decimal degrees.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.01191</rdommin>
+						<rdommax>263.45187</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">PERIMETER</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+<atprecis Sync="TRUE">17</atprecis>
+<attscale Sync="TRUE">5</attscale>
+</attr>
+			<attr>
+				<attrlabl>Agcensp020</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>2</rdommin>
+						<rdommax>5928</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">AGCENSP020</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<atprecis Sync="TRUE">11</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>State</attrlabl>
+				<attrdef>The 2-character FIPS code of the State or State equivalent.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Codes for the Identification of the States, the District of Columbia
+and the Outlying Areas of the United States, and Associated Areas,
+FIPS 5-2.</codesetn>
+						<codesets>U.S. Department of Commerce, National Institute of Standards and
+Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>County</attrlabl>
+				<attrdef>The name of the county or county equivalent.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Counties and Equivalent Entities of the United States, Its
+Possessions, and Associated Areas, FIPS 6-4, 1990.</codesetn>
+						<codesets>U.S. Department of Commerce, National Institute of Standards and
+Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Fips</attrlabl>
+				<attrdef>The 5-digit FIPS code of the county or county equivalent.  See the
+description under Process Step, above, for a list of aggregated counties
+and the FIPS codes used to identify them.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Counties and Equivalent Entities of the United States, Its
+Possessions, and Associated Areas, FIPS 6-4, 1990.</codesetn>
+						<codesets>U.S. Department of Commerce, National Institute of Standards and
+Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">FIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>St</attrlabl>
+				<attrdef>The 2-digit FIPS code of the State or State equivalent.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Counties and Equivalent Entities of the United States, Its
+Possessions, and Associated Areas, FIPS 6-4, 1990.</codesetn>
+						<codesets>U.S. Department of Commerce, National Institute of Standards
+and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ST</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>M003_07</attrlabl>
+				<attrdef>The average size of farms in acres.  A value of zero may represent a
+zero data value or may mean that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>47421</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M003_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M009_07</attrlabl>
+				<attrdef>The percentage of farms with sales less than $10,000.  A value of zero
+may represent a zero data value or may mean that no data are available
+for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>100.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">M009_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M010_07</attrlabl>
+				<attrdef>The percentage of farms with sales of $10,000 to $249,000.  A value of
+zero may represent a zero data value or may mean that no data are
+available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>100.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">M010_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M011_07</attrlabl>
+				<attalias Sync="TRUE">M011_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M013_07</attrlabl>
+				<attrdef>The average value of agricultural products sold per farm, in dollars.  A
+value of zero may represent a zero data value or may mean that no data
+are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>2896341.62</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M013_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M016_07</attrlabl>
+				<attrdef>The average value of crops sold per acre for harvested cropland, in
+dollars.  A value of zero may represent a zero data value or may mean
+that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>55150.50</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M016_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M023_07</attrlabl>
+				<attrdef>The value of nursery, greenhouse, floriculture, and sod as a percentage
+of the total market value of agricultural products sold, in dollars.  A
+value of zero may represent a zero data value or may mean that no data
+are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>100.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M023_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M026_07</attrlabl>
+				<attrdef>The value of livestock, poultry, and their products as a percentage of
+the total market value of agricultural products sold, in dollars.  A
+value of zero may represent a zero data value or may mean that no data
+are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>100.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M026_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M050_07</attrlabl>
+				<attrdef>The average total farm production expenses per farm, in dollars.  A
+value of zero may represent a zero data value or may mean that no data
+are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>2338797.16</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M050_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M086_07</attrlabl>
+				<attrdef>The acres of total cropland as a percentage of land area in acres.  A
+value of zero may represent a zero data value or may mean that no data
+are available for the county.  The percentage values may be greater than
+100 because the land area in acres is calculated as the land within the
+county and the acres of total cropland are calculated for the entire
+farm, which may include parts of more than one county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>129.65</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M086_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M089_07</attrlabl>
+				<attrdef>The acres of harvested cropland as a percentage of land in farms
+acreage.  A value of zero may represent a zero data value or may mean
+that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>100.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M089_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M090_07</attrlabl>
+				<attrdef>The acres of irrigated harvested cropland as a percentage of all
+harvested cropland acreage.  A value of zero may represent a zero data
+value or may mean that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>100.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M090_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M099_07</attrlabl>
+				<attrdef>The average market value of all machinery and equipment per farm, in
+dollars.  A value of zero may represent a zero data value or may mean
+that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>461482.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M099_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M118_07</attrlabl>
+				<attrdef>The percentage of farms operated by a family or individual.  A value of
+zero may represent a zero data value or may mean that no data are
+available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>100.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">M118_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M124_07</attrlabl>
+				<attrdef>The average age of principal farm operators.  A value of zero may
+represent a zero data value or may mean that no data are available for
+the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>65.41</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M124_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M127_07</attrlabl>
+				<attrdef>The percentage of farms with female principal operators.  A value of
+zero may represent a zero data value or may mean that no data are
+available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>100.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">M127_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M136_07</attrlabl>
+				<attrdef>The average number of cattle and calves per 100 acres of all land in
+farms.  A value of zero may represent a zero data value or may mean that
+no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>126.46</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M136_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M142_07</attrlabl>
+				<attrdef>Milk cows as a percentage of all cattle and calves.  A value of zero may
+represent a zero data value or may mean that no data are available for
+the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>65.11</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M142_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M147_07</attrlabl>
+				<attrdef>Other cattle as a percentage of cattle and calves.  A value of zero may
+represent a zero data value or may mean that no data are available for
+the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>100.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M147_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M163_07</attrlabl>
+				<attrdef>Corn for grain, harvested acres.  A value of zero may represent a zero
+data value or may mean that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>326970</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M163_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M172_07</attrlabl>
+				<attrdef>All wheat for grain, harvested acres.  A value of zero may represent a
+zero data value or may mean that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>496014</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M172_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M188_07</attrlabl>
+				<attrdef>Upland cotton, harvested acres.  A value of zero may represent a zero
+data value or may mean that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>281712</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M188_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M193_07</attrlabl>
+				<attrdef>Soybeans for beans, harvested acres.  A value of zero may represent a
+zero data value or may mean that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>413539</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M193_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M217_07</attrlabl>
+				<attrdef>Vegetables, acres harvested for sale.  A value of zero may represent a
+zero data value or may mean that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>253704.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M217_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M233_07</attrlabl>
+				<attrdef>Total acres of land in orchards.  A value of zero may represent a zero
+data value or may mean that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>471825.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M233_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M234_07</attrlabl>
+				<attrdef>Irrigated land in orchards.  A value of zero may represent a zero data
+value or may mean that no data are available for the county.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00</rdommin>
+						<rdommax>459219.00</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Data withheld to avoid disclosing information for individual farms.</edomvd>
+						<edomvds>U.S. Department of Agriculture, National Agricultural Statistics
+Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">M234_07</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>21.420</transize>
+					<dssize Sync="TRUE">11.593</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20131004</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Terry Higgins</cntper>
+					<cntorg>National Atlas of the United States</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>Mailing and physical address</addrtype>
+					<address>1400 Independence Road</address>
+					<address>MS 760</address>
+					<city>Rolla</city>
+					<state>MO</state>
+					<postal>65401</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>573-308-3592</cntvoice>
+				<cntemail>atlasmail@usgs.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metsi>
+			<metscs>None</metscs>
+			<metsc>Unclassified</metsc>
+			<metshd>None</metshd>
+		</metsi>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{7209D3DE-39AF-4B38-A528-E40F50CD7A8C}</MetaID>
+<CreaDate>20131004</CreaDate>
+<CreaTime>15462800</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20131004</SyncDate>
+<SyncTime>16091700</SyncTime>
+<ModDate>20131004</ModDate>
+<ModTime>16091700</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USAagcensus07</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-179.133393</westBL>
+<eastBL Sync="TRUE">179.788206</eastBL>
+<northBL Sync="TRUE">71.398048</northBL>
+<southBL Sync="TRUE">18.915493</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-179.133393</westBL>
+<eastBL Sync="TRUE">179.788206</eastBL>
+<northBL Sync="TRUE">71.398048</northBL>
+<southBL Sync="TRUE">18.915493</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Census2010Tiger\USAagcensus07.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">11.593</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_North_American_1983</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USAagcensus07">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">5927</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20131004</mdDateSt>
+</metadata>

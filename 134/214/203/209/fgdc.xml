@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>New Hampshire. Office of Energy and Planning</origin>
+				<pubdate>20100111</pubdate>
+				<title>Recreation Site Locations New Hampshire 1997 - 2009</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nhrec_points&amp;amp;#47;nh</onlink>
+				<ftname Sync="TRUE">NHRecreationLocations9709</ftname>
+<lworkcit>
+<citeinfo>
+<origin>University of New Hampshire. Complex Systems Research Center</origin>
+<title>NH GRANIT Database</title>
+<pubdate>19860101</pubdate>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+<onlink>http://www.granit.sr.unh.edu/</onlink>
+</citeinfo>
+</lworkcit>
+<pubinfo>
+<publish>NH GRANIT (Firm)</publish>
+<pubplace>Durham (N.H.)</pubplace>
+</pubinfo>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset shows the locations of recreation sites (parks, playing fields, water recreation, etc.) for New Hampshire.
+
+ A companion data set, "Recreation Area New Hampshire 1997 - 2007", is also available containing New Hampshire recreation site polygon areas extracted from the "Conservation/Public Lands" database.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>199712</begdate>
+					<enddate>200912</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-72.589817</westbc>
+				<eastbc Sync="TRUE">-70.574243</eastbc>
+				<northbc Sync="TRUE">45.217595</northbc>
+				<southbc Sync="TRUE">42.696047</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">746344.389009</leftbc>
+<rightbc Sync="TRUE">1265786.490134</rightbc>
+<bottombc Sync="TRUE">73191.893903</bottombc>
+<topbc Sync="TRUE">990616.563882</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>location</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>society</themekey>
+</theme>
+<theme>
+<themekey>Recreation</themekey>
+<themekey>Camping</themekey>
+<themekey>Skis and skiing</themekey>
+<themekey>Fishing</themekey>
+<themekey>Swimming</themekey>
+<themekey>Hiking</themekey>
+<themekey>Golf</themekey>
+<themekey>Gymnasiums</themekey>
+<themekey>Parks</themekey>
+<themekey>Picnics</themekey>
+<themekey>Tracks (Athletics)</themekey>
+<themekey>Resorts</themekey>
+<themekey>Sports</themekey>
+<themekey>Boats and boating</themekey>
+<themekey>Water sports</themekey>
+<themekt>LCSH</themekt>
+<themekey>Trails</themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>New Hampshire</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational noncommercial use only. </useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>Principal Planner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>4 Chenell Dr.</address>
+					<city>Concord</city>
+					<state>NH</state>
+					<postal>03301</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(603) 271-2155</cntvoice>
+				<cntemail>ken.gallager@nh.gov</cntemail>
+				<hours>8 - 4:00 Eastern Time</hours>
+				<cntorgp>
+<cntorg>NH Office of Energy and Planning</cntorg>
+<cntper>Ken Gallager</cntper>
+</cntorgp>
+</cntinfo>
+		</ptcontac>
+		<datacred>GRANIT database</datacred>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.</attraccr>
+		</attracc>
+		<logic>Point topology exists.</logic>
+		<complete>Data is complete.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data meet National Map Accuracy Standards at the stated scale (1:24,000).</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NH Office of Energy and Planning</origin>
+						<pubdate>20100111</pubdate>
+						<title>New Hampshire Recreation Inventory - points</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Concord, NH</pubplace>
+							<publish>NH Office of Energy and Planning</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>199712</begdate>
+							<enddate>200912</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>NH RECPTS</srccitea>
+				<srccontr>USGS topographic maps with field verification</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Data were obtained from a variety of sources, including the 1981 Office of State Planning list of recreational facilities in New Hampshire, field collection of data by OSP and OEP employees, and compilation of information by regional planning commissions.  Locations have been verified where possible using aerial photography.</procdesc>
+				<procdate>200912</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Ken Gallager</cntper>
+							<cntorg>NH Office of Energy and Planning</cntorg>
+						</cntperp>
+						<cntpos>Principal Planner</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>4 Chenell Dr.</address>
+							<city>Concord</city>
+							<state>NH</state>
+							<postal>03301</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(603) 271-2155</cntvoice>
+						<cntemail>ken.gallager@nh.gov</cntemail>
+						<hours>8 - 4:30 Eastern Time</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\nhrec_points-nh-nhrec_points.xml</srcused>
+<procdate Sync="TRUE">20140625</procdate>
+<proctime Sync="TRUE">11225600</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00am-5:00pm, EST_USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</proccont>
+<procdesc>The name of this dataset file was changed from nhrec_points to NHRecreationalLocations9709.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+<procdate>20140625</procdate>
+<proctime>12:08PM</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NHRecreationLocations9709">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">2359</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NHRecreationLocations9709">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">2359</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999967</sfctrmer>
+<longcm Sync="TRUE">-71.666667</longcm>
+<latprjo Sync="TRUE">42.500000</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NHRecreationLocations9709">
+			<enttyp>
+				<enttypl>NHRecreationLocations9709</enttypl>
+				<enttypd>Point locations of recreational spots. </enttypd>
+				<enttypds>Tufts Univeristy GIS Center</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">2359</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>NHREC_</attrlabl>
+				<attrdef>Internal ID</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequence of integers</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NHREC_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIPS</attrlabl>
+				<attrdef>5-digit code for municipality in which site is located</attrdef>
+				<attrdefs>Federal Information Processing Standards Publication </attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FIPS</codesetn>
+						<codesets>Federal Information Processing Standards</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">FIPS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SITE_ID</attrlabl>
+				<attrdef>4-digit identifying number for site, unique within town only.</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0001</rdommin>
+						<rdommax>9999</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">SITE_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SITEUNIQ</attrlabl>
+				<attrdef>Unique site id statewide; combination of FIPS and SITE_ID</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>010050001</rdommin>
+						<rdommax>199959999</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">SITEUNIQ</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COUNTY</attrlabl>
+				<attrdef>Name of county</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning </attrdefs>
+				<attrdomv>
+					<udom>Names of counties</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOWN</attrlabl>
+				<attrdef>Name of municipality in which site is located</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Names of municipality</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TOWN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">17</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SITE</attrlabl>
+				<attrdef>Name of site</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Name of site</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SITE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">35</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OPERATOR</attrlabl>
+				<attrdef>Name of organization that owns and/or operates site</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Name of owning or operating organization</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">OPERATOR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">35</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OWN_TYP</attrlabl>
+				<attrdef>Type of ownership</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>County</edomv>
+						<edomvd>County ownership</edomvd>
+						<edomvds>Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Federal</edomv>
+						<edomvd>Federal ownership</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Municipal</edomv>
+						<edomvd>Municipal ownership</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Other</edomv>
+						<edomvd>Other ownership</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Priv NP</edomv>
+						<edomvd>Owned by private non-profit organization</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Priv P</edomv>
+						<edomvd>Owned by private for-profit organization</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>School</edomv>
+						<edomvd>Owned or operated by school or school district</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>State</edomv>
+						<edomvd>State ownership</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">OWN_TYP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUB_OWN</attrlabl>
+				<attrdef>Operating agency (used for federal or state ownership)</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>ACE</edomv>
+						<edomvd>Army Corps of Engineers</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>DRED</edomv>
+						<edomvd>Department of Resources and Economic Development</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>F&amp;amp;G</edomv>
+						<edomvd>Department of Fish and Game</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>N/A</edomv>
+						<edomvd>Not applicable</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>NHDOT</edomv>
+						<edomvd>NH Department of Transportation</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>NHWRD</edomv>
+						<edomvd>NH Water Resources Division</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Other</edomv>
+						<edomvd>Unknown or not applicable</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>USFS</edomv>
+						<edomvd>U.S. Forest Service</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUB_OWN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRIM_USE</attrlabl>
+				<attrdef>Primary recreational use</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Boat launch ramp</edomv>
+						<edomvd>Boat launch ramp</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Campground</edomv>
+						<edomvd>Campground</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Excursions</edomv>
+						<edomvd>Excursions</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Field Sports</edomv>
+						<edomvd>Field Sports</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Fishing access point</edomv>
+						<edomvd>Fishing access point</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Golf</edomv>
+						<edomvd>Golf</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Gymnasium</edomv>
+						<edomvd>Gymnasium</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Historic site</edomv>
+						<edomvd>Historic site</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Hunting Area</edomv>
+						<edomvd>Hunting area</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Natural Area</edomv>
+						<edomvd>Natural area</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Other</edomv>
+						<edomvd>Other</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Park</edomv>
+						<edomvd>Park</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Picnic Area</edomv>
+						<edomvd>Picnic Area</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Gen Playground</edomv>
+						<edomvd>Playground</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Racetrack</edomv>
+						<edomvd>Racetrack</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Recreation Resort</edomv>
+						<edomvd>Recreation resort</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Rockhounding</edomv>
+						<edomvd>Rockhounding</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Scenic Road</edomv>
+						<edomvd>Scenic road</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Shooting Preserve</edomv>
+						<edomvd>Shooting preserve</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Snow Ski Area</edomv>
+						<edomvd>Skiing</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Soccer</edomv>
+						<edomvd>Soccer fields</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Special Event Fac.</edomv>
+						<edomvd>Special event facility</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Trail Area</edomv>
+						<edomvd>Trails</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Vacation Farm</edomv>
+						<edomvd>Vacation farm</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Water Sports Area</edomv>
+						<edomvd>Water Sports Area</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Winter Sports Area</edomv>
+						<edomvd>Winter sports area</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PRIM_USE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACRES</attrlabl>
+				<attrdef>Reported acreage of site</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100000</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACRES</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PRK_SPC</attrlabl>
+				<attrdef>Number of parking spaces</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>9999</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">PRK_SPC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OPN_PRK</attrlabl>
+				<attrdef>Estimated number of unmarked parking spaces available</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>9999</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">OPN_PRK</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PRK_FEE</attrlabl>
+				<attrdef>Parking fee (dollars)</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>No fee</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>R</edomv>
+						<edomvd>Admission to site limited to town residents/landowners</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Fee exists</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PRK_FEE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HND_ACC</attrlabl>
+				<attrdef>Handicapped accessibility</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>No handicapped access</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Handicapped access exists</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">HND_ACC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LWCF</attrlabl>
+				<attrdef>LWCF funds used on site</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>No LWCF funds used</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>LWCF funds used</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">LWCF</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_1</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_2</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_3</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_4</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_5</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_5</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_6</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_6</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_7</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_7</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_8</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_8</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_9</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_9</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_10</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_11</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_11</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_12</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_12</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_13</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_13</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_14</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_14</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_15</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_15</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_16</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_16</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_17</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_17</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_18</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_18</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_19</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_19</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACTIV_20</attrlabl>
+				<attrdef>Recreational activity</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Specific recreational activity</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACTIV_20</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>YR_INV</attrlabl>
+				<attrdef>Year site was inventoried</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>2010</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">YR_INV</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>UP_DTE</attrlabl>
+				<attrdef>Date of update</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Date of update</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">UP_DTE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WATERBODY</attrlabl>
+				<attrdef>Name of water body (if any) on which site is located</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Name of water body</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">WATERBODY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">WATERBODYA</attrlabl>
+<attalias Sync="TRUE">WATERBODYA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdef>Name of waterbody</attrdef>
+<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+<attrdomv>
+<udom>Text</udom>
+</attrdomv>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS </cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearborn Rd</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00am-5:00pm, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>
+Digital data in NH GRANIT represent the efforts of the
+contributing agencies to record information from the cited
+source materials. Complex Systems Research Center, under
+contract to the NH Office of Energy and Planning, and in
+consultation with cooperating agencies, maintains a
+continuing program to identify and correct errors in these
+data. OEP, CSRC, and the cooperating agencies make no claim
+as to the validity or reliability or to any implied uses of
+these data.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI shapefile</formname>
+					<transize>1.71 MB</transize>
+					<dssize Sync="TRUE">0.063</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>URL:http://www.granit.unh.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>No charge when downloaded from the Internet.  Cost of reproduction for provision on CD/ROM of other media.</fees>
+			<ordering>Obtain data from www.granit.unh.edu.</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140707</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NH Office of Energy and Planning</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>4 Chenell Dr.</address>
+					<city>Concord</city>
+					<state>NH</state>
+					<postal>03301</postal>
+				</cntaddr>
+				<cntvoice>(603) 271-2155</cntvoice>
+				<cntemail>OEPinfo@nh.gov</cntemail>
+				<hours>8 - 4:30 Eastern</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{9D58F44B-4B34-4F43-B260-6ACAAABCB963}</MetaID>
+<CreaDate>20140625</CreaDate>
+<CreaTime>11225600</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140707</SyncDate>
+<SyncTime>13094600</SyncTime>
+<ModDate>20140707</ModDate>
+<ModTime>13125800</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NHRecreationLocations9709</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">746344.389009</westBL>
+<eastBL Sync="TRUE">1265786.490134</eastBL>
+<northBL Sync="TRUE">990616.563882</northBL>
+<southBL Sync="TRUE">73191.893903</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-72.589817</westBL>
+<eastBL Sync="TRUE">-70.574243</eastBL>
+<northBL Sync="TRUE">45.217595</northBL>
+<southBL Sync="TRUE">42.696047</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\NHRecreationLocations9709.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.063</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NHRecreationLocations9709">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">2359</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140707</mdDateSt>
+</metadata>

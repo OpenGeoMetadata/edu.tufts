@@ -1,0 +1,3028 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20131114</CreaDate>
+<CreaTime>15141900</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<DataProperties>
+<itemProps>
+<itemLocation>
+<linkage Sync="TRUE">file://\\ES-AP-AMAP-1\E$\MassGIS\mtrust\MassGIS_DataViewer_SHP\gisdata\men1\Regulated_Areas\BWPMAJOR_PT.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</itemLocation>
+<itemName Sync="TRUE">BWPMAJOR_PT</itemName>
+<nativeExtBox>
+<westBL Sync="TRUE">46113.542932</westBL>
+<eastBL Sync="TRUE">324592.459784</eastBL>
+<southBL Sync="TRUE">779783.125101</southBL>
+<northBL Sync="TRUE">956683.160796</northBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</nativeExtBox>
+<imsContentType Sync="TRUE" export="False">002</imsContentType>
+<itemSize Sync="TRUE">0.000</itemSize>
+</itemProps>
+<coordRef>
+<type Sync="TRUE">Projected</type>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+</coordRef>
+<lineage/>
+</DataProperties>
+<SyncDate>20140522</SyncDate>
+<SyncTime>21521100</SyncTime>
+<ModDate>20140522</ModDate>
+<ModTime>21525900</ModTime>
+<ArcGISFormat>1.0</ArcGISFormat>
+<ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+<ArcGISProfile>FGDC</ArcGISProfile>
+<scaleRange>
+<minScale>150000000</minScale>
+<maxScale>5000</maxScale>
+</scaleRange>
+<MetaID>{34C9BD3B-04BD-4639-8EED-4A4FABACB85E}</MetaID>
+</Esri>
+<mdLang>
+<languageCode value="eng"/>
+<countryCode Sync="TRUE" value="USA"/>
+</mdLang>
+<mdHrLv>
+<ScopeCd value="005"/>
+</mdHrLv>
+<mdContact>
+<rpIndName>Tara Manno Richer</rpIndName>
+<rpOrgName>MA Department of Environmental Protection</rpOrgName>
+<rpPosName>GIS Analyst / Environmental Analyst</rpPosName>
+<rpCntInfo>
+<cntPhone>
+<voiceNum tddtty="">(617) 292-5694</voiceNum>
+<faxNum>(617) 292-5858</faxNum>
+</cntPhone>
+<cntAddress addressType="postal">
+<delPoint>1 Winter Street</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<country>US</country>
+<eMailAdd>tara.manno@state.ma.us</eMailAdd>
+</cntAddress>
+<cntHours>10 AM - 5 PM</cntHours>
+<cntInstr>Tuesday - Thursday</cntInstr>
+</rpCntInfo>
+<role>
+<RoleCd value="007"/>
+</role>
+</mdContact>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<distInfo>
+<distributor>
+<distorCont>
+<rpIndName>Michael Trust</rpIndName>
+<rpOrgName>ITD - MassGIS</rpOrgName>
+<rpPosName>Sr. Database Administrator</rpPosName>
+<rpCntInfo>
+<cntPhone>
+<voiceNum tddtty="">(617) 619-5615</voiceNum>
+</cntPhone>
+<cntAddress addressType="postal">
+<delPoint>Room 1601</delPoint>
+<delPoint>One Ashburton Place</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<country>US</country>
+<eMailAdd>michael.trust@state.ma.us</eMailAdd>
+</cntAddress>
+<cntHours>9 AM - 5 PM</cntHours>
+</rpCntInfo>
+<role>
+<RoleCd value="005"/>
+</role>
+</distorCont>
+<distorOrdPrc>
+<ordInstr>Request the data at http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/order-restricted-data.html</ordInstr>
+</distorOrdPrc>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\MassGIS2013_3\rstd100713\MAFacility9313.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.045</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+<distFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distFormat>
+<distTranOps>
+<transSize Sync="TRUE">0.000</transSize>
+</distTranOps>
+</distInfo>
+<dataIdInfo>
+<idCitation>
+<resTitle Sync="TRUE">MAFacility9313</resTitle>
+<citRespParty>
+<rpOrgName>MA Department of Environmental Protection</rpOrgName>
+<role>
+<RoleCd value="006"/>
+</role>
+</citRespParty>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;&amp;lt;SPAN&amp;gt;The Department of Environmental Protection (MassDEP) Major Facilities datalayer is a statewide point dataset containing the location of a subset of facility types regulated by MassDEP’s Bureau of Waste Prevention (BWP). The layer is stored in ArcSDE as BWPMAJOR_PT. In a preliminary effort to begin locating facilities regulated by MassDEP, the BWP chose to locate facility types having the greatest potential environmental significance. At this time, the following facility types have been located: - Large Quantity Generators of Hazardous Waste (LQG) - Large Quantity Generator of MA-regulated Hazardous Waste (LQG_MA) - Large Quantity Generator of EPA/RCRA-regulated Hazardous Waste (LQG_RCRA) - Large Quantity Toxic Users (LQTU) - Hazardous Waste Recyclers (HWR) - Hazardous Waste Treatment, Storage and/or Disposal Facilities (TSDF) - Facilities with Air Operating Permits (AIR) - Facilities with Groundwater Discharge Permits (GWD) - Facilities with Surfacewater Discharge Permits (SWD). &amp;lt;/SPAN&amp;gt;&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;&amp;lt;SPAN&amp;gt;Please note: the Solid Waste Land Disposal polygon datalayer contains point datalayers of active and historical solid waste Combustion Facilities, active Handling/Transfer Stations and Compost Sites. Active SW Combustion Facilities are a subset of the Air Operating Permits in this BWP Major Facilities layer.&amp;lt;/SPAN&amp;gt;&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;See the Location Documentation Table (BWPMAJOR_LDT) for documentation re: the types of features mapped, methods and sources used.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<idPurp>Planning and analysis</idPurp>
+<idStatus>
+<ProgCd value="001"/>
+</idStatus>
+<idPoC>
+<rpIndName>Tara Manno Richer</rpIndName>
+<rpOrgName>MA Department of Environmental Protectionm, Bureau of Waste Prevention</rpOrgName>
+<rpPosName>Environmental Analyst / GIS Analyst,</rpPosName>
+<rpCntInfo>
+<cntPhone>
+<voiceNum tddtty="">(617) 292-5694</voiceNum>
+</cntPhone>
+<cntAddress addressType="postal">
+<delPoint>1 Winter Street</delPoint>
+<city>Boston</city>
+<adminArea>MA</adminArea>
+<postCode>02108</postCode>
+<country>US</country>
+<eMailAdd>tara.manno@state.ma.us</eMailAdd>
+</cntAddress>
+<cntHours>10 AM - 5 PM</cntHours>
+<cntInstr>Tuesday - Friday</cntInstr>
+</rpCntInfo>
+<role>
+<RoleCd value="007"/>
+</role>
+</idPoC>
+<resMaint>
+<maintFreq>
+<MaintFreqCd value="009"/>
+</maintFreq>
+</resMaint>
+<themeKeys>
+<keyword>Treatment Storage Disposal</keyword>
+<keyword>LQG</keyword>
+<keyword>Hazardous Waste</keyword>
+<keyword>BWP</keyword>
+<keyword>Bureau of Waste Prevention</keyword>
+<keyword>RCRA</keyword>
+<keyword>MassDEP</keyword>
+<keyword>DEP</keyword>
+<keyword>LQG-RCRA</keyword>
+<keyword>HWR</keyword>
+<keyword>GWD</keyword>
+<keyword>SWD</keyword>
+<keyword>HW</keyword>
+<keyword>Toxics User</keyword>
+<keyword>Surface Water Discharge</keyword>
+<keyword>Surfacewater Discharge</keyword>
+<keyword>Major Facilities</keyword>
+<keyword>Large Quantity Generator</keyword>
+<keyword>Ground Water Discharge</keyword>
+<keyword>Groundwater Discharge</keyword>
+<keyword>TSDF</keyword>
+<keyword>LQTU</keyword>
+<keyword>LQG-MA</keyword>
+<keyword>Air Operating Permit</keyword>
+<keyword>AIR</keyword>
+<keyword>Air</keyword>
+<keyword>Recycler</keyword>
+<keyword>Toxic User</keyword>
+</themeKeys>
+<searchKeys>
+<keyword>Treatment Storage Disposal</keyword>
+<keyword>LQG</keyword>
+<keyword>Hazardous Waste</keyword>
+<keyword>BWP</keyword>
+<keyword>Bureau of Waste Prevention</keyword>
+<keyword>RCRA</keyword>
+<keyword>MassDEP</keyword>
+<keyword>DEP</keyword>
+<keyword>LQG-RCRA</keyword>
+<keyword>HWR</keyword>
+<keyword>GWD</keyword>
+<keyword>SWD</keyword>
+<keyword>HW</keyword>
+<keyword>Toxics User</keyword>
+<keyword>Surface Water Discharge</keyword>
+<keyword>Surfacewater Discharge</keyword>
+<keyword>Major Facilities</keyword>
+<keyword>Large Quantity Generator</keyword>
+<keyword>Ground Water Discharge</keyword>
+<keyword>Groundwater Discharge</keyword>
+<keyword>TSDF</keyword>
+<keyword>LQTU</keyword>
+<keyword>LQG-MA</keyword>
+<keyword>Air Operating Permit</keyword>
+<keyword>AIR</keyword>
+<keyword>Air</keyword>
+<keyword>Recycler</keyword>
+<keyword>Toxic User</keyword>
+</searchKeys>
+<resConst>
+<LegConsts>
+<useLimit>The Massachusetts Executive Office of Energy and Environmental Affairs (EOEEA) has directed the DEP and MassGIS to restrict the access and distributing of this data.</useLimit>
+<othConsts>Restricted Data</othConsts>
+</LegConsts>
+<Consts>
+<useLimit>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;The Massachusetts Executive Office of Energy and Environmental Affairs (EOEEA) has directed the DEP and MassGIS to restrict the access and distributing of this data.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</useLimit>
+</Consts>
+</resConst>
+<dataLang>
+<languageCode country="USA" value="eng"/>
+<countryCode Sync="TRUE" value="USA"/>
+</dataLang>
+<dataExt>
+<exDesc>publication date</exDesc>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<westBL Sync="TRUE">-73.382619</westBL>
+<eastBL Sync="TRUE">-69.975673</eastBL>
+<northBL Sync="TRUE">42.860769</northBL>
+<southBL Sync="TRUE">41.253231</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">46113.542932</westBL>
+<eastBL Sync="TRUE">324592.459784</eastBL>
+<northBL Sync="TRUE">956683.160796</northBL>
+<southBL Sync="TRUE">779783.125101</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataChar>
+<CharSetCd value="004"/>
+</dataChar>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-73.382619</westBL>
+<eastBL Sync="TRUE">-69.975673</eastBL>
+<northBL Sync="TRUE">42.860769</northBL>
+<southBL Sync="TRUE">41.253231</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+<descKeys>
+<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+<keyword Sync="TRUE">002</keyword>
+</descKeys>
+<idCredit>Massachusetts Department of Environmental Protection Bureau of Waste Prevention</idCredit>
+</dataIdInfo>
+<dqInfo>
+<dqScope>
+<scpLvl>
+<ScopeCd value="005"/>
+</scpLvl>
+</dqScope>
+<report dimension="" type="DQCompOm">
+<measDesc>Facilities with Air Operating Permits: 100% Facilities with Groundwater Discharge Permits: 100% Facilities with Surfacewater Discharge Permits: 100% Hazardous Waste Recyclers: 100% Hazardous Waste Treatment, Storage and/or Disposal Facilities: 100% Large Quantity Generators of EPA/RCRA-regulated Hazardous Waste: 87% Large Quantity Generators of MA-regulated Hazardous Waste: 59% Large Quantity Toxic Users: 90%</measDesc>
+</report>
+<dataLineage>
+<statement>Major landmarks in the development of the layer are as follows:  
+- The layer was first conceived in April 1998.  
+- The first major design changes came in March 2005 when Surface Water Discharges and Large Quantity generators of MA-regulated hazardous waste were added to the layer.  Feature-level metadata were removed from the attribute table and included in a related "location documentation" table.  
+- November 2009 was the first edition of the layer in which all "major" categories, with the exception of MA-regulated LQGs, were 100% located.  
+- In December 2011, point features for solid waste facilities (including municipal solid waste combustion facilities) were made available via MassGIS, separate from the solid waste polygon layer.  Please note MSW combustion facilities are a subset of the Air Operating Permits included in this layer.
+- In January 2013 many BWP Major locations were refined using imagery from multiple years of orthophotography, updated parcel data and a large field mapping initiative undertaken to confirm the locations of underground storage tanks.  These updated UST locations are available via MassGIS.</statement>
+</dataLineage>
+</dqInfo>
+<eainfo>
+<detailed Name="MAFacility9313">
+<enttyp>
+<enttypl Sync="TRUE">MAFacility9313</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">1674</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>HWR</attrlabl>
+<attrdef>Hazardous waste recycler</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>The facility engages in the recycling of hazardous waste.</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attalias Sync="TRUE">HWR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+<attr>
+<attrlabl>FAC_NAME</attrlabl>
+<attrdef>Facility name</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attalias Sync="TRUE">FAC_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">45</attwidth>
+</attr>
+<attr>
+<attrlabl>ADDRESS</attrlabl>
+<attrdef>Facility address</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attalias Sync="TRUE">ADDRESS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">38</attwidth>
+</attr>
+<attr>
+<attrlabl>LQG_MA</attrlabl>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attalias Sync="TRUE">LQG_MA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>The facility is a large quantity generator of one or more Massachusetts regulated hazardous wastes, including but not limited to, waste oil and PCBs.</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdef>Large quantity generator of MA-regulated hazardous waste</attrdef>
+</attr>
+<attr>
+<attrlabl>AIR</attrlabl>
+<attrdef>Facilities having air operating permits</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>HAS AIR OPERATING PERMIT</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attalias Sync="TRUE">AIR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+<attr>
+<attrlabl>SW_ID</attrlabl>
+<attrdef>Solid waste facility identifier</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attalias Sync="TRUE">SW_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+<attr>
+<attrlabl>SWD</attrlabl>
+<attrdef>Facilities having surfacewater discharge permits</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attalias Sync="TRUE">SWD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+<attr>
+<attrlabl>TSDF</attrlabl>
+<attrdef>Treatment storage and/or disposal of hazardous waste</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>TREATMENT STORAGE AND OR DISPOSAL OF HAZARDOUS WASTE</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attalias Sync="TRUE">TSDF</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+<attr>
+<attrlabl>FAC_ID</attrlabl>
+<attrdef>Facility ID</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attalias Sync="TRUE">FAC_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+<attr>
+<attrlabl>SHAPE</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl>REGION</attrlabl>
+<attrdef>MassDep administrative region</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attalias Sync="TRUE">REGION</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>1</edomv>
+<edomvd>Western Region - Springfield</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>2</edomv>
+<edomvd>Central Region - Worcester</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>3</edomv>
+<edomvd>Northeast Region - Wilmington</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Southeast Region – Lakeville</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>RTN</attrlabl>
+<attrdef>MassDep bureau of waste site cleanup release tracking number</attrdef>
+<attalias Sync="TRUE">RTN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdefs>Massachusetts. Bureau of Waste Site Cleanup </attrdefs>
+</attr>
+<attr>
+<attrlabl>TOWN</attrlabl>
+<attrdef>Town where facility is located. Consistent with towns datalayer's 351 official town names</attrdef>
+<attrdefs>MassGIS (Office : Mass.) </attrdefs>
+<attalias Sync="TRUE">TOWN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">21</attwidth>
+</attr>
+<attr>
+<attrlabl>LQG_RCRA</attrlabl>
+<attrdef>Large quantity generator of EPA regualted hazardous waste</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+<attalias Sync="TRUE">LQG_RCRA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+<attr>
+<attrlabl>GWD</attrlabl>
+<attrdef>Facilities having groundwater discharge permits</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>HAS GROUNDWATER DISCHARGE PERMIT</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attalias Sync="TRUE">GWD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+<attr>
+<attrlabl>SSEIS_ID</attrlabl>
+<attrdef>Stationary (air) source emission inventory system identifier</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+<attalias Sync="TRUE">SSEIS_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+<attr>
+<attrlabl>LQTU</attrlabl>
+<attrdef>Large quantity toxics user</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Y</edomv>
+<edomvd>LARGE QUANTITY TOXICS USER</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attalias Sync="TRUE">LQTU</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+<attr>
+<attrlabl>NPDES_ID</attrlabl>
+<attrdef>National pollution discharge elimination system ID</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+<attalias Sync="TRUE">NPDES_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+<attr>
+<attrlabl>HW_ID</attrlabl>
+<attrdef>EPA hazardous waste generator ID from RCRIS(now RCRAINFO) database</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+<attalias Sync="TRUE">HW_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">OID_</attrlabl>
+<attalias Sync="TRUE">OID_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">L_BASE</attrlabl>
+<attalias Sync="TRUE">L_BASE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attrdomv>
+<edom>
+<edomv>DOQ</edomv>
+<edomvd>Digital orthophoto base map (DOQ)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DTQ</edomv>
+<edomvd>USGS digital topographic quadrangle (DTQ)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DVB</edomv>
+<edomvd>Digital vector base (DVB) map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PTQ</edomv>
+<edomvd>	USGS paper topographic quadrangle (PTQ) base map or stable mylar overlay compiled from USGS topographic quad using traditional tablet digitizing technique</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>NA</edomv>
+<edomvd>Not applicable (NA), automation based on address match technique or Coordinate input from source such as external database or GPS.</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>UNK</edomv>
+<edomvd>Unknown</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdef>Base map type code</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">L_ACC_EST</attrlabl>
+<attalias Sync="TRUE">L_ACC_EST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdef>Location accuracy estimate measurement</attrdef>
+<attrdomv>
+<edom>
+<edomv>16</edomv>
+<edomvd>Estimated horizontal accuracy is 0 - +/-16 feet</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>100</edomv>
+<edomvd>Estimated horizontal accuracy is +/-16 - +/-100 feet</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>500</edomv>
+<edomvd>Estimated horizontal accuracy is +/-100 - +/-500 feet</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1000</edomv>
+<edomvd>Estimated horizontal accuracy is +/-500 - +/-1,000 feet</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9999</edomv>
+<edomvd>Estimated horizontal accuracy is greater than 1,000 feet</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Horizontal accuracy estimate unknown</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">L_TYPE</attrlabl>
+<attalias Sync="TRUE">L_TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>AA</edomv>
+<edomvd>Perimeter of assigned area</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AB	 	</edomv>
+<edomvd>Administrative building</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AM</edomv>
+<edomvd>Address-matched location</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AMS</edomv>
+<edomvd>Air monitoring station</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>ARV</edomv>
+<edomvd>Air Release Vent</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>CA</edomv>
+<edomvd>Center of site investigation activity</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>CB</edomv>
+<edomvd>Center of a building footprint positively associated with the facility/site</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>CB2</edomv>
+<edomvd>Center of a building footprint, NOT positively associated with the facility/site</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>CF</edomv>
+<edomvd>Center of a facility</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>CL</edomv>
+<edomvd>Center of property lot or parcel associated with a facility/site address</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>CS</edomv>
+<edomvd>Center of site or area of known contamination</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>CT</edomv>
+<edomvd>Center of individual tank or cluster of tanks (AST or UST)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>CWA</edomv>
+<edomvd>Center of Waste (approximate/presumed)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>CWK</edomv>
+<edomvd>Center of Waste (known)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>EL</edomv>
+<edomvd>Estimated location</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>EWA</edomv>
+<edomvd>Extent of Waste (approximate/presumed)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>EWK</edomv>
+<edomvd>Extent of Waste (known)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FR</edomv>
+<edomvd>Center of Firing Range (rod &amp;amp; gun clubs)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FD</edomv>
+<edomvd>Approximate location of front door or main entrance to a facility/site</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FDF</edomv>
+<edomvd>Facility/Site Entrance (Freight)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FDG</edomv>
+<edomvd>Facility/Site Entrance (General)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FDP</edomv>
+<edomvd>Facility/Site Entrance (Personnel)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FDU</edomv>
+<edomvd>Front door or main entrance to a facility/site (Unspecified)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FEN</edomv>
+<edomvd>Fence-Line Visible on Source Map/Image</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GW</edomv>
+<edomvd>Water supply well</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>INC</edomv>
+<edomvd>Incinerator</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>IW</edomv>
+<edomvd>Irrigation well</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>LAG</edomv>
+<edomvd>Lagoon or settling pond</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MW</edomv>
+<edomvd>Monitoring well</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OTH</edomv>
+<edomvd>Other</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PB</edomv>
+<edomvd>Parcel Boundary</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PD</edomv>
+<edomvd>Point of discharge (NPDES)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PH</edomv>
+<edomvd>Pump house associated with PWS well</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PR</edomv>
+<edomvd>Point of release </edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>RES	 	</edomv>
+<edomvd>Center of Public water supply reservoir</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>RW</edomv>
+<edomvd>Center of receiving water body</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SC</edomv>
+<edomvd>Source of contamination</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SPR</edomv>
+<edomvd>Public water supply spring</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>ST</edomv>
+<edomvd>Emissions stack</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SW</edomv>
+<edomvd>Public water supply surface water intake</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>TF</edomv>
+<edomvd>Center of trap field (rod &amp;amp; gun clubs)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>UNK</edomv>
+<edomvd>Unknown</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WF</edomv>
+<edomvd>Public water supply well field</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WMS</edomv>
+<edomvd>Water monitoring station or sampling point</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WP</edomv>
+<edomvd>Public water supply wellfield well point (TWF)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Location type code</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">L_METH</attrlabl>
+<attalias Sync="TRUE">L_METH</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>AM_1</edomv>
+<edomvd>Address matched to number and street or parcel</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AM_2</edomv>
+<edomvd>Address matched to nearest intersection</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AM_3</edomv>
+<edomvd>Address matched to midpoint of street segment centerline</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AM_4</edomv>
+<edomvd>Address Matched to Zipcode Centroid</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AM_5</edomv>
+<edomvd>Address Matched to Town Centroid</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_1</edomv>
+<edomvd>Location snapped to point feature in an existing digital data source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_2</edomv>
+<edomvd>Location snapped to the centroid of an existing area digital data source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GP_1</edomv>
+<edomvd>GPS Survey Grade Carrier Phase Signal Data</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GP_2</edomv>
+<edomvd>GPS Coarse Acquisition Code:  DGPS (1-5 meter accuracy)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GP_3</edomv>
+<edomvd>GPS Coarse Acquisition Code:  DGPS (sub-meter accuracy)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GP_4</edomv>
+<edomvd>GPS Coarse Acquisition Code: Uncorrected, positions averaged</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GP_5</edomv>
+<edomvd>GPS Coarse Acquisition Code: Uncorrected, single position</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GP_6</edomv>
+<edomvd>GPS: Unspecified Device, DGPS Unknown</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GR_1</edomv>
+<edomvd>Digitized from Georeferenced map, registered with survey grade coordinates</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GR_2</edomv>
+<edomvd>Digitized from Georeferenced map, registered with DGPS (2-5 meter) coordinates</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>GR_3</edomv>
+<edomvd>Digitized from Georeferenced map, registered using digital orthophoto</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>IN</edomv>
+<edomvd>Interpolation based on primary source material</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DDS</edomv>
+<edomvd>Interpolation - Digital Map Source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MAP</edomv>
+<edomvd>Interpolation - Map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MSS</edomv>
+<edomvd>Interpolation - MSS</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OTH</edomv>
+<edomvd>Interpolation - Other</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PHO</edomv>
+<edomvd>Interpolation - Photo</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SAT</edomv>
+<edomvd>Interpolation - Satellite</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SPOT</edomv>
+<edomvd>Interpolation - SPOT</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>TM</edomv>
+<edomvd>Interpolation - TM</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>XY_1</edomv>
+<edomvd>Coordinate pair derived from traditional survey techniques</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>XY_2</edomv>
+<edomvd>Coordinate pair unverified or reported by regulated community, includes undocumented coordinate data</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>UNK	 	</edomv>
+<edomvd>Unknown</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdef>Location method code</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">L_SRC_1</attrlabl>
+<attalias Sync="TRUE">L_SRC_1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>Primary source material code</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attrdomv>
+<edom>
+<edomv>DB_BOH</edomv>
+<edomvd>Massachusetts Board of Hea</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_EPICS</edomv>
+<edomvd>DEP Environmental Protection Integrated Computer System</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_EPA</edomv>
+<edomvd>United States Environmental Protection Agency - System Unspecified</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_DFS</edomv>
+<edomvd>Massachusetts Department of Fire Services (DFS)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_DOE</edomv>
+<edomvd>Massachusetts Department of Education</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_SSEIS</edomv>
+<edomvd>DEP Bureau of Waste Prevention Stationary Source Emission Inventory System</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_RCRIS</edomv>
+<edomvd>EPA Resource Conservation and Recovery Information System</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_WMA</edomv>
+<edomvd>DEP Water Management Act</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_WPP</edomv>
+<edomvd>DEP Water Permitting Program Database</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_OTH</edomv>
+<edomvd>Other Database Source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_21E</edomv>
+<edomvd>DEP Bureau of Waste Site Cleanup Chapter 21E Tier Classified Oil or Hazardous Materials datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_BAS</edomv>
+<edomvd>MassGIS watershed/basin data</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_ESRI</edomv>
+<edomvd>ESRI Data and Maps media</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_FAC</edomv>
+<edomvd>DEP Bureau of Waste Prevention Regulated Facilities datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_GDT</edomv>
+<edomvd>Geographic Data Technology (GDT) streets Geocoding datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_GWP</edomv>
+<edomvd>DEP Permitted Discharge to Groundwater datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_HOSP</edomv>
+<edomvd>MassGIS Hospitals and Emergency Room Facilities datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_LU</edomv>
+<edomvd>MassGIS Land Use datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_MMR</edomv>
+<edomvd>Massachusetts Military Reservation</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_NPDES</edomv>
+<edomvd>DEP National Pollutant Discharge Elimination System datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_NPL</edomv>
+<edomvd>US EPA National Priority List datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_OS</edomv>
+<edomvd>MassGIS Open Space datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_PAR </edomv>
+<edomvd>Digital Parcel Data</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_PWS</edomv>
+<edomvd>DEP Public Water Supply datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_SCHL</edomv>
+<edomvd>Schools datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_SW</edomv>
+<edomvd>DEP Bureau of Waste Prevention Solid Waste Facilities datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_SWAP</edomv>
+<edomvd>Contracted data developed through DEP Source Water Assessment &amp;amp; Protection Program</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_TIGER</edomv>
+<edomvd>US Census Bureau Topologically Integrated Geographic Encoding and Referencing Line Files</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_UNK</edomv>
+<edomvd>Unknown</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_UST</edomv>
+<edomvd>DEP Underground Storage Tanks datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_OTH</edomv>
+<edomvd>Other Digital Data Source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_LMTQ</edomv>
+<edomvd>Locus map based on USGS topographic quadrangle map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_LMST</edomv>
+<edomvd>Locus map based on street information</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_LMOT</edomv>
+<edomvd>Locus map other</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_MCP</edomv>
+<edomvd>DEP Massachusetts Contingency Plan Site Scoring Map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_PIM</edomv>
+<edomvd>DEP Pre-inspection Map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_SITE</edomv>
+<edomvd>Detailed Site plan or map </edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_SKCH</edomv>
+<edomvd>Hand sketched map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_SURV</edomv>
+<edomvd>Survey grade map of site derived from traditional survey techniques</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_SWAP  </edomv>
+<edomvd>DEP Source Water Assessment &amp;amp; Protection Program Map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_TAX</edomv>
+<edomvd>Tax assessment map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_USGS</edomv>
+<edomvd>USGS topographic quadrangle map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_WWW</edomv>
+<edomvd>Internet map source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_OTH</edomv>
+<edomvd>Other Map Source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP_CIR</edomv>
+<edomvd>DEP Wetlands and Waterways Color Infrared photography 1:12,000</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP_DOQ</edomv>
+<edomvd>MassGIS 1:5,000 digital orthophotography</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP_GE</edomv>
+<edomvd>General Electric (GW) Project</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP_PC</edomv>
+<edomvd>Pictometry Community Oblique</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP_PN</edomv>
+<edomvd>Pictometry Neighborhood Oblique</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DS_GPS</edomv>
+<edomvd>GPS Data Sheet</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FMSR</edomv>
+<edomvd>Field Measurement (tape and compass bearings)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>KNOW</edomv>
+<edomvd>Located by DEP staff through knowledge gained in the course of their professional activities</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OTH or OTHER</edomv>
+<edomvd>Other</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>TEXT</edomv>
+<edomvd>Textual information</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>UNK</edomv>
+<edomvd>Source Unknown</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>VERB</edomv>
+<edomvd>Verbal information</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WWW</edomv>
+<edomvd>Website Information</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>EDEP</edomv>
+<edomvd>Submitted via eDEP Application, Source Unknown</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP</edomv>
+<edomvd>Other aerial photo source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MSS</edomv>
+<edomvd>Multi Spectral Signature Image</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SAT</edomv>
+<edomvd>Other Satellite Image</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SPOT</edomv>
+<edomvd>SPOT Satellite Corporation Image</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SV</edomv>
+<edomvd>Site visited for the purpose of field verification and/or site inspection</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>TM</edomv>
+<edomvd>Thematic Mapper Image</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">L_SRC_2</attrlabl>
+<attalias Sync="TRUE">L_SRC_2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>Secondary source material code</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+<attrdomv>
+<edom>
+<edomv>DB_BOH</edomv>
+<edomvd>Massachusetts Board of Health</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_EPICS</edomv>
+<edomvd>DEP Environmental Protection Integrated Computer System</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_EPA</edomv>
+<edomvd>United States Environmental Protection Agency - System Unspecified</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_DFS</edomv>
+<edomvd>Massachusetts Department of Fire Services</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_DOE</edomv>
+<edomvd>Massachusetts Department of Education</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_SSEIS</edomv>
+<edomvd>DEP Bureau of Waste Prevention Stationary Source Emission Inventory System</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_RCRIS</edomv>
+<edomvd>EPA Resource Conservation and Recovery Information System</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_WMA</edomv>
+<edomvd>DEP Water Management Act</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_WPP</edomv>
+<edomvd>DEP Water Permitting Program Database</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_OTH</edomv>
+<edomvd>Other Database Source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_21E</edomv>
+<edomvd>DEP Bureau of Waste Site Cleanup Chapter 21E Tier Classified Oil or Hazardous Materials datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_BAS</edomv>
+<edomvd>MassGIS watershed/basin data</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_ESRI</edomv>
+<edomvd>ESRI Data and Maps media</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_FAC</edomv>
+<edomvd>DEP Bureau of Waste Prevention Regulated Facilities datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_GDT</edomv>
+<edomvd>Geographic Data Technology (GDT) streets Geocoding datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_GWP</edomv>
+<edomvd>DEP Permitted Discharge to Groundwater datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_HOSP</edomv>
+<edomvd>MassGIS Hospitals and Emergency Room Facilities datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_LU</edomv>
+<edomvd>MassGIS Land Use datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_MMR	</edomv>
+<edomvd>Massachusetts Military Reservation</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_NPDES</edomv>
+<edomvd>DEP National Pollutant Discharge Elimination System datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_NPL</edomv>
+<edomvd>US EPA National Priority List datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_OS</edomv>
+<edomvd>MassGIS Open Space datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_PAR  </edomv>
+<edomvd>Digital Parcel Data</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_PWS</edomv>
+<edomvd>DEP Public Water Supply datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_SCHL</edomv>
+<edomvd>Schools datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_SW</edomv>
+<edomvd>DEP Bureau of Waste Prevention Solid Waste Facilities datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_SWAP</edomv>
+<edomvd>Contracted data developed through DEP Source Water Assessment &amp;amp; Protection</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_TIGER</edomv>
+<edomvd>US Census Bureau Topologically Integrated Geographic Encoding and Referencing Line Files</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_UNK	</edomv>
+<edomvd>Unknown</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_UST</edomv>
+<edomvd>DEP Underground Storage Tanks datalayer</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DD_OTH</edomv>
+<edomvd>Other Digital Data Source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_LMTQ</edomv>
+<edomvd>Locus map based on USGS topographic quadrangle map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_LMST</edomv>
+<edomvd>Locus map based on street information </edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_LMOT</edomv>
+<edomvd>Locus map other</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_MCP</edomv>
+<edomvd>DEP Massachusetts Contingency Plan Site Scoring Map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_PIM</edomv>
+<edomvd>DEP Pre-inspection Map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_SITE</edomv>
+<edomvd>Detailed Site plan or map </edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_SKCH</edomv>
+<edomvd>Hand sketched map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_SURV</edomv>
+<edomvd>Survey grade map of site derived from traditional survey techniques</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_SWAP</edomv>
+<edomvd>DEP  Source Water Assessment and Protection Map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_TAX</edomv>
+<edomvd>Tax assessment map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_USGS</edomv>
+<edomvd>USGS topographic quadrangle map</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_WWW</edomv>
+<edomvd>Internet map source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MS_OTH</edomv>
+<edomvd>Other Map Source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP_CIR</edomv>
+<edomvd>DEP Wetlands and Waterways Color Infrared photography 1:12,000</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP_DOQ</edomv>
+<edomvd>MassGIS 1:5,000 digital orthophotography</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP_GE</edomv>
+<edomvd>General Electric (GW) Project</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP_PC</edomv>
+<edomvd>Pictometry Community Oblique</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP_PN</edomv>
+<edomvd>Pictometry Neighborhood Oblique</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DS_GPS</edomv>
+<edomvd>GPS Data Sheet</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>FMSR</edomv>
+<edomvd>Field Measurement (tape and compass bearings)</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>KNOW</edomv>
+<edomvd>Located by DEP staff through knowledge gained in the course of their professional activities</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OTH or OTHER</edomv>
+<edomvd>Other</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>TEXT</edomv>
+<edomvd>Textual information</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>UNK</edomv>
+<edomvd>Source Unknown</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>VERB</edomv>
+<edomvd>Verbal information</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>WWW</edomv>
+<edomvd>Website Information</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>EDEP</edomv>
+<edomvd>Submitted via eDEP Application, Source Unknown</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>AP</edomv>
+<edomvd>Other aerial photo source</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MSS</edomv>
+<edomvd>Multi Spectral Signature Image</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SAT</edomv>
+<edomvd>Other Satellite Image</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SPOT</edomv>
+<edomvd>SPOT Satellite Corporation Image</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>SV</edomv>
+<edomvd>Site visited for the purpose of field verification and/or site inspection</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>TM</edomv>
+<edomvd>Thematic Mapper Image</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">L_SRC_3</attrlabl>
+<attalias Sync="TRUE">L_SRC_3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>Tertiary source material code</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DB_EPICS	 	</edomv>
+<edomvd>DEP Environmental Protection Integrated Computer System</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DB_EPA	 	</edomv>
+<edomvd>United States Environmental Protection Agency - System Unspecified</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DB_DFS	 	</edomv>
+<edomvd>Massachusetts Department of Fire Services (DFS)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DB_DOE	 	</edomv>
+<edomvd>Massachusetts Department of Educatio</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DB_SSEIS	 	</edomv>
+<edomvd>DEP Bureau of Waste Prevention Stationary Source Emission Inventory System</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DB_RCRIS	 	</edomv>
+<edomvd>EPA Resource Conservation and Recovery Information System</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DB_WMA	 	</edomv>
+<edomvd>DEP Water Management Act</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DB_WPP	 	</edomv>
+<edomvd>DEP Water Permitting Program Database</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DB_OTH	 	</edomv>
+<edomvd>Other Database Source</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_21E	 </edomv>
+<edomvd>DEP Bureau of Waste Site Cleanup Chapter 21E Tier Classified Oil or Hazardous Materials datalaye</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_BAS	 	</edomv>
+<edomvd>MassGIS watershed/basin data</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_ESRI	 	</edomv>
+<edomvd>ESRI Data and Maps media</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_FAC	 	</edomv>
+<edomvd>DEP Bureau of Waste Prevention Regulated Facilities datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_GDT	 	</edomv>
+<edomvd>Geographic Data Technology (GDT) streets Geocoding datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_GWP	 	</edomv>
+<edomvd>DEP Permitted Discharge to Groundwater datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_HOSP	 	</edomv>
+<edomvd>MassGIS Hospitals and Emergency Room Facilities datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_LU	 	</edomv>
+<edomvd>MassGIS Land Use datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_MMR	 	</edomv>
+<edomvd>Massachusetts Military Reservation</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_NPDES	 	</edomv>
+<edomvd>DEP National Pollutant Discharge Elimination System datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_NPL	 	</edomv>
+<edomvd>US EPA National Priority List datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_OS	 	</edomv>
+<edomvd>MassGIS Open Space datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_PAR      	 	</edomv>
+<edomvd>Digital Parcel Data</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_PWS	 	</edomv>
+<edomvd>DEP Public Water Supply datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_SCHL	 	</edomv>
+<edomvd>Schools datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_SW	 	</edomv>
+<edomvd>DEP Bureau of Waste Prevention Solid Waste Facilities datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_SWAP</edomv>
+<edomvd>Contracted data developed through DEP Source Water Assessment &amp;amp; Protection Program</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_TIGER</edomv>
+<edomvd>	 	US Census Bureau Topologically Integrated Geographic Encoding and Referencing Line Files</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_UNK	 	</edomv>
+<edomvd>Unknown</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_UST</edomv>
+<edomvd> 	DEP Underground Storage Tanks datalayer</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DD_OTH</edomv>
+<edomvd>Other Digital Data Source</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_LMTQ</edomv>
+<edomvd>Locus map based on USGS topographic quadrangle map</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_LMST</edomv>
+<edomvd>	Locus map based on street information</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_LMOT</edomv>
+<edomvd>Locus map other</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_MCP</edomv>
+<edomvd>DEP Massachusetts Contingency Plan site scoring map</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_PIM</edomv>
+<edomvd>DEP Pre-inspection Map</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_SITE</edomv>
+<edomvd>Detailed Site plan or map </edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_SKCH</edomv>
+<edomvd>Hand sketched map</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_SURV</edomv>
+<edomvd>Survey grade map of site derived from traditional survey techniques</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_SWAP      	 	</edomv>
+<edomvd>DEP Source Water Assessment &amp;amp; Protection Map</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_TAX	 	</edomv>
+<edomvd>Tax assessment map</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_USGS	 	</edomv>
+<edomvd>USGS topographic quadrangle map</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_WWW	 </edomv>
+<edomvd>	Internet map sourc</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MS_OTH	 	</edomv>
+<edomvd>Other Map Source</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>AP_CIR</edomv>
+<edomvd>DEP Wetlands and Waterways color infrared photography 1:12,000</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>AP_DOQ	 	</edomv>
+<edomvd>MassGIS 1:5,000 digital orthophotography</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>AP_GE</edomv>
+<edomvd>	General Electric (GW) Project</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>AP_PC</edomv>
+<edomvd>Pictometry Community Oblique</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>AP_PN</edomv>
+<edomvd>Pictometry Neighborhood Oblique</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>DS_GPS</edomv>
+<edomvd>	GPS Data Sheet</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>FMSR</edomv>
+<edomvd>Field Measurement (tape and compass bearings)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>KNOW</edomv>
+<edomvd>Located by DEP staff through knowledge gained in the course of their professional activities</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>OTH or OTHER</edomv>
+<edomvd>Other</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>TEXT</edomv>
+<edomvd>Textual information</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>UNK</edomv>
+<edomvd>Source unknown</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>VERB</edomv>
+<edomvd>Verbal information</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>WWW</edomv>
+<edomvd>Website Information</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>EDEP</edomv>
+<edomvd>Submitted via eDEP Application, Source Unknown</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>AP</edomv>
+<edomvd>Other aerial photo source</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>MSS</edomv>
+<edomvd>Multi Spectral Signature Image</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>SAT</edomv>
+<edomvd>Other Satellite Image</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>SPOT</edomv>
+<edomvd>SPOT Satellite Corporation Image</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>SV</edomv>
+<edomvd>Site visited for the purpose of field verification and/or site inspection</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+<edomv>TM</edomv>
+<edomvd>Thematic Mapper Image</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DB_BOH	 	</edomv>
+<edomvd>Massachusetts Board of Health</edomvd>
+<edomvds>Massachusetts. Department of Environmental Protection </edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">POINT_X</attrlabl>
+<attalias Sync="TRUE">POINT_X</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Point projection system</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+<atnumdec Sync="TRUE">8</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">POINT_Y</attrlabl>
+<attalias Sync="TRUE">POINT_Y</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Point projection system</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+<atnumdec Sync="TRUE">8</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">USTID</attrlabl>
+<attalias Sync="TRUE">USTID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Underground Storage Tank ID</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">L_DATE</attrlabl>
+<attalias Sync="TRUE">L_DATE</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdef>Date of automation</attrdef>
+<attrdefs>Massachusetts. Department of Environmental Protection</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">L_SRC_1_DA</attrlabl>
+<attalias Sync="TRUE">L_SRC_1_DA</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attrdef>Primary source material code date</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">L_SRC_2_DA</attrlabl>
+<attalias Sync="TRUE">L_SRC_2_DA</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attrdef>Secondary source material code date</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">L_SRC_3_DA</attrlabl>
+<attalias Sync="TRUE">L_SRC_3_DA</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdefs>Massachusetts. Department of Environmental Protection </attrdefs>
+<attrdef>Tertiary source material code date</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FAC_ID_1</attrlabl>
+<attalias Sync="TRUE">FAC_ID_1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+</detailed>
+</eainfo>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE" code="26986" value="26986">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</identCode>
+<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+<idVersion Sync="TRUE">7.4.1</idVersion>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="MAFacility9313">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">1674</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="MAFacility9313">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">1674</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="MAFacility9313">
+<sdtstype Sync="TRUE">Entity point</sdtstype>
+<ptvctcnt Sync="TRUE">1674</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<mdDateSt Sync="TRUE">20140522</mdDateSt>
+<mdChar>
+<CharSetCd value="004"/>
+</mdChar>
+<idinfo>
+<descript>
+<langdata Sync="TRUE">en</langdata>
+<abstract>The point dataset represents a statewide point dataset containing the location of a subset of facility types regulated by MassDEP’s Bureau of Waste Prevention (BWP).  In a preliminary effort to begin locating facilities regulated by MassDEP, the BWP chose to locate facility types having the greatest potential environmental significance. At this time, the following facility types have been located: - Large Quantity Generators of Hazardous Waste (LQG) - Large Quantity Generator of MA-regulated Hazardous Waste (LQG_MA) - Large Quantity Generator of EPA/RCRA-regulated Hazardous Waste (LQG_RCRA) - Large Quantity Toxic Users (LQTU) - Hazardous Waste Recyclers (HWR) - Hazardous Waste Treatment, Storage and/or Disposal Facilities (TSDF) - Facilities with Air Operating Permits (AIR) - Facilities with Groundwater Discharge Permits (GWD) - Facilities with Surfacewater Discharge Permits (SWD). 
+
+</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+</descript>
+<citation>
+<citeinfo>
+<title>MassDEP Bureau of Waste Prevention location of Major Facilities Massachusetts 1993-2013</title>
+<ftname Sync="TRUE">MAFacility9313</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<origin>Massachusetts. Bureau of Waste Prevention </origin>
+<pubdate>20130308</pubdate>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/dep-bwp-major-facilities.html</onlink>
+<lworkcit>
+<citeinfo>
+<origin>MassGIS (Office : Mass.) </origin>
+<pubdate>20131102</pubdate>
+<title>MassGIS Data</title>
+<pubinfo>
+<pubplace>Massachusetts</pubplace>
+<publish>MassGIS (Office : Mass.) </publish>
+</pubinfo>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/dep-bwp-major-facilities.html</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<natvform Sync="TRUE">Shapefile</natvform>
+<spdom>
+<lboundng>
+<leftbc Sync="TRUE">46113.542932</leftbc>
+<rightbc Sync="TRUE">324592.459784</rightbc>
+<bottombc Sync="TRUE">779783.125101</bottombc>
+<topbc Sync="TRUE">956683.160796</topbc>
+</lboundng>
+<bounding>
+<westbc Sync="TRUE">-73.382619</westbc>
+<eastbc Sync="TRUE">-69.975673</eastbc>
+<northbc Sync="TRUE">42.860769</northbc>
+<southbc Sync="TRUE">41.253231</southbc>
+</bounding>
+</spdom>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>Tara Manno Richer</cntper>
+<cntorg>MassDEP BWP</cntorg>
+</cntperp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>One Winter St.</address>
+<city>Boston</city>
+<state>MA</state>
+<postal>02108</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(617) 292-5694</cntvoice>
+<cntemail>tara.manno@state.ma.us</cntemail>
+</cntinfo>
+</ptcontac>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>1993</begdate>
+<enddate>2013</enddate>
+</rngdates>
+</timeinfo>
+<current>ground condition</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>polygon</themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>Massachusetts</placekey>
+</place>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>environment</themekey>
+<themekey>location</themekey>
+</theme>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Waste control</themekey>
+<themekey>Hazardous waste site remediation</themekey>
+<themekey>Waste disposal </themekey>
+<themekey>Census</themekey>
+<themekey>Underground storage </themekey>
+</theme>
+</keywords>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+</idinfo>
+<metainfo>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metd Sync="TRUE">20140522</metd>
+<metextns>
+<onlink>http://www.mass.gov/itd/dep-bwp-major-facilities</onlink>
+<metprof>MassGIS Web Documentation</metprof>
+</metextns>
+<metc>
+<cntinfo>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+<address>16 Dearborn Rd</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</metc>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<stdorder>
+<ordering>Request the data at http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/order-restricted-data.html</ordering>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">0.045</transize>
+<dssize Sync="TRUE">0.045</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+<address>16 Dearborn Rd</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<cntpos>Data Technician</cntpos>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</distrib>
+</distinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">meters</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<gridsys>
+<gridsysn>State Plane Coordinate System</gridsysn>
+<spcs>
+<spcszone Sync="TRUE">2001</spcszone>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">200000.000000</feast>
+<fnorth Sync="TRUE">750000.000000</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+</planar>
+<geodetic>
+<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257222</denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+<altres Sync="TRUE">1.000000</altres>
+</altsys>
+</vertdef>
+</spref>
+<Binary>
+<Thumbnail>
+<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKCQOpxXFeFPH8XiTxb4g0FoFil0ydkiZN7eYi
+naxYlQAd2OM9/bJzPiJ4Z1S+vNJvNOgvtRZdXtrhl+0hVskXaDsj+XcGxk5bg88ZJoA9IooooAKK
+KKACiiigAooooAKKKKAMjxRqD6V4Y1HUI7yCza3hMnnzxGVEx6qCCT2Az1I69KdFq09/4XTVtMsJ
+Jp5rYTwWlyfIZiVyFYnO0/mKi12Kx1fHh28+2qLyIyloFdVKIy5UuBgZyAQeoJ9RW0AAMAYAoAah
+YxqXUK5A3KDnB9M1Wm1Kzt9RtdPluFS7uldoIjnLhMFsfTIq3VSG1uY9TurmW+aW3lVFhtjGoEJG
+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
+oA//2Q==</Data>
+</Thumbnail>
+</Binary>
+<dataqual>
+<lineage>
+<procstep>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Link MAFacility13 to BWPMAJOR_PT_LDT by FAC_ID, Changed nanme of file from MAFacility13 to MAFacility13TableLink</procdesc>
+<procdate>20131114</procdate>
+</procstep>
+<srcinfo>
+<srcscale>1:25,000</srcscale>
+</srcinfo>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\MassGIS2013_3\rstd100713\MAFacility13.shp.xml</srcused>
+<procdate Sync="TRUE">20131114</procdate>
+<proctime Sync="TRUE">15141900</proctime>
+</procstep>
+</lineage>
+<complete>Facilities with Air Operating Permits: 100%; 
+Facilities with Groundwater Discharge Permits: 100%; 
+Facilities with Surfacewater Discharge Permits: 100%; 
+Hazardous Waste Recyclers: 100%; 
+Hazardous Waste Treatment, Storage and/or Disposal Facilities: 100%; 
+Large Quantity Generators of EPA/RCRA-regulated Hazardous Waste: 87%; 
+Large Quantity Generators of MA-regulated Hazardous Waste: 59%; 
+Large Quantity Toxic Users: 90%</complete>
+</dataqual>
+</metadata>

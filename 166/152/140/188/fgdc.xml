@@ -1,0 +1,2447 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Russia (Federation). Ministerstvo prirodnykh resursov. Head Research Information Computer Center</origin>
+				<origin>American Geological Institute</origin>
+				<pubdate>1998</pubdate>
+				<title>Geologic Boundaries Russia 1998</title>
+				<geoform>vector digital data</geoform>
+				<onlink>http://www.mnr.gov.ru/english/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>American Geological Institute</origin>
+						<pubdate>1998</pubdate>
+						<title>Natural Resources GIS of Russia</title>
+						<pubinfo>
+							<pubplace>Alexandria (Va.)</pubplace>
+							<publish>American Geological Institute</publish>
+						</pubinfo>
+						<onlink>http://www.mnr.gov.ru/english/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">RussiaGeologicBoundaries98</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents geologic regions in Russia.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1998</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-180.000000</westbc>
+				<eastbc>
+180.000000</eastbc>
+				<northbc>
+87.102874</northbc>
+				<southbc>
+40.701025</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-180.000000</leftbc>
+<rightbc Sync="TRUE">180.000000</rightbc>
+<bottombc Sync="TRUE">40.701025</bottombc>
+<topbc Sync="TRUE">87.102874</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>geoscientificinformation</themekey>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Geology, structural</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Russia</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Asia</placekey>
+				<placekey>Nothern Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+			</place>
+		</keywords>
+		<accconst>Restricted Access Online: Access is granted to licensee only. Available only to Tufts University affiliates.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Ministry of Natural Resources and Environment of the Russion Federation</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>4/6</address>
+					<address>Bolshaya Gruzinskaya str</address>
+					<city>Moscow</city>
+					<country>Russia</country>
+				</cntaddr>
+				<cntvoice>(495) 254-48-00</cntvoice>
+				<cntfax>254-43-10, 254-66-10</cntfax>
+				<cntemail>admin@cbi-mpr.ru</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.</attraccr>
+		</attracc>
+		<lineage>
+			<srcinfo>
+				<srcscale>1:2,500,000</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\Bangladesh\WATER</srcused>
+				<procdate>20121009</procdate>
+				<proctime>12453800</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Changed name from Geo_poly to RussiaGeologicBoundaries98
+
+This data layer was created by completing the following changed to the original tiled data:
+&amp;gt;Merged all geo_poly coverages to create one file for all of Russia
+&amp;gt;Collapsed repeating auto-generated fields
+&amp;gt;Preserved original feature ID, and all other attributes
+&amp;gt;Dissolved by GEO_ID to combine shapes that were separated across tiles. Summed areas and perimeters during this dissolve step, and used the first (same) value for both legend fields, Age and Geo codes, Err and Priz.</procdesc>
+				<procdate>20121023</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xmlBD47.tmp</srcused>
+				<procdate>20121009</procdate>
+				<proctime>13510200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xml7CE5.tmp</srcused>
+				<procdate>20121011</procdate>
+				<proctime>14210200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xmlCB75.tmp</srcused>
+				<procdate>20121023</procdate>
+				<proctime>16320400</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xmlDD5B.tmp</srcused>
+				<procdate>20121025</procdate>
+				<proctime>14505400</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xml93AF.tmp</srcused>
+				<procdate>20130131</procdate>
+				<proctime>09473500</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="RussiaGeologicBoundaries98">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>34001</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="RussiaGeologicBoundaries98">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">34001</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_Clarke_1866</horizdn>
+				<ellips>Clarke 1866</ellips>
+				<semiaxis>6378206.400000</semiaxis>
+				<denflat>294.978698</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_Clarke_1866</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="RussiaGeologicBoundaries98">
+			<enttyp>
+				<enttypl>
+RussiaGeologicBoundaries98</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">34001</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>GEO_ID</attrlabl>
+				<attrdef>Numeric Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">GEO_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SUM_AREA</attrlabl>
+				<attrdef>The area of geologic feature in square miles.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SUM_AREA</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>SUM_PERIME</attrlabl>
+				<attrdef>Perimeter of geographic feature in decimal degrees.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SUM_PERIME</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FIRST_NUML</attrlabl>
+				<attrdef>Numerical legend code for geologic epoch</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Quarternary undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Holocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Holocene and/or upper Quarternary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Upper Quarternary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Upper and/or middle Quarternary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Middle Quarternary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Middle and/or low Quarternary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Lower Quarternary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>Lower Quarternary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>Lower Quarternary and/or Pilocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>Quarternary and/or upper Pilocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Neogene undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>13</edomv>
+						<edomvd>Pilocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>Upper pilocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>15</edomv>
+						<edomvd>Akchagylian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>16</edomv>
+						<edomvd>Middle Pilocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>17</edomv>
+						<edomvd>Kuyalnician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>18</edomv>
+						<edomvd>Cimmerian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>19</edomv>
+						<edomvd>Middle and lower pilocene (Cimmerian and Pontian)</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>20</edomv>
+						<edomvd>Pontian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>21</edomv>
+						<edomvd>Miocene and/or Pilocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>22</edomv>
+						<edomvd>Miocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>23</edomv>
+						<edomvd>Upper Miocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>24</edomv>
+						<edomvd>Meotian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>25</edomv>
+						<edomvd>Sarmatian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>26</edomv>
+						<edomvd>Middle Miocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>27</edomv>
+						<edomvd>Tortonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>28</edomv>
+						<edomvd>Helvetian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>29</edomv>
+						<edomvd>Upper and/or Middle Miocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>30</edomv>
+						<edomvd>Lower Miocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>31</edomv>
+						<edomvd>Middle and/or lower Miocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>32</edomv>
+						<edomvd>Miocene and Oligocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>33</edomv>
+						<edomvd>Miocene and/or Oligocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>34</edomv>
+						<edomvd>Pilocene and/or Oligocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>35</edomv>
+						<edomvd>Neogene and Paleogene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>36</edomv>
+						<edomvd>Paleogene undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>37</edomv>
+						<edomvd>Oligocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>38</edomv>
+						<edomvd>Upper Oligocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>39</edomv>
+						<edomvd>Middle Oligocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>40</edomv>
+						<edomvd>Middle and/or loer Oligocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>41</edomv>
+						<edomvd>Eocene and Oligocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>42</edomv>
+						<edomvd>Oligocene and/or Eocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>43</edomv>
+						<edomvd>Eocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>44</edomv>
+						<edomvd>Upper Eocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>45</edomv>
+						<edomvd>Upper and/or Middle Eocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>46</edomv>
+						<edomvd>Eocene and Paleocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>47</edomv>
+						<edomvd>Eocene and/or Paleocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>48</edomv>
+						<edomvd>Lower Eocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>49</edomv>
+						<edomvd>Paleocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>50</edomv>
+						<edomvd>Upper Cretaceous (Danian)</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>51</edomv>
+						<edomvd>Paleocene and/or upper Cretaceous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>52</edomv>
+						<edomvd>Paleogene and/or upper Cretaceous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>53</edomv>
+						<edomvd>Cretaceous undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>54</edomv>
+						<edomvd>Upper cretaceous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>55</edomv>
+						<edomvd>Maastrichtian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>56</edomv>
+						<edomvd>Danian and Maastrichtian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>57</edomv>
+						<edomvd>Maastrichtian, Campanian and/or Santonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>58</edomv>
+						<edomvd>Maastrichtian and Campanian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>59</edomv>
+						<edomvd>Campanian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>60</edomv>
+						<edomvd>ampanian, Santonian, and/or Coniacian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>61</edomv>
+						<edomvd>Campanian and/or Santonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>62</edomv>
+						<edomvd>Santonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>63</edomv>
+						<edomvd>Coniacian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>64</edomv>
+						<edomvd>Santonian and Caniacian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>65</edomv>
+						<edomvd>Santonian, Coniacian, and/or Turonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>66</edomv>
+						<edomvd>Coniacian and/or Turonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>67</edomv>
+						<edomvd>turonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>68</edomv>
+						<edomvd>Cenomanian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>69</edomv>
+						<edomvd>Turonian and/or Cenomanian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>70</edomv>
+						<edomvd>Cenomanian and/or Albian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>71</edomv>
+						<edomvd>Lower Cretaceous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>72</edomv>
+						<edomvd>Albian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>73</edomv>
+						<edomvd>Aptian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>74</edomv>
+						<edomvd>Albian and Aptian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>75</edomv>
+						<edomvd>Albian and/or Aptian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>76</edomv>
+						<edomvd>Barremian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>77</edomv>
+						<edomvd>Baremian and Hauterivian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>78</edomv>
+						<edomvd>Albian, Aptian, Barremian and/or Hauterivian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>79</edomv>
+						<edomvd>Albian, Aptian and/or Barremian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>80</edomv>
+						<edomvd>Valanginian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>81</edomv>
+						<edomvd>Hautervian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>82</edomv>
+						<edomvd>Valancinian and Berriassian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>83</edomv>
+						<edomvd>Barremian, Hauterivian and/or Valanginian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>84</edomv>
+						<edomvd>Berriassian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>85</edomv>
+						<edomvd>Barriassian and/or Barremian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>86</edomv>
+						<edomvd>Lower Cretaceous and/or Upper Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>87</edomv>
+						<edomvd>Lower Cretaceous and/or Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>88</edomv>
+						<edomvd>Jurassic undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>89</edomv>
+						<edomvd>Upper Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>90</edomv>
+						<edomvd>Tithonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>91</edomv>
+						<edomvd>Tithonian and/or Kimmeridgian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>92</edomv>
+						<edomvd>Kimmeridgian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>93</edomv>
+						<edomvd>Kimmeridgian, Oxfordian and/or Callovian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>94</edomv>
+						<edomvd>Callovian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>95</edomv>
+						<edomvd>Upper and Middle Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>96</edomv>
+						<edomvd>Upper and/or middle Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>97</edomv>
+						<edomvd>Middle Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>98</edomv>
+						<edomvd>Bathonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>99</edomv>
+						<edomvd>Bajocian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>100</edomv>
+						<edomvd>Bathonian and Bajocian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>101</edomv>
+						<edomvd>Aalenian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>102</edomv>
+						<edomvd>Middle and lower Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>103</edomv>
+						<edomvd>Middle and/or lower Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>104</edomv>
+						<edomvd>Lower Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>105</edomv>
+						<edomvd>Toarcian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>106</edomv>
+						<edomvd>Toarcian and Pilensbachian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>107</edomv>
+						<edomvd>Pilensbachian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>108</edomv>
+						<edomvd>Sinemurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>109</edomv>
+						<edomvd>Lower Jurassic and upper Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>110</edomv>
+						<edomvd>Lower Jurassic and/or upper Triasic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>111</edomv>
+						<edomvd>Middle Jurassic and/or upper Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>112</edomv>
+						<edomvd>Jurassic and Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>113</edomv>
+						<edomvd>Triassic undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>114</edomv>
+						<edomvd>Upper Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>115</edomv>
+						<edomvd>Norian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>116</edomv>
+						<edomvd>Rhaetian and Norian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>117</edomv>
+						<edomvd>Carnian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>118</edomv>
+						<edomvd>Upper and middle Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>119</edomv>
+						<edomvd>Upper and/or middle Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>120</edomv>
+						<edomvd>Middle Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>121</edomv>
+						<edomvd>Middle and lower Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>122</edomv>
+						<edomvd>Middle and/or Lower Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>123</edomv>
+						<edomvd>Lower Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>124</edomv>
+						<edomvd>Paleozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>125</edomv>
+						<edomvd>Lower Triassic and upper Permian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>126</edomv>
+						<edomvd>Triassic and Upper Permian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>127</edomv>
+						<edomvd>Triassic and Permian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>128</edomv>
+						<edomvd>Triassic and/or upper Paleozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>129</edomv>
+						<edomvd>Upper Paleozoic (Permian, Carboniferous and Devonian)</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>130</edomv>
+						<edomvd>Permian undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>131</edomv>
+						<edomvd>Upper Permian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>132</edomv>
+						<edomvd>Tatarian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>133</edomv>
+						<edomvd>Kazanian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>134</edomv>
+						<edomvd>Ufimian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>135</edomv>
+						<edomvd>Upper and/or lower Permian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>136</edomv>
+						<edomvd>Lower Permian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>137</edomv>
+						<edomvd>Kungurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>138</edomv>
+						<edomvd>Artinskian, Sakmarian and/or Asselian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>139</edomv>
+						<edomvd>Lower Permian and upper Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>140</edomv>
+						<edomvd>Lower Permian and/or upper Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>141</edomv>
+						<edomvd>Permian and/or upper Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>142</edomv>
+						<edomvd>Permian and upper and middle Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>143</edomv>
+						<edomvd>Permian and Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>144</edomv>
+						<edomvd>Carboniferous undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>145</edomv>
+						<edomvd>Upper Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>146</edomv>
+						<edomvd>Upper and middle Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>147</edomv>
+						<edomvd>Middle Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>148</edomv>
+						<edomvd>Moskovian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>149</edomv>
+						<edomvd>Bashkirian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>150</edomv>
+						<edomvd>Middle and/or lower Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>151</edomv>
+						<edomvd>Lower Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>152</edomv>
+						<edomvd>Serpukhovian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>153</edomv>
+						<edomvd>Superkhovian and Visean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>154</edomv>
+						<edomvd>Visean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>155</edomv>
+						<edomvd>Visean and/or Turnaisian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>156</edomv>
+						<edomvd>Turnaisian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>157</edomv>
+						<edomvd>Lower Carboniferous and upper Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>158</edomv>
+						<edomvd>Lower Carboniferous and upper Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>159</edomv>
+						<edomvd>Carboniferous and/or upper Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>160</edomv>
+						<edomvd>Middle Carboniferous and/or lower Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>161</edomv>
+						<edomvd>Lower Carboniferous and/or Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>162</edomv>
+						<edomvd>Lower Carboniferous and/or Middle Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>163</edomv>
+						<edomvd>Devonian and Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>164</edomv>
+						<edomvd>Devonian undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>165</edomv>
+						<edomvd>Upper Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>166</edomv>
+						<edomvd>Famennian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>167</edomv>
+						<edomvd>Upper Famennian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>168</edomv>
+						<edomvd>Lower Famennian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>169</edomv>
+						<edomvd>Frasnian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>170</edomv>
+						<edomvd>Upper Frasnian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>171</edomv>
+						<edomvd>Lower Frasnian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>172</edomv>
+						<edomvd>Upper and middle Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>173</edomv>
+						<edomvd>Upper and/or middle Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>174</edomv>
+						<edomvd>Middle Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>175</edomv>
+						<edomvd>Givelian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>176</edomv>
+						<edomvd>Eifelian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>177</edomv>
+						<edomvd>Middle and/or lower Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>178</edomv>
+						<edomvd>Lower and middle Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>179</edomv>
+						<edomvd>Lower Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>180</edomv>
+						<edomvd>Lower Paleozoic (Silurian, Ordovician and Cambrian)</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>181</edomv>
+						<edomvd>Lower Devonian and/or upper Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>182</edomv>
+						<edomvd>Middle Devonian and/or upper Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>183</edomv>
+						<edomvd>Middle Devonian and lower Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>184</edomv>
+						<edomvd>Devonian and upper Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>185</edomv>
+						<edomvd>Lower Carboniferous and/or upper Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>186</edomv>
+						<edomvd>Lower Devonian and/or Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>187</edomv>
+						<edomvd>Silurian and Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>188</edomv>
+						<edomvd>Silurian undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>189</edomv>
+						<edomvd>Upper Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>190</edomv>
+						<edomvd>Upper and/or lower Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>191</edomv>
+						<edomvd>Lower Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>192</edomv>
+						<edomvd>Wenlock</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>193</edomv>
+						<edomvd>Llandoverian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>194</edomv>
+						<edomvd>Lower Silurian and/or upper Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>195</edomv>
+						<edomvd>Lower Silurian and Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>196</edomv>
+						<edomvd>Silurian and Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>197</edomv>
+						<edomvd>Ordovician undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>198</edomv>
+						<edomvd>Upper Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>199</edomv>
+						<edomvd>Ashgillian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>200</edomv>
+						<edomvd>Upper and middle Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>201</edomv>
+						<edomvd>Upper and/or middle Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>202</edomv>
+						<edomvd>Middle Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>203</edomv>
+						<edomvd>Middle and lower Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>204</edomv>
+						<edomvd>Middle and.or lower Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>205</edomv>
+						<edomvd>Lower Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>206</edomv>
+						<edomvd>Lower Ordiovician and/or upper Cambrian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>207</edomv>
+						<edomvd>Ordovician and upper Cambrian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>208</edomv>
+						<edomvd>Lower Ordovician and/or Cambrian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>209</edomv>
+						<edomvd>Middle Ordivician and/or Cambrian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>210</edomv>
+						<edomvd>Cambrian and Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>211</edomv>
+						<edomvd>Cambrian undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>212</edomv>
+						<edomvd>Upper Cambrian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>213</edomv>
+						<edomvd>Upper and middle Cambrian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>214</edomv>
+						<edomvd>Upper and/or middle Cambrian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>215</edomv>
+						<edomvd>Middle Cambrian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>216</edomv>
+						<edomvd>Mayskian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>217</edomv>
+						<edomvd>Amginian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>218</edomv>
+						<edomvd>Middle and/or lower Cambrian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>219</edomv>
+						<edomvd>Lower Cambrian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>220</edomv>
+						<edomvd>Lenian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>221</edomv>
+						<edomvd>Aldanian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>222</edomv>
+						<edomvd>Lower Cambrian and/or Vendian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>223</edomv>
+						<edomvd>Lower Cambrian and/or upper Riphean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>224</edomv>
+						<edomvd>Ordovician and/or Vendian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>225</edomv>
+						<edomvd>Lower Cambrian and/or Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>226</edomv>
+						<edomvd>Cambrian and/or Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>227</edomv>
+						<edomvd>Proterozoic undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>228</edomv>
+						<edomvd>Lower Paleozoic and/or Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>229</edomv>
+						<edomvd>Upper Proterozoic undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>230</edomv>
+						<edomvd>Vendian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>231</edomv>
+						<edomvd>Vendian and/or Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>232</edomv>
+						<edomvd>Vendian and upper Riphean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>233</edomv>
+						<edomvd>Upper Riphean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>234</edomv>
+						<edomvd>Upper and middle Riphean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>235</edomv>
+						<edomvd>Middle Riphean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>236</edomv>
+						<edomvd>Lower Riphean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>237</edomv>
+						<edomvd>Lower Proterozoic undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>238</edomv>
+						<edomvd>Upper part of Lower Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>239</edomv>
+						<edomvd>Middle part of Lower Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>240</edomv>
+						<edomvd>Lower part of Lower Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>241</edomv>
+						<edomvd>Archean undivided</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>242</edomv>
+						<edomvd>Upper Archean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>243</edomv>
+						<edomvd>Lower Archean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>244</edomv>
+						<edomvd>Kurulian series of the Aldan sheild, upper part of elomor series of the Baltic sheild, Kapchan series of the nabar sheild</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>245</edomv>
+						<edomvd>Analog of Kurulian series of the Aldan sheild, upper part of Belomor series of the Baltic sheild, Kapchan series of the Anabar sheild</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>246</edomv>
+						<edomvd>Dzeltulin series of the Aldan sheild, upper Anabar series of the Anabar sheild</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>247</edomv>
+						<edomvd>Analog of Dzeltulin series of the Aldan sheild, upper Anabar series of the Anabar sheild</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>248</edomv>
+						<edomvd>Timpton and Dzeltulin series of the Aldan sheild, upper Anabar series of the Anabar sheild</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>249</edomv>
+						<edomvd>Timpton series of the Aldan sheild undivided, upper part of the Belomor series of the Baltic sheild</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>250</edomv>
+						<edomvd>Analog of Timpton series of the Aldan sheild and Daldin series of the Anabar sheild</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>251</edomv>
+						<edomvd>Fedorov series of teh Aldan sheild</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>252</edomv>
+						<edomvd>Lengir series of the Aldan sheild, lower part of Belomor series of the Baltic sheild and their analogs</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>256</edomv>
+						<edomvd>Quarternary (Holocene, Pleistocene)</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>257</edomv>
+						<edomvd>Holocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>258</edomv>
+						<edomvd>Upper Quarternary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>259</edomv>
+						<edomvd>Middle Quarternary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>260</edomv>
+						<edomvd>Lower Quarternary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>261</edomv>
+						<edomvd>Quarternary and/or Neogene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>262</edomv>
+						<edomvd>Quarternay and/or Pilocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>263</edomv>
+						<edomvd>Quarternary and/or Miocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>264</edomv>
+						<edomvd>Quarternary and/or upper Pilocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>265</edomv>
+						<edomvd>Quarternary and/or Tertiary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>266</edomv>
+						<edomvd>Quarternary, Pilocene, Miocene and/or Oligocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>267</edomv>
+						<edomvd>Pilocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>268</edomv>
+						<edomvd>Middle and lower Pilocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>269</edomv>
+						<edomvd>Miocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>270</edomv>
+						<edomvd>Meotian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>271</edomv>
+						<edomvd>Meotian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>272</edomv>
+						<edomvd>Sarmatian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>273</edomv>
+						<edomvd>Miocene and/or Oligocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>274</edomv>
+						<edomvd>Miocene, Oligocene and Eocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>275</edomv>
+						<edomvd>Paleogene and/or Neogene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>276</edomv>
+						<edomvd>Paleogene (Oligocene and Eocene)</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>277</edomv>
+						<edomvd>Oligocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>278</edomv>
+						<edomvd>Eocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>279</edomv>
+						<edomvd>Eocene and/or Paleocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>280</edomv>
+						<edomvd>Oligocene and/or Eocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>281</edomv>
+						<edomvd>Paleocene</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>282</edomv>
+						<edomvd>Mesozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>283</edomv>
+						<edomvd>Paleogene and/or upper Cretaceous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>284</edomv>
+						<edomvd>Paleogene and/or Cretaceous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>285</edomv>
+						<edomvd>Cretaceous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>286</edomv>
+						<edomvd>Upper Cretaceous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>287</edomv>
+						<edomvd>Lower Cretaceous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>288</edomv>
+						<edomvd>Cretaceous and/or Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>289</edomv>
+						<edomvd>Lower Cretaceous and/or lower Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>290</edomv>
+						<edomvd>Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>291</edomv>
+						<edomvd>Upper Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>292</edomv>
+						<edomvd>Upper and/or middle Jurassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>293</edomv>
+						<edomvd>Jurassic and/or Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>294</edomv>
+						<edomvd>Lower Jurassic and/or Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>295</edomv>
+						<edomvd>Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>296</edomv>
+						<edomvd>Lower Triassic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>297</edomv>
+						<edomvd>Paleozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>298</edomv>
+						<edomvd>Triassic and/or upper Permian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>299</edomv>
+						<edomvd>Mesozoic and/or upper Paleozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>300</edomv>
+						<edomvd>Trassic and/or upper Paleozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>301</edomv>
+						<edomvd>Upper Paleozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>302</edomv>
+						<edomvd>Permian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>303</edomv>
+						<edomvd>Upper Permian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>304</edomv>
+						<edomvd>Lower Permian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>305</edomv>
+						<edomvd>Permian and/or Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>306</edomv>
+						<edomvd>Permian and/or upper Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>307</edomv>
+						<edomvd>Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>308</edomv>
+						<edomvd>Lower Carboniferous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>309</edomv>
+						<edomvd>Carboniferous and/or Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>310</edomv>
+						<edomvd>Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>311</edomv>
+						<edomvd>Upper Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>312</edomv>
+						<edomvd>Middle Devonian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>313</edomv>
+						<edomvd>Lower Paleozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>314</edomv>
+						<edomvd>Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>315</edomv>
+						<edomvd>Upper Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>316</edomv>
+						<edomvd>Lower Silurian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>317</edomv>
+						<edomvd>Ordovician</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>318</edomv>
+						<edomvd>Cambrian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>319</edomv>
+						<edomvd>Lower Cambrian and/or upper Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>320</edomv>
+						<edomvd>Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>321</edomv>
+						<edomvd>Upper Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>322</edomv>
+						<edomvd>Vendian</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>323</edomv>
+						<edomvd>Lower Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>324</edomv>
+						<edomvd>Proterozoic and/or Archean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>325</edomv>
+						<edomvd>Archean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>326</edomv>
+						<edomvd>Mesozoic (onshore)</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>328</edomv>
+						<edomvd>Upper and/or lower Paleozoic (onshore)</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>380</edomv>
+						<edomvd>Post-early Cretaceous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>390</edomv>
+						<edomvd>Pre-Late Cretaceous</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>400</edomv>
+						<edomvd>Late Paleozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>410</edomv>
+						<edomvd>Early Paleozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>420</edomv>
+						<edomvd>Proterozoic</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>430</edomv>
+						<edomvd>Archean</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FIRST_NUML</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIRST_ERR</attrlabl>
+				<attrdef>Unknown</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FIRST_ERR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIRST_PRIZ</attrlabl>
+				<attrdef>Indicates if deposit is coal-bearing</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>h</edomv>
+						<edomvd>Deposit contains coal</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FIRST_PRIZ</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIRST_AGEC</attrlabl>
+				<attrdef>Numerical legend code for geologic epoch of feature, same value definitions as FIRST_NUML</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FIRST_AGEC</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FIRST_GEOC</attrlabl>
+				<attrdef>Numerical legend code for type of geological feature, same value definitions as  FIRST_NU_1</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>327</edomv>
+						<edomvd>Ice</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>330</edomv>
+						<edomvd>Tectonic contacts, regional</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>331</edomv>
+						<edomvd>Tectonic contacts, transform</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>332</edomv>
+						<edomvd>Tectonic contacts along rift boundaries</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>333</edomv>
+						<edomvd>Acoustic basement</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>334</edomv>
+						<edomvd>Cover Quarternary sediments more than 100 meters thick over mapped underlying  deposits</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>335</edomv>
+						<edomvd>Continental deposits</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>336</edomv>
+						<edomvd>Coal-bearing deposits (shown by letter "h" in from of the age index)</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>337</edomv>
+						<edomvd>Acid volcanic rock, mainly lava</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>338</edomv>
+						<edomvd>Acid volcanic rock, mainly tuff</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>339</edomv>
+						<edomvd>Intermediate volcanic rock, mainlt lava</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>340</edomv>
+						<edomvd>Intermediate volcanic rock, mainly tuff</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>341</edomv>
+						<edomvd>Basic volcanic roack, mainty laval</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>341</edomv>
+						<edomvd>Basic volcanic rock, mainly tuff</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>343</edomv>
+						<edomvd>Alkaline untrabasic volcanic rock</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>344</edomv>
+						<edomvd>Volcanic rock of various composition (undivided), mainly lava</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>345</edomv>
+						<edomvd>volcanic rock of various composition (undivided), mainly tuff</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>346</edomv>
+						<edomvd>Diaphthorite rock</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>347</edomv>
+						<edomvd>Impactite and explosion breccia</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>348</edomv>
+						<edomvd>Proved fault</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>349</edomv>
+						<edomvd>Inferred fault</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>350</edomv>
+						<edomvd>Main thrust</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>351</edomv>
+						<edomvd>Outlines of astroblems, shown in scale (color and index inside outline show  age of the structure)</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>352</edomv>
+						<edomvd>Astroblems out of scale (color and index outline show age of teh structure)</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>353</edomv>
+						<edomvd>Linear features of structues from satellite images</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>354</edomv>
+						<edomvd>Ring features from structures of satellite images</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>355</edomv>
+						<edomvd>Proved geologic boundaries</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>356</edomv>
+						<edomvd>Inferred geologic boundaries</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>357</edomv>
+						<edomvd>Boundaries between facies and carieties of rocks</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>358</edomv>
+						<edomvd>Boundaries of areas</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>359</edomv>
+						<edomvd>Key horizens in Precambrian deposits</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>360</edomv>
+						<edomvd>Active volcanic pipes</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>361</edomv>
+						<edomvd>Extinct volcanic pipes</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>362</edomv>
+						<edomvd>Granite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>363</edomv>
+						<edomvd>Grandodionite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>364</edomv>
+						<edomvd>Plagiogranite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>365</edomv>
+						<edomvd>Rapakivi granite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>366</edomv>
+						<edomvd>Diorite and quartz diorite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>367</edomv>
+						<edomvd>Gabbro, norite, gabbro-norite, and gabbro-diorite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>368</edomv>
+						<edomvd>Gabbro-dolerite, dolerite, gabbro-diabase, and picrit diabase</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>369</edomv>
+						<edomvd>Anortozite, gabbro-anortozite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>370</edomv>
+						<edomvd>Peridotite, dunite, pyroxenite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>371</edomv>
+						<edomvd>Serpentine</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>372</edomv>
+						<edomvd>Kimberite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>373</edomv>
+						<edomvd>Syenite, monzonite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>374</edomv>
+						<edomvd>Granosyenite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>375</edomv>
+						<edomvd>Nepheline, and pseudo-leucite syenite, ijolite, urite,, nepheline pyroxenite, ferrucite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>376</edomv>
+						<edomvd>Alkaline granite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>377</edomv>
+						<edomvd>Alkaline syenite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>378</edomv>
+						<edomvd>Alkaline gabbroid</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>379</edomv>
+						<edomvd>Allkaline ultrabasic rock</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>440</edomv>
+						<edomvd>Acid, subvolcanic intrusive rock</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>441</edomv>
+						<edomvd>Basic subvolcanic intrusive rock</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>442</edomv>
+						<edomvd>Intermediate subvolcanic intrusive rock</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>443</edomv>
+						<edomvd>Ultrabasic subvolcanic intrusive rock</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>444</edomv>
+						<edomvd>Alkaline subvolcanic intrusive rock</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>445</edomv>
+						<edomvd>Rhyolite</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>446</edomv>
+						<edomvd>Basalt and its tuff</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>447</edomv>
+						<edomvd>Andesite and its tuff</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>500</edomv>
+						<edomvd>Map extent limits</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>600</edomv>
+						<edomvd>Shore line</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>700</edomv>
+						<edomvd>Boundary of ice expansion</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+					<edom>
+						<edomv>800</edomv>
+						<edomvd>State boundary</edomvd>
+						<edomvds>American Geological Institute</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FIRST_GEOC</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academy Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>28.906</transize>
+					<dssize Sync="TRUE">28.906</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20140513</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">RussiaGeologicBoundaries98</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-180</westBL>
+<eastBL Sync="TRUE">180</eastBL>
+<northBL Sync="TRUE">87.102874</northBL>
+<southBL Sync="TRUE">40.701025</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-180</westBL>
+<eastBL Sync="TRUE">180</eastBL>
+<northBL Sync="TRUE">87.102874</northBL>
+<southBL Sync="TRUE">40.701025</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Russia\GlavNIVC\library\Merged\Geo\RussiaGeologicBoundaries98.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">28.906</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_Clarke_1866</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="RussiaGeologicBoundaries98">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">34001</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140513</SyncDate>
+<SyncTime>17251100</SyncTime>
+<ModDate>20140513</ModDate>
+<ModTime>17251100</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140513</mdDateSt>
+</metadata>

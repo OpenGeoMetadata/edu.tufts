@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>New York (N.Y.). Department of City Planning</origin>
+				<title>Police Precincts New York City 2013</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+					<sername>BYTES of the BIG APPLE</sername>
+					<issue>13D</issue>
+				</serinfo>
+				<ftname Sync="TRUE">NYCPolicePrecincts13</ftname>
+				<pubinfo>
+					<publish>New York (N.Y.). Department of City Planning</publish>
+					<pubplace>New York (N.Y.)</pubplace>
+</pubinfo>
+				<onlink Sync="FALSE">http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml</onlink>
+				<othercit>Changes based on the Redistricting 2013 effort.</othercit>
+				<pubdate>20131125</pubdate>
+<edition>13D</edition>
+				<lworkcit>
+<citeinfo>
+<origin>New York (N.Y.). Department of City Planning</origin>
+<pubdate>20131202</pubdate>
+<title>City of New York, NY Planning</title>
+<pubinfo>
+<pubplace>New York (N.Y.)</pubplace>
+<publish>New York (N.Y.). Department of City Planning</publish>
+</pubinfo>
+<onlink>http://www.nyc.gov/portal/site/nycgov/index.jsp?epi-content=GENERIC&amp;amp;wcproxyurl=http%253A%252F%252Fwww.nyc.gov%252Fhtml%252Fdcp%252Fhtml%252Fbytes%252Fmeta_dis_electiondistrict_post.shtml&amp;amp;beanID=2027100071&amp;amp;viewID=proxy_view_secondary</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents the service area boundaries for New York City's police precincts.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+<caldate>20131125</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Quarterly</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-74.257159</westbc>
+				<eastbc Sync="TRUE">-73.699215</eastbc>
+				<northbc Sync="TRUE">40.915568</northbc>
+				<southbc Sync="TRUE">40.495992</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">913175.108826</leftbc>
+				<rightbc Sync="TRUE">1067382.508423</rightbc>
+				<bottombc Sync="TRUE">120121.881254</bottombc>
+				<topbc Sync="TRUE">272844.293640</topbc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<place>
+				<placekey>New York (State)</placekey>
+<placekey>New York (N.Y.) </placekey>
+<placekey>Manhattan (New York, N.Y.)</placekey>
+<placekey>Staten Island (New York, N.Y.)</placekey>
+<placekey>Brooklyn (New York, N.Y.)</placekey>
+<placekey>Bronx (New York, N.Y.)</placekey>
+<placekey>Queens (New York, N.Y.)</placekey>
+<placekt>GNIS</placekt>
+<placekey>Richmond (New York, N.Y.)</placekey>
+</place>
+			<theme>
+				<themekey>polygon</themekey>
+				<themekt>FGDC</themekt>
+</theme>
+			<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>boundaries</themekey>
+</theme>
+<theme>
+<themekey>Boundaries</themekey>
+<themekt>LCSH </themekt>
+<themekey>Administrative and political divisions</themekey>
+</theme>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH </placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>BYTES of the BIG APPLE Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>22 Reade St, 5E</address>
+					<city>New York</city>
+					<state>NY</state>
+					<postal>10007</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>212.720.3505</cntvoice>
+				<cntorgp>
+<cntorg>New York City Department of City Planning</cntorg>
+</cntorgp>
+</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+		<secinfo>
+<secclass>Unclassified</secclass>
+</secinfo>
+</idinfo>
+	<dataqual>
+		<complete>These data are accurate as of the redistricting after the US Census 2010.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>The District files are created from the Department of City Planning LION file of the same release.  The LION file is spatially aligned with NYCMap aerial photography.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+<procstep>
+<procdesc>Changed name of file from nyhpp to NYCPolicePrecincts13</procdesc>
+<srcused Sync="TRUE">M:\GIS\BytesProduction\13B\GSS_INPUT\REVISED REDISTRICTING 2013 for web\nyed.shp.xml</srcused>
+<procdate>20131202</procdate>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+</procstep>
+<srcinfo>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCPlanning2013\Boundaries\nyed_13b_postredist\NYCElectionDistrictPostRe13.shp.xml</srcused>
+<procdate Sync="TRUE">20131202</procdate>
+<proctime Sync="TRUE">15551500</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCPlanning2013\Boundaries\nyed_13cav\NYCElectionDistricts13.shp.xml</srcused>
+<procdate Sync="TRUE">20131202</procdate>
+<proctime Sync="TRUE">16210000</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCPlanning2013\Boundaries\nyedwi_13c_av\NYCElectionDistrictsWater13.shp.xml</srcused>
+<procdate Sync="TRUE">20131202</procdate>
+<proctime Sync="TRUE">16413900</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCPlanning2013\Boundaries\nyfb_13c_av\NYCFireBattalions13.shp.xml</srcused>
+<procdate Sync="TRUE">20131202</procdate>
+<proctime Sync="TRUE">16532200</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCPlanning2013\Boundaries\nyfc_13c_av\NYCFireCompanies13.shp.xml</srcused>
+<procdate Sync="TRUE">20131202</procdate>
+<proctime Sync="TRUE">17191200</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCPlanning2013\Boundaries\nyha_13c_av\NYCHealthAreas13.shp.xml</srcused>
+<procdate Sync="TRUE">20131202</procdate>
+<proctime Sync="TRUE">17323600</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCPlanning2013\Boundaries\nyhc_13c_av\NYCHealthCenters13.shp.xml</srcused>
+<procdate Sync="TRUE">20131202</procdate>
+<proctime Sync="TRUE">17423600</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCPlanning2013\Boundaries\nymc_13c_av\NYCMunicipalCourtDistricts13.shp.xml</srcused>
+<procdate Sync="TRUE">20131202</procdate>
+<proctime Sync="TRUE">17564200</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCPlanning2013\Boundaries\nymcwi_13c_av\NYCMunicipalCourtDistrictsWater13.shp.xml</srcused>
+<procdate Sync="TRUE">20131202</procdate>
+<proctime Sync="TRUE">18315300</proctime>
+</procstep>
+</lineage>
+</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NYCPolicePrecincts13">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">77</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NYCPolicePrecincts13">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<efeageom Sync="TRUE">Polygon</efeageom>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<efeacnt Sync="TRUE">77</efeacnt>
+				<spindex Sync="TRUE">FALSE</spindex>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">40.666667</stdparll>
+<stdparll Sync="TRUE">41.033333</stdparll>
+<longcm Sync="TRUE">-74.000000</longcm>
+<latprjo Sync="TRUE">40.166667</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+				<projcsn Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</projcsn>
+			</cordsysn>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NYCPolicePrecincts13">
+			<enttyp>
+				<enttypl Sync="TRUE">NYCPolicePrecincts13</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">77</enttypc>
+			</enttyp>
+			<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+			</attr>
+			<attr>
+<attrlabl Sync="TRUE">Precinct</attrlabl>
+<attalias Sync="TRUE">Precinct</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Denotes the precinct number serviced by the police precinct</attrdef>
+<attrdefs>New York (N.Y.). Department of City Planning</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape_Leng</attrlabl>
+<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdefs>Tufts University </attrdefs>
+<attrdef>Length of feature in the unit of feet.</attrdef>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape_Area</attrlabl>
+<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Area of feature in the unit of squared feet.</attrdef>
+<attrdefs>Tufts University </attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearborn Rd</address>
+</cntaddr>
+				<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+		</distrib>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.437</transize>
+					<dssize Sync="TRUE">1.381</dssize>
+				</digtinfo>
+			</digform>
+			<fees>Free</fees>
+		</stdorder>
+		<resdesc>Online Dataset</resdesc>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140522</metd>
+		<metc>
+			<cntinfo>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<address>16 Dearborn Rd</address>
+<country>USA</country>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+		<CreaDate>20131202</CreaDate>
+		<CreaTime>18315300</CreaTime>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncDate>20140522</SyncDate>
+		<SyncTime>23064600</SyncTime>
+		<ModDate>20140522</ModDate>
+		<ModTime>23064600</ModTime>
+		<MetaID>{AB4B3036-0293-44B5-A84E-471733032FDB}</MetaID>
+</Esri>
+	<mdDateSt Sync="TRUE">20140522</mdDateSt>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"/>
+		</dataLang>
+		<idCitation>
+			<resTitle Sync="TRUE">NYCPolicePrecincts13</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"/>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"/>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">913175.108826</westBL>
+					<eastBL Sync="TRUE">1067382.508423</eastBL>
+					<northBL Sync="TRUE">272844.29364</northBL>
+					<southBL Sync="TRUE">120121.881254</southBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-74.257159</westBL>
+			<eastBL Sync="TRUE">-73.699215</eastBL>
+			<northBL Sync="TRUE">40.915568</northBL>
+			<southBL Sync="TRUE">40.495992</southBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+	</dataIdInfo>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"/>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"/>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc Sync="TRUE">002</orDesc>
+					<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NYCPlanning2013\Boundaries\nypp_13c_av\NYCPolicePrecincts13.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+				<transSize Sync="TRUE">1.381</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">Shapefile</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001"/>
+			</topLvl>
+			<geometObjs Name="NYCPolicePrecincts13">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">77</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+	</spatRepInfo>
+</metadata>

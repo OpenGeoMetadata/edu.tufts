@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Dept. of State</origin>
+				<pubdate>201012</pubdate>
+				<title>Damaged and Destroyed Villages Darfur Sudan 2010</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>Darfur</sername>
+					<issue>201012</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Washington (D.C.)</pubplace>
+					<publish>United States. Dept. of State</publish>
+				</pubinfo>
+				<onlink>http://hiu.state.gov/data/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Dept. of State</origin>
+						<pubdate>2010</pubdate>
+						<title>United States. Dept. of State. Humanitarian Information Unit Data</title>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Dept. of State</publish>
+						</pubinfo>
+						<onlink>https://hiu.state.gov/data/data.aspx</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">Darfurdamvillages10</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset describes the condition of villages in the Darfur region of Sudan that the U.S. Government has confirmed as either "damaged" or "destroyed" between the time period February 2003 to December 2010. Additionally, villages the are confirmed to have "No Damage" are also reported.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.
+This layer may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>Using the "Darfur Damaged and Destroyed Villages" dataset responsibly: Monitoring the status of villages in Darfur, Sudan is an ongoing process.  After information on the level of damage of villages is collected and confirmed, that information goes into a data table in which entire villages are categorized as not damaged, damaged, or destroyed.  This categorization process is not an exact science, but the methodology employed is a conservative one; the database only includes records of damage and destruction about which there is a high degree of confidence. All estimates about the number of destroyed structures and total structures are approximate. Wherever possible, the year or year range of damage is included in the database field associated with a particular village, though the database does not contain precise dates of damage or destruction. On occasion the "YR_ATTACK" field will include a date range of two different years, for example "2003/2004". This indicates the date range in which the attack was confirmed, and should not be interpreted that there were multiple attacks. 
+
+HIU Modifications: The Humanitarian Information Unit (HIU) of the U.S. Department of State has reformatted the original dataset, in an attempt to increase its usability for quantitative analysis. The original "Structures" data field was parsed into three seperate fields: "Aprox_Str1", "Aprox_Str2", and "Sec_Town". All efforts were made to ensure these data fields matched the original, but if a difference is found, please defer to the original "Structures" field. As with the original "Structures" data field, all counts are approximate. Additionally the "YR_ATTACK" field was also parsed. In the situation where an exact year could not be determined, the "YR_ATTACK" field was split into two data fields "YR_RANGE1" and "YR_RANGE2". This was done solely with the intent of making numerical calculations easier and should not be interpreted as either additional precision regarding the year of attack or that two seperate attacks occurred. Again, if a discrepancy between the "YR_ATTACK" field and the "YR_RANGE1" and "YR_RANGE2" fields occur, defer to the original "YR_ATTACK" data.  When the HIU receives further information on the status of more villages throughout the region, we will distribute it as appropriate.  This data can be sourced as "U.S. Government."</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>200302</begdate>
+					<enddate>201012</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+21.835000</westbc>
+				<eastbc>
+27.390000</eastbc>
+				<northbc>
+15.588889</northbc>
+				<southbc>
+9.273333</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">21.835000</leftbc>
+<rightbc Sync="TRUE">27.390000</rightbc>
+<bottombc Sync="TRUE">9.273333</bottombc>
+<topbc Sync="TRUE">15.588889</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>society</themekey>
+				<themekey>location</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Sudan--History--Darfur Conflict, 2003-</themekey>
+				<themekey>Villages</themekey>
+				<themekey>Buildings--War damage</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Western Darfur</placekey>
+				<placekey>Sudan</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+				<placekey>Africa</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Benson Wilder</cntper>
+					<cntorg>Humanitarian Information Unit, U.S. Department of State</cntorg>
+				</cntperp>
+				<cntpos>Geographer</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>Director, Humanitarian Information Unit</address>
+					<address>Department of State</address>
+					<address>2025 E St., NW, Suite NE5-037</address>
+					<city>Washington, DC</city>
+					<postal>20522</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202-634-0359</cntvoice>
+				<cntemail>wilderbf@state.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Monitoring the status of villages in Darfur, Sudan is an ongoing process.  After information on the level of damage of villages is collected and confirmed, that information goes into a data table in which entire villages are categorized as not damaged, damaged, or destroyed.  This categorization process is not an exact science, but the methodology employed is a conservative one; the database only includes records of damage and destruction about which there is a high degree of confidence. All estimates about the number of destroyed structures and total structures are approximate. Wherever possible, the year or year range of damage is included in the database field associated with a particular village, though the database does not contain precise dates of damage or destruction. On occasion the "YR_ATTACK" field will include a date range of two different years, for example "2003/2004". This indicates the date range in which the attack was confirmed, and should not be interpreted that there were multiple attacks.</attraccr>
+		</attracc>
+		<lineage>
+			<srcinfo>
+				<srcscale>unknown</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>D:\Documents\HIU\Darfur\HIU_Darfur_Village_Review\Darfur_December2010_update\HIU_Sudan_Darfur_DamagedDestroyedVillages_2010Dec</srcused>
+				<procdate>20110922</procdate>
+				<proctime>15520900</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset moved.</procdesc>
+				<srcused>D:\Documents\HIU\Darfur\HIU_Darfur_Village_Review\Darfur_December2010_update\Darfur_Final_2010Dec_datasets\HIU_Sudan_Darfur_DamagedDestroyedVillages_2010Dec</srcused>
+				<procdate>20110922</procdate>
+				<proctime>15523000</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Changed name of file from HIU_Sudan_Darfur_DamagedDestroyedVillages_2010Dec to Darfurdamvillages10</procdesc>
+				<procdate>20111122</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="Darfurdamvillages10">
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>9183</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="Darfurdamvillages10">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">9183</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="Darfurdamvillages10">
+			<enttyp>
+				<enttypl>
+Darfurdamvillages10</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">9183</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Village Name</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LATITUDE</attrlabl>
+				<attrdef>Format: Degree, Minutes, Seconds (DDMMSS)</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">LATITUDE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>LAT_DD</attrlabl>
+				<attrdef>Format: Decimal Degrees</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">LAT_DD</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>LONGITUDE</attrlabl>
+				<attrdef>Format: Degrees, Minutes, Seconds (DDDMMSS)</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">LONGITUDE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LONG_DD</attrlabl>
+				<attrdef>Format: Decimal Degrees</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">LONG_DD</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>STATUS</attrlabl>
+				<attrdef>Condition of village at time of evaluation</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">STATUS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STRUCTURES</attrlabl>
+				<attrdef>Approximation of both the damaged/destroyed structures and the total number of structures in a village</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">STRUCTURES</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>YR_CONFIRM</attrlabl>
+				<attrdef>Year in which village destruction could be confirmed</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">YR_CONFIRM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>APROX_STR1</attrlabl>
+				<attrdef>Parsed from original "Structures" data field, represents the approximate number of destroyed structures in a village</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">APROX_STR1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>APROX_STR2</attrlabl>
+				<attrdef>Parsed from original "Structures" data field, represents the approximate total number of structures in a village</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">APROX_STR2</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>YR_RANGE1</attrlabl>
+				<attrdef>year village destruction was confirmed; parsed from original "Yr_Confirm" data field</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">YR_RANGE1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>YR_RANGE2</attrlabl>
+				<attrdef>second date of an approximate year range; parsed from original "Yr_Confirm" data field</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attrvai>
+					<attrva>if a value appears in "Yr_Range2", it indicates the second date of a date range in which the attack occurred</attrva>
+				</attrvai>
+				<attalias Sync="TRUE">YR_RANGE2</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>SEC_TOWN</attrlabl>
+				<attrdef>Secondary town is a general description used to differentiate between large and small villages. Secondary towns are generally hubs of activity for the local area.</attrdef>
+				<attrdefs>United States. Dept. of State</attrdefs>
+				<attalias Sync="TRUE">SEC_TOWN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.245</transize>
+					<dssize Sync="TRUE">0.245</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20111128</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Benson Wilder</cntper>
+					<cntorg>Humanitarian Information Unit, U.S. Department of State</cntorg>
+				</cntperp>
+				<cntpos>Geographer</cntpos>
+				<cntaddr>
+					<addrtype/>
+					<city/>
+					<state/>
+					<postal/>
+				</cntaddr>
+				<cntvoice>202-634-0359</cntvoice>
+				<cntemail>wilderbf@state.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">Darfurdamvillages10</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">21.835</westBL>
+<eastBL Sync="TRUE">27.39</eastBL>
+<northBL Sync="TRUE">15.588889</northBL>
+<southBL Sync="TRUE">9.273333</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">21.835</westBL>
+<eastBL Sync="TRUE">27.39</eastBL>
+<northBL Sync="TRUE">15.588889</northBL>
+<southBL Sync="TRUE">9.273333</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Darfur\Darfurdamvillages10.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.245</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="Darfurdamvillages10">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">9183</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130215</SyncDate>
+<SyncTime>10330700</SyncTime>
+<ModDate>20130215</ModDate>
+<ModTime>10330700</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130215</mdDateSt>
+</metadata>

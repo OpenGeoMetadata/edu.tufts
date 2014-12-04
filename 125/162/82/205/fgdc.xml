@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>New York (N.Y.). Dept. of Information Technology and Telecommunications.</origin>
+<pubdate>20040519</pubdate>
+<title>Survey Control Points New York NY 1996-2002</title>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>New York (N.Y.)</pubplace>
+<publish>New York (N.Y.). Dept. of Information Technology and Telecommunications.</publish>
+</pubinfo>
+<onlink>http://www.nyc.gov/html/datamine/html/data/geographic.shtml</onlink>
+<lworkcit>
+<citeinfo>
+<origin>New York (N.Y.). Dept. of Information Technology and Telecommunications.</origin>
+<pubdate>20040519</pubdate>
+<title>City of New York, NY Planning</title>
+<pubinfo>
+<pubplace>New York (N.Y.)</pubplace>
+<publish>New York (N.Y.). Dept. of Information Technology and Telecommunications.</publish>
+</pubinfo>
+</citeinfo>
+</lworkcit>
+<ftname Sync="TRUE">NYCSurveyPoints9602</ftname>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This point dataset represents  New York, NY monuments, GPS points and analytical points used for the triangulation of the New York City Base Map.</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+<langdata Sync="TRUE">en</langdata>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>1996</begdate>
+<enddate>2002</enddate>
+</rngdates>
+</timeinfo>
+<current>ground condition</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>After flyover.</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-74.288371</westbc>
+<eastbc>-73.640692</eastbc>
+<northbc>40.962382</northbc>
+<southbc>40.482717</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">904604.680196</leftbc>
+<rightbc Sync="TRUE">1083487.639341</rightbc>
+<bottombc Sync="TRUE">115345.638719</bottombc>
+<topbc Sync="TRUE">289900.719381</topbc>
+</lboundng>
+</spdom>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>location</themekey>
+</theme>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Global Positioning System</themekey>
+<themekey>Triangulation</themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>New York City</placekey>
+<placekey>New York</placekey>
+<placekey>NY</placekey>
+</place>
+</keywords>
+<accconst>Unrestricted Access</accconst>
+<useconst>The user constraints are defined by the New York City Department of Information Technology and Telecommunications.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>New York City Department of Information Technology and Telecommunications.</cntorg>
+</cntorgp>
+<cntvoice>212-788-6600</cntvoice>
+</cntinfo>
+</ptcontac>
+<native>Microsoft Windows Vista Version 6.1 (Build 7600) ; ESRI ArcCatalog 9.3.1.4000</native>
+<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+<dataqual>
+<posacc>
+<horizpa>
+<horizpar>All the NYCMap data was aerotriangulated and stereo-compiled to meet ASPRS Class 1 horizontal mapping standards and ASPRS vertical Class 2 accuracy specifications.  The mapping standards deal with Root Mean Square (RMS) calculations that states if a random number of clearly identifiable surveyed ground control points throughout the project were compared to the mapped features, the RMS of the points would not exceed 2'. In layman's terms,  95% of the data is accurate to +/- 2'.</horizpar>
+<qhorizpa>
+<horizpav>95% of the data is accurate to +/- 2 feet</horizpav>
+<horizpae>95% of the data is accurate to +/- 2 feet</horizpae>
+</qhorizpa>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srcscale>0.75 foot for orthophotographs from 2001 - 2002 and 1 foot for orthophotographs from 1996</srcscale>
+<typesrc>Orthophotographs</typesrc>
+</srcinfo>
+<procstep>
+<procdesc>Updated orthophotography is overlaid onto planimetric data generated from the previous orthophotographs. In this case 2001 - 2002 orthophotography was used to capture the difference from 1996 planimetric data.</procdesc>
+</procstep>
+<procstep>
+<procdesc>Changed name of file from Survey_Points to NYCSurveyPoints04</procdesc>
+<procdate>20120309</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00AM - 5:00PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Changed name from NYCSUrveryPoints04 to NYCSurveyPoints9602</procdesc>
+<procdate>20120328</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00AM - 5:00PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm Name="NYCSurveyPoints9602">
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>5340</ptvctcnt>
+</sdtsterm>
+<esriterm Name="NYCSurveyPoints9602">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">5340</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.000000</absres>
+<ordres>0.000000</ordres>
+</coordrep>
+<plandu>survey feet</plandu>
+</planci>
+<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">40.666667</stdparll>
+<stdparll Sync="TRUE">41.033333</stdparll>
+<longcm Sync="TRUE">-74.000000</longcm>
+<latprjo Sync="TRUE">40.166667</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 80</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</projcsn>
+</cordsysn>
+</horizsys>
+</spref>
+<eainfo>
+<detailed Name="NYCSurveyPoints9602">
+<enttyp>
+<enttypl>Survey_Points</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">5340</enttypc>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl>SOURCE_ID</attrlabl>
+<attrdef>Unique persistent ID from source database.</attrdef>
+<attrdefs>New York (N.Y.). Dept. of Information Technology and Telecommunications.</attrdefs>
+<attalias Sync="TRUE">SOURCE_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+<attrdef>Name of feature</attrdef>
+<attrdefs>New York (N.Y.). Dept. of Information Technology and Telecommunications.</attrdefs>
+<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+</attr>
+<attr>
+<attrlabl>SOURCETYPE</attrlabl>
+<attrdef>Source of geometry "photogrammetric" or "hand digitized"</attrdef>
+<attrdefs>New York (N.Y.). Dept. of Information Technology and Telecommunications.</attrdefs>
+<attalias Sync="TRUE">SOURCETYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+<attr>
+<attrlabl>SOURCEDATE</attrlabl>
+<attrdef>The year of orthophotography used to update geometry.</attrdef>
+<attrdefs>New York (N.Y.). Dept. of Information Technology and Telecommunications.</attrdefs>
+<attalias Sync="TRUE">SOURCEDATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+<attr>
+<attrlabl>MODIFIED</attrlabl>
+<attrdef>Date feature geometry is updated in NYCMap database</attrdef>
+<attrdefs>New York (N.Y.). Dept. of Information Technology and Telecommunications.</attrdefs>
+<attalias Sync="TRUE">MODIFIED</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+<attr>
+<attrlabl>FEAT_CODE</attrlabl>
+<attrdef>Feature code (classification)  corresponds to feature description</attrdef>
+<attrdefs>New York (N.Y.). Dept. of Information Technology and Telecommunications.</attrdefs>
+<attalias Sync="TRUE">FEAT_CODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+<attr>
+<attrlabl>FEAT_DESC</attrlabl>
+<attrdef>Feature description is a written explanation of the type or classification of feature</attrdef>
+<attrdefs>New York (N.Y.). Dept. of Information Technology and Telecommunications.</attrdefs>
+<attalias Sync="TRUE">FEAT_DESC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+</attr>
+<attr>
+<attrlabl>EXPORTED</attrlabl>
+<attrdef>Date feature was exported from CARSI</attrdef>
+<attrdefs>New York (N.Y.). Dept. of Information Technology and Telecommunications.</attrdefs>
+<attalias Sync="TRUE">EXPORTED</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd.</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00AM - 5:00PM, EST-USA</hours>
+</cntinfo>
+</distrib>
+<resdesc>Online Dataset.</resdesc>
+<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<transize>0.143</transize>
+<dssize Sync="TRUE">0.143</dssize>
+</digtinfo>
+</digform>
+<fees>None</fees>
+<ordering>Web-based DIstribution Only.</ordering>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20110712</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00AM - 5:00PM, EST-USA</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NYCSurveyPoints9602</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">904604.680196</westBL>
+<eastBL Sync="TRUE">1083487.639341</eastBL>
+<northBL Sync="TRUE">289900.719381</northBL>
+<southBL Sync="TRUE">115345.638719</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-74.288371</westBL>
+<eastBL Sync="TRUE">-73.640692</eastBL>
+<northBL Sync="TRUE">40.962382</northBL>
+<southBL Sync="TRUE">40.482717</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NewYorkCity\DOITT\NYCSurveyPoints9602.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.143</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NYCSurveyPoints9602">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">5340</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20120802</SyncDate>
+<SyncTime>09512800</SyncTime>
+<ModDate>20120802</ModDate>
+<ModTime>09512800</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20120802</mdDateSt>
+</metadata>

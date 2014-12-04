@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+				<origin>United States. Federal Highway Administration. Office of Planning</origin>
+				<pubdate>2006</pubdate>
+				<title>Lead Non-Attainment Areas USA 2006</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington (D.C.)</pubplace>
+					<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Databases (NTAD) 2011</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USALeadNA06</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents lead  non-attainment and maintenance areas in the United States and territories. For more detailed information on this dataset, see the Overview Description in the Entity Attribute section of this document.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-111.953249</westbc>
+				<eastbc>
+-84.908554</eastbc>
+				<northbc>
+46.608168</northbc>
+				<southbc>
+32.416814</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-111.953249</leftbc>
+<rightbc Sync="TRUE">-84.908554</rightbc>
+<bottombc Sync="TRUE">32.416814</bottombc>
+<topbc Sync="TRUE">46.608168</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+				<themekey>health</themekey>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Lead--Environmental aspects</themekey>
+				<themekey>Air--Pollution</themekey>
+				<themekey>Air--Pollution--United States</themekey>
+				<themekey>Air--Pollution--Standards--United States</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<place>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Ave., SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202-366-4000 </cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
+		<crossref>
+			<citeinfo>
+				<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+				<pubdate>2011</pubdate>
+				<title>National Transportation Atlas Databases (NTAD) 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington, DC</pubplace>
+					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Unknown</attraccr>
+			<qattracc>
+				<attraccv>None</attraccv>
+				<attracce>Unknown</attracce>
+			</qattracc>
+		</attracc>
+		<logic>None</logic>
+		<complete>Unknown</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Unknown</horizpar>
+				<qhorizpa>
+				</qhorizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<pubdate>2005</pubdate>
+						<title>40 Code of Federal Regulations Part 81</title>
+						<othercit>The spatial boundaries of each nonattainment and maintenance area are defined in 40 Code of Federal Regulations Part 81.</othercit>
+						<onlink>http://www.epa.gov/epahome/cfr40.htm</onlink>
+						<lworkcit>
+							<citeinfo>
+								<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2005</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>40 CFR</srccitea>
+				<srccontr>The spatial boundaries of each nonattainment and maintenance area are defined in 40 Code of Federal Regulations Part 81.</srccontr>
+				<srcscale>Unknown</srcscale>
+</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Environmental Protection Agency</origin>
+						<pubdate>2005</pubdate>
+						<title>Green Book</title>
+						<onlink>http://www.epa.gov/oar/oaqps/greenbk/</onlink>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2005</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Green Book</srccitea>
+				<srccontr>The United States Environmental Protection Agency's (EPA) "Green Book" defines Criteria Pollutants.  EPA uses six "criteria pollutants" as indicators of air quality, and has established for each of them a maximum concentration above which adverse effects on human health may occur. These threshold concentrations are called National Ambient Air Quality Standards (NAAQS).</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Data collected from the Environmental Protection Agency or created using base geographic reference layers and physical descriptions provided by EPA and contained in in 40 Code of Federal Regulations Part 81.</procdesc>
+				<procdate>2004</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Updated with information from the EPA Green Book.</procdesc>
+				<procdate>2005</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Spatial data edited and cleaned to more closely match shorelines.</procdesc>
+				<procdate>2006</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Standard quality control processes performed in preparation for publication.</procdesc>
+				<procdate>2006</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Geospatial Information Program</cntper>
+							<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+						</cntperp>
+						<cntvoice>1 202 366 DATA</cntvoice>
+						<cntfax>1 202 366 3640</cntfax>
+						<cntemail>answers@bts.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards:
+&amp;gt;Changed name of file from "naa_ma_lead" to "USALeadNA06"
+&amp;gt;Changed citatition title from "Non-Attainment Areas: Lead" to "Lead Non-Attainment Areas USA 2006"
+&amp;gt;Changed access contraints from "None." to "Unrestricted Access Online"
+&amp;gt;Added to Larger work Citation originator, pubdate, title, pubplace, publisher
+&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added ISO 19115 Topic Category keywords
+&amp;gt;Added LCSH theme keywords
+&amp;gt;Added GNS place keywords
+&amp;gt;Changed originator from "Federal Highway Administration, Office of Planning, HEPP-1" to "United States. Federal Highway Administration. Office of Planning"
+&amp;gt;Changed originator/publisher from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services"
+&amp;gt;Changed publication place to reflect LCNH formatting
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20111206</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USALeadNA06">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>13</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USALeadNA06">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">13</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000001</latres>
+				<longres>0.000001</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>0.000010</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="USALeadNA06">
+			<enttyp>
+				<enttypl>
+naa_ma_lead</enttypl>
+				<enttypd>Non-Attainment Areas: Lead</enttypd>
+				<enttypds>RITA/BTS</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">13</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>GREENNAME</attrlabl>
+				<attrdef>Name of the area as identified in the EPA green book (http://www.epa.gov/oar/oaqps/greenbk/).</attrdef>
+				<attrdefs>Environmental Protection Administration</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">GREENNAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATUS</attrlabl>
+				<attrdef>Current status of the area as designated by the EPA.</attrdef>
+				<attrdefs>Environmental Protection Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Maintenance</edomv>
+						<edomvd>area is in maintenance status</edomvd>
+						<edomvds>Environmental Protection Administration</edomvds>
+					</edom>
+					<edom>
+						<edomv>Non-Attainment</edomv>
+						<edomvd>area is in non-attainment status</edomvd>
+						<edomvds>Environmental Protection Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STATUS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CLASS</attrlabl>
+				<attrdef>Severity classification as identified by the EPA</attrdef>
+				<attrdefs>Environmental Protection Administration</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">CLASS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">26</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SOURCE</attrlabl>
+				<attrdef>Identifies which entity collected this particular geospatial data feature.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SOURCE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>State FIPS code</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FIPS (Federal Information Processing Standard) Pub 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>Version of the database</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+		<overview>
+			<eaover>Exposure to lead (Pb) can occur through multiple pathways, including inhalation of air and ingestion of Pb in food, water, soil or dust. Excessive Pb exposure can cause seizures, mental retardation and/or behavioral disorders. A recent National Health and Nutrition Examination Survey reported a 78% decrease in blood lead levels from 12.8 to 2.8 ug/dL between 1976 and 1980 and from 1988 to 1991. This dramatic decline can be attributed to the reduction of leaded gasoline and to the removal of lead from soldered cans. Although this study shows great progress, infants and young children are especially susceptible to low doses of Pb, and this age group still shows the highest levels. Low doses of Pb can lead to central nervous system damage. Recent studies have also shown that Pb may be a factor in high blood pressure and in subsequent heart disease in middle-aged males. 
+
+Lead gasoline additives, non-ferrous smelters, and battery plants are the most significant contributors to atmospheric Pb emissions. In 1993 transportation sources contributed 33% of the annual emissions, down substantially from 81% in 1985. Total Pb emissions from all sources dropped from 20,100 tons in 1985 to 4,900 tons in 1993. The decrease in Pb emissions from highway vehicles accounts for essentially all of this decline. The reasons for the decrease are noted below. 
+
+Two air pollution control programs implemented by EPA before promulgation of the Pb standard in October 1978 have resulted in lower ambient Pb levels. First, regulations issued in the early 1970's required gradual reduction of the Pb content of all gasoline over a period of many years. The Pb content of the leaded gasoline pool was reduced from an average of 12.0 gram/gallon, to 0.5 gram/gallon on July 1, 1985, and still further to 0.1 gram/gallon on January 1, 1986. Second, as part of the EPA's overall automotive emission control program, unleaded gasoline was introduced in 1975 for automobiles equipped with catalytic control devices. These devices reduce emissions of CO, VOCs and NOx. In 1993, unleaded gasoline sales accounted for 99% of the total gasoline market. In contrast, the unleaded share of the gasoline market in 1984 was approximately 60%. These programs have essentially eliminated violations of the Pb standard in urban areas except those areas with Pb point sources. 
+
+Programs are also in place to control Pb emissions from stationary point sources. Lead emissions from stationary sources have been substantially reduced by control programs oriented toward attainment of the PM-10 and Pb ambient standards. However, significant and ambient problems still remain around some Pb point sources, which are now the focus of new monitoring initiatives. Pb emissions in 1993 from industrial sources, e.g., primary and secondary Pb smelters, dropped by about 91% from levels reported in 1970. Emissions of Pb from solid waste disposal are down about 76% since 1970. In 1993, emissions from solid waste disposal, industrial processes and transportation were: 500, 2,300 and 1,600 short tons, respectively. The overall effect of the control programs for these three categories has been a major reduction in the amount of Pb in the ambient air. Additional reduction in Pb are anticipated as a result of the Agency's Multimedia Lead Strategy issued in February 1991. The goal of the Lead Strategy is to reduce Pb exposures to the fullest extent practicable. 
+
+Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air quality standard for lead.</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.016</transize>
+					<dssize Sync="TRUE">0.016</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20110215</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Data Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearborn Ave</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<cntpos>GIS Data Technician</cntpos>
+</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USALeadNA06</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-111.953249</westBL>
+<eastBL Sync="TRUE">-84.908554</eastBL>
+<northBL Sync="TRUE">46.608168</northBL>
+<southBL Sync="TRUE">32.416814</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-111.953249</westBL>
+<eastBL Sync="TRUE">-84.908554</eastBL>
+<northBL Sync="TRUE">46.608168</northBL>
+<southBL Sync="TRUE">32.416814</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USALeadNA06.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.016</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USALeadNA06">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">13</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11445000</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11445000</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

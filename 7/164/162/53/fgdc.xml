@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Shalom akhshav (Organization : Israel)</origin>
+				<pubdate>2008</pubdate>
+				<title>Roads Israel and Palestine 2008</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+				</serinfo>
+				<pubinfo>
+				</pubinfo>
+				<onlink>http://www.btselem.org/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Shalom akhshav (Organization : Israel)</origin>
+						<pubdate>2008</pubdate>
+						<title>Israel-Palestine GIS Data</title>
+						<pubinfo>
+							<pubplace>Jerusalem</pubplace>
+							<publish>Shalom akhshav (Organization : Israel)</publish>
+						</pubinfo>
+						<onlink>http://www.btselem.org/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">IsraelPalestineRoads08</ftname>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This line dataset represents the road system for all of Israel and Palestine.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2008</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+34.198145</westbc>
+				<eastbc>
+35.855493</eastbc>
+				<northbc>
+33.328428</northbc>
+				<southbc>
+29.490954</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>line</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Roads</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Israel</placekey>
+				<placekey>West Bank</placekey>
+				<placekey>Gaza Strip</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Asia</placekey>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+			</place>
+			<place>
+				<placekt>Getty</placekt>
+				<placekey>Palestine</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational and non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Peace Now</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Lloyd George St. 6</address>
+					<address>P.O.Box 8159</address>
+					<city>Jerusalem</city>
+					<postal>91081</postal>
+					<country>Israel</country>
+				</cntaddr>
+				<cntvoice>972-2-5660648</cntvoice>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+	</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Name changed from roadssystem_project to IsraelPalestineRoads08.</procdesc>
+				<procdate>20120316</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>String</sdtstype>
+				<ptvctcnt>8059</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Transverse Mercator</mapprojn>
+					<transmer>
+						<sfctrmer>1.000007</sfctrmer>
+						<longcm>35.204517</longcm>
+						<latprjo>31.734394</latprjo>
+						<feast>219529.584000</feast>
+						<fnorth>626907.390000</fnorth>
+					</transmer>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>D_Israel</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>
+IsraelPalestineRoads08</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FNODE_</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TNODE_</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>LPOLY_</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>RPOLY_</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>LENGTH</attrlabl>
+				<attrdef>Length in meters</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ROAD_SYSTE</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ROAD_SYS_1</attrlabl>
+				<attrdef>Geoprocessed Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>LINKCAT</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>STRATEGIC</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>STATUS</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ISROADNR</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>ZONENR</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>IDENTIFY</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>CHECKPOINT</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>apear</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>1.577</transize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20121004</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+	</metainfo>
+	<Esri>
+<ModDate>20130308</ModDate>
+<ModTime>11370600</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130308</mdDateSt>
+</metadata>

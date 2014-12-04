@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>New Hampshire. Office of Energy and Planning</origin>
+				<pubdate>20120904</pubdate>
+				<title>House Floterial District Boundaries New Hampshire 2012 </title>
+				<edition>One</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+				<othercit>New Hampshire. Office of Energy and Planning</othercit>
+				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nhhouse2012flot&amp;amp;#47;nh</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin> University of New Hampshire. Complex Systems Research Center</origin>
+						<pubdate>19860101</pubdate>
+						<title>NH GRANIT Database</title>
+						<pubinfo>
+							<pubplace>Durham (N.H.)</pubplace>
+							<publish>NH GRANIT (Firm)</publish>
+						</pubinfo>
+						<onlink>&amp;lt;URL:http://www.granit.sr.unh.edu&amp;gt;</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">NHHouseFloterialDistricts12</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset shows the New Hampshire House of Representatives "floterial" district boundaries drawn by the New Hampshire Legislature based on the 2010 US Census population count. 
+
+Floterial districts overlay other NH House of Representatives districts ("base" districts), which are available from companion shape file NHHouseDistricts12. Both shape files are required to depict all NH House of Representatives districts. District boundaries were derived by applying district codes retrieved from the NH Secretary of State web site to the geometry provided by the GRANIT town boundary layer (PBNH).</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>Data distribution tile: statewide</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>20120904</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>After each decennial census</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-72.594653</westbc>
+				<eastbc Sync="TRUE">-70.567752</eastbc>
+				<northbc Sync="TRUE">45.307191</northbc>
+				<southbc Sync="TRUE">42.692817</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">745473.875163</leftbc>
+<rightbc Sync="TRUE">1267014.499846</rightbc>
+<bottombc Sync="TRUE">72029.906250</bottombc>
+<topbc Sync="TRUE">1023284.000000</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>polygon</themekey>
+</theme>
+<theme>
+<themekey>boundaries</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>society</themekey>
+</theme>
+<theme>
+<themekey>Administrative and political divisions.</themekey>
+<themekey>United States Congress. House.</themekey>
+<themekey>New Hampshire. House of Representatives </themekey>
+<themekt>LCSH</themekt>
+<themekey>Districts</themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>New Hampshire</placekey>
+</place>
+<place>
+<placekey>Northern Hemispere</placekey>
+<placekey>Western Hemishpere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational and non-commercial use only. mNot for legal use</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NH Office of Energy and Planning</cntorg>
+					<cntper>GIS Planner</cntper>
+				</cntorgp>
+				<cntpos>GIS Planner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>107 Pleasant Street, 3rd Floor</address>
+					<city>Concord</city>
+					<state>NH</state>
+					<postal>03301</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>603-271-2155</cntvoice>
+				<cntfax>603-271-2615</cntfax>
+				<cntemail>OEPinfo@nh.gov</cntemail>
+				<hours>8:00AM-4:30PM, EST</hours>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>&amp;lt;URL:http://www.granit.unh.edu/cgi-bin/load_file?PATH=/data/database/d-webdata/nhhouse2012flot/browse.gif&amp;gt;</browsen>
+			<browsed>gif image file</browsed>
+			<browset>GIF</browset>
+		</browse>
+		<datacred>GRANIT database</datacred>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given. </attraccr>
+		</attracc>
+		<logic>Polygon and arc-node topology exists.</logic>
+		<complete>Data is complete for the tile.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+The data were generated from standard USGS
+1:24,000/1:25,000-scale Digital Line Graphs, and thus meet
+National Map Accuracy standards.
+</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>
+The data were generated from standard USGS
+1:24,000-1:25,000-scale Digital Line Graphs, and thus meet
+National Map Accuracy standards.
+</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NH GRANIT</origin>
+						<pubdate>19920101</pubdate>
+						<title>NH Political Boundaries at 1:24,000 Scale</title>
+						<edition>1</edition>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Durham, NH</pubplace>
+							<publish>NH GRANIT, University of New Hampshire</publish>
+						</pubinfo>
+						<othercit>New Hampshire. Office of Energy and Planning</othercit>
+						<onlink>&amp;lt;URL:http://www.granit.unh.edu&amp;gt;</onlink>
+						<lworkcit>
+							<citeinfo>
+								<origin>Complex Systems Research Center, University of New Hampshire</origin>
+								<pubdate>1986</pubdate>
+								<title>GRANIT Database</title>
+								<pubinfo>
+									<pubplace>Reston, VA</pubplace>
+									<publish>US Geological Survey</publish>
+								</pubinfo>
+								<onlink>&amp;lt;URL:http://www.granit.unh.edu&amp;gt;</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>Digital</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>19530101</begdate>
+							<enddate>19900101</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>PBNH</srccitea>
+				<srccontr>Provided basic geometry.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NH Department of Transportation, Bureau of Planning &amp;amp; Community Assistance</origin>
+						<pubdate>20051101</pubdate>
+						<title>NH Public Roads</title>
+						<edition>1</edition>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Concord, NH</pubplace>
+							<publish>NH Department of Transportation, Bureau of Planning &amp;amp; Community Assistance</publish>
+						</pubinfo>
+						<othercit>None</othercit>
+						<onlink>&amp;lt;URL:http://www.granit.unh.edu/data/search?dset=roads_dot/nh&amp;gt;</onlink>
+						<lworkcit>
+							<citeinfo>
+								<origin>Complex Systems Research Center, University of New Hampshire</origin>
+								<pubdate>1986</pubdate>
+								<title>GRANIT Database</title>
+								<pubinfo>
+									<pubplace>Reston, VA</pubplace>
+									<publish>US Geological Survey</publish>
+								</pubinfo>
+								<onlink>&amp;lt;URL:http://www.granit.unh.edu&amp;gt;</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>Digital</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>19530101</begdate>
+							<enddate>20120630</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>DOTRDS</srccitea>
+				<srccontr>Provided basic geometry.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Complex Systems Research Center, University of New Hampshire</origin>
+						<pubdate>200601</pubdate>
+						<title>New Hampshire Hydrography Dataset - Shapefile Extract</title>
+						<edition>1</edition>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Durham, NH</pubplace>
+							<publish>Complex Systems Research Center, University of New Hampshire</publish>
+						</pubinfo>
+						<othercit>New Hampshire. Office of Energy and Planning</othercit>
+						<onlink>&amp;lt;URL:http://www.granit.sr.unh.edu/cgi-bin/nhsearch?dset=nhhd/nh&amp;gt;</onlink>
+						<lworkcit>
+							<citeinfo>
+								<origin>Complex Systems Research Center, University of New Hampshire</origin>
+								<pubdate>19860101</pubdate>
+								<title>NH GRANIT Database</title>
+								<pubinfo>
+									<pubplace>Durham, New Hampshire</pubplace>
+									<publish>Complex Systems Research Center, University of New Hampshire</publish>
+								</pubinfo>
+								<onlink>&amp;lt;URL:http://www.granit.unh.edu&amp;gt;</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>Digital</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1956</begdate>
+							<enddate>2005</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NHHYDRO</srccitea>
+				<srccontr>Provided basic geometry.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NH Secretary of State</origin>
+						<pubdate>2012</pubdate>
+						<title>"2012 - New Hampshire State Representative Districts"</title>
+						<edition>1</edition>
+						<geoform>.pdf document</geoform>
+						<pubinfo>
+							<pubplace>Concord, NH</pubplace>
+							<publish>NH Secretary of State</publish>
+						</pubinfo>
+						<othercit>None</othercit>
+						<onlink>&amp;lt;URL:http://sos.nh.gov/Voting_Districts.aspx&amp;gt;</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>N/A</srcscale>
+				<typesrc>Digital</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2012</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>TOWNLISTINGS</srccitea>
+				<srccontr>Provided the listing of towns in each of NH State Representative base           districts.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+Attribute was added to PBNH to capture the NH House of Representatives
+corresponding floterial district, if one existed, for each town. Areas with no
+floterial district were assigned no district code. For sub-municipal districts,
+ward boundary maps and descriptions were obtained from city offices. Boundaries
+were obtained from corresponding GRANIT base map layers (DOTRDS, NHHYDRO) and
+used to split municipalities into ward polygons. TOWNLISTINGS was used to
+populate the field. Results were "dissolved" to generate the House floterial
+district boundaries.
+</procdesc>
+				<srcused>PBNH, DOTRDS, NHHYDRO, TOWNLISTINGS</srcused>
+				<procdate>20120904</procdate>
+				<srcprod>Version 1</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>GIS Planner</cntper>
+							<cntorg>NH Office of Energy and Planning</cntorg>
+						</cntperp>
+						<cntpos>GIS Planner</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>107 Pleasant Street, 3rd Floor</address>
+							<city>Concord</city>
+							<state>NH</state>
+							<postal>03301</postal>
+							<country>US</country>
+						</cntaddr>
+						<cntvoice>603-271-2155</cntvoice>
+						<cntfax>603-271-2615</cntfax>
+						<cntemail>OEPinfo@nh.gov</cntemail>
+						<hours>8:00AM-4:30PM, EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\nhhouse2012flot-nh-nhhouse2012flot.xml</srcused>
+<procdate Sync="TRUE">20140625</procdate>
+<proctime Sync="TRUE">09403300</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician`</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00am-5:00pm, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>The name of this dataset file was changed from NHHouse2012Flot to NHHouseFloterialDistrics12.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+<procdate>20140625</procdate>
+<proctime>10:13AM</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NHHouseFloterialDistricts12">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">45</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NHHouseFloterialDistricts12">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">45</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999967</sfctrmer>
+<longcm Sync="TRUE">-71.666667</longcm>
+<latprjo Sync="TRUE">42.500000</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NHHouseFloterialDistricts12">
+			<enttyp>
+				<enttypl>NHHouseFloterialDistrics12</enttypl>
+				<enttypd>Defines NH House of Representatives Floterial Districts         in NH</enttypd>
+				<enttypds>New Hampshire. Office of Energy and Planning</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">45</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>NHHouse201</attrlabl>
+				<attrdef>NH House of Representatives District</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>BE8</edomv>
+						<edomvd>NH House of Representatives Belknap County District 8</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>BE9</edomv>
+						<edomvd>NH House of Representatives Belknap County District 9</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>CA7</edomv>
+						<edomvd>NH House of Representives Carroll County District 7</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>CA8</edomv>
+						<edomvd>NH House of Representives Carroll County District 8</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>CH14</edomv>
+						<edomvd>NH House of Representives Cheshire County District 14</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>CH15</edomv>
+						<edomvd>NH House of Representives Cheshire County District 15</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>CH16</edomv>
+						<edomvd>NH House of Representives Cheshire County District 16</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>CO7</edomv>
+						<edomvd>NH House of Representives Coos County District 7</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>GR14</edomv>
+						<edomvd>NH House of Representives Grafton County District 14</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>GR15</edomv>
+						<edomvd>NH House of Representives Grafton County District 15</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>GR16</edomv>
+						<edomvd>NH House of Representives Grafton County District 16</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>GR17</edomv>
+						<edomvd>NH House of Representives Grafton County District 17</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>HI38</edomv>
+						<edomvd>NH House of Representives Hillsborough County District 38</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>HI39</edomv>
+						<edomvd>NH House of Representives Hillsborough County District 39</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>HI40</edomv>
+						<edomvd>NH House of Representives Hillsborough County District 40</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>HI41</edomv>
+						<edomvd>NH House of Representives Hillsborough County District 41</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>HI42</edomv>
+						<edomvd>NH House of Representives Hillsborough County District 42</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>HI43</edomv>
+						<edomvd>NH House of Representives Hillsborough County District 43</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>HI44</edomv>
+						<edomvd>NH House of Representives Hillsborough County District 44</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>HI45</edomv>
+						<edomvd>NH House of Representives Hillsborough County District 45</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ME25</edomv>
+						<edomvd>NH House of Representives Merrimack County District 25</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ME26</edomv>
+						<edomvd>NH House of Representives Merrimack County District 26</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ME27</edomv>
+						<edomvd>NH House of Representives Merrimack County District 27</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ME28</edomv>
+						<edomvd>NH House of Representives Merrimack County District 28</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ME29</edomv>
+						<edomvd>NH House of Representives Merrimack County District 29</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>RO30</edomv>
+						<edomvd>NH House of Representives Rockingham County District 30</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>RO31</edomv>
+						<edomvd>NH House of Representives Rockingham County District 31</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>RO32</edomv>
+						<edomvd>NH House of Representives Rockingham County District 32</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>RO33</edomv>
+						<edomvd>NH House of Representives Rockingham County District 33</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>RO34</edomv>
+						<edomvd>NH House of Representives Rockingham County District 34</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>RO35</edomv>
+						<edomvd>NH House of Representives Rockingham County District 35</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>RO36</edomv>
+						<edomvd>NH House of Representives Rockingham County District 36</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>RO37</edomv>
+						<edomvd>NH House of Representives Rockingham County District 37</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ST19</edomv>
+						<edomvd>NH House of Representives Strafford County District 19</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ST20</edomv>
+						<edomvd>NH House of Representives Strafford County District 20</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ST21</edomv>
+						<edomvd>NH House of Representives Strafford County District 21</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ST22</edomv>
+						<edomvd>NH House of Representives Strafford County District 22</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ST23</edomv>
+						<edomvd>NH House of Representives Strafford County District 23</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ST24</edomv>
+						<edomvd>NH House of Representives Strafford County District 24</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>ST25</edomv>
+						<edomvd>NH House of Representives Strafford County District 25</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>SU9</edomv>
+						<edomvd>NH House of Representives Sullivan County District 9</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>SU10</edomv>
+						<edomvd>NH House of Representives Sullivan County District 10</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>SU11</edomv>
+						<edomvd>NH House of Representives Sullivan County District 11</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>null</edomv>
+						<edomvd>Not within a floterial district</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">NHHouse201</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearborn Rd</address>
+</cntaddr>
+				<cntvoice>617-627-380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00am - 5:00pm, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>
+Digital data in NH GRANIT represent the efforts of the
+contributing agencies to record information from the cited
+source materials. Complex Systems Research Center, under
+contract to the NH Office of Energy and Planning, and in
+consultation with cooperating agencies, maintains a
+continuing program to identify and correct errors in these
+data. OSP, CSRC, and the cooperating agencies make no claim
+as to the validity or reliability or to any implied uses of
+these data.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI shapefile</formname>
+					<transize>948 kb</transize>
+					<dssize Sync="TRUE">0.863</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>&amp;lt;URL:http://www.granit.sr.unh.edu&amp;gt;</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>
+No charge when downloaded from the internet.  Cost of
+reproduction for provision on CD/ROM or other media.
+</fees>
+			<ordering>
+Mail or fax a copy of the GRANIT "Data Request Form" from
+the GRANIT Data Catalog.
+Delivery Time: Two weeks
+</ordering>
+		</stdorder>
+		<techpreq>
+Ability to read/import shapefiles or Arc/Info export files.
+</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140714</metd>
+		<metrd>20121025</metrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NH Office of Energy and Planning</cntorg>
+					<cntper>GIS Planner</cntper>
+				</cntorgp>
+				<cntpos>GIS Planner</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and physical address</addrtype>
+					<address>107 Pleasant Street, 3rd Floor</address>
+					<city>Concord</city>
+					<state>NH</state>
+					<postal>03301</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>603-271-2155</cntvoice>
+				<cntfax>603-271-2615</cntfax>
+				<cntemail>OEPinfo@nh.gov</cntemail>
+				<hours>8:00AM-4:30PM, EST</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<langmeta Sync="TRUE">en</langmeta>
+<mettc Sync="TRUE">local time</mettc>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{74F1E91E-5861-4D5E-AB6D-AE6160875570}</MetaID>
+<CreaDate>20140625</CreaDate>
+<CreaTime>09403300</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140714</SyncDate>
+<SyncTime>11181400</SyncTime>
+<ModDate>20140714</ModDate>
+<ModTime>11183800</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NHHouseFloterialDistricts12</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">745473.875163</westBL>
+<eastBL Sync="TRUE">1267014.499846</eastBL>
+<northBL Sync="TRUE">1023284</northBL>
+<southBL Sync="TRUE">72029.90625</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-72.594653</westBL>
+<eastBL Sync="TRUE">-70.567752</eastBL>
+<northBL Sync="TRUE">45.307191</northBL>
+<southBL Sync="TRUE">42.692817</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\NHHouseFloterialDistricts12.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.863</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NHHouseFloterialDistricts12">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">45</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140714</mdDateSt>
+</metadata>

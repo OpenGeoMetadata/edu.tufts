@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Geologic Survey (U.S.)</origin>
+				<pubdate>200506</pubdate>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<title>Hydrologic Unit and Watershed Boundaries United States 2005</title>
+<ftname Sync="TRUE">USHydroBounds05</ftname>
+<onlink>http://www.nationalatlas.gov/atlasftp.html#hucs00m</onlink>
+<lworkcit>
+<citeinfo>
+<origin>Geologic Survey (U.S.)</origin>
+<title>National Atlas of the United States</title>
+<pubinfo>
+<pubplace>Reston (Va.)</pubplace>
+<publish>Geologic Survey (U.S.)</publish>
+</pubinfo>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This line dataset contains hydrologic unit boundaries and codes for the United States, Puerto Rico, and the U.S. Virgin Islands, including the boundarie sof natural and manmade stream-drainage areas. It was revised for inclusion in the National Atlas of the United States of America, and updated to match the streams file created by the USGS National Mapping Division (NMD) for the National Atlas of the United States of America. This is a revised version of the November 2002 map layer.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2005</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">62.771213</westbc>
+				<eastbc Sync="TRUE">78.760742</eastbc>
+				<northbc Sync="TRUE">35.645671</northbc>
+				<southbc Sync="TRUE">23.786926</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-179.133392</leftbc>
+<rightbc Sync="TRUE">179.788208</rightbc>
+<bottombc Sync="TRUE">17.674692</bottombc>
+<topbc Sync="TRUE">71.398048</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Puerto Rico</placekey>
+				<placekey>Alabama</placekey>
+				<placekey>Alaska</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>District of Columbia</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+				<placekey>United States</placekey>
+</place>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>line</themekey>
+</theme>
+<theme>
+<themekey>inlandWaters</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>boundaries</themekey>
+</theme>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Hydrology</themekey>
+</theme>
+<place>
+<placekey>North America</placekey>
+<placekey>Northern Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>Western Hemisphere</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntaddr>
+<address>Tufts University GIS Center</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>GIS Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University Geographic Information Systems Center</cntorg>
+</cntorgp>
+</cntinfo>
+</ptcontac>
+</idinfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USHydroBounds05">
+				<sdtstype Sync="TRUE">String</sdtstype>
+				<ptvctcnt Sync="TRUE">11576</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USHydroBounds05">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">11576</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USHydroBounds05">
+			<enttyp>
+				<enttypl Sync="TRUE">USHydroBounds05</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">11576</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">FNODE_</attrlabl>
+<attalias Sync="TRUE">FNODE_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<attrdef>Geoprocessing Identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">TNODE_</attrlabl>
+<attalias Sync="TRUE">TNODE_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<attrdef>Geoprocessing Identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LPOLY_</attrlabl>
+<attalias Sync="TRUE">LPOLY_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<attrdef>Geoprocessing Identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">RPOLY_</attrlabl>
+<attalias Sync="TRUE">RPOLY_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<attrdef>Geoprocessing Identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LENGTH</attrlabl>
+<attalias Sync="TRUE">LENGTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+<attrdef>Length of the segment in meters</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">3</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">HUCS00M020</attrlabl>
+<attalias Sync="TRUE">HUCS00M020</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<attrdef>User-assigned feature identifier</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">BNDTYPE</attrlabl>
+<attalias Sync="TRUE">BNDTYPE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Coastline of International Boundary separating offshore and onshore parts of the same hydrologic unit</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Land and occasionally water boundary between two Water Resource Regions</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Land and occasionally water boundary between two Subregions</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Land and occasionally water boundary between two Accounting Units</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdef>The code number describing the location or type of the hydrologic unit boundary. Boundaries occur between hydrologic units and between onshore and offshore parts of the same hydrologic unit.</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Land and occasionally water boundary between two Cataloging Units</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ERROR_TYPE</attrlabl>
+<attalias Sync="TRUE">ERROR_TYPE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>No conflict exists</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>There was an error in the streams file. The hydrologic unit Boundary was not changed</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdef>A code indicating the type of conflict between the streams file and the hydrologic unit boundary</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>There was a conflict between the NMD streams data and the 1:500,000-3scale Hydrologic Unit Boundaries map. The hydrologic unit boundary was changed to agree with the streams</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">11.622</transize>
+					<dssize Sync="TRUE">11.622</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+		<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>GIS Data Analyst</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</distrib>
+</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140819</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<address>Academic Technology</address>
+<address>16 Dearborn Ave</address>
+<country>USA</country>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntpos>GIS Data Analyst</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<lineage/>
+	<Esri>
+<CreaDate>20140815</CreaDate>
+<CreaTime>12373700</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<ModDate>20140819</ModDate>
+<ModTime>11321700</ModTime>
+<MetaID>{F9BA3314-4AA8-413F-907C-12AE4537BF5B}</MetaID>
+<SyncDate>20140819</SyncDate>
+<SyncTime>11321700</SyncTime>
+</Esri>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+<procdate Sync="TRUE">20130212</procdate>
+<proctime Sync="TRUE">11073200</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Starter Metadata Template -Tufts - UTF-8.xml</srcused>
+<procdate Sync="TRUE">20140815</procdate>
+<proctime Sync="TRUE">12373700</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Tufts University GIS Center</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University Geographic Information Systems Center</cntorg>
+</cntorgp>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9 AM-5 PM, ES-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name changed from hucs00l20 to USHydroBounds05</procdesc>
+<procdate>20140815</procdate>
+</procstep>
+<srcinfo>
+<srcscale>1:200,000</srcscale>
+<srccontr>Geologic Survey (U.S.)</srccontr>
+</srcinfo>
+</lineage>
+</dataqual>
+<mdDateSt Sync="TRUE">20140819</mdDateSt>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USHydroBounds05</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-179.133392</westBL>
+<eastBL Sync="TRUE">179.788208</eastBL>
+<northBL Sync="TRUE">71.398048</northBL>
+<southBL Sync="TRUE">17.674692</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NationalAtlas\Water - Tufts\Hydrologic Units (Watersheds)\USHydroBounds05.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">11.622</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USHydroBounds05">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">11576</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+</metadata>

@@ -1,0 +1,2554 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>University of Michigan. China Data Center</origin>
+				<origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+				<origin>Zhonghua di tu xue she</origin>
+				<origin>China. Guo jia tong ji ju</origin>
+				<pubdate>20060513</pubdate>
+				<title>Population by County Census China 2000</title>
+				<edition>Version III</edition>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>Historical China County Population Census Data with GIS Maps</sername>
+					<issue>Version III</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Ann Arbor (Mich.)</pubplace>
+					<publish>University of Michigan. China Data Center</publish>
+				</pubinfo>
+				<onlink>http://chinadatacenter.org/Data/ServiceContent.aspx?id=53</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>University of Michigan. China Data Center</origin>
+						<origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+						<origin>Zhonghua di tu xue she</origin>
+						<origin>China. Guo jia tong ji ju</origin>
+						<pubdate>20060513</pubdate>
+						<title>China Data Center Featured Data</title>
+						<serinfo>
+							<sername>Historical China County Population Census Data with GIS Maps</sername>
+							<issue>Version III</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Ann Arbor (Mich.)</pubplace>
+							<publish>University of Michigan. China Data Center</publish>
+						</pubinfo>
+						<onlink>http://chinadatacenter.org/Data/ServiceContent.aspx?id=53</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">ChinaCensusCounties00</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents county boundaries and population data in China from the 1990 Census. This dataset also includes detailed demographic data such as: sex and age statistics, litteracy, employment, and professions, and birth and death rates.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>20001101</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+73.446960</westbc>
+				<eastbc>
+135.085831</eastbc>
+				<northbc>
+53.557926</northbc>
+				<southbc>
+6.318641</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">73.446960</leftbc>
+<rightbc Sync="TRUE">135.085831</rightbc>
+<bottombc Sync="TRUE">6.318641</bottombc>
+<topbc Sync="TRUE">53.557926</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>economy</themekey>
+				<themekey>society</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Counties</themekey>
+				<themekey>Boundaries</themekey>
+				<themekey>Administrative and political divisions</themekey>
+				<themekey>Census</themekey>
+				<themekey>Sex--Statistics</themekey>
+				<themekey>Demography</themekey>
+				<themekey>Labor</themekey>
+				<themekey>Ethnicity</themekey>
+				<themekey>Literacy</themekey>
+				<themekey>Age distribution (Demography)</themekey>
+				<themekey>Childbirth--Statistics</themekey>
+				<themekey>Mortality--Statistics</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>China</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Asia</placekey>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+			</place>
+		</keywords>
+		<accconst>Restricted Access Online: Access is granted to licensee only. Available only to Tufts University affiliates.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>China Data Center at University of Michigan</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1007 E Huron St</address>
+					<city>Ann Arbor</city>
+					<state>Michigan</state>
+					<postal>48104-1690</postal>
+					<country>United States of America</country>
+				</cntaddr>
+				<cntvoice>734-647-9610</cntvoice>
+				<cntfax>734-763-0335</cntfax>
+				<cntemail>chinadata@umich.edu</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>Unknown</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Name changed from china00 to ChinaCensusCounties00.</procdesc>
+				<procdate>20121105</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM- 5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xmlDD70.tmp</srcused>
+				<procdate>20121101</procdate>
+				<proctime>14021700</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xmlC7B2.tmp</srcused>
+				<procdate>20121101</procdate>
+				<proctime>15010900</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xml8645.tmp</srcused>
+				<procdate>20121101</procdate>
+				<proctime>15344400</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xml2E87.tmp</srcused>
+				<procdate>20121105</procdate>
+				<proctime>10584000</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="ChinaCensusCounties00">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>2876</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="ChinaCensusCounties00">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">2876</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="ChinaCensusCounties00">
+			<enttyp>
+				<enttypl>
+ChinaCensusCounties00</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">2876</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of county in square miles</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+				<attalias Sync="TRUE">AREA</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+<atnumdec Sync="TRUE">3</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter of county in decimal degrees</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+				<attalias Sync="TRUE">PERIMETER</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+<atnumdec Sync="TRUE">3</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PROVGB</attrlabl>
+				<attrdef>Province GB code</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>Beijing</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Tianjin</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>13</edomv>
+						<edomvd>Hebei</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>Shanxi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>15</edomv>
+						<edomvd>Neimenggu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>21</edomv>
+						<edomvd>Liaoning</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>22</edomv>
+						<edomvd>Jilin</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>23</edomv>
+						<edomvd>Heilongjiang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>31</edomv>
+						<edomvd>Shanghai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>32</edomv>
+						<edomvd>Jiangsu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>33</edomv>
+						<edomvd>Zhejiang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>34</edomv>
+						<edomvd>Anhui</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>35</edomv>
+						<edomvd>Fujian</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>36</edomv>
+						<edomvd>Jiangxi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>37</edomv>
+						<edomvd>Shandong</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>41</edomv>
+						<edomvd>Henan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>42</edomv>
+						<edomvd>Hubei</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>43</edomv>
+						<edomvd>Hunan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>44</edomv>
+						<edomvd>Guangdong</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>45</edomv>
+						<edomvd>Guangxi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>46</edomv>
+						<edomvd>Hainan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>50</edomv>
+						<edomvd>Chongqing</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>51</edomv>
+						<edomvd>Sichuan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>52</edomv>
+						<edomvd>Guizhou</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>53</edomv>
+						<edomvd>Yunnan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>54</edomv>
+						<edomvd>Xicang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>61</edomv>
+						<edomvd>Shanxi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>62</edomv>
+						<edomvd>Gansu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>63</edomv>
+						<edomvd>Qinghai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>64</edomv>
+						<edomvd>Ningxia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>65</edomv>
+						<edomvd>Xinjiang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>71</edomv>
+						<edomvd>Taiwan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>81</edomv>
+						<edomvd>Hongkong</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>82</edomv>
+						<edomvd>Macau</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PROVGB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CITYGB</attrlabl>
+				<attrdef>Prefecture city GB code</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">CITYGB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CNTYGB</attrlabl>
+				<attrdef>Country GB code</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">CNTYGB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CPROV</attrlabl>
+				<attrdef>Province name in Chinese</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">CPROV</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EPROV</attrlabl>
+				<attrdef>Province name in English</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">EPROV</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CCITY</attrlabl>
+				<attrdef>City name in Chinese</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+				<attalias Sync="TRUE">CCITY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ECITY</attrlabl>
+				<attrdef>City name in English</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+				<attalias Sync="TRUE">ECITY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">23</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CCNTY</attrlabl>
+				<attrdef>County name in Chinese</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">CCNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ECNTY</attrlabl>
+				<attrdef>County name in English</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">ECNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">17</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000001</attrlabl>
+				<attrdef>Total Population</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000001</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000002</attrlabl>
+				<attrdef>Total population-male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000002</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000003</attrlabl>
+				<attrdef>Total population-female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000003</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000004</attrlabl>
+				<attrdef>The ratio of male to female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000004</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000005</attrlabl>
+				<attrdef>Total population in local households registration</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000005</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000006</attrlabl>
+				<attrdef>The percentage of minority population</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000006</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000007</attrlabl>
+				<attrdef>Total minority population</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000007</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000008</attrlabl>
+				<attrdef>The percentage of non-agriculture population</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000008</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000009</attrlabl>
+				<attrdef>Total non-agriculture population</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000009</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000010</attrlabl>
+				<attrdef>Urban population</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000010</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000011</attrlabl>
+				<attrdef>Rural population</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000012</attrlabl>
+				<attrdef>Total Family Households</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000013</attrlabl>
+				<attrdef>Total Family Households Population</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000014</attrlabl>
+				<attrdef>Average persons per family households</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000014</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000015</attrlabl>
+				<attrdef>Total Family Households with one person</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000015</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000016</attrlabl>
+				<attrdef>Total Family Households of one generation</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000016</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000017</attrlabl>
+				<attrdef>Total Family Households of two generation</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000017</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000018</attrlabl>
+				<attrdef>Total Family Households of three generation</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000018</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000019</attrlabl>
+				<attrdef>Total Family Households of four and above generation</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000019</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000020</attrlabl>
+				<attrdef>Total population under one year old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000020</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000021</attrlabl>
+				<attrdef>Total population under one year old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000021</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000022</attrlabl>
+				<attrdef>Total population 1-4 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000022</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000023</attrlabl>
+				<attrdef>Total population 1-4 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000023</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000024</attrlabl>
+				<attrdef>Total population 5-9 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000024</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000025</attrlabl>
+				<attrdef>Total population 5-9 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000025</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000026</attrlabl>
+				<attrdef>Total population 10-14 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000026</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000027</attrlabl>
+				<attrdef>Total population 10-14 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000027</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000028</attrlabl>
+				<attrdef>Total population 15-19 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000028</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000029</attrlabl>
+				<attrdef>Total population 15-19 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000029</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000030</attrlabl>
+				<attrdef>Total population 20-24 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000030</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000031</attrlabl>
+				<attrdef>Total population 20-24 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000031</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000032</attrlabl>
+				<attrdef>Total population 25-29 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000032</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000033</attrlabl>
+				<attrdef>Total population 25-29 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000033</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000034</attrlabl>
+				<attrdef>Total population 30-34 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000034</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000035</attrlabl>
+				<attrdef>Total population 30-34 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000035</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000036</attrlabl>
+				<attrdef>Total population 35-39 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000036</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000037</attrlabl>
+				<attrdef>Total population 35-39 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000037</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000038</attrlabl>
+				<attrdef>Total population 40-44 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000038</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000039</attrlabl>
+				<attrdef>Total population 40-44 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000039</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000040</attrlabl>
+				<attrdef>Total population 45-49 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000040</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000041</attrlabl>
+				<attrdef>Total population 45-49 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000041</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000042</attrlabl>
+				<attrdef>Total population 50-54 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000042</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000043</attrlabl>
+				<attrdef>Total population 50-54 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000043</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000044</attrlabl>
+				<attrdef>Total population 55-59 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000044</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000045</attrlabl>
+				<attrdef>Total population 55-59 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000045</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000046</attrlabl>
+				<attrdef>Total population 60-64 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000046</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000047</attrlabl>
+				<attrdef>Total population 60-64 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000047</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000048</attrlabl>
+				<attrdef>Total population 65-69 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000048</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000049</attrlabl>
+				<attrdef>Total population 65-69 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000049</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000050</attrlabl>
+				<attrdef>Total population 70-74 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000050</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000051</attrlabl>
+				<attrdef>Total population 70-74 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000051</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000052</attrlabl>
+				<attrdef>Total population 75-79 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000052</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000053</attrlabl>
+				<attrdef>Total population 75-79 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000053</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000054</attrlabl>
+				<attrdef>Total population 80-84 years old - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000054</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000055</attrlabl>
+				<attrdef>Total population 80-84 years old - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000055</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000056</attrlabl>
+				<attrdef>Total population 85 and over - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000056</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000057</attrlabl>
+				<attrdef>Total population 85 and over - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000057</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000058</attrlabl>
+				<attrdef>The percentage of population 1-14 years old (%)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000058</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000059</attrlabl>
+				<attrdef>The percentage of population 15-64 years old (%)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000059</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000060</attrlabl>
+				<attrdef>The percentage of population 65 and over (%)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000060</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000061</attrlabl>
+				<attrdef>The percentage of women 15-49 years old (%)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000061</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000062</attrlabl>
+				<attrdef>Total family households with persons of 65 years old and over</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000062</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000063</attrlabl>
+				<attrdef>Total family households with one person of 65 years old and over</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000063</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000064</attrlabl>
+				<attrdef>Total family households with two persons of 65 years old and over</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000064</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000065</attrlabl>
+				<attrdef>Total family households with three persons of 65 years old and over</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000065</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000066</attrlabl>
+				<attrdef>Birth rate (per 1000)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000066</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000067</attrlabl>
+				<attrdef>Death rate (per 1000)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000067</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000068</attrlabl>
+				<attrdef>Natural growth rate (per 1000)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000068</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000069</attrlabl>
+				<attrdef>Total fertility rate (per 1000) from 9.5% sample data of Long Table</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000069</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000070</attrlabl>
+				<attrdef>Moving-in population within the same county/city</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000070</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000071</attrlabl>
+				<attrdef>Moving-in population from other counties/cities of the same province</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000071</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000072</attrlabl>
+				<attrdef>Moving-in population from other provinces</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000072</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000073</attrlabl>
+				<attrdef>Total population 6+ with no school - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000073</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000074</attrlabl>
+				<attrdef>Total population 6+ with no school - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000074</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000075</attrlabl>
+				<attrdef>Total population 6+ with literacy class - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000075</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000076</attrlabl>
+				<attrdef>Total population 6+ with Literacy class - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000076</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000077</attrlabl>
+				<attrdef>Total population 6+ with elementary school - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000077</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000078</attrlabl>
+				<attrdef>Total population 6+ with elementary school - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000078</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000079</attrlabl>
+				<attrdef>Total population 6+ with middle school - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000079</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000080</attrlabl>
+				<attrdef>Total population 6+ with middle school - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000080</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000081</attrlabl>
+				<attrdef>Total population 6+ with high school - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000081</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000082</attrlabl>
+				<attrdef>Total population 6+ with high school - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000082</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000083</attrlabl>
+				<attrdef>Total population 6+ with specialized secondary school - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000083</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000084</attrlabl>
+				<attrdef>Total population 6+ with specialized secondary school - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000084</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000085</attrlabl>
+				<attrdef>Total population 6+ with associate degree - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000085</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000086</attrlabl>
+				<attrdef>Total population 6+ with associate degree  - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000086</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000087</attrlabl>
+				<attrdef>Total population 6+ with college degree - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000087</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000088</attrlabl>
+				<attrdef>Total population 6+ with college degree  - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000088</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000089</attrlabl>
+				<attrdef>Total population 6+ with graduate degree - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000089</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000090</attrlabl>
+				<attrdef>Total population 6+ with graduate degree  - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000090</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000091</attrlabl>
+				<attrdef>Average years at schools</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000091</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000092</attrlabl>
+				<attrdef>Average years at schools - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000092</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000093</attrlabl>
+				<attrdef>Average years at schools - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000093</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000094</attrlabl>
+				<attrdef>Illiterate population for age 15 and over</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000094</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000095</attrlabl>
+				<attrdef>Illiterate population for age 15 and over - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000095</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000096</attrlabl>
+				<attrdef>Illiterate population for age 15 and over - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000096</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000097</attrlabl>
+				<attrdef>The percentage of Illiterate population for age 15 and over (%)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000097</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000098</attrlabl>
+				<attrdef>The percentage of Illiterate population for age 15 and over - male (%)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000098</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000099</attrlabl>
+				<attrdef>The percentage of Illiterate population for age 15 and over - female (%)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000099</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000100</attrlabl>
+				<attrdef>Total family households</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000100</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000101</attrlabl>
+				<attrdef>Average rooms per household (rooms/household)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000101</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000102</attrlabl>
+				<attrdef>Average floor space of building (sq meters/person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000102</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A2000103</attrlabl>
+				<attrdef>Total Population of Han People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000103</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000104</attrlabl>
+				<attrdef>Total Population of Mongolian People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000104</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000105</attrlabl>
+				<attrdef>Total Population of Hui People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000105</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000106</attrlabl>
+				<attrdef>Total Population of Tibetan People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000106</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000107</attrlabl>
+				<attrdef>Total Population of Uygur People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000107</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000108</attrlabl>
+				<attrdef>Total Population of Miao People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000108</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000109</attrlabl>
+				<attrdef>Total Population of Yi People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000109</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000110</attrlabl>
+				<attrdef>Total Population of Zhuang People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000110</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000111</attrlabl>
+				<attrdef>Total Population of Bouyei People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000111</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000112</attrlabl>
+				<attrdef>Total Population of Korean People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000112</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000113</attrlabl>
+				<attrdef>Total Population of Manchu</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000113</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000114</attrlabl>
+				<attrdef>Total Population of Dong People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000114</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000115</attrlabl>
+				<attrdef>Total Population of Yao People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000115</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000116</attrlabl>
+				<attrdef>Total Population of Bai People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000116</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000117</attrlabl>
+				<attrdef>Total Population of Tujia People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000117</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000118</attrlabl>
+				<attrdef>Total Population of Hani People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000118</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000119</attrlabl>
+				<attrdef>Total Population of Kazak People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000119</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000120</attrlabl>
+				<attrdef>Total Population of Dai People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000120</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000121</attrlabl>
+				<attrdef>Total Population of Li People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000121</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000122</attrlabl>
+				<attrdef>Total Population of Lisu People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000122</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000123</attrlabl>
+				<attrdef>Total Population of Va People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000123</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000124</attrlabl>
+				<attrdef>Total Population of She People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000124</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000125</attrlabl>
+				<attrdef>Total Population of Gaoshan People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000125</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000126</attrlabl>
+				<attrdef>Total Population of Lahu People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000126</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000127</attrlabl>
+				<attrdef>Total Population of Shui People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000127</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000128</attrlabl>
+				<attrdef>Total Population of Dongxiang People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000128</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000129</attrlabl>
+				<attrdef>Total Population of Naxi People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000129</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000130</attrlabl>
+				<attrdef>Total Population of Jingpo People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000130</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000131</attrlabl>
+				<attrdef>Total Population of Kirgiz People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000131</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000132</attrlabl>
+				<attrdef>Total Population of Tu People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000132</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000133</attrlabl>
+				<attrdef>Total Population of Daur People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000133</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000134</attrlabl>
+				<attrdef>Total Population of Mulam People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000134</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000135</attrlabl>
+				<attrdef>Total Population of Qiang People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000135</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000136</attrlabl>
+				<attrdef>Total Population of Blang People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000136</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000137</attrlabl>
+				<attrdef>Total Population of Salar People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000137</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000138</attrlabl>
+				<attrdef>Total Population of Maonan People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000138</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000139</attrlabl>
+				<attrdef>Total Population of Gelao People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000139</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000140</attrlabl>
+				<attrdef>Total Population of Xibe People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000140</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000141</attrlabl>
+				<attrdef>Total Population of Achang People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000141</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000142</attrlabl>
+				<attrdef>Total Population of Pumi People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000142</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000143</attrlabl>
+				<attrdef>Total Population of Tajik</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000143</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000144</attrlabl>
+				<attrdef>Total Population of Nu People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000144</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000145</attrlabl>
+				<attrdef>Total Population of Ozbek People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000145</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000146</attrlabl>
+				<attrdef>Total Population of Russian People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000146</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000147</attrlabl>
+				<attrdef>Total Population of Ewenki People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000147</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000148</attrlabl>
+				<attrdef>Total Population of De'ang People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000148</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000149</attrlabl>
+				<attrdef>Total Population of Bonan People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000149</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000150</attrlabl>
+				<attrdef>Total Population of Yugur People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000150</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000151</attrlabl>
+				<attrdef>Total Population of Jing People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000151</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000152</attrlabl>
+				<attrdef>Total Population of Tatar</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000152</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000153</attrlabl>
+				<attrdef>Total Population of Drung People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000153</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000154</attrlabl>
+				<attrdef>Total Population of Oroqen People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000154</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000155</attrlabl>
+				<attrdef>Total Population of Hezhen People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000155</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000156</attrlabl>
+				<attrdef>Total Population of Moinba People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000156</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000157</attrlabl>
+				<attrdef>Total Population of Lhoba People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000157</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000158</attrlabl>
+				<attrdef>Total Population of Jino People</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000158</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000159</attrlabl>
+				<attrdef>Total Population of Unidentified Peoples</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000159</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A2000160</attrlabl>
+				<attrdef>Total Population of Foreigners with Chinese Citizenship</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A2000160</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000161</attrlabl>
+				<attrdef>Total employed population</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000161</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000162</attrlabl>
+				<attrdef>Employed Population of Governments Agencies, Party agencies and Social Organizations</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000162</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000163</attrlabl>
+				<attrdef>Employed population of Professional/Technical</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000163</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000164</attrlabl>
+				<attrdef>Employed population of Clerk and Related Workers</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000164</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000165</attrlabl>
+				<attrdef>Employed population of Commerce, Service Trade Personnel</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000165</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000166</attrlabl>
+				<attrdef>Employed population of Farming, forestry, husbandry, fishing and water conservancy industry</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000166</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000167</attrlabl>
+				<attrdef>Employed population of production and transportation</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000167</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000168</attrlabl>
+				<attrdef>Population of other Employment</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000168</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000169</attrlabl>
+				<attrdef>Total non-working population</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000169</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000170</attrlabl>
+				<attrdef>Non-working population - Students in school</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000170</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000171</attrlabl>
+				<attrdef>Non-working population - Household affairs</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000171</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000172</attrlabl>
+				<attrdef>Non-working population - Retired</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000172</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000173</attrlabl>
+				<attrdef>Non-working population - Lost The Ability to Work</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000173</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000174</attrlabl>
+				<attrdef>Non-working population - Never have a job and looking for a Job</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000174</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000175</attrlabl>
+				<attrdef>Non-working population - Lost job and looking for a job</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000175</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000176</attrlabl>
+				<attrdef>Non-working population - Others</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000176</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000177</attrlabl>
+				<attrdef>Total employed population in industries</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000177</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000178</attrlabl>
+				<attrdef>Total employed population in Farming, Forestry, Animal Husbandry and Fishery</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000178</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000179</attrlabl>
+				<attrdef>Total employed population in Mining and Quarrying</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000179</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000180</attrlabl>
+				<attrdef>Total employed population in Manufacturing</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000180</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000181</attrlabl>
+				<attrdef>Total employed population in Production and Supply of Electric Power, Gas and Water</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000181</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000182</attrlabl>
+				<attrdef>Total employed population in Construction</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000182</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000183</attrlabl>
+				<attrdef>Total employed population in Geological Prospecting and Water Conservancy</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000183</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000184</attrlabl>
+				<attrdef>Total employed population in Transport, Storage, Postal and Telecommunication Services</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000184</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000185</attrlabl>
+				<attrdef>Total employed population in Wholesale &amp;amp; Retail Trade and Catering Services</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000185</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000186</attrlabl>
+				<attrdef>Total employed population in Finance and Insurance</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000186</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000187</attrlabl>
+				<attrdef>Total employed population in Real Estate</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000187</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000188</attrlabl>
+				<attrdef>Total employed population in Social Services</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000188</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000189</attrlabl>
+				<attrdef>Total employed population in Health Care, Sports and Social Welfare</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000189</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000190</attrlabl>
+				<attrdef>Total employed population in Education, Culture and Arts, Radio, Film Television</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000190</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000191</attrlabl>
+				<attrdef>Total employed population in Scientific Research and Polytechnic Services</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000191</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000192</attrlabl>
+				<attrdef>Total employed population in Governments Agencies, Party agencies and Social Organizations</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000192</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000193</attrlabl>
+				<attrdef>Total employed population in other industries</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000193</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000194</attrlabl>
+				<attrdef>The percentage of employed population in 1st industry (%)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000194</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>L2000195</attrlabl>
+				<attrdef>The percentage of employed population in 2nd industry (%)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000195</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>L2000196</attrlabl>
+				<attrdef>The percentage of employed population in 3rd industry (%)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000196</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>L2000197</attrlabl>
+				<attrdef>Total population at 15 years old and above</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000197</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000198</attrlabl>
+				<attrdef>Total population at 15 years old and above - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000198</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000199</attrlabl>
+				<attrdef>Total population at 15 years old and above - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000199</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000200</attrlabl>
+				<attrdef>Un-married population</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000200</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000201</attrlabl>
+				<attrdef>Un-married population - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000201</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000202</attrlabl>
+				<attrdef>Un-married population - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000202</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000203</attrlabl>
+				<attrdef>Total population at their first marriage with spouses</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000203</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000204</attrlabl>
+				<attrdef>Total population at their first marriage with spouses - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000204</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000205</attrlabl>
+				<attrdef>Total population at their first marriage with spouses - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000205</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000206</attrlabl>
+				<attrdef>Total population re-married with spouses</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000206</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000207</attrlabl>
+				<attrdef>Total population re-married with spouses - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000207</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000208</attrlabl>
+				<attrdef>Total population re-married with spouses - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000208</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000209</attrlabl>
+				<attrdef>Total population divorced</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000209</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000210</attrlabl>
+				<attrdef>Total population divorced - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000210</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000211</attrlabl>
+				<attrdef>Total population divorced - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000211</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000212</attrlabl>
+				<attrdef>Total population widowed</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000212</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000213</attrlabl>
+				<attrdef>Total population widowed - male</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000213</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000214</attrlabl>
+				<attrdef>Total population widowed - female</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000214</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000215</attrlabl>
+				<attrdef>Average number of living births of each women 15-50 years old</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000215</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>L2000216</attrlabl>
+				<attrdef>Average number of living children of each women 15-50 years old</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000216</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>L2000217</attrlabl>
+				<attrdef>Total family households from 9.5% sample data of Long Table</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000217</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000218</attrlabl>
+				<attrdef>Total family households with kitchens</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000218</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000219</attrlabl>
+				<attrdef>Total family households with no kitchen</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000219</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000220</attrlabl>
+				<attrdef>Total family households with tap water</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000220</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000221</attrlabl>
+				<attrdef>Total family households with no tap water</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000221</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000222</attrlabl>
+				<attrdef>Total family households with bath facilities</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000222</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000223</attrlabl>
+				<attrdef>Total family households with no bath facilities</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000223</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000224</attrlabl>
+				<attrdef>Total family households with lavatory</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000224</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000225</attrlabl>
+				<attrdef>Total family households with no lavatory</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000225</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000226</attrlabl>
+				<attrdef>Total self-built houses</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000226</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000227</attrlabl>
+				<attrdef>Total purchased houses/apartments</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000227</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000228</attrlabl>
+				<attrdef>Total rented houses/apartments</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000228</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L2000229</attrlabl>
+				<attrdef>Total houses/apartments from others sources</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">L2000229</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>14.522</transize>
+					<dssize Sync="TRUE">14.438</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.tufts.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130301</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper/>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">ChinaCensusCounties00</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">73.44696</westBL>
+<eastBL Sync="TRUE">135.085831</eastBL>
+<northBL Sync="TRUE">53.557926</northBL>
+<southBL Sync="TRUE">6.318641</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">73.44696</westBL>
+<eastBL Sync="TRUE">135.085831</eastBL>
+<northBL Sync="TRUE">53.557926</northBL>
+<southBL Sync="TRUE">6.318641</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\ChinaDataCtr\ChinaHistoricalCountyCensus\2000\ChinaCensusCounties00.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">14.438</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="ChinaCensusCounties00">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">2876</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130301</SyncDate>
+<SyncTime>13483100</SyncTime>
+<ModDate>20130301</ModDate>
+<ModTime>13483100</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130301</mdDateSt>
+</metadata>

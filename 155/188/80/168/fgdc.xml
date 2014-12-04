@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Bureau of the Census. Geography Division</origin>
+				<origin>U.S. Census Bureau. Geography Division</origin>
+				<pubdate>2010</pubdate>
+				<title>Counties Virginia 2010</title>
+				<edition>2010</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.census.gov/geo/www/tiger</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of the Census. Geography Division</origin>
+						<origin>U.S. Census Bureau. Geography Division</origin>
+						<pubdate>2010</pubdate>
+						<title>2010 Census TIGER/Line Files</title>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Bureau of the Census. Geography Division</publish>
+						</pubinfo>
+						<onlink>http://www.census.gov/geo/www/tiger</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">VAcounties10</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents the 2010 TIGER/Line census counties for Virginia.  The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The primary legal divisions of most States are termed counties.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>201001</begdate>
+					<enddate>201007</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-83.675395</westbc>
+				<eastbc Sync="TRUE">-75.166435</eastbc>
+				<northbc Sync="TRUE">39.466012</northbc>
+				<southbc Sync="TRUE">36.540759</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-83.675395</leftbc>
+<rightbc Sync="TRUE">-75.166435</rightbc>
+<bottombc Sync="TRUE">36.540759</bottombc>
+<topbc Sync="TRUE">39.466012</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Counties</themekey>
+				<themekey>Administrative and political divisions</themekey>
+				<themekey>United States--Census</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Virginia</placekey>
+				<placekey>Accomack County</placekey>
+				<placekey>Albemarle County</placekey>
+				<placekey>Alleghany County</placekey>
+				<placekey>Amelia County</placekey>
+				<placekey>Amherst County</placekey>
+				<placekey>Appomattox County</placekey>
+				<placekey>Arlington County</placekey>
+				<placekey>Augusta County</placekey>
+				<placekey>Bath County</placekey>
+				<placekey>Bedford County</placekey>
+				<placekey>Bland County</placekey>
+				<placekey>Botetourt County</placekey>
+				<placekey>Brunswick County</placekey>
+				<placekey>Buchanan County</placekey>
+				<placekey>Buckingham County</placekey>
+				<placekey>Campbell County</placekey>
+				<placekey>Caroline County</placekey>
+				<placekey>Carroll County</placekey>
+				<placekey>Charles City County</placekey>
+				<placekey>Charlotte County</placekey>
+				<placekey>Chesterfield County</placekey>
+				<placekey>Clarke County</placekey>
+				<placekey>Craig County</placekey>
+				<placekey>Culpeper County</placekey>
+				<placekey>Cumberland County</placekey>
+				<placekey>Dickenson County</placekey>
+				<placekey>Dinwiddie County</placekey>
+				<placekey>Essex County</placekey>
+				<placekey>Fairfax County</placekey>
+				<placekey>Fauquier County</placekey>
+				<placekey>Floyd County</placekey>
+				<placekey>Fluvanna County</placekey>
+				<placekey>Franklin County</placekey>
+				<placekey>Frederick County</placekey>
+				<placekey>Giles County</placekey>
+				<placekey>Gloucester County</placekey>
+				<placekey>Goochland County</placekey>
+				<placekey>Grayson County</placekey>
+				<placekey>Greene County</placekey>
+				<placekey>Greensville County</placekey>
+				<placekey>Halifax County</placekey>
+				<placekey>Hanover County</placekey>
+				<placekey>Henrico County</placekey>
+				<placekey>Henry County</placekey>
+				<placekey>Highland County</placekey>
+				<placekey>Isle of Wight County</placekey>
+				<placekey>James City County</placekey>
+				<placekey>King George County</placekey>
+				<placekey>King William County</placekey>
+				<placekey>King and Queen County</placekey>
+				<placekey>Lancaster County</placekey>
+				<placekey>Lee County</placekey>
+				<placekey>Loudoun County</placekey>
+				<placekey>Louisa County</placekey>
+				<placekey>Lunenburg County</placekey>
+				<placekey>Madison County</placekey>
+				<placekey>Mathews County</placekey>
+				<placekey>Mecklenburg County</placekey>
+				<placekey>Middlesex County</placekey>
+				<placekey>Montgomery County</placekey>
+				<placekey>Nelson County</placekey>
+				<placekey>New Kent County</placekey>
+				<placekey>Northampton County</placekey>
+				<placekey>Northumberland County</placekey>
+				<placekey>Nottoway County</placekey>
+				<placekey>Orange County</placekey>
+				<placekey>Page County</placekey>
+				<placekey>Patrick County</placekey>
+				<placekey>Pittsylvania County</placekey>
+				<placekey>Powhatan County</placekey>
+				<placekey>Prince Edward County</placekey>
+				<placekey>Prince George County</placekey>
+				<placekey>Prince William County</placekey>
+				<placekey>Pulaski County</placekey>
+				<placekey>Rappahannock County</placekey>
+				<placekey>Richmond County</placekey>
+				<placekey>Roanoke County</placekey>
+				<placekey>Rockbridge County</placekey>
+				<placekey>Rockingham County</placekey>
+				<placekey>Russell County</placekey>
+				<placekey>Scott County</placekey>
+				<placekey>Shenandoah County</placekey>
+				<placekey>Smyth County</placekey>
+				<placekey>Southampton County</placekey>
+				<placekey>Spotsylvania County</placekey>
+				<placekey>Stafford County</placekey>
+				<placekey>Surry County</placekey>
+				<placekey>Sussex County</placekey>
+				<placekey>Tazewell County</placekey>
+				<placekey>Warren County</placekey>
+				<placekey>Washington County</placekey>
+				<placekey>Westmoreland County</placekey>
+				<placekey>Wise County</placekey>
+				<placekey>Wythe County</placekey>
+				<placekey>York County</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>United States</placekey>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>United States. Bureau of the Census. Geography Division</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>4600 Silver Hill Road, Stop 7400</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20233-7400</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>301-763-1128</cntvoice>
+				<cntfax>301-763-4710</cntfax>
+				<cntemail>geo.tiger@census.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.</attraccr>
+		</attracc>
+		<logic>The Census Bureau performed automated tests to ensure logical consistency and limits of shapefiles.  Segments making up the outer and inner boundaries of a polygon tie end-to-end to completely enclose the area.  All polygons are tested for closure.
+The Census Bureau uses its internally developed geographic update system to enhance and modify spatial and attribute data in the Census MAF/TIGER database.  Standard geographic codes, such as FIPS codes for states, counties, municipalities, county subdivisions, places, American Indian/Alaska Native/Native Hawaiian areas, and congressional districts are used when encoding spatial entities.  The Census Bureau performed spatial data tests for logical consistency of the codes during the compilation of the original Census MAF/TIGER database files.  Most of the codes for geographic entities except states, counties, urban areas, Core Based Statistical Areas (CBSAs), American Indian Areas (AIAs), and congressional districts were provided to the Census Bureau by the USGS, the agency responsible for maintaining FIPS 55.  Feature attribute information has been examined but has not been fully tested for consistency.
+For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polygon SDTS Point and Vector Object Type reflects the number of records in the shapefile attribute table.  For multi-polygon features, only one attribute record exists for each multi-polygon rather than one attribute record per individual G-polygon component of the multi-polygon feature.  TIGER/Line Shapefile multi-polygons are an exception to the G-polygon object type classification.  Therefore, when multi-polygons exist in a shapefile, the object count will be less than the actual number of G-polygons.</logic>
+		<complete>Data completeness of the TIGER/Line Shapefiles reflects the contents of the Census MAF/TIGER database at the time the TIGER/Line Shapefiles were created.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</origin>
+						<pubdate>Unpublished material</pubdate>
+						<title>Census MAF/TIGER database</title>
+					</citeinfo>
+				</srccite>
+				<srcscale>Unknown</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>201001</begdate>
+							<enddate>201007</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>MAF/TIGER</srccitea>
+				<srccontr>The selected geographic and cartographic information (line segments) are derived from the U.S. Census Bureau's Master Address File Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) database.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>TIGER/Line Shapefiles are extracted from the Census MAF/TIGER database by nation, state, county, and entity.  Census MAF/TIGER data for all of the aforementioned geographic entities are then distributed among the shapefiles each containing attributes for line, polygon, or landmark geographic data.</procdesc>
+				<srcused>Census MAF/TIGER</srcused>
+				<procdate>2010</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards: 
+&amp;gt;Changed citation title from "TIGER/Line Shapefile, 2010, 2010 state, Virginia, 2010 Census County and Equivalent State-based" to "Census Counties VA 2010"
+&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&amp;gt;Removed detailed definition for blocks, blockgrous, tracts and counties from the Absract&amp;gt;Changed use constraints from "The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest" to "For educational noncommercial use only."
+&amp;gt;Changed Attribute Accuracy from: "Accurate against Federal Information Processing Standards (FIPS), FIPS Publication 6-4, and FIPS-55 at the 100% level for the codes and base names.  The remaining attribute information has been examined but has not been fully tested for accuracy,"  To: "Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given."
+&amp;gt;Changed source definitions from "ESRI" to Library of Congress official name heading, "Environmental Systems Research Institute (Redlands, Calif.)
+&amp;gt;Removed all keywords with no official thesaurus 
+&amp;gt;Changed name of file from "tl_2010_51_county10" to "VAcounties10"
+&amp;gt;Substituted "U.S. Department of Commerce, U.S. Census Bureau, Geography Division" for "United States. Bureau of the Census. Geography Division" as the originator
+&amp;gt;Added Larger Work Citation
+&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added LCSH theme keywords
+&amp;gt;Added GNIS place keywords
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Added Tufts' standard purpose text to the purpose field
+&amp;gt;Added introductory statement to abstract identifying Virginia as the section of the larger census included in this shapefile
+&amp;gt;Exported metadata</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Ave</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Census2010Tiger\xmls\VAcounties10.shp.xml</srcused>
+<procdate Sync="TRUE">20131004</procdate>
+<proctime Sync="TRUE">15361200</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<indspref>Federal Information Processing Standards (FIPS), ANSI, and feature names.</indspref>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="VAcounties10">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">134</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="VAcounties10">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">134</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="VAcounties10">
+			<enttyp>
+				<enttypl Sync="TRUE">VAcounties10</enttypl>
+				<enttypd>2010 Census County and Equivalent State-based</enttypd>
+				<enttypds>U.S. Census Bureau</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">134</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>STATEFP10</attrlabl>
+				<attrdef>2010 Census state Federal Information Processing Standards
+                 (FIPS) codes</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>INCITS.38-200x (R2004), Codes for the Identification of
+                      the States, the District of Columbia, Puerto Rico, and the
+                      Insular Areas of the United States (Formerly FIPS 5-2)</codesetn>
+						<codesets>U.S. Census Bureau</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STATEFP10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COUNTYFP10</attrlabl>
+				<attrdef>2010 Census county Federal Information Processing Standards
+                 (FIPS) code</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>INCITS.31-200x (R2007), Codes for the Identification of
+                      the Counties and Equivalent Areas of the United States,
+                      Puerto Rico, and the Insular Areas of the United States
+                      (Formerly FIPS 6-4)</codesetn>
+						<codesets>U.S. Census Bureau</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTYFP10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COUNTYNS10</attrlabl>
+				<attrdef>2010 Census county ANSI code</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>INCITS 446-2008, (GNIS) Identifying Attributes for Named
+                      Physical and Cultural Geographic Features (Except Roads
+                      and Highways) of the United States, Its Territories,
+                      Outlying Areas, and Freely Associated Areas, and the
+                      Waters of the Same to the Limit of the Twelve-Mile
+                      Statutory Zone</codesetn>
+						<codesets>U.S. Geological Survey (USGS)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTYNS10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GEOID10</attrlabl>
+				<attrdef>County identifier; a concatenation of 2010 Census state FIPS
+                 code and county FIPS code</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>INCITS.38-200x (R2004), Codes for the Identification of
+                      the States, the District of Columbia, Puerto Rico, and the
+                      Insular Areas of the United States (Formerly FIPS 5-2),
+                      INCITS.31-200x (R2007), Codes for the Identification of
+                      the Counties and Equivalent Areas of the United States,
+                      Puerto Rico, and the Insular Areas of the United States
+                      (Formerly FIPS 6-4)</codesetn>
+						<codesets>U.S. Census Bureau</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">GEOID10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NAME10</attrlabl>
+				<attrdef>2010 Census county name</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>INCITS.31-200x (R2007), Codes for the Identification of
+                      the Counties and Equivalent Areas of the United States,
+                      Puerto Rico, and the Insular Areas of the United States
+                      (Formerly FIPS 6-4)</codesetn>
+						<codesets>U.S. Census Bureau</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">NAME10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NAMELSAD10</attrlabl>
+				<attrdef>2010 Census name and the translated legal/statistical area
+                 description code for county</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>INCITS.31-200x (R2007), Codes for the Identification of
+                      the Counties and Equivalent Areas of the United States,
+                      Puerto Rico, and the Insular Areas of the United States
+                      (Formerly FIPS 6-4) and the translated legal/statistical
+                      area description code for county that appears in LSAD10</codesetn>
+						<codesets>U.S. Census Bureau</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">NAMELSAD10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LSAD10</attrlabl>
+				<attrdef>2010 Census legal/statistical area description code for county</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>00</edomv>
+						<edomvd>Blank</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>03</edomv>
+						<edomvd>City and Borough</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>04</edomv>
+						<edomvd>Borough</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>05</edomv>
+						<edomvd>Census Area</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>06</edomv>
+						<edomvd>County</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>07</edomv>
+						<edomvd>District</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>Island</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Municipality</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>13</edomv>
+						<edomvd>Municipio</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>15</edomv>
+						<edomvd>Parish</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>25</edomv>
+						<edomvd>city</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">LSAD10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CLASSFP10</attrlabl>
+				<attrdef>2010 Census Federal Information Processing Standards (FIPS)
+                 class code</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>C7</edomv>
+						<edomvd>An incorporated place that is independent of any county</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>H1</edomv>
+						<edomvd>An active county or equivalent feature</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>H4</edomv>
+						<edomvd>An inactive county or equivalent feature</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>H5</edomv>
+						<edomvd>A statistical county equivalent feature</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>H6</edomv>
+						<edomvd>A county that is coextensive with an incorporated place,
+                    part of an incorporated place, or a consolidated city and
+                    the governmental functions of the county are part of the
+                    municipal govenment</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">CLASSFP10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MTFCC10</attrlabl>
+				<attrdef>MAF/TIGER feature class code</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>G4020</edomv>
+						<edomvd>County or Equivalent Feature</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">MTFCC10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CSAFP10</attrlabl>
+				<attrdef>2010 Census combined statistical area code</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>100</rdommin>
+						<rdommax>599</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">CSAFP10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CBSAFP10</attrlabl>
+				<attrdef>2010 Census metropolitan statistical area/micropolitan
+                 statistical area code</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>10000</rdommin>
+						<rdommax>49999</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">CBSAFP10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>METDIVFP10</attrlabl>
+				<attrdef>2010 Census metropolitan division code</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>10004</rdommin>
+						<rdommax>49994</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">METDIVFP10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FUNCSTAT10</attrlabl>
+				<attrdef>2010 Census functional status</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>A</edomv>
+						<edomvd>Active government providing primary general-purpose functions</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>B</edomv>
+						<edomvd>Active government that is partially consolidated with
+                    another government but with separate officials providing
+                    primary general-purpose functions</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>C</edomv>
+						<edomvd>Active government consolidated with another government with
+                    a single set of officials</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>Fictitious entity created to fill the Census Bureau
+                    geographic hierarchy</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>G</edomv>
+						<edomvd>Active government that is subordinate to another unit of
+                    government</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>Nonfunctioning legal entity</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>Statistical entity</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FUNCSTAT10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ALAND10</attrlabl>
+				<attrdef>2010 Census land area (square meters)</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0 to 9,999,999,999,999</edomv>
+						<edomvd>Blank</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">ALAND10</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>AWATER10</attrlabl>
+				<attrdef>2010 Census water area (square meters)</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0 to 9,999,999,999,999</edomv>
+						<edomvd>Blank</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">AWATER10</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INTPTLAT10</attrlabl>
+				<attrdef>2010 Census latitude of the internal point</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>00</edomv>
+						<edomvd>Blank</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">INTPTLAT10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>INTPTLON10</attrlabl>
+				<attrdef>2010 Census longitude of the internal point</attrdef>
+				<attrdefs>U.S. Census Bureau. Geography Division</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>00</edomv>
+						<edomvd>Blank</edomvd>
+						<edomvds>U.S. Census Bureau</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">INTPTLON10</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>31.729</transize>
+					<dssize Sync="TRUE">5.230</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20131004</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>United States. Bureau of the Census. Geography Division</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+</cntorgp>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>4600 Silver Hill Road, Stop 7400</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20233-7400</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>301-763-1128</cntvoice>
+				<cntfax>301-763-4710</cntfax>
+				<cntemail>geo.tiger@census.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{C6B4F90C-E9DA-469D-AD5D-C481792A55D6}</MetaID>
+<CreaDate>20131004</CreaDate>
+<CreaTime>15361200</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20131004</SyncDate>
+<SyncTime>15505000</SyncTime>
+<ModDate>20131004</ModDate>
+<ModTime>15505000</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">VAcounties10</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-83.675395</westBL>
+<eastBL Sync="TRUE">-75.166435</eastBL>
+<northBL Sync="TRUE">39.466012</northBL>
+<southBL Sync="TRUE">36.540759</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-83.675395</westBL>
+<eastBL Sync="TRUE">-75.166435</eastBL>
+<northBL Sync="TRUE">39.466012</northBL>
+<southBL Sync="TRUE">36.540759</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Census2010Tiger\VAcounties10.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">5.230</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_North_American_1983</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="VAcounties10">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">134</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20131004</mdDateSt>
+</metadata>

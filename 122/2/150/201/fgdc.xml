@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>New Hampshire. Department of Environmental Services</origin>
+				<origin>Central New Hampshire Regional Planning Commission </origin>
+				<origin>Lakes Region Planning Commission (N.H.) </origin>
+				<origin>Nashua Regional Planning Commission (N.H.) </origin>
+				<origin>Rockingham Planning Commission (Rockingham County, N.H.) </origin>
+				<origin>Southern New Hampshire Regional Planning Commission </origin>
+				<origin>Strafford Regional Planning Commission </origin>
+				<pubdate>200612</pubdate>
+				<title>Key Destination Areas New Hampshire 2006</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.granit.sr.unh.edu/data/search?sterm3=destinations&amp;amp;fieldname3=themekey</onlink>
+				<ftname Sync="TRUE">NHKeyDestinationAreas06</ftname>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+<lworkcit>
+<citeinfo>
+<title>NH GRANIT Database</title>
+<origin>New Hampshire. Department of Environmental Services</origin>
+<pubdate>200612</pubdate>
+<onlink>http://www.granit.sr.unh.edu/data/search?sterm3=destinations&amp;amp;fieldname3=themekey</onlink>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+<origin>University of New Hampshire. Complex Systems Research Center </origin>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset shows significant retail areas containing numerous potential destinations in New Hampshire.  
+
+The data was developed by the nine Regional Planning Agencies based on a common methodology, with input and review from staff at the NH Department of Environmental Services.  Certain types of destinations were identified for all communities; these included:  Elementary Schools, Middle Schools, High Schools, Higher Education Facilities, Municipal Offices, Libraries (public and private), Community Facilities, Grocery Stores, Athletic/Recreation Facilities, Post Offices, Retail/Shopping Areas,  Public Transportation Access Point, and Hospitals.  Additional destinations were identified when significant to a community; these could include such places as Smaller Markets, Places of Worship, Restaurant, Funeral Homes, Performing Art Centers, Trail Access Points, Town Greens, and Large-scale Event Facilities.  Destinations are identified separately by type.  Descriptions and additional information is provided for some data.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2006</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-72.340680</westbc>
+				<eastbc Sync="TRUE">-70.747406</eastbc>
+				<northbc Sync="TRUE">44.308311</northbc>
+				<southbc Sync="TRUE">42.696830</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">807808.749339</leftbc>
+<rightbc Sync="TRUE">1224898.250912</rightbc>
+<bottombc Sync="TRUE">73007.258768</bottombc>
+<topbc Sync="TRUE">659112.062642</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>polygon</themekey>
+</theme>
+<theme>
+<themekey>planningCadastre</themekey>
+<themekey>structure</themekey>
+<themekey>economy</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>society</themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>New Hampshire</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Planning</themekey>
+<themekey>Suburbs</themekey>
+<themekey>Regional planning. </themekey>
+<themekey>Communities</themekey>
+<themekey>Retail trade. </themekey>
+<themekey>Central business districts</themekey>
+<themekey>Cities and towns.</themekey>
+<themekey>Cities and towns--Growth. </themekey>
+</theme>
+</keywords>
+		<accconst>Unrestircted Access</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>Environmental Quality Impact Planner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>29 Hazen Drive, PO Box 95</address>
+					<city>Concord</city>
+					<state>New Hampshire</state>
+					<postal>03302</postal>
+				</cntaddr>
+				<cntvoice>603-271-3503</cntvoice>
+				<cntorgp>
+<cntorg>New Hampshire Department of Environmental Services</cntorg>
+<cntper>Carolyn Russell</cntper>
+</cntorgp>
+</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<logic>The data is checked for errors and checked for positional accuracy based on 1998 USGS Digital Ortho Quadrangles, 2003 NAIP imagery and/or USGS Topographic Quadrangles. The data is spatially clean having no topological errors or other kind.  The data was reviewed by both the regional planning associations and NHDES.</logic>
+		<complete>The data are complete as of the publication date. Any additions or changes to the destinatins will be updated as the need arises.</complete>
+		<lineage>
+			<procstep>
+				<procdesc>
+Central New Hampshire Regional Planning Commission (CNHRPC)
+Base data collected from existing community master plan documents and GPS data.  Additional destinations were delineated from 2003 NAIP imagery.
+</procdesc>
+				<procdate>20060420</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Lakes Region Planning Commission (LRPC)
+Polygons were created where multiple Destination Points fell within a small area, such as a mall or a single structure. The outline includes the parking associated with such structures and was determined using 2003 NAIP imagery.
+</procdesc>
+				<procdate>20060420</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Lakes Region Planning Commission (LRPC)
+Polygons were created where multiple Destination Points fell within a small area, such as a mall or a single structure. The outline includes the parking associated with such structures and was determined using 2003 NAIP imagery.
+</procdesc>
+				<procdate>20060420</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Nashua Region Planning Commission (NRPC)
+Polygons were derived from assessing data, aerial imagery and existing local plans.  Areas were designated as destination polygons based on the Sprawl Indicators criteria.
+</procdesc>
+				<procdate>20060420</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Rockingham Planning Commission (RPC)
+Retail/Shopping areas were reselected from RPC's Land Use dataset and from the 1998 Land Use dataset of Rockingham County as produced by the CICEET funded Land Use Change Study done by GRANIT, Complex Systems Research Center, UNH.  Features were plotted on aerial photo base maps for staff review and comment.  Additions and corrections were made per staff comments.
+</procdesc>
+				<procdate>20060420</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Southern New Hampshire Regional Planning Commission (SNHRPC)
+The individual towns within the region were sent a copy of the printed map of the last version of sprawl indicators to make changes to the existing or add any new indicators to the data. Planner from SNHPC has also set up meetings to discuss and map the new indicators with community planners from the individual towns. The 2004 color aerial photos where used to map the exact location of the marked indicator. The data is also georeferenced and is also attributed with information.
+</procdesc>
+				<procdate>20060420</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Strafford Regional Planning Commission (SRPC)
+Destinations were digitized on top of 1998 USGS Ortho-photos according to the methodology created by the Sprawl Indicators working group. Original data was reviewed/updated with 2003 NAIP Imagery.
+</procdesc>
+				<procdate>20060420</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Southwest Regional Planning Commission (SWRPC)
+Destinations were digitized on top of 1998 USGS Ortho-photos according to the methodology created by the Sprawl Indicators working group at 1:8,000 scale.
+</procdesc>
+				<procdate>20060420</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Upper Valley Lake Sunapee Regional Planning Commission (UVLSRPC)
+Destinations were digitized by UVLSRPC based on 1992 or 1998 Digital Orthophoto Quads (DOQ's), from the US Geological Survey and the USDA Forest Service, 1:12,000, distributed by GRANIT.  Other destinations were GPS'd by UVLSRPC, funded by NH Office of Emergency Management.
+</procdesc>
+				<procdate>20060420</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+North Country Council (NCC)
+Destinations were digitized by NCCRPC based on the NAIP 2003 Digital Orthophoto Quads, from the USDA Aerial Photo Field Office.  1 Meter Resolution.
+</procdesc>
+				<procdate>20060420</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>NHDES collated the destomatopms from each Regional Planning Association.  NHDES reviewed each submittal for consistency in how the data was presented and what attributes needed to be collected.  The data was returned back to the RPAs for corrections.</procdesc>
+				<procdate>20060420</procdate>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\keydestinations_polys-nh-keydestinations_polys.xml</srcused>
+<procdate Sync="TRUE">20140617</procdate>
+<proctime Sync="TRUE">09411500</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd. </address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00am - 5:00pm, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</proccont>
+<procdesc>Name of dataset was changed from KeyDestinations_polys to NHKeyDestinationAreas06.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+<srcused>Tufts University GIS Center</srcused>
+<procdate>20140617</procdate>
+<proctime>10:21am</proctime>
+</procstep>
+<srcinfo>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+</lineage>
+		<attracc>
+<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given</attraccr>
+</attracc>
+</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NHKeyDestinationAreas06">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">151</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NHKeyDestinationAreas06">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">151</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999967</sfctrmer>
+<longcm Sync="TRUE">-71.666667</longcm>
+<latprjo Sync="TRUE">42.500000</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NHKeyDestinationAreas06">
+			<enttyp>
+				<enttypl Sync="TRUE">NHKeyDestinationAreas06</enttypl>
+				<enttypd>Key Destination polygons - retail areas</enttypd>
+				<enttypds>New Hampshire. Department of Environmental Services</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">151</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>CNHRPC</edomv>
+<edomvd>Central New Hampshire Regional Planning Commission</edomvd>
+<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+</edom>
+</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>DESID</attrlabl>
+				<attrdef>Unique number assigned by NHDES for tracking purposes</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Unique identifier supplied by NHDES.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DESID</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>RPA</attrlabl>
+				<attrdef>A text field showing the abbreviation for the regional planning association the community center area is within.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>CNHRPC</edomv>
+						<edomvd>Central New Hampshire Regional Planning Commission</edomvd>
+						<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>LRPC</edomv>
+						<edomvd>Lakes Region Planning Commission</edomvd>
+						<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>NRPC</edomv>
+						<edomvd>Nashua Regional Planning Commission</edomvd>
+						<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>RPC</edomv>
+						<edomvd>Rockingham Planning Commission</edomvd>
+						<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>SNHRPC</edomv>
+						<edomvd>Southern New Hampshire Regional Planning Commission</edomvd>
+						<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>SRPC</edomv>
+						<edomvd>Strafford Regional Planning Commission</edomvd>
+						<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>SWRPC</edomv>
+						<edomvd>Southwest Regional Planning Commission</edomvd>
+						<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>UVLSRPC</edomv>
+						<edomvd>Upper Valley Lake Sunapee Regional Planning Commission</edomvd>
+						<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>NCC</edomv>
+						<edomvd>North Country Council</edomvd>
+						<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">RPA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">7</attwidth>
+</attr>
+			<attr>
+				<attrlabl>UID</attrlabl>
+				<attrdef>Unique identifier made up of the towns 5 digit fips code and a sequential number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Unique identifier concatenated by NHDES.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">UID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>A string field showing the name of the Destination</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Name of the destination as designed by the regional planning commission.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ST_</attrlabl>
+				<attrdef>A number field displaying the street number for the destination</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>A number field provided by the regional planning commission.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ST_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ST_NAME</attrlabl>
+				<attrdef>A string field displaying the name of the street the destination is on.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>The name of the street provided by the regional planning commission.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ST_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">35</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOWN</attrlabl>
+				<attrdef>A string field showing the town which the destination is within.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>The name of the town as provided by the regional planning commission.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TOWN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">36</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ZIP</attrlabl>
+				<attrdef>A string field showing the zip code that the destination is within.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>The zip code as provided by the regional planning commission.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ZIP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VILLAGE</attrlabl>
+				<attrdef>A string field showing the village which the destination is within.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>The name of the village provided by the regional planning commission.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">VILLAGE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">36</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TYPE</attrlabl>
+				<attrdef>A string field displaying the type of destination.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>The type of destination as indicated by the regional planning commission.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">35</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DESCRIP</attrlabl>
+				<attrdef>A text field providing more information about the destination.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>Information about the destination as provided by the regional planning commission.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DESCRIP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">120</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PUBLIC_</attrlabl>
+				<attrdef>A yes/no field indicating whether the destination could be used as a public meeting area.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Yes</edomv>
+						<edomvd>The destination can be used for public meetings.</edomvd>
+						<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>No</edomv>
+						<edomvd>The destination cannot be used for public meetings.</edomvd>
+						<edomvds>New Hampshire. Department of Environmental Services</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PUBLIC_</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CAPACITY</attrlabl>
+				<attrdef>A number field displaying the number of people the destination can hold.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>The capacity of a destination as provided by the regional planning commission.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">CAPACITY</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LOC_SRC</attrlabl>
+				<attrdef>A text field showing the local source that provided the information about the destination.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>The local source as indicated by the regional planning commission.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">LOC_SRC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DATE_ADD</attrlabl>
+				<attrdef>The date the destination was added to the data set.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>The date as indicated by the regional planning group and New Hampshire. Department of Environmental Services.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DATE_ADD</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DATE_MOD</attrlabl>
+				<attrdef>The date the destination was modified (if applicable).</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>The modification date provided by the regional planning group or NHDES.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DATE_MOD</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>X_COORD</attrlabl>
+				<attrdef>The longitude centroid value in New Hampshire State Plane - Feet.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>The coordinate value as calculated by ArcInfo.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">X_COORD</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Y_COORD</attrlabl>
+				<attrdef>The latitude centroid value in New Hampshire State Plane - Feet.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>The value as calculated by ArcInfo.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Y_COORD</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FIPS</attrlabl>
+				<attrdef>A number field showing the 5 digit fips code for the town.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>FIPS code as  designated by the federal government.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FIPS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIPS_CHAR</attrlabl>
+				<attrdef>A string field showing the 5 digit fips code for the town.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>The FIPS code as designated by the federal government.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FIPS_CHAR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SNUM_CHAR</attrlabl>
+				<attrdef>A sequential number for each unique fips code and destination.</attrdef>
+				<attrdefs>New Hampshire. Department of Environmental Services</attrdefs>
+				<attrdomv>
+					<udom>Number generated by NHDES.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SNUM_CHAR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Shape_Leng</attrlabl>
+				<attrdef>The perimeter of the shape in feet.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Calculated value by ArcInfo.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Shape_Area</attrlabl>
+				<attrdef>Area of feature in feet squared.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Calculated value by ArcInfo.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<address>16 Dearborn Rd.</address>
+<country>USA</country>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Moday - Friday, 9:00am - 5:00pm, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>NHDES is not responsible for the use or interpretation of this information.  Not intended for legal purposes.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI shapefile</formname>
+					<transize>0.093</transize>
+					<dssize Sync="TRUE">0.093</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.granit.sr.unh.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>No charge when downloaded from the Internet.  Cost of reproduction for provision on CD/ROM of other media.</fees>
+			<ordering>Email GRANIT (granit@unh.edu) or order from web site (www.granit.sr.unh.edu).</ordering>
+			<turnarnd>Two weeks.</turnarnd>
+		</stdorder>
+		<techpreq>None.</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140707</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NH Department of Environmental Services</cntorg>
+					<cntper>George Hastings</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>29 Hazen Drive, PO Box 95</address>
+					<city>Concord</city>
+					<state>New Hampshire</state>
+					<postal>03302</postal>
+				</cntaddr>
+				<cntvoice>603-271-3503</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{97940DF5-9168-43C5-AED5-AA5794A49FFD}</MetaID>
+<CreaDate>20140617</CreaDate>
+<CreaTime>09411500</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140707</SyncDate>
+<SyncTime>11175800</SyncTime>
+<ModDate>20140707</ModDate>
+<ModTime>11212600</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NHKeyDestinationAreas06</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">807808.749339</westBL>
+<eastBL Sync="TRUE">1224898.250912</eastBL>
+<northBL Sync="TRUE">659112.062642</northBL>
+<southBL Sync="TRUE">73007.258768</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-72.34068</westBL>
+<eastBL Sync="TRUE">-70.747406</eastBL>
+<northBL Sync="TRUE">44.308311</northBL>
+<southBL Sync="TRUE">42.69683</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\NHKeyDestinationAreas06.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.093</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NHKeyDestinationAreas06">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">151</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140707</mdDateSt>
+</metadata>

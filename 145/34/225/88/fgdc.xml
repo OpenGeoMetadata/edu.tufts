@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Vanderbilt University. Vanderbilt Transportation Research</origin>
+				<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+				<pubdate>2011</pubdate>
+				<title>Navigable Waterways USA 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>New Orleans (La.)</pubplace>
+					<publish>U.S. Army Engineer Institute for Water Resources</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Databases (NTAD) 2011</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USAWaterways11</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This line dataset represents navigable waterways from the National Waterway Network, which is a comprehensive network database of the nation's navigable waterways. The data set covers the 48 contiguous states plus the District of Columbia, Hawaii, Alaska, Puerto Rico and water links between.  The nominal scale of the dataset varies with the source material.  The majority of
+the information is at 1:100,000 with larger scales used in harbor/bay/port areas and smaller scales used in open waters.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>Links in the waterway network represent actual shipping lanes or serve as representative paths in open water where no defined shipping lanes exist.  Nodes may represent physical entities such as river confluences, ports/facilities, and intermodal terminals, US Army Corps of Engineers (USACE nodes), or may be inserted for analytical purposes. Approximately 180 USACE ports are geo-coded in the node database.</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+					<time>unknown</time>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Continually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-179.803407</westbc>
+				<eastbc>
+179.135190</eastbc>
+				<northbc>
+72.199720</northbc>
+				<southbc>
+-55.905212</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-179.803407</leftbc>
+<rightbc Sync="TRUE">179.135190</rightbc>
+<bottombc Sync="TRUE">-55.905212</bottombc>
+<topbc Sync="TRUE">72.199720</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>line</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Navigable waters</themekey>
+				<themekey>Nautical charts</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekey>North America</placekey>
+</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>P.O. Box 61280</address>
+					<city>New Orleans</city>
+					<state>LA</state>
+					<postal>70161-1280</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>504-862-1453</cntvoice>
+				<cntfax>504.862.1423</cntfax>
+				<cntemail>CEIWR-NDCWCSC.WEBMASTER@usace.army.mil</cntemail>
+				<cntperp>
+<cntper>Susan Hassett</cntper>
+<cntorg>Waterborne Commerce Statistics Center</cntorg>
+</cntperp>
+</cntinfo>
+		</ptcontac>
+		<datacred>The National Waterway Network was created on behalf of the Bureau of Transportation Statistics, the U.S. Army Corps of Engineers, the U.S. Bureau of Census, and the U.S. Coast Guard by Vanderbilt University and Oak Ridge National Laboratory.  Additional agencies with input into network development include Volpe National Transportation Systems Center, Maritime Administration, Military Traffic Management Command, Tennessee Valley Authority, U.S.Environmental Protection Agency, and the Federal Railroad Administration.</datacred>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<crossref>
+			<citeinfo>
+				<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+				<pubdate>2011</pubdate>
+				<title>National Transportation Atlas Databases (NTAD) 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington, DC</pubplace>
+					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute accuracy is tested by manual comparison of the source with hard copy printouts and/or symbolized display of digital line graphs on an interactive computer graphic system; selected attributes that cannot be visually verified on plots or on screen, are interactively queried and verified on screen.</attraccr>
+		</attracc>
+		<logic>RITA/BTS quality checks were completed to cross reference the dataset with the state dataset to determine if the spatial data and attribute data were accurate within each state</logic>
+		<posacc>
+			<horizpa>
+				<horizpar>The "shape source" field in the link database, and the "node source" field in the node database indicate the data sources used to derive link and node placements.  The accuracy of each network element is correlated to the data source used to derive that element.  For example, links and nodes derived from 1:100,000 scale DLGs are more accurate than links and nodes derived from 1:500,000 scale NOAA Navigational Charts. Links with unknown/missing sources are usually schematic representations of USACE links.
+Off-Shore:  NOAA Charts vary in scale.  Larger scale charts were used in harbor/port areas, while smaller scale charts were used in open water. For channels, sea lanes, and Intracoastal Waterways, shape points were placed as needed to ensure that link segments fall within waterway boundaries.
+Inland:  Links digitized from 1:100,000 DLG files, or large scale NOAA charts are the most accurate representations.  Shape points were placed as needed to ensure that link segments fall between waterway shorelines.  Links derived from Corps milepoints have shape points approximately one mile apart.  The Corps milepoints were mainly derived from 1:24,000 and 1:100,000 scale maps. Therefore, the shape points derived from Corps milepoints are often as        accurate as shape points derived from 1:100,000 DLG files.  However, line segments connecting the shape points may not accurately represent the curvature of the waterway.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>varies</pubdate>
+						<title>USGS Digital Line Graph (DLG-3) Series</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reston, Virginia</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>stable-base material</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1978</begdate>
+							<enddate>2009</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>DLG</srccitea>
+				<srccontr>Inland navigable waterways spatial and type attributes</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>National Atlas</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reston, Virginia</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>1.2M</srcscale>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1980</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NA</srccitea>
+				<srccontr>Inland navigable waterways spatial and type attributes</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Bureau of Census</origin>
+						<pubdate>1990</pubdate>
+						<title>TIGER/Line files</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>U.S. Bureau of Census</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>100,000</srcscale>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1990</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>TIGER</srccitea>
+				<srccontr>Inland navigable waterways spatial and type attributes</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>National Oceanographic and Atmospheric Administration</origin>
+						<pubdate>varies</pubdate>
+						<title>NOAA Navigation Charts</title>
+						<geoform>paper map</geoform>
+						<pubinfo>
+							<pubplace>Washington D.C.</pubplace>
+							<publish>National Oceanographic and Atmospheric Administration</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>varies</srcscale>
+				<typesrc>stable-base material</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>unknown</begdate>
+							<enddate>1994</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NOAA</srccitea>
+				<srccontr>Inland and offshore navigable waterways spatial and type attributes</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>varies</pubdate>
+						<title>1:100,000 Quad maps</title>
+						<geoform>paper map</geoform>
+						<pubinfo>
+							<pubplace>Reston, Virginia</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>stable-base material</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>varies</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>QUADS</srccitea>
+				<srccontr>Inland navigable waterways spatial and type attributes</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Army Corps of Engineers</origin>
+						<pubdate>Unknown</pubdate>
+						<title>Waterway Link Network</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>New Orleans, LA</pubplace>
+							<publish>U.S. Army Corps of Engineers</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>no scale</srcscale>
+				<typesrc>stable-base material</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>USACE WLN</srccitea>
+				<srccontr>Corps of Engineers links and nodes on inland and offshore navigable waterways.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Army Corps of Engineers</origin>
+						<pubdate>Unknown</pubdate>
+						<title>USACE Mile Markers</title>
+						<geoform>table</geoform>
+						<pubinfo>
+							<pubplace>New Orleans, LA</pubplace>
+							<publish>U.S. Army Corps of Engineers</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>none</srcscale>
+				<typesrc>stable-base material</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>USACE MM</srccitea>
+				<srccontr>Inland navigable waterways locational mile markers.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Oak Ridge National Laboratories</origin>
+						<pubdate>1993</pubdate>
+						<title>Inland Waterways</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>none</pubplace>
+							<publish>none</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>none</srcscale>
+				<typesrc>unknown</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>unknown</begdate>
+							<enddate>1994</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ending date</srccurr>
+				</srctime>
+				<srccitea>ORWW</srccitea>
+				<srccontr>Addition and correction of Inland navigable waterways attributes. Conflation of inland and offshore waterways.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Vanderbilt Engineering Center for Transportation Operations and Research</origin>
+						<pubdate>1994</pubdate>
+						<title>Vanderbilt Waterway Network</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>none</pubplace>
+							<publish>none</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>varies</srcscale>
+				<typesrc>stable-base material</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1994</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccitea>VUWW</srccitea>
+				<srccontr>Offshore and coastal waterways spatial and operational attributes</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Vanderbilt Engineering Center for Transportation Operations and Research</origin>
+						<pubdate>1994</pubdate>
+						<title>National Waterway Network ver 1.0</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>none</pubplace>
+							<publish>none</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>varies</srcscale>
+				<typesrc>stable-base material</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>199410</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>WWAY10</srccitea>
+				<srccontr>Offshore, inland, and coastal waterways spatial and operational attributes</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Vanderbilt Engineering Center for Transportation Operations and Research</origin>
+						<pubdate>1997</pubdate>
+						<title>National Waterway Network ver 2.0</title>
+						<geoform>digital map</geoform>
+						<pubinfo>
+							<pubplace>Washington, D.C.</pubplace>
+							<publish>Bureau of Transportation Statistics</publish>
+						</pubinfo>
+						<onlink>none</onlink>
+						<lworkcit>
+							<citeinfo>
+								<pubinfo>
+								</pubinfo>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srcscale>varies</srcscale>
+				<typesrc>stable-base material</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1997</caldate>
+							<time>unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>WWAY20</srccitea>
+				<srccontr>Offshore, inland, and coastal waterways spatial and operational attributes</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Extraction of spatial and type attributes for waterway features from NA, DLG and TIGER</procdesc>
+				<srcused>DLG</srcused>
+				<srcused>NA</srcused>
+				<srcused>TIGER</srcused>
+				<srcused>USACE</srcused>
+				<srcused>WLN</srcused>
+				<procdate>1994</procdate>
+				<srcprod>ORWW</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Bruce Peterson</cntper>
+							<cntorg>Oak Ridge National Laboratory</cntorg>
+						</cntperp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Oak Ridge National Laboratory</address>
+							<city>Oak Ridge</city>
+							<state>TN</state>
+							<country>United States of America</country>
+						</cntaddr>
+						<cntvoice>6155744419</cntvoice>
+						<cntfax>6155743895</cntfax>
+						<cntemail>gto@stc10.ctd.ornl.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Specification of offshore, coastal and Great Lake network nodes and links on NOAA, followed by direct digitization of specified nodes and links.</procdesc>
+				<srcused>NOAA</srcused>
+				<procdate>1995</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Mike Dimaiuta</cntper>
+							<cntorg>Vanderbilt Engineering Center for Transportation Operations and Research</cntorg>
+						</cntperp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Box , Station B</address>
+							<city>Nashville</city>
+							<state>TN</state>
+							<postal>37235</postal>
+							<country>United States of America</country>
+						</cntaddr>
+						<cntvoice>6153223683</cntvoice>
+						<cntfax>6153223365</cntfax>
+						<cntemail>dimaiuma@vuse.vanderbilt.edu</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Merging of inland and offshore waterway networks.  A specialized program was written to merge the two networks.  In general, Vanderbilt node locations were accepted as authoritative when both data  sets had the same elements.  This meant moving an Oak Ridge link incident to that node.  If the link was classified geographically ocean or Great Lakes, and a Vanderbilt link or chain existed with the same ID and endpoints, the Oak Ridge link was discarded, after transfer of Oak Ridge attributes.  If the Oak Ridge link was within 2 km of the new end nodes' location: and 1) if a duplicate Vanderbilt link existed with a higher source code, it replaced the Oak Ridge link, or 2) the Oak Ridge link was moved by a logistic adjustment to the new location.  (This causes modest disruption to the preponderance of the shape, yet assured that the angle of approach to the displaced end node location was preserved.)  If the link was functionally classed "deep draft" and a duplicate Vanderbilt link had an authoritative source code, the Oak Ridge link was replaced.  Otherwise an additional shape point was added at the end to snap to the new node location without disrupting the original link shape.  If the link had a Vanderbilt duplicate with the same ID, the Oak Ridge link was so flagged to be manually resolved.  The composite network was then cleaned manually, resolving all cases of still remaining duplicate links and deciding case-by-case how to smooth or otherwise accommodate a highly displaced Oak Ridge shape into the Vanderbilt digitized node location, using TIGER shorelines as a background.</procdesc>
+				<srcused>TIGER</srcused>
+				<srcused>ORWW</srcused>
+				<srcused>VUWW</srcused>
+				<procdate>1994</procdate>
+				<srcprod>WWAY10</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Bruce Peterson</cntper>
+							<cntorg>Oak Ridge National Laboratory</cntorg>
+						</cntperp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Oak Ridge National Laboratory</address>
+							<city>Oak Ridge</city>
+							<state>TN</state>
+							<country>United States of America</country>
+						</cntaddr>
+						<cntvoice>6155744419</cntvoice>
+						<cntfax>6155743895</cntfax>
+						<cntemail>gto@stc10.ctd.ornl.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Heads-up digitizing of WWAY10 to add shape points to inland waterways where straight links still existed.  Incorporation of comments from users (Vanderbilt, ORNL, and USACE Waterborne Commerce Statistics Center) of WWAY10 and error correction.</procdesc>
+				<srcused>WWAY10</srcused>
+				<srcused>DLG</srcused>
+				<procdate>1995</procdate>
+				<srcprod>WWAY11</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Mike Dimaiuta</cntper>
+							<cntorg>Vanderbilt Engineering Center for Transportation Operations and Research</cntorg>
+						</cntperp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Box , Station B</address>
+							<city>Nashville</city>
+							<state>TN</state>
+							<postal>37235</postal>
+							<country>United States of America</country>
+						</cntaddr>
+						<cntvoice>6153223683</cntvoice>
+						<cntfax>6153223365</cntfax>
+						<cntemail>dimaiuma@vuse.vanderbilt.edu</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Upgrades to link shape and attribute data based on information from US Army Corps of Engineers CWIS projects as published in their digital projects notebook.  Includes the addition of new links, removal of unnecessary links/nodes, and splitting of links to more effectively relate the digital waterway network to the physical network as maintained by the Corps of Engineers.</procdesc>
+				<srcused>DPN</srcused>
+				<srcused>WTWY20</srcused>
+				<procdate>1999</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Kevin Little</cntper>
+							<cntorg>Vanderbilt Engineering Center for Transportation Operations and Research</cntorg>
+						</cntperp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Vanderbilt University, Box 1625, Station B</address>
+							<city>Nashville</city>
+							<state>TN</state>
+							<country>United States of America</country>
+						</cntaddr>
+						<cntvoice>615.322.3696</cntvoice>
+						<cntfax>615.322.3365</cntfax>
+						<cntemail>krl@vuse.vanderbilt.edu</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards:
+&amp;gt;Changed name of file from "waterway" to "USAWaterways11"
+&amp;gt;Changed citatition title from "National Waterway Network" to "Navigable Waterways USA 2011"
+&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&amp;gt;Added theme keyword "line" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added ISO 19115 Topic Category keywords
+&amp;gt;Added LCSH theme keyword
+&amp;gt;Added GNS place keywords
+&amp;gt;Changed originators/publishers from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" and "U.S. Army Corps of Engineers Navigation Data Center" and "Vanderbilt Engineering Center for Transportation Operations and Research Vanderbilt University" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services" and "U.S. Army Engineer Institute for Water Resources" and "Vanderbilt University. Vanderbilt Transportation Research"
+&amp;gt;Changed publication place to reflect LCNH formatting
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20111129</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USAWaterways11">
+				<sdtstype>String</sdtstype>
+				<ptvctcnt>6887</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USAWaterways11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">6887</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USAWaterways11">
+			<enttyp>
+				<enttypl>
+USAnavWaterways11</enttypl>
+				<enttypd>National Waterway Network (line)</enttypd>
+				<enttypds>RITA/BTS</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">6887</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Polyline</edomv>
+						<edomvd>Polylinear shapes as defined by ArcView</edomvd>
+						<edomvds>ArcView Internal Attribute</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>Unique Link identification number</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LENGTH</attrlabl>
+				<attrdef>Link length in Miles</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>real</edomv>
+						<edomvd>with one explicit decimal place</edomvd>
+						<edomvds>calculated</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">LENGTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FEATURID</attrlabl>
+				<attrdef>Unique Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Numeric Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FEATURID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ANODE</attrlabl>
+				<attrdef>Identifies a record (NODEID) in the node file that corresponds to the starting position of the link</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Positive integer</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ANODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>BNODE</attrlabl>
+				<attrdef>Identifies a record (NODEID) in the node file that corresponds to the ending position of the link</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Positive integer</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">BNODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LINKNAME</attrlabl>
+				<attrdef>USACE link description</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Description</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">LINKNAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">35</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RIVERNAME</attrlabl>
+				<attrdef>Name of the water that the object belong to.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Description</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">RIVERNAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">35</attwidth>
+</attr>
+			<attr>
+				<attrlabl>AMILE</attrlabl>
+				<attrdef>Milepost at the ANODE, inland Corps links, only</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>real, with one explicit decimal place</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">AMILE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>BMILE</attrlabl>
+				<attrdef>Milepost at the BNODE, inland Corps links, only</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>real, with one explicit decimal place</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">BMILE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>LENGTH1</attrlabl>
+				<attrdef>Line length, in miles</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>real, with one explicit decimal place</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">LENGTH1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>LENGTH_SRC</attrlabl>
+				<attrdef>Indication of how the length was calculated</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>V</edomv>
+						<edomvd>Vanderbilt; length was calculated using GIS software</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>M</edomv>
+						<edomvd>Milepoints; length was calculated by subtracting 'B' milepoint from 'A' milepoint</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">LENGTH_SRC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SHAPE_SRC</attrlabl>
+				<attrdef>Indicates the data source used for each link</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>CM</edomv>
+						<edomvd>Corps Milepoints</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>DD</edomv>
+						<edomvd>Digitized from 1:100K DLGs (CD-ROM)</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>DN</edomv>
+						<edomvd>Digitized from NOAA Charts</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>DQ</edomv>
+						<edomvd>Digitized from 1:100K USGS Quads</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>J</edomv>
+						<edomvd>Rough shape (guessed)</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>JR</edomv>
+						<edomvd>Original shape modified by ORNL</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>JV</edomv>
+						<edomvd>Original shape modified by Vanderbilt</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>M</edomv>
+						<edomvd>Missing / Unknown</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NA</edomv>
+						<edomvd>Digitized from 1:2M National Atlas Points</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>RR</edomv>
+						<edomvd>ORNL link modified by ORNL</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>RV</edomv>
+						<edomvd>ORNL link modified by Vanderbilt</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>VR</edomv>
+						<edomvd>Vanderbilt link modified by ORNL</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SHAPE_SRC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LINKTYPE</attrlabl>
+				<attrdef>Indicates the originator of the link or the type of feature represented by the link</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>CORPS</edomv>
+						<edomvd>Corps of Engineers original link</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CWIS</edomv>
+						<edomvd>Corps of Engineers civil works improvement addition</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ORNL</edomv>
+						<edomvd>Oak Ridge National Laboratory</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>VANDERBUILT</edomv>
+						<edomvd>Vanderbuilt University</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>LOCK</edomv>
+						<edomvd>Corps of Engineers lock</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">LINKTYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CTRL_DEPTH</attrlabl>
+				<attrdef>Control depth of link, in feet,Corps links only</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Measured Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">CTRL_DEPTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WATERWAY</attrlabl>
+				<attrdef>4-digit waterway code from Corps Master_port_waterway</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Corps Master_port_waterway</codesetn>
+						<codesets>USACE</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">WATERWAY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GEO_CLASS</attrlabl>
+				<attrdef>Geographic Class</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>G</edomv>
+						<edomvd>Great Lakes</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>O</edomv>
+						<edomvd>Ocean / Offshore</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>I</edomv>
+						<edomvd>Inland</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GEO_CLASS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FUNC_CLASS</attrlabl>
+				<attrdef>Functional Class</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>no traffic, non-navigable</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>shallow draft (i.e., no deep draft ocean vessels)</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>D</edomv>
+						<edomvd>deep draft</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B</edomv>
+						<edomvd>Both</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>U</edomv>
+						<edomvd>special vessels only (fishing, pleasure craft, etc; normally no freight traffic)</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FUNC_CLASS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WTWY_TYPE</attrlabl>
+				<attrdef>Waterway Type</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Harbor (including harbor channels), Bay</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Intracoastal Waterway</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Sealane</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Sealane with separation zone</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Open water</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>River, creek, thoroughfare, lake</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Estuary</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Channel (not including harbor channels)</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>Canal</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>Great Lakes direct link (major ports)</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>Great Lakes indirect link</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Corps of Engineers Lock</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">WTWY_TYPE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CHART_ID</attrlabl>
+				<attrdef>4 or 5 digit NOAA chart number or 15 character 1:100K USGS Quad Map ID</attrdef>
+				<attrdefs>United States. National Oceanic and Atmospheric Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official NOAA Chart Index</codesetn>
+						<codesets>NOAA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">CHART_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NUM_PAIRS</attrlabl>
+				<attrdef>Number of coordinate pairs that make up the link</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Calaulated Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NUM_PAIRS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WHO_MOD</attrlabl>
+				<attrdef>Composite code designating what organization modified the link</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>V</edomv>
+						<edomvd>Vanderbilt addition</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>R</edomv>
+						<edomvd>Oak Ridge addition</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>J</edomv>
+						<edomvd>guessed</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>H</edomv>
+						<edomvd>screen digitization from DLGs or TIGER</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>94 May</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>94 June</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>R</edomv>
+						<edomvd>attributes modified by ORNL</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>A</edomv>
+						<edomvd>attributes modified by Vanderbilt</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">WHO_MOD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DATE_MOD</attrlabl>
+				<attrdef>The MODDATE (or modification date)indicates when each record in the database was last changed. As changes are made to a record, the modification date is entered in the format 'mmddyyy'.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Date Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DATE_MOD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HEADING</attrlabl>
+				<attrdef>Compass Direction</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>North</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>South</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>E</edomv>
+						<edomvd>East</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>W</edomv>
+						<edomvd>West</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">HEADING</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATE</attrlabl>
+				<attrdef>State Postal Abbreviation</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Offical List of State Postal Abbreviation</codesetn>
+						<codesets>United States. Dept. of Transportation. Research and Innovative Technology Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIPS</attrlabl>
+				<attrdef>Primary State FIPS Code</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard- FIPS Pub 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">FIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIPS2</attrlabl>
+				<attrdef>State FIPS Code</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard- FIPS Pub 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">FIPS2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NON_US</attrlabl>
+				<attrdef>Abbreviation for non-US areas</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>AC</edomv>
+						<edomvd>Arctic Ocean</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>AT</edomv>
+						<edomvd>Atlantic Ocean</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>BS</edomv>
+						<edomvd>Bering Sea</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CB</edomv>
+						<edomvd>Caribbean Sea</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>CD</edomv>
+						<edomvd>Canada</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GM</edomv>
+						<edomvd>Gulf of Mexico</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PC</edomv>
+						<edomvd>Pacific Ocean</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PM</edomv>
+						<edomvd>Panama</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>XX</edomv>
+						<edomvd>Unidentified Area</edomvd>
+						<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">NON_US</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>The VERSION is a 2-digit number that will be incremented for all records in the database whenever a new release is distributed.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>1.423</transize>
+					<dssize Sync="TRUE">1.423</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20111129</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Tranportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Ave. SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202-366-DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USAWaterways11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-179.803407</westBL>
+<eastBL Sync="TRUE">179.13519</eastBL>
+<northBL Sync="TRUE">72.19972</northBL>
+<southBL Sync="TRUE">-55.905212</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-179.803407</westBL>
+<eastBL Sync="TRUE">179.13519</eastBL>
+<northBL Sync="TRUE">72.19972</northBL>
+<southBL Sync="TRUE">-55.905212</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USAWaterways11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">1.423</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USAWaterways11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">6887</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11445700</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11445700</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

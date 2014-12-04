@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Gap Analysis Program (U.S.)</origin>
+				<pubdate>20110222</pubdate>
+				<title>Protected Areas New York 2005-2011</title>
+				<edition>1.2</edition>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<publish>Gap Analysis Program (U.S.)</publish>
+				</pubinfo>
+				<onlink>http://gapanalysis.usgs.gov/PADUS</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Gap Analysis Program (U.S.)</origin>
+						<pubdate>20110222</pubdate>
+						<title>Protected Areas Database of the United States (PADUS) version 1.2</title>
+						<edition>1.2</edition>
+						<geoform>document</geoform>
+						<pubinfo>
+							<pubplace>Reston (Va.)</pubplace>
+							<publish>Gap Analysis Program (U.S.)</publish>
+						</pubinfo>
+						<onlink>http://gapanalysis.usgs.gov/PADUS/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">NYProtectedAreas0511</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents protected areas in New York, derived from the Protected Areas Database of the United States (PAD-US). This is a geodatabase that illustrates and describes public land ownership, management and conservation lands nationally, including voluntarily provided privately protected areas.  The lands included in PAD-US are assigned conservation measures that qualify their intent to manage lands for the preservation of biological diversity and to other natural, recreational and cultural uses; managed for these purposes through legal or other effective means.  The geodatabase includes: 1) Geographic boundaries of public land ownership and voluntarily provided private conservation lands (e.g., Nature Conservancy Preserves); 2) The combination land owner, land manager, management designation or type, parcel name, GIS Acres and source of geographic information of each mapped land unit 3) GAP Status Code conservation measure of each parcel based on USGS National Gap Analysis Program (GAP) protection level categories which provide a measurement of management intent for long-term biodiversity conservation 4) IUCN category for a protected area's inclusion into UNEP-World Conservation Monitoring Centre's World Database for Protected Areas.  IUCN protected areas are defined as, "A clearly defined geographical space, recognized, dedicated and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values" and are categorized following a classification scheme available through USGS GAP; 5) World Database of Protected Areas (WDPA) Site Codes linking the multiple parcels of a single protected area in PAD-US and connecting them to the Global Community.  This polygon data layer represents the protected areas in PAD-US within New York.  
+
+PAD-US version 1.2 updates include:
+1) National Park Service (NPS) boundaries and GAP Status Code review in cooperation with NPScape and NPS Lands.
+2) Department of Defense (DOD) boundaries in cooperation with DOD Partners in Flight
+3) Official (member and eligible only) Marine Protected Areas as aggregated and accepted by the National Oceanic and Atmospheric Administration (NOAA).
+4)The Bureau of Land Management's (BLM) National Landscape Conservation System (NLCS) authoritative boundaries in cooperation with NLCS policy representitives and the Lands Division.  Note: NLCS National Trails and Wild and Scenic Rivers were not updated as they are managed as Line files; however, PADUS already contained many of these protected areas.
+5) Modified or newly created Wilderness Area boundaries created by The Omnibus Public Lands Act of 2009 in cooperation with Wilderness.net.
+6) Protected areas in The US Virgin Islands
+7) Protected areas in the Pacific Islands (Micronesia) 
+8) Washington Department of Fish and Wildlife protected areas</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>2005</begdate>
+					<enddate>2011</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-79.857589</westbc>
+				<eastbc>
+-70.600801</eastbc>
+				<northbc>
+45.813443</northbc>
+				<southbc>
+40.115777</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">1334066.042200</leftbc>
+<rightbc Sync="TRUE">1991043.335000</rightbc>
+<bottombc Sync="TRUE">2150737.654000</bottombc>
+<topbc Sync="TRUE">2657514.146800</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+				<themekey>boundaries</themekey>
+				<themekey>planningCadastre</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Protected areas</themekey>
+				<themekey>Land tenure</themekey>
+				<themekey>Real property</themekey>
+				<themekey>Public servitudes</themekey>
+				<themekey>Conservation easements</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>New York</placekey>
+			</place>
+			<place>
+				<placekey>North America</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+<placekt>LCNH</placekt>
+</place>
+		</keywords>
+		<accconst>Unrestricted Access Online: These data are in the public domain</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Lisa Duarte</cntper>
+					<cntorg>USGS Gap Analysis Program - University of Idaho</cntorg>
+				</cntperp>
+				<cntpos>Stewardship Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>530 S. Asbury St. Suite #1</address>
+					<city>Moscow</city>
+					<state>Idaho</state>
+					<postal>83843</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>208-885-3013</cntvoice>
+				<cntfax>208-885-3618</cntfax>
+				<cntemail>lduarte@uidaho.edu</cntemail>
+				<hours>8:00 am - 5:00 pm PST, M-F</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>US Geological Survey, Gap Analysis Program (GAP).  February 2011.  Protected Areas Database of the United States (PADUS), version 1.2.</datacred>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<crossref>
+			<citeinfo>
+				<onlink>http://gapanalysis.usgs.gov/PADUS</onlink>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>National Park Service Update: Data exported from PAD-US version 1.1 by "Owner Name = NPS" summarized by "Primary Designation Name" and distributed to NPS Networks for Category (Fee or Easement) and GAP Status Code review, coordinated by Bill Monahan (NPS Inventory and Monitoring) during the Fall 2010 in collaboration with GAP.  
+
+GAP obtained best available ownership data from NPS Land Resources Division (Roger Johnson).  At the time, Lands had reviewed about 275 units and created tract level ownership data within the previously defined administrative (a.ka. legacy or proclomation) boundaries approved by congress.  To aggreagate best available data without major topolgy overlap errors, GAP merged nps_tracts.shp with units from nps_boundary.pdf Lands had not yet revised to tracts.  Both were reprojected and translated into the PADUS schema following Standards (see GAP Website).  
+
+With consent from the NPS Wilderness Stewardship Division (Ashley Adams), GAP incorporated nationally compiled NPS Wilderness Area data from Wilderness.net (Lisa Edison). GAP updated the combined nps_tracts_boundaries file with wilderness areas to avoid overlapping polygons and inflating protected area statistics.  The Primary Designation Type and Name PADUS attributes describe the Wilderness Areas, while the Secondary Designation Type and Name fields describe the original designation present in NPS Lands files (e.g. National Park) where Wilderness Areas overlap.
+
+GAP joined updated Lands data with the PADUS v1.1 NPScape review by the Primary Local Name field to transfer conservation measures.  New protected areas were assigned categorical GAP Status Codes (see GAP Code Source = GAP - Default) and IUCN Categories.  GAP incorporated a few protected areas in PAD-US version 1.1 reviewed by NPScape that are not in Lands data. Review comments are welcome.
+
+Where nps_tracts data was unavailable (i.e. GIS Source = nps_boundaries) GAP updated overlapping protected areas from PAD-US version 1.1 into legacy admin boundaries (e.g. state wildlife management areas) assuming land ownership in PADUS is accurate.  Otherwise, nps_tracts data updated PAD-US after clipping polygons that crossed state lines to a state boundary file.</procdesc>
+				<procdate>201102</procdate>
+				<proctime>17145600</proctime>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Mason Croft</cntper>
+							<cntorg>USGS Gap Analysis Program - University of Idaho</cntorg>
+						</cntperp>
+						<cntpos>Conservation Database Mngr. / GIS Analyst</cntpos>
+						<cntemail>mcroft@uidaho.edu</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Bureau of Land Management (BLM) National Landscape Conservation System (NLCS) update: GAP obtained best available, authoritative NLCS data from the BLM Division of Lands, Realty and Cadastral Survey (Leonard Gore) as: NLCS_Units_11_2009.mdb in August 2010.  The NLCS Units managed in seperate polygon feature classes were translated into a single PADUS feature class following Standards (See GAP Website).  With consultation from the Wild and Scenic River Specialist (Joe Ashor) and NLCS Division Chief (Jeff Jarvis), Historic Trails and Wild and Scenic River updates were not incorporated into PADUS v1.2.  NLCS currently manages Trails and WSR as Line files that do not meet PADUS requirements.  As PADUS contains many polygon WSR and Trail corridors that reflect boundaries reported to congress, these areas were not replaced with lines but were attributed to the NLCS.
+
+As many BLM NLCS designations overlap, GAP reviewed topology overlap errors and updated designations into one another so that areas of higher biodiversity protection remain as the Primary Designation Type and Name.  The Secondary Designation Type and Name fields describe the overlapping designation of lower biodiveristy conservation value.  Duplicated records in NLCS data were not incorporated into PADUS.  In some cases, NLCS units of lower biodiversity conservation value overlapped BLM Areas of Critical Environmental Concern (ACEC) in PADUS.  The NLCS Units were not updated and the ACEC's remain.  Wilderness Study Area names and conservation measures from PADUS version 1.1 were transferred to the NLCS update file before loading into PADUS version 1.2 and BLM base ownership.  Categorical GAP Status Code and IUCN Categories were assigned to new NLCS areas following PADUS Standards (see GAP Website).  Review comments are welcome, contact the GAP Stewardship Coordinator.</procdesc>
+			</procstep>
+			<procstep>
+				<procdesc>Department of Defense (DOD) Update: GAP obtained best available DOD Lands data from DOD Partners in Flight (Dana Bradshaw and Chris Eberly) identified as "DOD_lands_2008.shp" in July 2010.  GAP reprojected and translated these data into the PADUS schema following Standards.  In September 2010, GAP was able to digitize several Navy protected areas in Washington with the assistance of George Hart.  GAP added these records to the DOD update file.  GAP received an updates to the DOD Lands file current as of November 2010.  In consultation with Dana Bradshaw, GAP was able to add new records from DOD_NEW_Lands.shp and delete records from DOD_Lands_2008 no longer managed by DOD.  
+
+As the DOD Lands data reflects base ownership only, GAP selected areas from PADUS version 1.1 where "Owner Name = DOD and GAP Status Code = 1-3 (e.g. Wildlife Area, Mitigation Land) and merged those areas into the DOD Lands update file.  This compilation was reviewed for 'must not overlap' topolgy errors.  GAP deleted duplicated records and combined DOD designated areas (using the Primary and Secondary Designation Type and Name fields).  Sliver errors remain.  
+
+GAP removed DOD Lands from PADUS by Owner Name = DOD and loaded the DOD Lands file with addition Navy protected areas and GAP 1-3 areas from PADUS v1.1.  In several cases, DOD data overlap that of another federal or state land management agency.  When resources allow, GAP Strives to determine attribute the Owner Name and Manager Name fields in PADUS correctly and remove these overlaps that create inaccurate protected area statistics.  However, without authoritative information or guidance, these overlaps remain as provided by the data sources.  Review comments are welcome, contact the GAP Stewardship Coordinator.</procdesc>
+			</procstep>
+			<procstep>
+				<procdesc>Washington Department of Fish and Wildlife (WDFW) update: GAP incorporated best available WDFW protected areas from WA_NWGAP_WDFW.mdb from Marc McCalmon.  WDFW collaborated with GAP to assign GAP Status Codes to WDFW protected areas current as of January 2011.  
+
+GAP reviewed overlaps between the WDFW update and PADUS and noted a few conflicts with WA DNR data.  As the WDFW update reflects current transactions and the WA DNR update was in 2009, GAP loaded the WDFW update in directly.  Review comments are welcome, contact the GAP Stewardship Coordinator.</procdesc>
+			</procstep>
+			<procstep>
+				<procdesc>Pacific Islands update: GAP obtained best available data from the Pacific Biodiversity Information Forum (Rhyn Davies, USGS) identified as PBIF.gdb current as of December 2010.  In consultation with R. Davies, GAP reprojected and translated Micronesia_PA into the PADUS schema, with joined information from the PA_Table, following Standards (see GAP Website).  GAP assigned GAP Status Codes and transferred previously assigned IUCN Categories.  Parcel names were updated and the file loaded into PADUS.</procdesc>
+			</procstep>
+			<procstep>
+				<procdesc>Omnibus Public Lands Act of 2009 Wilderness Area Update: Lisa Edison provided GAP with best available and authoritative Wilderness Area updates in November 2010.  In consideration of the BLM and NPS udpates being incorporated into PADUS version 1.2, GAP opted to reproject and translate only new wilderness areas not currently in the PADUS, BLM NLCS or NPS update files.  Several Wilderness Areas crossed state lines and needed to be clipped in order for the PADUS Core Attribute "State Name" to be assigned.</procdesc>
+			</procstep>
+			<procstep>
+				<procdesc>US Virgin Islands Update: GAP obtained best available USVI protected areas from the USFS International Institute of Tropical Forestry (Mariano Solorzano) current as of their November 2010 review.  GAP reprojected and translated USVI data following Standards (see GAP website) and assigned IUCN Categories based upon previously assigned GAP Status Codes.  Review comments are welcome.</procdesc>
+			</procstep>
+			<procstep>
+				<procdesc>GAP revised Owner Type, Owner Name, Primary Designation Type, State Name and GAP Code Source following updated PADUS Standards.  Contact the GAP Stewardship Coordinator or the GAP Website for more information.</procdesc>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\Lisa\Documents\PADUS\PADUSv1.1\PAD1_2metadata.xml</srcused>
+				<procdate>20110222</procdate>
+				<proctime>17081600</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\3_QA\PADUS1_2_metadata_xml.xml</srcused>
+				<procdate>20120105</procdate>
+				<proctime>15055900</proctime>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards:
+
+&amp;gt;Changed name of file from "NY" to "NYProtectedAreas11"
+&amp;gt;Changed citation title from "NY" to "Protected Areas NY 2011"
+&amp;gt;Removed publication times "Unknown"
+&amp;gt;Changed originator from "US Geological Survey (USGS) Gap Analysis Program (GAP)" to "Gap Analysis Program (U.S.)"
+&amp;gt;Changed publisher from "USGS Gap Analysis Program (GAP)" to "Gap Analysis Program (U.S.)"
+&amp;gt;Changed larger work citation originator/publisher from "USGS National Gap Analysis Program" to "Gap Analysis Program (U.S.)"
+&amp;gt;Added publication place
+&amp;gt;Added ISO 19115 Topic Category keywords
+&amp;gt;Added LCSH keywords
+&amp;gt;Added FGDC keyword
+&amp;gt;Added GNIS keyword
+&amp;gt;Added keyword thesaurus name "Gap Analysis Program (U.S.)" to previously imported keywords without a stated thesaurus
+&amp;gt;Removed imported place keywords that were not related to the extracted state
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Included in the abstract an identification of the specific state represented
+&amp;gt;Changed access constraints from "These data are in the public domain" to "Unrestricted Access Online: These data are in the public domain"
+&amp;gt;Modified imported attribute definitions to identify enumerated domains
+&amp;gt;Added "Gap Analysis Program (U.S.)" as the attribute definition source
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20120111</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<srcinfo>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NYProtectedAreas0511">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>11609</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NYProtectedAreas0511">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">11609</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Albers Conical Equal Area</mapprojn>
+<albers>
+<stdparll Sync="TRUE">29.500000</stdparll>
+<stdparll Sync="TRUE">45.500000</stdparll>
+<longcm Sync="TRUE">-96.000000</longcm>
+<latprjo Sync="TRUE">23.000000</latprjo>
+<feast Sync="TRUE">0.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</albers>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">USA_Contiguous_Albers_Equal_Area_Conic_USGS_version</projcsn>
+</cordsysn>
+</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>1.000000</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="NYProtectedAreas0511">
+			<enttyp>
+				<enttypl>
+NYprotectedareasDB11</enttypl>
+				<enttypd>PAD-US Standards Manual available from GAP Website or Stewardship Coordinator</enttypd>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">11609</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Category</attrlabl>
+				<attrdef>General category for the protection mechanism associated with the protected area.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Fee</edomv>
+						<edomvd>'Fee' is the most common way real estate is owned.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>Easement</edomv>
+						<edomvd>A conservation 'easement' creates a legally enforceable land preservation agreement between a landowner and government agency or qualified land protection organization (i.e. land trust).</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>Other</edomv>
+						<edomvd>'Other' types of protection include mixed protection, leases, agreements or those over marine waters.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>Unknown</edomv>
+						<edomvd>Unknown category</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Category</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Own_Type</attrlabl>
+				<attrdef>General land owner code (e.g. Federal = 01) standardized for the US. See MSL Owner Type Domain descriptions in PAD-US Standards Manual or geodatabase look up table for detailed descriptions.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>01</edomv>
+						<edomvd>Federal</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>02</edomv>
+						<edomvd>Native American</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>03</edomv>
+						<edomvd>State</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>04</edomv>
+						<edomvd>Regional Agency</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>05</edomv>
+						<edomvd>Local Government</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>06</edomv>
+						<edomvd>Non-Governmental Organization</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>07</edomv>
+						<edomvd>Private</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>08</edomv>
+						<edomvd>Jointly Owned</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>09</edomv>
+						<edomvd>Unknown Land Owner</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>Territorial</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Own_Type</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OwnType</attrlabl>
+				<attrdef>General land owner description (e.g. Federal, Tribal, State, Private) standardized for the US. See MSL Owner Type Domain descriptions in PAD-US Standards Manual or geodatabase look up table for detailed descriptions.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">OwnType</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Own_Name</attrlabl>
+				<attrdef>Land owner and primary entity responsible for managing parcel when 'Manager Name' is not attributed (e.g. USFS, State Fish and Game, City Land, TNC) standardized for the US. See MSL Owner Name Domain descriptions in PAD-US Standards Manual or geodatabase look up table for detailed descriptions.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0100</edomv>
+						<edomvd>Tennessee Valley Authority (TVA)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0110</edomv>
+						<edomvd>Bureau of Land Management (BLM)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0115</edomv>
+						<edomvd>Bureau of Ocean Energy Management, Regulation and Enforcement (DOI)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0120</edomv>
+						<edomvd>Bureau of Reclamation (BOR)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0125</edomv>
+						<edomvd>Fish and Wildlife Service (FWS)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0130</edomv>
+						<edomvd>Forest Service (USFS)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0135</edomv>
+						<edomvd>Department of Defense (DOD)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0140</edomv>
+						<edomvd>Department of Energy (DOE)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0145</edomv>
+						<edomvd>National Park Service (NPS)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0150</edomv>
+						<edomvd>Natural Resources Conservation Service (NRCS)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0155</edomv>
+						<edomvd>Agricultural Research Service (ARS)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0160</edomv>
+						<edomvd>Bureau of Indian Affairs (BIA)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0165</edomv>
+						<edomvd>National Oceanic and Atmospheric Administration (NOAA)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0170</edomv>
+						<edomvd>Other Federal Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0220</edomv>
+						<edomvd>Native American Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0310</edomv>
+						<edomvd>State Park &amp;amp; Recreation</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0315</edomv>
+						<edomvd>State Department of Conservation</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0320</edomv>
+						<edomvd>State Land Board</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0325</edomv>
+						<edomvd>State Department of Environment</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0330</edomv>
+						<edomvd>State Fish and Wildlife</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0335</edomv>
+						<edomvd>State University</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0340</edomv>
+						<edomvd>State Department of Natural Resources</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0350</edomv>
+						<edomvd>State Department of Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0360</edomv>
+						<edomvd>State Coastal Reserve</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0365</edomv>
+						<edomvd>State Natural Heritage Program</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0370</edomv>
+						<edomvd>State Cultural Affairs</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0375</edomv>
+						<edomvd>State Historical Society</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0380</edomv>
+						<edomvd>State Department of Transportation</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0385</edomv>
+						<edomvd>State Department of Mental Health</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0390</edomv>
+						<edomvd>State Department of Agriculture</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0395</edomv>
+						<edomvd>Other State Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0410</edomv>
+						<edomvd>Regional Agency Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0420</edomv>
+						<edomvd>Regional Water Districts</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0510</edomv>
+						<edomvd>City Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0520</edomv>
+						<edomvd>County Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0610</edomv>
+						<edomvd>Audubon Society</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0620</edomv>
+						<edomvd>Land Trust</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0630</edomv>
+						<edomvd>The Nature Conservancy (TNC)</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0640</edomv>
+						<edomvd>Ducks Unlimited</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0650</edomv>
+						<edomvd>Private University</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0655</edomv>
+						<edomvd>Private Corporation</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0660</edomv>
+						<edomvd>Private Non-Profit</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0670</edomv>
+						<edomvd>Rocky Mountain Elk Foundation</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0710</edomv>
+						<edomvd>Private Landowner</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0720</edomv>
+						<edomvd>Private Institution</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0800</edomv>
+						<edomvd>Joint Ownership</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0810</edomv>
+						<edomvd>Other Ownership</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>0910</edomv>
+						<edomvd>Unknown</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>1001</edomv>
+						<edomvd>US Virgin Islands Government</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>1002</edomv>
+						<edomvd>American Samoa Government</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>1003</edomv>
+						<edomvd>Guam Government</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>1004</edomv>
+						<edomvd>Mariana Islands Government</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>1005</edomv>
+						<edomvd>Puerto Rico Government</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Own_Name</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OwnName</attrlabl>
+				<attrdef>Land owner and primary entity responsible for managing parcel when 'Manager Name' is not attributed (e.g. USFS, State Fish and Game, City Land, TNC) standardized for the US. See MSL Owner Name Domain descriptions in PAD-US Standards Manual or geodatabase look up table for detailed descriptions.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">OwnName</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Loc_Own</attrlabl>
+				<attrdef>The actual name of the land owner provided by the data source, to complement the standardized 'Owner Name' field (e.g. State Fish and Wildlife is the standardized 'Owner Name' but Washington Department of Fish and Wildlife is the 'Local Owner').  Not standardized in MSL.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">Loc_own</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Mang_Name</attrlabl>
+				<attrdef>This field is attributed when the agency or entity responsible for managing a parcel differs from the 'Owner Name'.  Not standardized in MSL.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">Mang_Name</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+</attr>
+			<attr>
+				<attrlabl>P_Des_Tp</attrlabl>
+				<attrdef>The primary land management description or designation, standardized for nation (e.g. Area of Critical Environmental Concern resides in this field with Big Bear, as an example, in the 'Primary Designation Name' field.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>100</edomv>
+						<edomvd>National Park</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>101</edomv>
+						<edomvd>National Forest-National Grassland</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>102</edomv>
+						<edomvd>National Trail</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>103</edomv>
+						<edomvd>National Wildlife Refuge</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>104</edomv>
+						<edomvd>National Natural Landmark</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>105</edomv>
+						<edomvd>National Landscape Conservation System - Non Wilderness</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>106</edomv>
+						<edomvd>National Landscape Conservation System - Wilderness</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>107</edomv>
+						<edomvd>Native American Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>108</edomv>
+						<edomvd>Protective Management Area - Feature</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>109</edomv>
+						<edomvd>Protective Management Area - Land, Lake or River</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>110</edomv>
+						<edomvd>Habitat or Species Management Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>111</edomv>
+						<edomvd>Recreation Management Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>112</edomv>
+						<edomvd>Resource Management Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>113</edomv>
+						<edomvd>Wild and Scenic River</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>114</edomv>
+						<edomvd>Native American Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>115</edomv>
+						<edomvd>Research and Educational Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>116</edomv>
+						<edomvd>Marine Protected Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>117</edomv>
+						<edomvd>Wilderness Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>118</edomv>
+						<edomvd>Area of Critical Environmental Concern</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>119</edomv>
+						<edomvd>Research Natural Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>120</edomv>
+						<edomvd>Historic / Cultural Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>121</edomv>
+						<edomvd>Mitigation Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>122</edomv>
+						<edomvd>Military Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>123</edomv>
+						<edomvd>Watershed Protection Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>124</edomv>
+						<edomvd>Access Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>125</edomv>
+						<edomvd>Special Designation Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>126</edomv>
+						<edomvd>Other Designation</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>127</edomv>
+						<edomvd>Not Designated</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>300</edomv>
+						<edomvd>State Park</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>301</edomv>
+						<edomvd>State Forest</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>302</edomv>
+						<edomvd>State Trust Lands</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>303</edomv>
+						<edomvd>State Other</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>500</edomv>
+						<edomvd>Local Conservation Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>501</edomv>
+						<edomvd>Local Recreation Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>502</edomv>
+						<edomvd>Local Forest</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>503</edomv>
+						<edomvd>Local Other</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>700</edomv>
+						<edomvd>Private Conservation Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>701</edomv>
+						<edomvd>Agricultural Protection Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>702</edomv>
+						<edomvd>Conservation Program Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>703</edomv>
+						<edomvd>Forest Stewardship Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">P_Des_Tp</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">75</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PdesTp</attrlabl>
+				<attrdef>The primary land management description or designation, standardized for nation (e.g. Area of Critical Environmental Concern resides in this field with Big Bear, as an example, in the 'Primary Designation Name' field.  See MSL Primary Designation Type domain descriptions for details and Appendix A for crosswalk and definitions.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">PdesTp</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">75</attwidth>
+</attr>
+			<attr>
+				<attrlabl>P_Loc_Ds</attrlabl>
+				<attrdef>The primary land management description or designation as provided by data source. Not standardized in MSL.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">P_loc_ds</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">100</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>P_Des_Nm</attrlabl>
+				<attrdef>Primary Designation Name: The name of protected area only (with no designation type) standardized to Proper Case without acronyms or parcel identifiers.  This field enables users to search for a protected area by name, regardless of how many parcels it contains but can be concatenated with the Primary Designation Type field.  The Primary Local Name field, from the data source, is calculated into this field and standardized.  In previous PAD-US versions the designation type was included.  This field is in transition to the updated standard.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">P_Des_Nm</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">200</attwidth>
+</attr>
+			<attr>
+				<attrlabl>P_Loc_Nm</attrlabl>
+				<attrdef>Primary Local Name: The name of the protected area as provided by the data source not standardized for the US.  As a result, this field may include designations, different formats, spelling errors, unit or area identifiers unique to parcels but joins to source data files.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">P_Loc_Nm</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">200</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Status</attrlabl>
+				<attrdef>Current legal or "official" standing of the site.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Designated</edomv>
+						<edomvd>Site has been legally or administratively decreed</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>Proposed</edomv>
+						<edomvd>Site has approval but is awaiting legal declaration/decree</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>Other</edomv>
+						<edomvd>Site is recognized in a manner not otherwise classified</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>Unknown</edomv>
+						<edomvd>Current status of this site is not known.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Status</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">70</attwidth>
+</attr>
+			<attr>
+				<attrlabl>State_Nm</attrlabl>
+				<attrdef>State Name domain FIPS code.  See domain descriptions in PAD-US Standards Manual or geodatabase look up table for details.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>01</edomv>
+						<edomvd>Alabama</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>02</edomv>
+						<edomvd>Alaska</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>04</edomv>
+						<edomvd>Arizona</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>05</edomv>
+						<edomvd>Arkansas</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>06</edomv>
+						<edomvd>California</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>08</edomv>
+						<edomvd>Colorado</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>09</edomv>
+						<edomvd>Connecticut</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>Delaware</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>District of Columbia</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Florida</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>13</edomv>
+						<edomvd>Georgia</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>15</edomv>
+						<edomvd>Hawaii</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>16</edomv>
+						<edomvd>Idaho</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>17</edomv>
+						<edomvd>Illinois</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>18</edomv>
+						<edomvd>Indiana</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>19</edomv>
+						<edomvd>Iowa</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>20</edomv>
+						<edomvd>Kansas</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>21</edomv>
+						<edomvd>Kentucky</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>22</edomv>
+						<edomvd>Louisiana</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>23</edomv>
+						<edomvd>Maine</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>24</edomv>
+						<edomvd>Maryland</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>25</edomv>
+						<edomvd>Massachusetts</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>26</edomv>
+						<edomvd>Michigan</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>27</edomv>
+						<edomvd>Minnesota</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>28</edomv>
+						<edomvd>Mississippi</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>29</edomv>
+						<edomvd>Missouri</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>30</edomv>
+						<edomvd>Montana</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>31</edomv>
+						<edomvd>Nebraska</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>32</edomv>
+						<edomvd>Nevada</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>33</edomv>
+						<edomvd>New Hampshire</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>34</edomv>
+						<edomvd>New Jersey</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>35</edomv>
+						<edomvd>New Mexico</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>36</edomv>
+						<edomvd>New York</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>37</edomv>
+						<edomvd>North Carolina</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>38</edomv>
+						<edomvd>North Dakota</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>39</edomv>
+						<edomvd>Ohio</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>40</edomv>
+						<edomvd>Oklahoma</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>41</edomv>
+						<edomvd>Oregon</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>42</edomv>
+						<edomvd>Pennsylvania</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>44</edomv>
+						<edomvd>Rhode Island</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>45</edomv>
+						<edomvd>South Carolina</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>46</edomv>
+						<edomvd>South Dakota</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>47</edomv>
+						<edomvd>Tennessee</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>48</edomv>
+						<edomvd>Texas</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>49</edomv>
+						<edomvd>Utah</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>50</edomv>
+						<edomvd>Vermont</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>51</edomv>
+						<edomvd>Virginia</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>53</edomv>
+						<edomvd>Washington</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>54</edomv>
+						<edomvd>West Virginia</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>55</edomv>
+						<edomvd>Wisconsin</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>56</edomv>
+						<edomvd>Wyoming</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>60</edomv>
+						<edomvd>American Samoa</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>64</edomv>
+						<edomvd>Federated States of Micronesia</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>66</edomv>
+						<edomvd>Guam</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>68</edomv>
+						<edomvd>Marshall Islands</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>69</edomv>
+						<edomvd>Northern Mariana Islands</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>70</edomv>
+						<edomvd>Palau</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>72</edomv>
+						<edomvd>Puerto Rico</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>74</edomv>
+						<edomvd>United States Minor Outlying Islands</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>78</edomv>
+						<edomvd>United States Virgin Islands</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">State_Nm</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>StateNm</attrlabl>
+				<attrdef>Name of state or territory spelled out in Proper Case.  See domain descriptions in PAD-US Standards Manual or geodatabase look up table for details.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">StateNm</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Agg_Src</attrlabl>
+				<attrdef>Organization credited with data aggregation and name of aggregated data set.  Attributed in the format 'organization name_filename.filetype'  (e.g. TNC_SecuredAreas2008.shp).  Use acronym or replace spaces with underscore.  A data aggregator submits data in the PAD-US schema according to standards and/or aggregates regional or national datasets with required fields for PAD-US translation.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">Agg_Src</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">150</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GIS_Src</attrlabl>
+				<attrdef>The source of GIS spatial and attribute information the aggregator obtained (e.g. WYG&amp;amp;F_whmas08.shp) for each record.  Preferably files names match original source data to facilitate future updates.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">GIS_Src</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">200</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Src_Date</attrlabl>
+				<attrdef>GIS Source Date:  The date (mm/dd/yyyy) GIS data was obtained by the data source for aggregation.  If month or day is unknown date is 00.  This date represents the best available data the source has to support management at the time.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">Src_Date</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GIS_Acres</attrlabl>
+				<attrdef>Acres calculated from the 'calculate geometry' tool</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">GIS_Acres</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>S_Des_Tp</attrlabl>
+				<attrdef>Additional or overarching management designation of a protected area polygon under which another may overlap (e.g. National Forest is described in this field, while an overlapping Wilderness Area is in the Primary Designation Type).  See MSL domain descriptions in PADUS Standards Manual or geodatabase look up table for details.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>100</edomv>
+						<edomvd>National Park</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>101</edomv>
+						<edomvd>National Forest-National Grassland</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>102</edomv>
+						<edomvd>National Trail</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>103</edomv>
+						<edomvd>National Wildlife Refuge</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>104</edomv>
+						<edomvd>National Natural Landmark</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>105</edomv>
+						<edomvd>National Landscape Conservation System - Non Wilderness</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>106</edomv>
+						<edomvd>National Landscape Conservation System - Wilderness</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>107</edomv>
+						<edomvd>Native American Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>108</edomv>
+						<edomvd>Protective Management Area - Feature</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>109</edomv>
+						<edomvd>Protective Management Area - Land, Lake or River</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>110</edomv>
+						<edomvd>Habitat or Species Management Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>111</edomv>
+						<edomvd>Recreation Management Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>112</edomv>
+						<edomvd>Resource Management Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>113</edomv>
+						<edomvd>Wild and Scenic River</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>114</edomv>
+						<edomvd>Native American Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>115</edomv>
+						<edomvd>Research and Educational Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>116</edomv>
+						<edomvd>Marine Protected Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>117</edomv>
+						<edomvd>Wilderness Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>118</edomv>
+						<edomvd>Area of Critical Environmental Concern</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>119</edomv>
+						<edomvd>Research Natural Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>120</edomv>
+						<edomvd>Historic / Cultural Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>121</edomv>
+						<edomvd>Mitigation Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>122</edomv>
+						<edomvd>Military Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>123</edomv>
+						<edomvd>Watershed Protection Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>124</edomv>
+						<edomvd>Access Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>125</edomv>
+						<edomvd>Special Designation Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>126</edomv>
+						<edomvd>Other Designation</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>127</edomv>
+						<edomvd>Not Designated</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>300</edomv>
+						<edomvd>State Park</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>301</edomv>
+						<edomvd>State Forest</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>302</edomv>
+						<edomvd>State Trust Lands</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>303</edomv>
+						<edomvd>State Other</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>500</edomv>
+						<edomvd>Local Conservation Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>501</edomv>
+						<edomvd>Local Recreation Area</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>502</edomv>
+						<edomvd>Local Forest</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>503</edomv>
+						<edomvd>Local Other</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>700</edomv>
+						<edomvd>Private Conservation Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>701</edomv>
+						<edomvd>Agricultural Protection Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>702</edomv>
+						<edomvd>Conservation Program Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>703</edomv>
+						<edomvd>Forest Stewardship Land</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">S_des_Tp</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">150</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>SDesTp</attrlabl>
+				<attrdef>Secondary Designation Type: Additional or overarching management designation of a protected area polygon under which another may overlap (e.g. National Forest is described in this field, while an overlapping Wilderness Area is in the Primary Designation Type).  See MSL domain descriptions in PADUS Standards Manual or geodatabase look up table for details.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">SDesTp</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">150</attwidth>
+</attr>
+			<attr>
+				<attrlabl>S_Loc_Ds</attrlabl>
+				<attrdef>The secondary land management description or designation as provided by the data source. Not standardized.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">S_Loc_Ds</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">150</attwidth>
+</attr>
+			<attr>
+				<attrlabl>S_Loc_Nm</attrlabl>
+				<attrdef>The name of the protected area as provided by the source. Not standardized.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">S_Loc_Nm</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">200</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GAP_Sts</attrlabl>
+				<attrdef>The GAP Status Code is a measure of management intent to conserve biodiversity.  See the PADUS Standards Manual for a summary of methods.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>An area having permanent protection from conversion of natural land cover and a mandated management plan in operation to maintain a natural state within which disturbance events (of natural type, frequency, intensity, and legacy) are allowed to proceed without interference or are mimicked through management.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>An area having permanent protection from conversion of natural land cover and a mandated management plan in operation to maintain a primarily natural state, but which may receive uses or management practices that degrade the quality of existing natural communities, including suppression of natural disturbance.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>An area having permanent protection from conversion of natural land cover for the majority of the area, but subject to extractive uses of either a broad, low-intensity type (e.g., logging, OHV recreation) or localized intense type (e.g., mining). It also confers protection to federally listed endangered and threatened species throughout the area.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>There are no known public or private institutional mandates or legally recognized easements or deed restrictions held by the managing entity to prevent conversion of natural habitat types to anthropogenic habitat types. The area generally allows conversion to unnatural land cover throughout or management intent is unknown.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GAP_Sts</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">95</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GAPsts</attrlabl>
+				<attrdef>The GAP Status Code is a measure of management intent to conserve biodiversity.  See the PADUS Standards Manual for a summary of methods.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>An area having permanent protection from conversion of natural land cover and a mandated management plan in operation to maintain a natural state within which disturbance events (of natural type, frequency, intensity, and legacy) are allowed to proceed without interference or are mimicked through management.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>An area having permanent protection from conversion of natural land cover and a mandated management plan in operation to maintain a primarily natural state, but which may receive uses or management practices that degrade the quality of existing natural communities, including suppression of natural disturbance.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>An area having permanent protection from conversion of natural land cover for the majority of the area, but subject to extractive uses of either a broad, low-intensity type (e.g., logging, OHV recreation) or localized intense type (e.g., mining). It also confers protection to federally listed endangered and threatened species throughout the area.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>There are no known public or private institutional mandates or legally recognized easements or deed restrictions held by the managing entity to prevent conversion of natural habitat types to anthropogenic habitat types. The area generally allows conversion to unnatural land cover throughout or management intent is unknown.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GAPsts</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">95</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GAPCdSrc</attrlabl>
+				<attrdef>An acronym to describe the organization(s) that applied the Gap Status Code to the polygon.  This field also describes the methods used for assigning GAP Status as follows: 'GAP - Default' is assigned when GAP's categorical assignment of status has been applied, without more detailed review or inquiry.  'GAP' is assigned when standard methods (management plan reviewed and/or land manager interviewed to assign GAP Status to a protected area) apply as provided above.  'GAP - other organization' (e.g. GAP - NPS) applies when the measure is assigned in partnership with GAP, including review.  When another organization applied GAP Status according to their methods then 'other organization' (e.g. TNC) is assigned.  See the PADUS Standards Manual for more information.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>GAP - Default</edomv>
+						<edomvd>GAP's categorical assignment of status has been applied, without more detailed review or inquiry.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>GAP</edomv>
+						<edomvd>GAP's categorical assignment of status has been applied, when standard methods (management plan reviewed and/or land manager interviewed to assign GAP Status to a protected area) apply</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>TNC</edomv>
+						<edomvd>When another organization applied GAP Status according to their methods then 'other organization' (e.g. TNC) is assigned.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GAPCdSrc</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">150</attwidth>
+</attr>
+			<attr>
+				<attrlabl>IUCNcat</attrlabl>
+				<attrdef>International Union for the Conservation of Nature (IUCN) management categories assigned to protected areas for inclusion in the UNEP- World Conservation Monitoring Center's (WCMC) World Database for Protected Areas (WDPA) and the Commission for Environmental Cooperation's (CEC) North American Terrestrial Protected Areas Database.  IUCN defines a protected area as, "A clearly defined geographical space, recognized, dedicated and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values".  See the PADUS Standards Manual for a summary of methods.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Ia</edomv>
+						<edomvd>Strict Nature Reserves are strictly protected areas set aside to protect biodiversity and also possibly geological / geomorphological features, where human visitation, use and impacts are strictly controlled and limited to ensure preservation of the conservation values.  Such protected areas can serve as indispensible reference areas for scientific research and monitoring.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>Ib</edomv>
+						<edomvd>Wilderness Areas are protected areas are usually large unmodified or slightly modified areas, retaining their natural character and influence, without permanent or significant human habitation, which are protected and managed so as to preserve their natural condition.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>II</edomv>
+						<edomvd>National Park protected areas are large natural or near natural areas set aside to protect large-scale ecological processes, along with the complement of species and ecosystems characteristic of the area, which also provide a foundation for environmentally and culturally compatible spiritual, scientific, educational, recreational and visitor opportunities.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>III</edomv>
+						<edomvd>Natural Monument or Feature protected areas are set aside to protect a specfic natural monument, which can be a land form, sea mount, submarine caverns, geological feature such as caves or even a living feature such as an ancient grove.  They are generally quite small protected areas and often have high visitor value.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>IV</edomv>
+						<edomvd>Habitat/species management protected areas aim to protect particular species or habitats and management reflects this priority.  Many category IV protected areas will need regular, active interventions to address the requirements of particular species or to maintain habitats, but this is not a requirement of this category.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>V</edomv>
+						<edomvd>Protected landscape/seascape protected areas occur where the interaction of people and nature over time has produced an area of distinct character with significant ecological, biological, cultural and scenic value.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>VI</edomv>
+						<edomvd>Protected area with sustainable use of natural resources are generally large, with much of the area in a more-or-less natural condition and wherea a proportion is under sustainable natural resource management and where such exploitation is seen as one of the main aims of the area.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">IUCNcat</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">70</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GAPCdDt</attrlabl>
+				<attrdef>The most current Year (yyyy) the GAP Status Code was assigned to the polygon.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">GAPCdDt</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>IUCN_cat</attrlabl>
+				<attrdef>International Union for the Conservation of Nature (IUCN) management categories assigned to protected areas for inclusion in the UNEP- World Conservation Monitoring Center's (WCMC) World Database for Protected Areas (WDPA) and the Commission for Environmental Cooperation's (CEC) North American Terrestrial Protected Areas Database.  IUCN defines a protected area as, "A clearly defined geographical space, recognized, dedicated and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values".  See the PADUS Standards Manual for a summary of methods.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Ia</edomv>
+						<edomvd>Strict Nature Reserves are strictly protected areas set aside to protect biodiversity and also possibly geological / geomorphological features, where human visitation, use and impacts are strictly controlled and limited to ensure preservation of the conservation values.  Such protected areas can serve as indispensible reference areas for scientific research and monitoring.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>Ib</edomv>
+						<edomvd>Wilderness Areas are protected areas are usually large unmodified or slightly modified areas, retaining their natural character and influence, without permanent or significant human habitation, which are protected and managed so as to preserve their natural condition.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>II</edomv>
+						<edomvd>National Park protected areas are large natural or near natural areas set aside to protect large-scale ecological processes, along with the complement of species and ecosystems characteristic of the area, which also provide a foundation for environmentally and culturally compatible spiritual, scientific, educational, recreational and visitor opportunities.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>III</edomv>
+						<edomvd>Natural Monument or Feature protected areas are set aside to protect a specfic natural monument, which can be a land form, sea mount, submarine caverns, geological feature such as caves or even a living feature such as an ancient grove.  They are generally quite small protected areas and often have high visitor value.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>IV</edomv>
+						<edomvd>Habitat/species management protected areas aim to protect particular species or habitats and management reflects this priority.  Many category IV protected areas will need regular, active interventions to address the requirements of particular species or to maintain habitats, but this is not a requirement of this category.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>V</edomv>
+						<edomvd>Protected landscape/seascape protected areas occur where the interaction of people and nature over time has produced an area of distinct character with significant ecological, biological, cultural and scenic value.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>VI</edomv>
+						<edomvd>Protected area with sustainable use of natural resources are generally large, with much of the area in a more-or-less natural condition and wherea a proportion is under sustainable natural resource management and where such exploitation is seen as one of the main aims of the area.</edomvd>
+						<edomvds>Gap Analysis Program (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">IUCN_cat</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">70</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Comments</attrlabl>
+				<attrdef>Comments from either the original data source or aggregator.</attrdef>
+				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
+				<attalias Sync="TRUE">Comments</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">200</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SHAPE_Leng</attrlabl>
+				<attrdef>Feature length in feet</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SHAPE_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Shape_Area</attrlabl>
+				<attrdef>Area of feature in feet squared.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SHAPE_Area</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+		</detailed>
+		<overview>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>11.922</transize>
+					<dssize Sync="TRUE">11.922</dssize>
+</digtinfo>
+			</digform>
+			<fees>Unknown</fees>
+</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20120111</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Lisa Duarte</cntper>
+					<cntorg>USGS Gap Analysis Program - University of Idaho</cntorg>
+				</cntperp>
+				<cntpos>Stewardship Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>University of Idaho</address>
+					<address>530 South Asbury Street, Suite 1</address>
+					<city>Moscow</city>
+					<state>Idaho</state>
+					<postal>83843</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>208-885-3013</cntvoice>
+				<cntfax>208-885-3613</cntfax>
+				<cntemail>lduarte@uidaho.edu</cntemail>
+				<hours>8:00 am - 5:00 pm PDT</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NYProtectedAreas0511</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">1334066.0422</westBL>
+<eastBL Sync="TRUE">1991043.335</eastBL>
+<northBL Sync="TRUE">2657514.1468</northBL>
+<southBL Sync="TRUE">2150737.654</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-79.857589</westBL>
+<eastBL Sync="TRUE">-70.600801</eastBL>
+<northBL Sync="TRUE">45.813443</northBL>
+<southBL Sync="TRUE">40.115777</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\PADUS\NYProtectedAreas0511.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">11.922</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">USA_Contiguous_Albers_Equal_Area_Conic_USGS_version</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NYProtectedAreas0511">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">11609</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130709</SyncDate>
+<SyncTime>14522800</SyncTime>
+<ModDate>20130709</ModDate>
+<ModTime>14571300</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130709</mdDateSt>
+</metadata>

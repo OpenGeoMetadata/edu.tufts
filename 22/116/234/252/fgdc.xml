@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Concord (Mass.). Dept. of Public Works</origin>
+				<pubdate>2005</pubdate>
+				<title>Soils Concord 1967</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+				</serinfo>
+				<pubinfo>
+				</pubinfo>
+				<onlink>http://www.mapsonline.net/concord/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Concord (Mass.). Dept. of Public Works</origin>
+						<pubdate>2006</pubdate>
+						<title>Town of Concord GIS Data</title>
+						<pubinfo>
+							<pubplace>Concord (Mass.)</pubplace>
+							<publish>Concord (Mass.). Dept. of Public Works</publish>
+						</pubinfo>
+						<onlink>http://www.mapsonline.net/concord/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">ConcordSoils67</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents soils in Concord, MA in 1967.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1967</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Unknown</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-71.430443</westbc>
+				<eastbc>
+-71.289359</eastbc>
+				<northbc>
+42.504352</northbc>
+				<southbc>
+42.412603</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">674950.530000</leftbc>
+<rightbc Sync="TRUE">712967.570000</rightbc>
+<bottombc Sync="TRUE">2975453.010008</bottombc>
+<topbc Sync="TRUE">3008827.069996</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>geoscientificInformation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Soils</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Concord</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Middlesex</placekey>
+				<placekey>New England</placekey>
+			</place>
+		</keywords>
+		<accconst>Restricted Access Online: Access is granted to licensee only. Available only to Tufts University affiliates.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Concord Public Works</cntorg>
+					<cntper>Matthew Barrett</cntper>
+				</cntorgp>
+				<cntpos>GIS Program Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>133 Keyes Road</address>
+					<city>Concord</city>
+					<state>MA</state>
+					<postal>01742</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>978-318-3210</cntvoice>
+				<cntemail>mbarret@concordnet.org</cntemail>
+				<hours>Monday - Friday 8:30am-4:30pm, EST-USA</hours>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>Unknown</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Name changed from soils_1967 to ConcordSoils67</procdesc>
+				<procdate>201112</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-327-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM- 5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xml9BD4.tmp</srcused>
+				<procdate>20130110</procdate>
+				<proctime>11200400</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="ConcordSoils67">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>1157</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="ConcordSoils67">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">1157</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">656166.666667</feast>
+<fnorth Sync="TRUE">2460625.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="ConcordSoils67">
+			<enttyp>
+				<enttypl>
+ConcordSoils67</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">1157</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>SOIL</attrlabl>
+				<attrdef>Soil type</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>100A</edomv>
+						<edomvds>Agriculture handbook (United States. Dept. of Agriculture)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>100B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>112B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>113B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>113C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>113D</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>114B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>114C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>114D</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>119B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>122B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>122C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>122D</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>122E</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>123B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>123C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>123D</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>123E</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>131</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>134</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>138A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>138B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>139</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>139B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>17C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>17D</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>181B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>20C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>222B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>222C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>223B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>223C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>223D</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>259</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>25B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>260</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>260X</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>261</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>264</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>27B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>28A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>28B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>28C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>29A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>30B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>32B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>33A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>34</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>35A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>35B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>35C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>35D</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>35E</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>37A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>37B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>37C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>37D</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>38A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>38B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>39</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>39A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>39B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>40</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>41</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>42</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>43</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>44</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>45</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>46</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>55</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>555</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>55B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>591A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>591B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>59B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5D</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>601</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>611</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>65B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>67A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>67B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>67C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>68B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>70A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>71B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>75</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>75A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>75B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>75C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7D</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>81C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>82C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>83A</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>83B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8B</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8C</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8D</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>9</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>93</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>99</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>GP</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>LF</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>W</edomv>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ZZZ</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SOIL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FINALCORRE</attrlabl>
+				<attrdef>Soil type</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">FINALCORRE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">55</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RANKING</attrlabl>
+				<attrdef>State of soil, corresponding to UNIT_NAME</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">RANKING</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>AREA_FT</attrlabl>
+				<attrdef>Area in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">AREA_FT</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>AREA_ACRE</attrlabl>
+				<attrdef>Area in acres</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">AREA_ACRE</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>RANK_DEF</attrlabl>
+				<attrdef>Details on soil area</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">RANK_DEF</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>AG_SOIL</attrlabl>
+				<attrdef>Additional notes on soil</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">AG_SOIL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>UNIT_NAME</attrlabl>
+				<attrdef>State of soil area</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">UNIT_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">75</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LAND_CLASS</attrlabl>
+				<attrdef>Type of land</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>2e2</edomv>
+						<edomvd>Seasonal High Watertables and Restrictive Layer</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2e3</edomv>
+						<edomvd>Well Drained Soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2e5</edomv>
+						<edomvd>Well Drained Soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2e52</edomv>
+						<edomvd>Seasonal High Watertables</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2s8</edomv>
+						<edomvd>Well Drained Soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2w2</edomv>
+						<edomvd>Seasonal High Watertables and Restrictive Layer</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2w22</edomv>
+						<edomvd>Seasonal High Watertable and Restrictive Later</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2w4</edomv>
+						<edomvd>Seasonal High Watertables</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2w42</edomv>
+						<edomvd>Seasonal high watertables</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3e2</edomv>
+						<edomvd>Seasonal high watertables and restrictive layer</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3e3</edomv>
+						<edomvd>Well drained soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3e5</edomv>
+						<edomvd>Well drained soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3e8</edomv>
+						<edomvd>Well drained soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3s9</edomv>
+						<edomvd>Well drained soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3w6</edomv>
+						<edomvd>Hydric soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3w9</edomv>
+						<edomvd>Seasonal high watertables</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4e2</edomv>
+						<edomvd>Seasonal high watertables and restrictive layer</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4e5</edomv>
+						<edomvd>Seasonal high watertables and restrictive layer</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4s9</edomv>
+						<edomvd>Well drained soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5w1</edomv>
+						<edomvd>Hydric soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5w9</edomv>
+						<edomvd>Hydric soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6s22</edomv>
+						<edomvd>Seasonal high watertables and restrictive layer</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6s3</edomv>
+						<edomvd>Well drained soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6s9</edomv>
+						<edomvd>Well drained soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6w6</edomv>
+						<edomvd>Hydric soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7s2</edomv>
+						<edomvd>Seasonal high watertables and restrictive layer</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7s23</edomv>
+						<edomvd>Hydric soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7s9</edomv>
+						<edomvd>Well drained soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7w1</edomv>
+						<edomvd>Hydric soils</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">LAND_CLASS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WOOD_ORD</attrlabl>
+				<attrdef>Woodland ordination symbol. Numeric value is the ordination number, and the letter is the "symbol" which denotes the major kind of soil limitation</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>10A</edomv>
+						<edomvd>High soil productivity, with insignificant restrictions</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2D</edomv>
+						<edomvd>Moderate potential productivity, Restricted rooting depth</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2D/3A</edomv>
+						<edomvd>Moderate potential productivity, Restricted rooting depth/Moderate soil productivity, Restricted rooting depth</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2D/3R</edomv>
+						<edomvd>Moderate soil productivity, Restricted rooting depth/Moderate soil productivity, Steep slopes</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2S</edomv>
+						<edomvd>Moderate soil productivity, Sandy texture</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2W</edomv>
+						<edomvd>Moderate soil productivity, Excess water in or on the soil</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3A</edomv>
+						<edomvd>Moderate soil productivity, Limitations or restrictions are insignificant</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3A/2D</edomv>
+						<edomvd>Moderate soil productivity, Limitations or restrictions are insignificant/Moderate productivity, restricted rooting depth</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3D</edomv>
+						<edomvd>Moderate productivity, restricted rooting depth</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3R</edomv>
+						<edomvd>Moderate potential productivity, steep slopes</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3R/2D</edomv>
+						<edomvd>Moderate potential productivity, steep slopes/ Moderate potential productivity, restricted rooting depth</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3W</edomv>
+						<edomvd>Moderate potential activity, Excess water in or on the soil</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3X</edomv>
+						<edomvd>Moderate potential productivity, stoniness or rockiness</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4A</edomv>
+						<edomvd>Moderately high potential productivity, limitations or restrictions are insignificant</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4D</edomv>
+						<edomvd>Moderately high potential productivity, restricted rooting depth</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4X</edomv>
+						<edomvd>Moderately high potential productivity, stoniness or rockiness</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6S</edomv>
+						<edomvd>High potential productivity, sandy texture</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6W</edomv>
+						<edomvd>High potential productivity, excess water in or on the soil</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7A</edomv>
+						<edomvd>High potential productivity, limitations or restructions are insignificant</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7A/3A</edomv>
+						<edomvd>High potential productivity, limitations or restructions are insignificant/Moderate soil productivity, Limitations or restrictions are insignificant</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7R</edomv>
+						<edomvd>High potential productivity, steep slopes</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7S</edomv>
+						<edomvd>High potential productivity, sandy texture</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7X</edomv>
+						<edomvd>High potential productivity, stoniness or rockiness</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8A</edomv>
+						<edomvd>High potential productivity, limitations or restrictions are insignificant</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8S</edomv>
+						<edomvd>High potential productivity, sandy texture</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8W</edomv>
+						<edomvd>high potential productivity, excess water in or on the soil</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">WOOD_ORD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SHAPE_Leng</attrlabl>
+				<attrdef>Shape length in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Services Center</attrdefs>
+				<attalias Sync="TRUE">SHAPE_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>SHAPE_Area</attrlabl>
+				<attrdef>Area of feature in square feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Services Center</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SHAPE_Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>3.169</transize>
+					<dssize Sync="TRUE">3.169</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.tufts.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130423</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">ConcordSoils67</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">674950.53</westBL>
+<eastBL Sync="TRUE">712967.57</eastBL>
+<northBL Sync="TRUE">3008827.069996</northBL>
+<southBL Sync="TRUE">2975453.010008</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.430443</westBL>
+<eastBL Sync="TRUE">-71.289359</eastBL>
+<northBL Sync="TRUE">42.504352</northBL>
+<southBL Sync="TRUE">42.412603</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\TownofConcordGISData\ConcordSoils67.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">3.169</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="ConcordSoils67">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">1157</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20131004</SyncDate>
+<SyncTime>13564000</SyncTime>
+<ModDate>20131004</ModDate>
+<ModTime>13564000</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20131004</mdDateSt>
+</metadata>

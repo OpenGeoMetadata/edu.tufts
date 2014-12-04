@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Westchester County Geographic Information Systems</origin>
+				<pubdate>20050105</pubdate>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<title>Municipalities Westchester County, New York 1998</title>
+<ftname Sync="TRUE">WestchesterMunicipalities04</ftname>
+<onlink>http://giswww.westchestergov.com/wcgis/BaseMap.htm</onlink>
+<lworkcit>
+<citeinfo>
+<origin>Westchester County Geographic Information Systems</origin>
+<title>Westchester GIS Data</title>
+<pubdate>2004</pubdate>
+<pubinfo>
+<pubplace>White Plains (N.Y.)</pubplace>
+<publish>Westchester County Geographic Information Systems</publish>
+</pubinfo>
+<onlink>http://giswww.westchestergov.com/wcgis/BaseMap.htm</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents municipal boundaries in Westchester County, New York. This layer was collected as one of the BARRIER features derived from aerial photography acquired in April 2004. The data was photogrammetrically stereo-compiled to North American Datum 1983; New York State Plane East Zone. Image horizontal accuracy is +/-2.5 ft. at the 90% confidence level. The data was initially compiled in 40 separate delivery areas and then merged together into a county-wide file.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+<supplinf>The aerial film was acquired in April 2004. The imagery was scanned at 14 microns using a Z/I Imaging PhotoScan 2000 scanner. The ground control used to support the planimetric base mapping was collected by either paneling of permanent monuments or photographic identification of strategic points. The coordinates were collected via ground survey techniques and the Aerial Triangulation was performed using Zeiss ISAT software. The final bundle adjustment was performed using PAT-B software. All new stereo-model images were reviewed on first-order softcopy stereo plotters to identify planimetric features. A PHOTODATE attribute was created for each feature and specified as 2004. This layer was extracted from BARRIER layer using the BARRIER_CODE (2530) that identifies stone walls. This code includes visible stone walls through fields and along roads (typically an indicator of property boundaries). This does not include stonewalls clearly part of a residence (e.g. around a garden).</supplinf>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>199807</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-73.984076</westbc>
+				<eastbc Sync="TRUE">-73.479564</eastbc>
+				<northbc Sync="TRUE">41.369490</northbc>
+				<southbc Sync="TRUE">40.874414</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">634786.249906</leftbc>
+<rightbc Sync="TRUE">772208.812594</rightbc>
+<bottombc Sync="TRUE">745064.624963</bottombc>
+<topbc Sync="TRUE">924238.562537</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>boundaries</themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>Westchester County</placekey>
+<placekey>New York</placekey>
+</place>
+<place>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+</place>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Cities and towns</themekey>
+</theme>
+</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntaddr>
+<address>148 Martine Avenue</address>
+<addrtype>mailing and physical address</addrtype>
+<address>Room 214</address>
+<city>White Plains</city>
+<state>NY</state>
+<postal>10601</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Westchester County GIS</cntorg>
+<cntper>Deborah Parker</cntper>
+</cntorgp>
+<cntemail>dape@westchestergov.com</cntemail>
+<hours>Monday-Friday, 8:30 AM-4:30 PM</hours>
+<cntpos>GIS Specialist</cntpos>
+<cntvoice>(914) 995-3888</cntvoice>
+</cntinfo>
+</ptcontac>
+</idinfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="WestchesterMunicipalities04">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">43</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="WestchesterMunicipalities04">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">43</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_York_East_FIPS_3101_Feet</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">survey feet</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999900</sfctrmer>
+<longcm Sync="TRUE">-74.500000</longcm>
+<latprjo Sync="TRUE">38.833333</latprjo>
+<feast Sync="TRUE">492125.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="WestchesterMunicipalities04">
+			<enttyp>
+				<enttypl Sync="TRUE">WestchesterMunicipalities04</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">43</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Unique identifier</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NAME</attrlabl>
+<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>Name of the municipality</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">COUNT</attrlabl>
+<attalias Sync="TRUE">COUNT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<attrdef>Count of people in the county</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">WCMUN_ID</attrlabl>
+<attalias Sync="TRUE">WCMUN_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Internal identifier</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">MUN</attrlabl>
+<attalias Sync="TRUE">MUN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attrdef>Municpal identifier</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ACRES</attrlabl>
+<attalias Sync="TRUE">ACRES</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<attrdef>Acreage</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">MUNCODE</attrlabl>
+<attalias Sync="TRUE">MUNCODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdef>Municipality code</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">TOWN</attrlabl>
+<attalias Sync="TRUE">TOWN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attrdef>Name of the town</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">REGION</attrlabl>
+<attalias Sync="TRUE">REGION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdef>Region in the town</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SUBREGION</attrlabl>
+<attalias Sync="TRUE">SUBREGION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+<attrdef>Subregion in the municipality</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SUBREG</attrlabl>
+<attalias Sync="TRUE">SUBREG</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attrdef>Subregions in the municipality</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SPRAY_ZONE</attrlabl>
+<attalias Sync="TRUE">SPRAY_ZONE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdef>Supralittoral zone identifier</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">TEMP</attrlabl>
+<attalias Sync="TRUE">TEMP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdef>Temperature of the zone</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">STATUS</attrlabl>
+<attalias Sync="TRUE">STATUS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+<attrdef>Status of the municipality</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">AGE_1_TO_1</attrlabl>
+<attalias Sync="TRUE">AGE_1_TO_1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Age of people from 1-19</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">AGE_20_TO_</attrlabl>
+<attalias Sync="TRUE">AGE_20_TO_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Age of people from 20-65</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">AGE_65_PLU</attrlabl>
+<attalias Sync="TRUE">AGE_65_PLU</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Age of people 65+</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">AREA</attrlabl>
+<attalias Sync="TRUE">AREA</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Area in square feet</attrdef>
+<attrdefs>Westchester County Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LEN</attrlabl>
+<attalias Sync="TRUE">LEN</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Length of the segment in feet</attrdef>
+<attrdefs>Westchester County Geographic Information Systems</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.286</transize>
+					<dssize Sync="TRUE">0.286</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+		<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>GIS Data Analyst</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</distrib>
+</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140523</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<address>Academic Technology</address>
+<address>16 Dearborn Ave</address>
+<country>USA</country>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntpos>GIS Data Analyst</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<lineage/>
+	<Esri>
+<CreaDate>20131206</CreaDate>
+<CreaTime>14542000</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<ModDate>20140523</ModDate>
+<ModTime>11021400</ModTime>
+<SyncDate>20140523</SyncDate>
+<SyncTime>11021400</SyncTime>
+<MetaID>{510459C5-B3AB-45CD-A921-D869E83B732E}</MetaID>
+</Esri>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+<procdate Sync="TRUE">20130212</procdate>
+<proctime Sync="TRUE">11073200</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Starter Metadata Template -Tufts - UTF-8.xml</srcused>
+<procdate Sync="TRUE">20131206</procdate>
+<proctime Sync="TRUE">10305300</proctime>
+</procstep>
+<srcinfo>
+<srcscale>1:100</srcscale>
+</srcinfo>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02114</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name changed from wcmun to WestChesterMunic98</procdesc>
+<procdate>20131206</procdate>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NY\Westchester\WestchesterSWalls04.shp.xml</srcused>
+<procdate Sync="TRUE">20131206</procdate>
+<proctime Sync="TRUE">10532900</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\nsusma01\Desktop\NY\Westchester\WestchesterStream04.shp.xml</srcused>
+<procdate Sync="TRUE">20131206</procdate>
+<proctime Sync="TRUE">14472100</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\nsusma01\Desktop\NY\Westchester\WestchesterMajLakes04.shp.xml</srcused>
+<procdate Sync="TRUE">20131206</procdate>
+<proctime Sync="TRUE">14501500</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\nsusma01\Desktop\NY\Westchester\WestchesterLake04.shp.xml</srcused>
+<procdate Sync="TRUE">20131206</procdate>
+<proctime Sync="TRUE">14542000</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Dataset moved.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NY\Westchester\WestchesterMunicipalities04</srcused>
+<procdate Sync="TRUE">20131206</procdate>
+<proctime Sync="TRUE">15031800</proctime>
+</procstep>
+</lineage>
+</dataqual>
+<mdDateSt Sync="TRUE">20140523</mdDateSt>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">WestchesterMunicipalities04</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">634786.249906</westBL>
+<eastBL Sync="TRUE">772208.812594</eastBL>
+<northBL Sync="TRUE">924238.562537</northBL>
+<southBL Sync="TRUE">745064.624963</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-73.984076</westBL>
+<eastBL Sync="TRUE">-73.479564</eastBL>
+<northBL Sync="TRUE">41.36949</northBL>
+<southBL Sync="TRUE">40.874414</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NY\WestchesterMunicipalities04.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.286</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_York_East_FIPS_3101_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="WestchesterMunicipalities04">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">43</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+</metadata>

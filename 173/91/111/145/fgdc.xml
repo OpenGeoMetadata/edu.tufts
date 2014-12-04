@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Geologic Survey (U.S.)</origin>
+				<pubdate>20140328</pubdate>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<title>Streams Alaska 2014</title>
+<ftname Sync="TRUE">AlaskaStream14</ftname>
+<onlink>http://www.nationalatlas.gov/mld/1nethyd.html</onlink>
+<pubinfo>
+<pubplace>Reston (Va.)</pubplace>
+<publish>Geologic Survey (U.S.)</publish>
+</pubinfo>
+<lworkcit>
+<citeinfo>
+<origin>Geologic Survey (U.S.)</origin>
+<title>National Atlas of the United States</title>
+<pubinfo>
+<pubplace>Reston (Va.)</pubplace>
+<publish>Geologic Survey (U.S.)</publish>
+</pubinfo>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This line dataset represents streams in Alaska.  All feature classes are vertically integrated with each other and with 1:1,000,000-scale transportation and boundary data sets.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+<supplinf>This data was originally stored in a geodatabase.  All feature classes are vertically integrated with each other and with 1:1,000,000-scale transportation and boundary data sets.</supplinf>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2014</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-172.784539</westbc>
+				<eastbc Sync="TRUE">-130.025558</eastbc>
+				<northbc Sync="TRUE">71.225350</northbc>
+				<southbc Sync="TRUE">53.052735</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-172.784539</leftbc>
+<rightbc Sync="TRUE">-130.025558</rightbc>
+<bottombc Sync="TRUE">53.052735</bottombc>
+<topbc Sync="TRUE">71.225350</topbc>
+</lboundng>
+<minalti Sync="TRUE">0.000000</minalti>
+<maxalti Sync="TRUE">0.000000</maxalti>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>line</themekey>
+			</theme>
+			<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>inlandWaters</themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>Alaska</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Streams</themekey>
+</theme>
+</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>U.S Geological Survey, National Atlas of the United States</cntorg>
+</cntorgp>
+<cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
+<cntemail>atlasmail@usgs.gov</cntemail>
+<cntinst>For questions about this geodatabase or metadata, please contact the National Atlas using the information above, or through the U.S. Geological Survey contact page at http://www.usgs.gov/ask/. For distribution questions, please see the Distribution Information elsewhere in this metadata.</cntinst>
+<cntaddr>
+<address>National Atlas of the United States</address>
+<addrtype>mailing and physical address</addrtype>
+<address>U.S. Geological Survey</address>
+<city>Reston</city>
+<state>VA</state>
+<postal>20192</postal>
+<country>USA</country>
+</cntaddr>
+</cntinfo>
+</ptcontac>
+</idinfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="AlaskaStream14">
+				<sdtstype Sync="TRUE">String</sdtstype>
+				<ptvctcnt Sync="TRUE">415940</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="AlaskaStream14">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">415940</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">TRUE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+</cordsysn>
+</horizsys>
+		<vertdef>
+<altsys>
+<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+<altres Sync="TRUE">0.000100</altres>
+</altsys>
+</vertdef>
+</spref>
+	<eainfo>
+		<detailed Name="AlaskaStream14">
+			<enttyp>
+				<enttypl Sync="TRUE">AlaskaStream14</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">415940</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">Stream_ID</attrlabl>
+<attalias Sync="TRUE">Stream_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Stream identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Name</attrlabl>
+<attalias Sync="TRUE">Name</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">150</attwidth>
+<attrdef>Name of stream</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Feature</attrlabl>
+<attalias Sync="TRUE">Feature</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdef>Type of stream</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">F_Code</attrlabl>
+<attalias Sync="TRUE">F_Code</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Stream</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Feature code corresponding to the type of stream</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attrdomv>
+<edom>
+<edomv>23</edomv>
+<edomvd>Artificial path</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">State</attrlabl>
+<attalias Sync="TRUE">State</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>State of stream location</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attrdomv>
+<edom>
+<edomv>AK</edomv>
+<edomvd>Alaska</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">State_FIPS</attrlabl>
+<attalias Sync="TRUE">State_FIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>State FIPS code</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attrdomv>
+<edom>
+<edomv>02</edomv>
+<edomvd>Alaska</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Region</attrlabl>
+<attalias Sync="TRUE">Region</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>The 2 digit Hydrologic Unit Code for major river basins. Leading zeroes are not shown.</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ReachCode</attrlabl>
+<attalias Sync="TRUE">ReachCode</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+<attrdef>A unique identifier for the 'reach' of the stream. ?The first eight digits are the Watershed Boundary Dataset 8-digit Hydrologic Unit Code, which identifies the subbasin in which the stream is located. The next six digits are randomly assigned, sequential numbers that are unique within a subbasin, resulting in a 14-character value. ?This attribute links features back to the National Hydrography Dataset, National Hydrography Dataset Plus, and other data sets that use reach codes.</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ComID</attrlabl>
+<attalias Sync="TRUE">ComID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>A value that uniquely identifies each feature in the Medium-Resolution NHDFlowline feature class. This attribute links features to feature classes and tables in the Medium-Resolution National Hydrography Dataset and in NHDPlus. Because many features were split, there may be multiple features with the same value. </attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">From_node</attrlabl>
+<attalias Sync="TRUE">From_node</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Unique from-node identifier. It represents the upstream end of a stream segment.</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">To_node</attrlabl>
+<attalias Sync="TRUE">To_node</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Unique to-node identifier. It represents the downstream end of a stream segment</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Enabled</attrlabl>
+<attalias Sync="TRUE">Enabled</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>An indication of whether a feature can participate in a geometric network. </attrdef>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Not enabled</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Enabled</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Strahler</attrlabl>
+<attalias Sync="TRUE">Strahler</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>A number representing the order of the stream using the Strahler stream order classification system, in which first-order streams have no tributaries, second-order streams begin at the confluence of two first order streams, third-order streams begin at the confluence of two second-order streams and so on. If a lower-order stream flows into a higher-order stream, the stream order of the higher-order stream does not increase. </attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Length_mi</attrlabl>
+<attalias Sync="TRUE">Length_mi</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Length of the stream segment in miles</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GM_f_code</attrlabl>
+<attalias Sync="TRUE">GM_f_code</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdef>Global Map FACC feature code</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>BH000</edomv>
+<edomvd>A pipe or artificial channel designed to transport water from a remote source, usually by gravity. A man-made or improved natural waterway used for transportation. An open, inclined channel which carries water for use in such operations as mining or logging. A pipeline or channel generally used by hydroelectric plants or water mills to transport water by gravity or under pressure.</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>BH140</edomv>
+<edomvd>A natural flowing watercourse (from origin to end point).</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GM_hyc</attrlabl>
+<attalias Sync="TRUE">GM_hyc</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Global Map Hydrological category</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Non-perennial/Fluctuating</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Perennial/Permanent</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-999</edomv>
+<edomvd>Not applicable</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GM_lit</attrlabl>
+<attalias Sync="TRUE">GM_lit</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Single line stream</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Network connector/imaginary line</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Global Map Line type</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>-999</edomv>
+<edomvd>The GM_lit attribute is not applicable to the feature</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GM_nam</attrlabl>
+<attalias Sync="TRUE">GM_nam</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">150</attwidth>
+<attrdomv>
+<edom>
+<edomv>UNK</edomv>
+<edomvd>Unknown</edomvd>
+<edomvds> Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdef>The Global Map name, which is the proper name of the feature</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>-999</edomv>
+<edomvd>Unapplicable</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GM_soc</attrlabl>
+<attalias Sync="TRUE">GM_soc</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+<attrdef>Global Map Source country</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GM_exs</attrlabl>
+<attalias Sync="TRUE">GM_exs</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Definite</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Global Map Existence category</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>-999</edomv>
+<edomvd>Not applicable to this feature</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GM_loc</attrlabl>
+<attalias Sync="TRUE">GM_loc</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Unknown</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Global Map Location category</attrdef>
+<attrdefs>Geologic Survey (U.S.)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>-999</edomv>
+<edomvd>Not applicable</edomvd>
+<edomvds>Geologic Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SHAPE_Leng</attrlabl>
+<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Length of shape in meters</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">120.344</transize>
+					<dssize Sync="TRUE">120.344</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+		<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>GIS Data Analyst</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</distrib>
+</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140821</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<address>Academic Technology</address>
+<address>16 Dearborn Ave</address>
+<country>USA</country>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntpos>GIS Data Analyst</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<lineage/>
+	<Esri>
+<CreaDate>20140815</CreaDate>
+<CreaTime>15424200</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<ModDate>20140821</ModDate>
+<ModTime>13014000</ModTime>
+<SyncDate>20140821</SyncDate>
+<SyncTime>13013200</SyncTime>
+<MetaID>{AB8BC16C-1B0B-45BE-B10D-A0818FC4AE4F}</MetaID>
+</Esri>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+<procdate Sync="TRUE">20130212</procdate>
+<proctime Sync="TRUE">11073200</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Starter Metadata Template -Tufts - UTF-8.xml</srcused>
+<procdate Sync="TRUE">20140815</procdate>
+<proctime Sync="TRUE">15224300</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Tufts University GIS Center</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University Geographic Information Systems Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name changed from Stream to AlaskaStream14</procdesc>
+<procdate>20140815</procdate>
+</procstep>
+<srcinfo>
+<srcscale> 1:1,000,000</srcscale>
+</srcinfo>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NationalAtlas\Water - Tufts\Hydrographic Geodatabase\Alaska\AlaskaCoastline14.shp.xml</srcused>
+<procdate Sync="TRUE">20140815</procdate>
+<proctime Sync="TRUE">15424200</proctime>
+</procstep>
+</lineage>
+</dataqual>
+<mdDateSt Sync="TRUE">20140821</mdDateSt>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">AlaskaStream14</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-172.784539</westBL>
+<eastBL Sync="TRUE">-130.025558</eastBL>
+<northBL Sync="TRUE">71.22535</northBL>
+<southBL Sync="TRUE">53.052735</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-172.784539</westBL>
+<eastBL Sync="TRUE">-130.025558</eastBL>
+<northBL Sync="TRUE">71.22535</northBL>
+<southBL Sync="TRUE">53.052735</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NationalAtlas\Water - Tufts\Hydrographic Geodatabase\Alaska\AlaskaStream14.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">120.344</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_North_American_1983</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="AlaskaStream14">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">415940</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+</metadata>

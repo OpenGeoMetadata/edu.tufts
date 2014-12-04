@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Federal Railroad Administration</origin>
+				<pubdate>2011</pubdate>
+				<title>Amtrak Lines USA 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington (D.C.)</pubplace>
+					<publish>United States. Federal Railroad Administration</publish>
+				</pubinfo>
+				<onlink>www.bts.gov/publications/national_transportation_atlas_database/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Databases (NTAD) 2011</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USAAmtrakRailroads11</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>The line dataset is a comprehensive database of the nation's railway system at the 1:100,000 scale or better. The data set covers all 50 States plus the District of Columbia.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>At the time of publishing the DVD significant updates to the layer were underway.</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-123.201588</westbc>
+				<eastbc>
+-70.279294</eastbc>
+				<northbc>
+48.999834</northbc>
+				<southbc>
+25.806176</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-123.201588</leftbc>
+<rightbc Sync="TRUE">-70.279294</rightbc>
+<bottombc Sync="TRUE">25.806176</bottombc>
+<topbc Sync="TRUE">48.999834</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>line</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Amtrak</themekey>
+				<themekey>Railroads</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<place>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Federal Railroad Administration (FRA)</cntorg>
+					<cntper>Raquel Wright</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Avenue, SE</address>
+					<address>W33-436</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+</cntaddr>
+				<cntvoice>202-493-6415</cntvoice>
+				<cntfax>202-493-6401</cntfax>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<crossref>
+			<citeinfo>
+				<origin>Federal Railroad Administration (FRA)</origin>
+				<pubdate>2011</pubdate>
+				<title>Rail Lines</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington, DC</pubplace>
+					<publish>Federal Railroad Administration (FRA)</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>The previous 2 million network attributes were conflated to the 100k network. The FRA reports the following fields as incomplete: Signal System, Number of Tracks, Division, and Subdivision.
+
+All of the Class 1's railroads have validated the ownership and trackage rights for the entire network and will continue to be ongoing.
+
+Special note concerning trackage rights: In some cases, a 'short line' railroad may operate on its larger railroad connection(s) as its billing railroad. For example, the larger railroad(s) treat traffic originating or terminating on the short line as if it were originating or terminating on its own line; perform the billing, car reporting, and car tracking; then share the revenue with the short line. These trackage rights may exist as four, five, or six in the sequence, while one and two remain empty. BTS quality checks were to cross reference the place dataset with the state dataset, to determine that the spatial data and attribute data were accurate</attraccr>
+		</attracc>
+		<logic>The network is topologically connected and the data set is geographically accurate at the 1:100,000 scale or better.</logic>
+		<posacc>
+			<horizpa>
+				<horizpar>The horizontal accuracy for these data can be stated as being that associated with data compiled at the 1:100,000 scale or better.
+
+The spatial accuracy has increased by using imagery, Railroad centerlines, and the FRA's Automated Geometry Locations.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<pubdate>2009</pubdate>
+						<title>The Official Railway Guide</title>
+						<pubinfo>
+							<pubplace>New York, NY</pubplace>
+							<publish>Commonwealth Business Media</publish>
+						</pubinfo>
+						<onlink>www.bts.gov/publications/national_transportation_atlas_database/</onlink>
+						<lworkcit>
+							<citeinfo>
+								<onlink>www.bts.gov/publications/national_transportation_atlas_database/</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2009</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srcscale>Unknown</srcscale>
+</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>State DOTs</origin>
+						<pubdate>2009</pubdate>
+						<title>Rail Maps</title>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper or digital</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2010</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>DOTs</srccitea>
+				<srccontr>State DOTs</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Rail Companies</origin>
+						<pubdate>2009</pubdate>
+						<title>Rail Maps</title>
+					</citeinfo>
+				</srccite>
+				<typesrc>computer program</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2011</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>RCs</srccitea>
+				<srccontr>Rail Companies</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Verify and validate the rail network.</procdesc>
+				<srcused>ORG</srcused>
+				<srcused>DOTs</srcused>
+				<srcused>RCs</srcused>
+				<procdate>2011</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards:
+&amp;gt;Changed name of file from "amtrak" to "USAamtrakRailroads11"
+&amp;gt;Changed citatition title from "AMTRAK Network" to "Amtrak Lines USA 2011"
+&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&amp;gt;Added to Larger work Citation originator, pubdate, title, pubplace, publisher
+&amp;gt;Added theme keyword "line" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added ISO 19115 Topic Category keywords
+&amp;gt;Added LCSH theme keyword
+&amp;gt;Added GNIS and GNS place keywords
+&amp;gt;Changed originator from "Federal Railroad Administration (FRA)" to "United States. Federal Railroad Administration"
+&amp;gt;Changed publication place to reflect LCNH formatting
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20111201</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Dataset moved.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\Amtrak\USAamtrakRailroads11</srcused>
+<procdate Sync="TRUE">20120515</procdate>
+<proctime Sync="TRUE">10382900</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USAAmtrakRailroads11">
+				<sdtstype>String</sdtstype>
+				<ptvctcnt>10675</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USAAmtrakRailroads11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">10675</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USAAmtrakRailroads11">
+			<enttyp>
+				<enttypl>
+USAamtrakRailroads11</enttypl>
+				<enttypd>National Rail Network</enttypd>
+				<enttypds>Federal Railroad Administration (FRA)</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">10675</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>FRAARCID</attrlabl>
+				<attrdef>Unique ID</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<udom>Numeric Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FRAARCID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MILES</attrlabl>
+				<attrdef>Length of segment in miles</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<udom>Numeric Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MILES</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>STATEAB</attrlabl>
+				<attrdef>State railroad abbreviation which follows the Postal abbreviation</attrdef>
+				<attrdefs>United States Postal Service</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of U.S. Postal Code Abbreviations</codesetn>
+						<codesets>United States Postal Service</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STATEAB</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATEFIPS</attrlabl>
+				<attrdef>Federal Information Processing Standard (FIPS) State Code</attrdef>
+				<attrdefs>National Institute of Standards and Technology (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard (FIPS)</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STATEFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CNTYFIPS</attrlabl>
+				<attrdef>Federal Information Processing Standard (FIPS) County Code</attrdef>
+				<attrdefs>National Institute of Standards and Technology (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard (FIPS)</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">CNTYFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STCNTYFIPS</attrlabl>
+				<attrdef>Federal Information Processing Standard (FIPS) State and County Code</attrdef>
+				<attrdefs>National Institute of Standards and Technology (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard (FIPS)</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STCNTYFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FRAREGION</attrlabl>
+				<attrdef>FRA Regional Boundaries</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>CT, MA, ME, NH, NJ, NY, RI, VT</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>DC, DE, MD, OH, PA, VA, WV</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>AL, FL, GA, KY, MS, NC, SC, TN</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>IL, IN, MI, MN, WI</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>AR, LA, NM, OK, TX</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>CO, IA, KS, MO, NE</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>AZ, CA, HI, NV, UT</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>AK, ID, MT, ND, OR, SD, WA, WY</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FRAREGION</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RROWNER1</attrlabl>
+				<attrdef>The reporting mark of the 1st owning railroad. A mark of 'XXXX' indicates an abandoned link. Rule 260 codes are used where available. A mark of 'DUMX' indicates an added connecting link.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA Rule 260 and Owner Codes</codesetn>
+						<codesets>United States. Federal Aviation Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">RROWNER1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RROWNER2</attrlabl>
+				<attrdef>The reporting mark of the 2nd owning railroad, if any.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>8</edomv>
+<edomvd>AK, ID, MT, ND, OR, SD, WA, WY</edomvd>
+<edomvds>United States. Federal Aviation Administration</edomvds>
+</edom>
+</attrdomv>
+				<attalias Sync="TRUE">RROWNER2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RROWNER3</attrlabl>
+				<attrdef>The reporting mark of the 3rd owning railroad, if any.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA Rule 260 and Owner Codes</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">RROWNER3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRKRGHTS1</attrlabl>
+				<attrdef>Reporting mark of the 1st railroad having trackage-rights.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA List of Railroad Name Abbreviations</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TRKRGHTS1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRKRGHTS2</attrlabl>
+				<attrdef>Reporting marks of any additional railroads having trackage rights.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA List of Railroad Name Abbreviations</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TRKRGHTS2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRKRGHTS3</attrlabl>
+				<attrdef>Reporting marks of any additional railroads having trackage rights.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA List of Railroad Name Abbreviations</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TRKRGHTS3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRKRGHTS4</attrlabl>
+				<attrdef>Reporting marks of any additional railroads having trackage rights.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA List of Railroad Name Abbreviations</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TRKRGHTS4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRKRGHTS5</attrlabl>
+				<attrdef>Reporting marks of any additional railroads having trackage rights.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA List of Railroad Name Abbreviations</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TRKRGHTS5</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRKRGHTS6</attrlabl>
+				<attrdef>Reporting marks of any additional railroads having trackage rights.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA List of Railroad Name Abbreviations</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TRKRGHTS6</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRKRGHTS7</attrlabl>
+				<attrdef>Reporting marks of any additional railroads having trackage rights.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA List of Railroad Name Abbreviations</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TRKRGHTS7</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRKRGHTS8</attrlabl>
+				<attrdef>Reporting marks of any additional railroads having trackage rights.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA List of Railroad Name Abbreviations</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TRKRGHTS8</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRKRGHTS9</attrlabl>
+				<attrdef>Reporting marks of any additional railroads having trackage rights.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FRA List of Railroad Name Abbreviations</codesetn>
+						<codesets>FRA</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TRKRGHTS9</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STRACNET</attrlabl>
+				<attrdef>Type of military interest flag - this code should match the publication 'Civil Rail Lines Important to 'National Defense, September, 2003'</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>(blank)</edomv>
+						<edomvd>Not important</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>On the STRACNET system</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>C</edomv>
+						<edomvd>A connector to the STRACNET system</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STRACNET</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGSYS</attrlabl>
+				<attrdef>Type of signaling system.</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>CTC</edomv>
+						<edomvd>Centralized Traffic Control</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ABS</edomv>
+						<edomvd>Automatic Block Signals</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ACS</edomv>
+						<edomvd>Automatic Cab Signals</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ATS</edomv>
+						<edomvd>Automatic Train Stop</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ATC</edomv>
+						<edomvd>Automatic Train Control</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MAN</edomv>
+						<edomvd>Manual Block, including dark</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TTO</edomv>
+						<edomvd>Time Table/Train Order</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OCS</edomv>
+						<edomvd>Occupancy Control Systems</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGSYS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRACKS</attrlabl>
+				<attrdef>Number of tracks</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<udom>Numeric Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRACKS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FRFRANODE</attrlabl>
+				<attrdef>The FRA assigned node number at the topological start of the link</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>The attribute FRANODEID from the 100k node layer</codesetn>
+						<codesets>United States. Federal Aviation Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">FRFRANODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOFRANODE</attrlabl>
+				<attrdef>The FRA assigned node number at the topological end of the link</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>The attribute FRANODEID from the 100k node layer</codesetn>
+						<codesets>United States. Federal Aviation Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">TOFRANODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NET</attrlabl>
+				<attrdef>Indicates which operations is part of the network, spatially</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>A</edomv>
+						<edomvd>Abandoned</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>Ferry</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>M</edomv>
+						<edomvd>Main sub network</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>O</edomv>
+						<edomvd>Non-Mainline Active track</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>X</edomv>
+						<edomvd>Out of Service</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">NET</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PASSNGR</attrlabl>
+				<attrdef>Passenger Railroad Operations</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>"blank"</edomv>
+						<edomvd>Not applicable</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>A</edomv>
+						<edomvd>Amtrak</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>C</edomv>
+						<edomvd>Commuter</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>R</edomv>
+						<edomvd>Rapid Transit</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Tourist</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>V</edomv>
+						<edomvd>Via Rail Canada</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>AC</edomv>
+						<edomvd>Amtrak &amp;amp; Commuter</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>AT</edomv>
+						<edomvd>Amtrak &amp;amp; Tourist</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PASSNGR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">Shape_Leng</attrlabl>
+<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Length of the segment in feet</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+				<attrlabl>SUBDIV</attrlabl>
+				<attrdef>Subdivision,  if available</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SUBDIV</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>YARDS</attrlabl>
+				<attrdef>Name of the Yard, if available</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">YARDS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIVISION</attrlabl>
+				<attrdef>Division, if available</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DIVISION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEN09CODE</attrlabl>
+				<attrdef>Density Category for the latest available, 2009</attrdef>
+				<attrdefs>United States. Federal Aviation Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Unknown or dummy</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>0.1 to 4.9 MGT</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>5.0 to 9.9 MGT</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>10.0 to 19.9 MGT</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>20. to 39.9 MGT</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>40.0 to 59.9 MGT</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>60.0 to 99.9 MGT</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>100.0 MGT and greater</edomvd>
+						<edomvds>United States. Federal Aviation Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">DEN09CODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>The VERSION is a 2-digit number that will be incremented for all records in the database whenever a new release is distributed.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+		<overview>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>2.737</transize>
+					<dssize Sync="TRUE">2.737</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20111201</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Federal Railroad Administration (FRA)</cntorg>
+					<cntper>Raquel Wright</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Avenue, SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202.493.6415</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USAAmtrakRailroads11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-123.201588</westBL>
+<eastBL Sync="TRUE">-70.279294</eastBL>
+<northBL Sync="TRUE">48.999834</northBL>
+<southBL Sync="TRUE">25.806176</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-123.201588</westBL>
+<eastBL Sync="TRUE">-70.279294</eastBL>
+<northBL Sync="TRUE">48.999834</northBL>
+<southBL Sync="TRUE">25.806176</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USAAmtrakRailroads11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">2.737</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USAAmtrakRailroads11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">10675</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11444700</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11444700</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

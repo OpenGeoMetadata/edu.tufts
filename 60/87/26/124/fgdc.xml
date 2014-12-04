@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Federal Highway Administration </origin>
+				<pubdate>2011</pubdate>
+				<title>Freight Analysis Framework (faf3) Network USA 2011</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>www.bts.gov</onlink>
+				<ftname Sync="TRUE">USFreightNetwork11</ftname>
+<pubinfo>
+<pubplace>Washington (D.C.)</pubplace>
+<publish>United States. Department of Transportation. Research and Innovative Technology Administration</publish>
+</pubinfo>
+<lworkcit>
+<citeinfo>
+<origin>United States. Department of Transportation. Research and Innovative Technology Administration</origin>
+<pubdate>2011</pubdate>
+<title>National Transportation Atlas Databases (NTAD) 2011</title>
+<pubinfo>
+<pubplace>Washington (D.C.)</pubplace>
+<publish>United States. Department of Transportation. Research and Innovative Technology Administration</publish>
+</pubinfo>
+<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This line dataset represents primary and secondary roads, derived from the National Highway System (NHS), National Network (NN) and several intermodal connectors as appropriate for the freight network modeling. The network consists of over 447,808 miles of equivalent road mileage. The data set covers the 48 contiguous States plus the District of Columbia, Alaska, and Hawaii. </abstract>
+			<langdata Sync="TRUE">en</langdata>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-176.763993</westbc>
+				<eastbc Sync="TRUE">-66.979625</eastbc>
+				<northbc Sync="TRUE">71.316994</northbc>
+				<southbc Sync="TRUE">18.915020</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-176.763993</leftbc>
+<rightbc Sync="TRUE">-66.979625</rightbc>
+<bottombc Sync="TRUE">18.915020</bottombc>
+<topbc Sync="TRUE">71.316994</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<temporal>
+			</temporal>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>line</themekey>
+</theme>
+<theme>
+<themekey>transportation</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>location</themekey>
+</theme>
+<theme>
+<themekey>Roads</themekey>
+<themekey>Freight and freightage</themekey>
+<themekt>LCSH</themekt>
+<themekey>National Highway System</themekey>
+</theme>
+<place>
+<placekt>GNS</placekt>
+<placekey>United States</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>Manager</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Avenue</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202-366-9047</cntvoice>
+				<cntemail>michael.sprung@dot.gov</cntemail>
+				<cntperp>
+<cntper>Michael Sprung</cntper>
+<cntorg>Federal Highway Administration</cntorg>
+</cntperp>
+</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>The FAF network retains NHS Version 2009.11  attribute fields of RECTYPE, ORIGID, STFIPS, CTFIPS, SIGN1, SIGNT1, SIGNN1, SIGNQ1, SIGN2, SIGNT2, SIGNN2, SIGNQ2, SIGN3, SIGNT3, SIGNN3, SIGNQ3, LNAME, MILES, FCLASS, RUCODE, STATUS, NHS. All other fields listed in the NHS Version 2009.11 metadata are dropped. The accuracy of these fields is consistent with Version 2009.11   except the MILES attribute values. The accuracy of field "MILES" is unverified and may have distorted during modification of the network for modeling purpose. New fields added to FAF network are, ID, LENGTH, DIR, NN, TRK_RTE and LCV_TYPE. The field "ID" is used to join the freight modeling algorithm variables for assignment as well as assignment outputs for thematic display purpose. The mileage reported in the field "LENGTH" is based on great circle distance.</attraccr>
+		</attracc>
+		<logic>All node and link topological relationships and uniqueness of entity IDs are verified by computer algorithm.</logic>
+		<complete>The completed FAF network was delivered to the FHWA on October 2010.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>As reported in the NHS Version 2009.11   metadata, the elements of the NHS have been conflated to the 1:100,000 DLG-3 data set which maintains a nominal accuracy of at least ±80 meters. Where new roads have been added which are not in the DLG-3 database link alignments have been digitized or converted from digital sources acquired from State DOTs with a map scale of at least 1:100,000.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Federal Highway Administration (FHWA)</origin>
+						<pubdate>20100831</pubdate>
+						<title>NHS Version 2009.11, Federal Highway Administration, Washington DC, HEP-10</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2011</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccontr>NHS, Interstate, and other arterial highway system, intermodal connectors.</srccontr>
+				<srcscale>1:100,000</srcscale>
+</srcinfo>
+			<procstep>
+				<procdesc>Update NHS and intermodal connector links. States edge matched and NHS attributes verified.</procdesc>
+				<procdate>20101025</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Update and integrate intermodal terminals. States geo-location matched and attributes verified.</procdesc>
+				<procdate>20101025</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Modified NHS codes as per direction of the FHWA.</procdesc>
+				<procdate>20101025</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Verified Intermodal terminals.</procdesc>
+				<procdate>20101025</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Modified NHS based on amendments.</procdesc>
+				<procdate>20101025</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Update LCV codes based on FHWA Truck Size and Weight Regulations. Verified with state specific input from DOT website or direct contact.</procdesc>
+				<procdate>20101025</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Update National Network (NN) codes based on the information provided to Battelle by the FHWA office of Freight Management and Operation and the information sited under FHWA Truck Size and Weight Regulation Study, 1998.</procdesc>
+				<procdate>20101025</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Update truck route restrictions code and include restrictions due to height and hazmat designation using the State data sources, and the Rand McNally truck road atlas.</procdesc>
+				<procdate>20101025</procdate>
+			</procstep>
+			<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name changed from faf3_network to USFreightNetwork11</procdesc>
+<procdate>20130326</procdate>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USFreightNetwork11">
+				<sdtstype Sync="TRUE">String</sdtstype>
+				<ptvctcnt Sync="TRUE">170994</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USFreightNetwork11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">170994</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USFreightNetwork11">
+			<enttyp>
+				<enttypl Sync="TRUE">USFreightNetwork11</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">170994</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>Unique identification number.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attalias Sync="TRUE">ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LENGTH</attrlabl>
+				<attrdef>Length of arc (miles).</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attalias Sync="TRUE">LENGTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DIR</attrlabl>
+				<attrdef>Freight direction for freight modeling.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attalias Sync="TRUE">DIR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RECTYPE</attrlabl>
+				<attalias Sync="TRUE">RECTYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdef>Identifies the record type associated with the file</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attrdomv>
+<edom>
+<edomv>L</edomv>
+<edomvd>Link</edomvd>
+<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>Version of the record.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">7</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATE</attrlabl>
+				<attrdef>State abbreviation.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of State Postal Abbreviations</codesetn>
+						<codesets>U.S. Postal Service</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGN1</attrlabl>
+				<attrdef>Character  Designated primary Sign Route for the record</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attalias Sync="TRUE">SIGN1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNT1</attrlabl>
+				<attrdef>Character  Describes the type of the sign route.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>I</edomv>
+						<edomvd>Interstate</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>U</edomv>
+						<edomvd>US Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>State Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>O</edomv>
+						<edomvd>Off-Interstate Business Marker</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>C</edomv>
+						<edomvd>County Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Township</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>M</edomv>
+						<edomvd>Municipal</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>P</edomv>
+						<edomvd>Parkway or Forest Route Marker</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>None of the above</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(blank)</edomv>
+						<edomvd>Not signed or not applicable</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNT1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNN1</attrlabl>
+				<attrdef>Contains the actual sign route numbers. Using HPMS standards, an optional directional indicator (N, S, E, W) can also be used as part of this field.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attalias Sync="TRUE">SIGNN1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNQ1</attrlabl>
+				<attrdef>Sign Route Qualifier Record which is used to qualify the sign route description follows the Sign Route Number.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>A</edomv>
+						<edomvd>Alternate Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B</edomv>
+						<edomvd>Business Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>P</edomv>
+						<edomvd>Bypass</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>Spur</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>L</edomv>
+						<edomvd>Loop</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>Proposed (Future)</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>D</edomv>
+						<edomvd>Temporary (Detour)</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Truck Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>None of the above</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(blank)</edomv>
+						<edomvd>No qualifier, not signed, or not applicable</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNQ1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGN2</attrlabl>
+				<attrdef>contains the designated secondary Sign Route for the arc.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attalias Sync="TRUE">SIGN2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNT2</attrlabl>
+				<attrdef>Describes the type of the sign route.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>I</edomv>
+						<edomvd>Interstate</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>U</edomv>
+						<edomvd>US Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>State Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>O</edomv>
+						<edomvd>Off-Interstate Business Marker</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>C</edomv>
+						<edomvd>County Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Township</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>M</edomv>
+						<edomvd>Municipal</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>P</edomv>
+						<edomvd>Parkway or forest route marker</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>None of the above</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(blank)</edomv>
+						<edomvd>Not signed or not applicable</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNT2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNN2</attrlabl>
+				<attrdef>Contains the actual sign route numbers .</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attalias Sync="TRUE">SIGNN2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNQ2</attrlabl>
+				<attrdef>Sign Route Qualifier Record</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>A</edomv>
+						<edomvd>Alternate Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B</edomv>
+						<edomvd>Business Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>P</edomv>
+						<edomvd>Bypass</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>Spur</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>L</edomv>
+						<edomvd>Loop</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>Proposed (future)</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>D</edomv>
+						<edomvd>Temporary (detour)</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Truck Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>None of the above</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(blank)</edomv>
+						<edomvd>No qualifier, not signed, or not applicable</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNQ2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGN3</attrlabl>
+				<attrdef>Contains the designated additional secondary Sign Route</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attalias Sync="TRUE">SIGN3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNT3</attrlabl>
+				<attrdef>Describes the type of the sign route.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>I</edomv>
+						<edomvd>Interstate</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>U</edomv>
+						<edomvd>US Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>State Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>O</edomv>
+						<edomvd>Off-interstate business marker</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>C</edomv>
+						<edomvd>County Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Township</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>M</edomv>
+						<edomvd>Municipal</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>P</edomv>
+						<edomvd>Parkway or Forest Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>None of the above</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(blank)</edomv>
+						<edomvd>Not signed or not applicable</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNT3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNN3</attrlabl>
+				<attrdef>Contains the actual sign route numbers</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attalias Sync="TRUE">SIGNN3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SIGNQ3</attrlabl>
+				<attrdef>Sign Route Qualifier Record</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>A</edomv>
+						<edomvd>Alternative Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B</edomv>
+						<edomvd>Business Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>P</edomv>
+						<edomvd>Bypass</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>Spur</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>L</edomv>
+						<edomvd>Loop</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>Proposed (Future)</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>D</edomv>
+						<edomvd>Temporary (detour)</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Truck Route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>None of the above</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>(blank)</edomv>
+						<edomvd>No qualifier, not signed or not applicable</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SIGNQ3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LNAME</attrlabl>
+				<attrdef>Local Road Name</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attalias Sync="TRUE">LNAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MILES</attrlabl>
+				<attrdef>Length of arc (miles)</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">MILES</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<atnumdec Sync="TRUE">4</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>KM</attrlabl>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">KM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Length in kilometers</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<atnumdec Sync="TRUE">3</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FCLASS</attrlabl>
+				<attrdef>Functional Class</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>01</edomv>
+						<edomvd>Rural Interstate</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>02</edomv>
+						<edomvd>Rural Functional Class</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>06</edomv>
+						<edomvd>Rural Minor Arterial</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>07</edomv>
+						<edomvd>Rural Major Collector</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>08</edomv>
+						<edomvd>Rural Minor Collector</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>09</edomv>
+						<edomvd>Rural Local</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>Urban Interstate</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Urban Freeway or Expressway</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>Urban Principal Arterial</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>16</edomv>
+						<edomvd>Urban Minor Arterial</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>17</edomv>
+						<edomvd>Urban Collector</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>19</edomv>
+						<edomvd>Urban Local</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FCLASS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RUCODE</attrlabl>
+				<attrdef>Rural/Urban Code</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Rural</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Small Urban (1990 pop 5,000 -49,999)</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Large Urban (1990 &amp;gt;= 50,000)</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">RUCODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATUS</attrlabl>
+				<attrdef>Open status of road</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Proposed/Under construction</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Open to traffic</edomvd>
+						<edomvds>FHWA</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STATUS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Ferry Route</edomvd>
+<edomvds>FHWA</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Canadian routes connecting Alaska to the contiguous States</edomvd>
+<edomvds>FHWA</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>NHS</attrlabl>
+				<attrdef>National Highway System</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>Not on NHS</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Interstate</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Non-Interstate STRAHNET</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>STRAHNET Connector</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Other NHS</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Approved Intermodal Connector</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">NHS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NN</attrlabl>
+				<attrdef>National Network</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>On NN System</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">NN</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TRK_TYPE</attrlabl>
+				<attrdef>Truck route related restrictions</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>State designated truck route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>NN System</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Long Combination Vehicle (LCV) route</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Arc with state truck restriction</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Low Clearance</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>NN with low clearance</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>NN with state truck restriction</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>Hazmat restriction</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>09</edomv>
+						<edomvd>Rural local</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TRK_TYPE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LCV_TYPE</attrlabl>
+				<attrdef>Identify the LCV character</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Double with length less than 100.</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Double with length up to and over  100.</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Double and Triple with length less than 100.</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>Double and triple up to and over 100.</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>Low Clearance</edomvd>
+						<edomvds>United States. Federal Highway Administration</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">LCV_TYPE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>Federal Information Processing Standard (FIPS) State Code</attrdef>
+				<attrdefs>National Institute of Standards and Technology (NIST)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard (FIPS)</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CTFIPS</attrlabl>
+				<attrdef>Federal Information Processing Standard (FIPS) County Code</attrdef>
+				<attrdefs>National Institute of Standards and Technology (NIST)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard (FIPS)</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">CTFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">3</attwidth>
+</attr>
+			<attr>
+				<attrlabl>BTSVERSION</attrlabl>
+				<attrdef>Version of the database</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">BTSVERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+		<overview>
+			<eaover>Data dictionaries for FAF network link, freight assignment output and capacity analysis output are available in the Freight Analysis Framework Methodology Document.</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Ave., S.E.</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202-366-DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>National Transportation Atlas Databases (NTAD) 2011</resdesc>
+		<distliab>None</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formvern>2011</formvern>
+					<filedec>no compression applied</filedec>
+					<transize>58.124</transize>
+					<dssize Sync="TRUE">58.124</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<accinstr>NTAD is available for download at www.bts.gov/programs/geographic_information_services.  The NTAD DVD can also be ordered from the online bookstore at www.bts.gov.</accinstr>
+					</onlinopt>
+					<offoptn>
+						<offmedia>DVD</offmedia>
+						<reccap>
+							<recden>650</recden>
+							<recdenu>megabytes</recdenu>
+						</reccap>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<ordering>Call 202-366-DATA, or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2011 DVD.  This and other RITA/BTS products may be ordered from the RITA/BTS Internet website http://www.bts.gov/programs/geographic_information_services/.</ordering>
+		</stdorder>
+		<techpreq>Software that can process GIS files.</techpreq>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140514</metd>
+		<metrd>2011</metrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Ave., S.E.</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202 366-DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{249CEB5B-0ADA-426A-A2FC-A85B4E7BE9AA}</MetaID>
+<CreaDate>20110321</CreaDate>
+<CreaTime>12120500</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11462700</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11465400</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USFreightNetwork11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-176.763993</westBL>
+<eastBL Sync="TRUE">-66.979625</eastBL>
+<northBL Sync="TRUE">71.316994</northBL>
+<southBL Sync="TRUE">18.91502</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-176.763993</westBL>
+<eastBL Sync="TRUE">-66.979625</eastBL>
+<northBL Sync="TRUE">71.316994</northBL>
+<southBL Sync="TRUE">18.91502</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USFreightNetwork11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">58.124</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USFreightNetwork11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">170994</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

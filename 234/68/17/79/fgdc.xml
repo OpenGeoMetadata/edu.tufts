@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>National Renewable Energy Laboratory (U.S.)</origin>
+				<pubdate>2011</pubdate>
+				<title>Alternative Fuel Stations USA 2011</title>
+				<edition>2011</edition>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington (D.C.)</pubplace>
+					<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Databases (NTAD) 2011</title>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USAAltFuels11</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset represents locations from the Alternative Fuels database. The Alternative Fuels database is a geographic point database of fueling facilities that offer fuels other than gasoline in the United States.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-157.945000</westbc>
+				<eastbc>
+-68.011168</eastbc>
+				<northbc>
+64.812658</northbc>
+				<southbc>
+19.729455</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-157.945000</leftbc>
+<rightbc Sync="TRUE">-68.011168</rightbc>
+<bottombc Sync="TRUE">19.729455</bottombc>
+<topbc Sync="TRUE">64.812658</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>utilitiesCommunications</themekey>
+				<themekey>structure</themekey>
+				<themekey>economy</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Propane as fuel</themekey>
+				<themekey>Liquid fuels</themekey>
+				<themekey>Biomass energy</themekey>
+				<themekey>Ethanol as fuel</themekey>
+				<themekey>Fossil fuels</themekey>
+				<themekey>Hydrogen as fuel</themekey>
+				<themekey>Gas as fuel</themekey>
+				<themekey>Fuel--United States</themekey>
+				<themekey>Biodiesel fuels</themekey>
+				<themekey>Compressed natural gas</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>National Renewable Energy Labratory</cntorg>
+				</cntorgp>
+				<cntpos>Alternative Fuels Data Center</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>National Renewable Energy Laboratory</address>
+					<address>1617 Cole Blvd.</address>
+					<city>Golden</city>
+					<state>CO</state>
+					<postal>80401</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(303) 275-4470</cntvoice>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<crossref>
+			<citeinfo>
+				<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+				<pubdate>2011</pubdate>
+				<title>National Transportation Atlas Databases (NTAD) 2011</title>
+				<pubinfo>
+					<pubplace>Washington, DC</pubplace>
+					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Station attributes were obtained from the NREL and were then confirmed via the internet when possible</attraccr>
+			<qattracc>
+				<attraccv>unknown</attraccv>
+				<attracce>N/A</attracce>
+			</qattracc>
+		</attracc>
+		<logic>All point records in this dataset are represented by a single coordinate pair and a unique feature identifier.
+
+BTS quality checks were to cross reference the place dataset with the state dataset, to determine that the spatial data and attribute data were accurate.</logic>
+		<complete>unknown</complete>
+		<posacc>
+			<horizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+						<lworkcit>
+							<citeinfo>
+								<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2011</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srcscale>Unknown</srcscale>
+</srcinfo>
+			<srcinfo>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2010</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+			</srcinfo>
+			<procstep>
+				<procdesc>The creation of this geospatial data layer was completed by RITA/BTS in March 2008. This Shapefile was built from  a combination of database tables and internet research.  The coodinates of the fueling stations were derived from the addressed by geo location.</procdesc>
+				<procdate>2011</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards:
+&amp;gt;Changed citatition title from "Alternative Fuels" to "Alternative Fuel Stations USA 2011"
+&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&amp;gt;Changed name of file from "altfuels" to "USAaltfuels11"
+&amp;gt;Changed originators/publishers from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" and "National Renewable Energy Laboratory" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services" and "National Renewable Energy Laboratory (U.S.)"
+&amp;gt;Changed publication places to reflect LCNH formatting
+&amp;gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added ISO 19115 Topic Category keywords
+&amp;gt;Added LCSH theme keywords
+&amp;gt;Added GNIS and GNS place keywords
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20111121</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USAAltFuels11">
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>4884</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USAAltFuels11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">4884</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USAAltFuels11">
+			<enttyp>
+				<enttypl>
+USAaltfuels11</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">4884</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>FuelType</attrlabl>
+				<attrdef>Type of Fuel Offered.</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>BD</edomv>
+						<edomvd>BioDiesel</edomvd>
+						<edomvds>National Renewable Energy Laboratory (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>CNG</edomv>
+						<edomvd>Compressed Natural Gas</edomvd>
+						<edomvds>National Renewable Energy Laboratory (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>E85</edomv>
+						<edomvd>An alcohol fuel mixture that typically contains a mixture of up to 85% denatured fuel ethanol and gasoline or other hydrocarbon by volume.</edomvd>
+						<edomvds>National Renewable Energy Laboratory (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>ELEC</edomv>
+						<edomvd>Electric</edomvd>
+						<edomvds>National Renewable Energy Laboratory (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>HY</edomv>
+						<edomvd>Hythane is a mixture of natural gas and hydrogen, usually 5-7 percent hydrogen by energy.</edomvd>
+						<edomvds>National Renewable Energy Laboratory (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>LNG</edomv>
+						<edomvd>Liquid Natrual Gas</edomvd>
+						<edomvds>National Renewable Energy Laboratory (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>LPG</edomv>
+						<edomvd>Liquid Propane Gas</edomvd>
+						<edomvds>National Renewable Energy Laboratory (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>H</edomv>
+						<edomvd>Hydrogen</edomvd>
+						<edomvds>National Renewable Energy Laboratory (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<begdatea>2010</begdatea>
+				<enddatea>2010</enddatea>
+				<attalias Sync="TRUE">FuelType</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Name</attrlabl>
+				<attrdef>Name of the Facility</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Name of the fueling station</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Name</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">125</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Address</attrlabl>
+				<attrdef>Address of Facility</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Address of the fueling station</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Address</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Address2</attrlabl>
+				<attrdef>2nd Line for Address</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>2nd line of the stations address</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Address2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>City</attrlabl>
+				<attrdef>City in which the facility is located</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>City in which the station is located.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">City</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>StatePost</attrlabl>
+				<attrdef>State Postal Code Abbreviation</attrdef>
+				<attrdefs>United States Postal Service</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of U.S. Postal Code Abbreviations</codesetn>
+						<codesets>U.S. Postal Service (USPS)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">StatePost</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ZIP</attrlabl>
+				<attrdef>ZIP code in which the facility is located</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>The zip code in which the station is located.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ZIP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ZIP4</attrlabl>
+				<attrdef>Additional four digits of the the zip code in which the station is located.</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Additional four digits of the the zip code in which the station is located.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ZIP4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>StationPho</attrlabl>
+				<attrdef>The phone number of the station.</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>The phone number of the station.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">StationPho</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>AcessTime</attrlabl>
+				<attrdef>Time span in which the station is open.</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Time span in which the station is open.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">AcessTime</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CardsAccep</attrlabl>
+				<attrdef>The credit cards accepted by the station.</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>The credit cards accepted by the station.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">CardsAccep</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>AccessGrou</attrlabl>
+				<attrdef>Those permited access to the station.</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Those permited access to the station.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">AccessGrou</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Latitude</attrlabl>
+				<attrdef>The latitude of the point expressed as a signed real number. This value is in decimal degrees with negative values indicating South latitude and positive values indicating North latitude.</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>The latitude of the station.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Latitude</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Longitude</attrlabl>
+				<attrdef>The longitude of the point expressed as a signed real number. This value is in decimal degrees with negative values indicating West longitude and positive values indicating East longitude.</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>The longitude of the station.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Longitude</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Blend</attrlabl>
+				<attrdef>The blend of the fuel type if the fuel is blended.</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>The blend of the fuel type if the fuel is blended.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Blend</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>References</attrlabl>
+				<attrdef>The URLs used to verify the addresses of the Hydrogen fueling stations.</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Tthe URLs used to verify the addresses of the Hydrogen fueling stations.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">References</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">150</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Status</attrlabl>
+				<attrdef>Status of the Facility</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Operational</edomv>
+						<edomvd>Stations that were operational at the time of publication</edomvd>
+						<edomvds>National Renewable Energy Laboratory (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>Planned</edomv>
+						<edomvd>Stations that are beingg planned.</edomvd>
+						<edomvds>National Renewable Energy Laboratory (U.S.)</edomvds>
+					</edom>
+					<edom>
+						<edomv>Decomissioned</edomv>
+						<edomvd>Decomissioned</edomvd>
+						<edomvds>National Renewable Energy Laboratory (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Status</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Version</attrlabl>
+				<attrdef>Version of the database</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Version</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>State FIPS Code</attrdef>
+				<attrdefs>National Renewable Energy Laboratory (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Decomissioned</edomv>
+						<edomvd>Decomissioned</edomvd>
+						<edomvds>NREL</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">7</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.131</transize>
+					<dssize Sync="TRUE">0.131</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20111121</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Ave., SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202-366-DATA</cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USAAltFuels11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-157.945</westBL>
+<eastBL Sync="TRUE">-68.011168</eastBL>
+<northBL Sync="TRUE">64.812658</northBL>
+<southBL Sync="TRUE">19.729455</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-157.945</westBL>
+<eastBL Sync="TRUE">-68.011168</eastBL>
+<northBL Sync="TRUE">64.812658</northBL>
+<southBL Sync="TRUE">19.729455</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USAAltFuels11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.131</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USAAltFuels11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">4884</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11444400</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11444400</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

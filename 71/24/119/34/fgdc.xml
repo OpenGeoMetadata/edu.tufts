@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>ML InfoMap (Firm : India)</origin>
+				<pubdate>2008</pubdate>
+				<title>Districts West Bengal States 2001</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+				</pubinfo>
+				<onlink>www.mlinfomap.com</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>ML InfoMap (Firm : India)</origin>
+						<pubdate>2008</pubdate>
+						<title>West Bengal GIS Data</title>
+						<pubinfo>
+							<pubplace>New Delhi (India)</pubplace>
+							<publish>ML InfoMap (Firm : India)</publish>
+						</pubinfo>
+						<onlink>www.mlinfomap.com</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">WestBengalDistricts01</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents administrative boundaries for districts of West Bengal, India and includes socio-demographic and economic data for the state as well.  The dataset includes village socio-demographic and economic Census attribute data such as total population, population by sex, household, literacy and illiteracy rates, and employment by industry.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2001</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+85.822906</westbc>
+				<eastbc>
+89.893219</eastbc>
+				<northbc>
+27.217173</northbc>
+				<southbc>
+21.517263</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">85.822906</leftbc>
+<rightbc Sync="TRUE">89.893219</rightbc>
+<bottombc Sync="TRUE">21.517263</bottombc>
+<topbc Sync="TRUE">27.217173</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>society</themekey>
+				<themekey>economy</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Census</themekey>
+				<themekey>Demography</themekey>
+				<themekey>Populatio--Statistics</themekey>
+				<themekey>Sex--Statistics</themekey>
+				<themekey>Housing--Statistics</themekey>
+				<themekey>Labor supply</themekey>
+				<themekey>Literacy</themekey>
+				<themekey>Caste--India</themekey>
+				<themekey>Administrative and political divisions</themekey>
+				<themekey>Boundaries</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>State of West Bengal</placekey>
+				<placekey>Republic of India</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Asia</placekey>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+			</place>
+		</keywords>
+		<accconst>Restricted Access Online: Access is granted to licensee only. Available only to Tufts University affiliates</accconst>
+		<useconst>For educational non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ML InfoMap</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>124 - A Katwaria Sarai</address>
+					<city>New Delhi</city>
+					<postal>110 016</postal>
+					<country>India</country>
+				</cntaddr>
+				<cntvoice>+ 91 - 11 - 4168 8592</cntvoice>
+				<cntfax>+ 91 - 11 - 4168 8593</cntfax>
+				<cntemail>post@mlinfomap.com</cntemail>
+				<cntinst>www.mlinfomap.com</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Unknown</attraccr>
+		</attracc>
+		<logic>Unknown</logic>
+		<complete>Unknown</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Unknown</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>ML InfoMap (Firm)</origin>
+						<pubdate>2008</pubdate>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>New Delhi</pubplace>
+							<publish>ML InfoMap Pvt. Ltd.</publish>
+						</pubinfo>
+						<lworkcit>
+							<citeinfo>
+								<origin>ML InfoMap (Firm)</origin>
+								<pubdate>2008</pubdate>
+								<title>India GIS data in ESRI SHP format</title>
+								<geoform>vector digital data</geoform>
+								<pubinfo>
+									<pubplace>New Delhi</pubplace>
+									<publish>ML InfoMap Pvt. Ltd.</publish>
+								</pubinfo>
+								<othercit>1 computer optical disc ; 4 3/4 in.</othercit>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srcscale>1: 1000000</srcscale>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2001</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+			</srcinfo>
+			<procstep>
+				<srcused>VillageMap</srcused>
+				<procdate>200805</procdate>
+				<srcprod>SDE</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Harvard Map Collection</cntorg>
+						</cntorgp>
+						<cntpos>GIS Coordinator</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Pusey Library</address>
+							<city>Cambridge</city>
+							<state>MA</state>
+							<postal>02138</postal>
+							<country>U.S.A.</country>
+						</cntaddr>
+						<cntvoice>617-495-2417</cntvoice>
+						<cntemail>maps@harvard.edu</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xmlA8FE.tmp</srcused>
+				<procdate>20121016</procdate>
+				<proctime>15134900</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>File name was changed from DISTRICT to WestBengalDistricts01</procdesc>
+				<proctime>20121023</proctime>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd.</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xmlF464.tmp</srcused>
+				<procdate>20121018</procdate>
+				<proctime>15513300</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xml4E3B.tmp</srcused>
+				<procdate>20121023</procdate>
+				<proctime>13092800</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="WestBengalDistricts01">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>125</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="WestBengalDistricts01">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">125</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="WestBengalDistricts01">
+			<enttyp>
+				<enttypl>
+WestBengalDistricts01</enttypl>
+				<enttypd>Village Socio-Demographic and Economic Data : West Bengal, India</enttypd>
+				<enttypds>ML Infomap</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">125</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Name of district</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attrdomv>
+					<udom>Text.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DISTRICT_I</attrlabl>
+				<attrdef>Numerical Identifier for the district</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">DISTRICT_I</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATE_UT</attrlabl>
+				<attrdef>Name of administrative state or union territory</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attrdomv>
+					<udom>Text.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">STATE_UT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>C_CODE01</attrlabl>
+				<attrdef>Census code of villages in 2001</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">C_CODE01</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">17</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_NM_HH</attrlabl>
+				<attrdef>Total number of household</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_NM_HH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_AREA</attrlabl>
+				<attrdef>Area of district in square kilometers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">TOT_AREA</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>TOT_POP</attrlabl>
+				<attrdef>Total population</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_POP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_POP</attrlabl>
+				<attrdef>Male population</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_POP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_POP</attrlabl>
+				<attrdef>Female population</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_POP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_L6</attrlabl>
+				<attrdef>Total pop below 6 years</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_L6</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_L6</attrlabl>
+				<attrdef>Male pop below 6 years</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_L6</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_L6</attrlabl>
+				<attrdef>Female pop below 6 years</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_L6</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_SC</attrlabl>
+				<attrdef>Total scheduled class</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_SC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_SC</attrlabl>
+				<attrdef>Male scheduled caste</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_SC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_SC</attrlabl>
+				<attrdef>Female scheduled class</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_SC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_ST</attrlabl>
+				<attrdef>Total scheduled tribe</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_ST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_ST</attrlabl>
+				<attrdef>Male scheduled tribe</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_ST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_ST</attrlabl>
+				<attrdef>Female scheduled tribe</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_ST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_LIT</attrlabl>
+				<attrdef>Total literates</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_LIT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_LIT</attrlabl>
+				<attrdef>Male literates</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_LIT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_LIT</attrlabl>
+				<attrdef>Female literates</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_LIT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_ILLT</attrlabl>
+				<attrdef>Total illiterates</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_ILLT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_ILLT</attrlabl>
+				<attrdef>Male illiterates</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_ILLT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_ILLT</attrlabl>
+				<attrdef>Female illiterates</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_ILLT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_W</attrlabl>
+				<attrdef>Total workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_W</attrlabl>
+				<attrdef>Male total workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_W</attrlabl>
+				<attrdef>Female total workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_MNW</attrlabl>
+				<attrdef>Total main workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_MNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_MNW</attrlabl>
+				<attrdef>Male main wokers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_MNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_MNW</attrlabl>
+				<attrdef>Female main workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_MNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_CULT</attrlabl>
+				<attrdef>Total cultivators</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_CULT</attrlabl>
+				<attrdef>Male cultivators</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_CULT</attrlabl>
+				<attrdef>Female cultivators</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_AGLB</attrlabl>
+				<attrdef>Total agricultural labourers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_AGLB</attrlabl>
+				<attrdef>Male agricultural labourers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_AGLB</attrlabl>
+				<attrdef>Female agricultural labourers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_MFHH</attrlabl>
+				<attrdef>Total household industry workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_MFHH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_MFHH</attrlabl>
+				<attrdef>Male household industry workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_MFHH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_MFHH</attrlabl>
+				<attrdef>Female household industry workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_MFHH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_OTH_W</attrlabl>
+				<attrdef>Total other workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_OTH_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_OTH_W</attrlabl>
+				<attrdef>Male other workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_OTH_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_OTH_W</attrlabl>
+				<attrdef>Female other workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_OTH_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_MRW</attrlabl>
+				<attrdef>Total marginal workers other workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_MRW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_MRW</attrlabl>
+				<attrdef>Male marginal workers other workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_MRW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_MRW</attrlabl>
+				<attrdef>Female marginal workers other workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_MRW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>T_MRG_CULT</attrlabl>
+				<attrdef>Total marginal workers as cultivators</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">T_MRG_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_MRG_CULT</attrlabl>
+				<attrdef>Male marginal workers as cultivators</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_MRG_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_MRG_CULT</attrlabl>
+				<attrdef>Female marginal workers as cultivators</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_MRG_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>T_MRG_AGLB</attrlabl>
+				<attrdef>Total marginal workers as agricultural labourers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">T_MRG_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_MRG_AGLB</attrlabl>
+				<attrdef>Male marginal workers as agricultural labourers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_MRG_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_MRG_AGLB</attrlabl>
+				<attrdef>Female marginal workers as agricultural labourers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_MRG_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>T_MRG_HH</attrlabl>
+				<attrdef>Total marginal workers household industry workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">T_MRG_HH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_MRG_HH</attrlabl>
+				<attrdef>Male marginal workers household industry workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_MRG_HH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_MRG_HH</attrlabl>
+				<attrdef>Female marginal workers household industry workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_MRG_HH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>T_MRG_OTH</attrlabl>
+				<attrdef>Total marginal workers as other workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">T_MRG_OTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_MRG_OTH</attrlabl>
+				<attrdef>Male marginal workers as other workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_MRG_OTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_MRG_OTH</attrlabl>
+				<attrdef>Female marginal workers as other workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_MRG_OTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOT_NNW</attrlabl>
+				<attrdef>Total non-workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">TOT_NNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_NNW</attrlabl>
+				<attrdef>Male non-workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">M_NNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_NNW</attrlabl>
+				<attrdef>Female non-workers</attrdef>
+				<attrdefs>ML InfoMap (Firm : India)</attrdefs>
+				<attalias Sync="TRUE">F_NNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_NM_H</attrlabl>
+				<attrdef>Total rural number of housholds</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_NM_H</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_POP</attrlabl>
+				<attrdef>Total rural population</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_POP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_POP</attrlabl>
+				<attrdef>Total rural male population</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_POP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_POP</attrlabl>
+				<attrdef>Total rural female population</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_POP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_L6</attrlabl>
+				<attrdef>Total rural population under 6 years of age</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_L6</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_L6</attrlabl>
+				<attrdef>Rural population of males under 6 years of age</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_L6</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_L6</attrlabl>
+				<attrdef>Rural population of females under 6 years of age</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_L6</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_SC</attrlabl>
+				<attrdef>Total rural scheduled caste</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_SC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_SC</attrlabl>
+				<attrdef>Rural male scheduled caste</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_SC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_SC</attrlabl>
+				<attrdef>Rural female scheduled caste</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_SC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_ST</attrlabl>
+				<attrdef>Total rural scheduled tribe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_ST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_ST</attrlabl>
+				<attrdef>Rural male scheduled tribe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_ST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_ST</attrlabl>
+				<attrdef>Rural female sceduled tribe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_ST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_LIT</attrlabl>
+				<attrdef>Total rural literates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_LIT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_LIT</attrlabl>
+				<attrdef>Rural male literates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_LIT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_LIT</attrlabl>
+				<attrdef>Rural female literates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_LIT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_ILLT</attrlabl>
+				<attrdef>Total rural illiterates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_ILLT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_ILLT</attrlabl>
+				<attrdef>Rural male illiterates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_ILLT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_ILLT</attrlabl>
+				<attrdef>Rural female illiterates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_ILLT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_W</attrlabl>
+				<attrdef>Total rural workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_W</attrlabl>
+				<attrdef>Rural male workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_W</attrlabl>
+				<attrdef>Rural female workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_MNW</attrlabl>
+				<attrdef>Total rural main workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_MNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_MNW</attrlabl>
+				<attrdef>Rural male main workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_MNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_MNW</attrlabl>
+				<attrdef>Rural female main workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_MNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_CULT</attrlabl>
+				<attrdef>Total rural cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_CULT</attrlabl>
+				<attrdef>Rural male cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_CULT</attrlabl>
+				<attrdef>Rural female cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_AGLB</attrlabl>
+				<attrdef>Total rural agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_AGLB</attrlabl>
+				<attrdef>Rural male agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_AGLB</attrlabl>
+				<attrdef>Rural female agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_MFHH</attrlabl>
+				<attrdef>Total rural household industry workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_MFHH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_MFHH</attrlabl>
+				<attrdef>Rural male household industry workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_MFHH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_MFHH</attrlabl>
+				<attrdef>Rural female household industry workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_MFHH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_OTH_</attrlabl>
+				<attrdef>Total rural other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_OTH_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_OTH_W</attrlabl>
+				<attrdef>Rural male other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_OTH_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_OTH_W</attrlabl>
+				<attrdef>Rural female other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_OTH_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_MRW</attrlabl>
+				<attrdef>Total rural marginal other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_MRW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_MRW</attrlabl>
+				<attrdef>Rural male marginal other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_MRW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_MRW</attrlabl>
+				<attrdef>Rural female marginal other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_MRW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_T_MRG_CU</attrlabl>
+				<attrdef>Total rural marginal workers as cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_T_MRG_CU</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_MRG_CU</attrlabl>
+				<attrdef>Rural male marginal workers as cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_MRG_CU</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_MRG_CU</attrlabl>
+				<attrdef>Rrual female marginal workers as cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_MRG_CU</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_T_MRG_AG</attrlabl>
+				<attrdef>Total rural Marginal agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_T_MRG_AG</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_MRG_AG</attrlabl>
+				<attrdef>Rural male marginal agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_MRG_AG</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_MRG_AG</attrlabl>
+				<attrdef>Rural female marginal agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_MRG_AG</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_T_MRG_HH</attrlabl>
+				<attrdef>Total rural Marginal household industry workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_T_MRG_HH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_MRG_HH</attrlabl>
+				<attrdef>Rural male marginal household industry workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_MRG_HH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_MRG_HH</attrlabl>
+				<attrdef>Rural female marginal household industry workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_MRG_HH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_T_MRG_OT</attrlabl>
+				<attrdef>Total rural marginal other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_T_MRG_OT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_MRG_OT</attrlabl>
+				<attrdef>Rural male marginal other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_MRG_OT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_MRG_OT</attrlabl>
+				<attrdef>Rural female marginal other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_MRG_OT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_TOT_NNW</attrlabl>
+				<attrdef>Total rural non-workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_TOT_NNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_M_NNW</attrlabl>
+				<attrdef>Rural male non-workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_M_NNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>R_F_NNW</attrlabl>
+				<attrdef>Rural female non-workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">R_F_NNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_NM_H</attrlabl>
+				<attrdef>Total Urban number of households</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_NM_H</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_POP</attrlabl>
+				<attrdef>Total urban population</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_POP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_POP</attrlabl>
+				<attrdef>Urban male population</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_POP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_POP</attrlabl>
+				<attrdef>tUrban female population</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_POP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_L6</attrlabl>
+				<attrdef>Total urban population under six years of age.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_L6</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_L6</attrlabl>
+				<attrdef>Urban male population under six years of age</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_L6</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_L6</attrlabl>
+				<attrdef>Urban female population under six years of age</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_L6</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_SC</attrlabl>
+				<attrdef>Total urban scheduled caste</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_SC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_SC</attrlabl>
+				<attrdef>Urban male scheduled caste</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_SC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_SC</attrlabl>
+				<attrdef>Urban female scheduled caste</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_SC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_ST</attrlabl>
+				<attrdef>Total urban scheduled tribe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_ST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_ST</attrlabl>
+				<attrdef>Urban male scheduled tribe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_ST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_ST</attrlabl>
+				<attrdef>Urban female scheduled tribe</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_ST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_LIT</attrlabl>
+				<attrdef>Total urban litterates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_LIT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_LIT</attrlabl>
+				<attrdef>Urban male litterates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_LIT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_LIT</attrlabl>
+				<attrdef>Urban female litterates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_LIT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_ILLT</attrlabl>
+				<attrdef>Total urban illiterates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_ILLT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_ILLT</attrlabl>
+				<attrdef>Urban male illiterates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_ILLT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_ILLT</attrlabl>
+				<attrdef>Urban female illiterates</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_ILLT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_W</attrlabl>
+				<attrdef>Total urban workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_W</attrlabl>
+				<attrdef>Urban male workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_W</attrlabl>
+				<attrdef>Urban female workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_MNW</attrlabl>
+				<attrdef>Total urban main workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_MNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_MNW</attrlabl>
+				<attrdef>Urban male main workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_MNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_MNW</attrlabl>
+				<attrdef>Urban female main workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_MNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_CULT</attrlabl>
+				<attrdef>Total urban cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_CULT</attrlabl>
+				<attrdef>Urban male cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_CULT</attrlabl>
+				<attrdef>Urban female cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_CULT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_AGLB</attrlabl>
+				<attrdef>Total urban agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_AGLB</attrlabl>
+				<attrdef>Urban male agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_AGLB</attrlabl>
+				<attrdef>Urban female agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_AGLB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_MFHH</attrlabl>
+				<attrdef>Total urban houseold industry workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_MFHH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_MFHH</attrlabl>
+				<attrdef>Urban male household industry workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_MFHH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_MFHH</attrlabl>
+				<attrdef>Urban female household industry workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_MFHH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_OTH_</attrlabl>
+				<attrdef>Total urban workers, other</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_OTH_</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_OTH_W</attrlabl>
+				<attrdef>Urban male workers, other</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_OTH_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_OTH_W</attrlabl>
+				<attrdef>Urban female workers, other</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_OTH_W</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_MRW</attrlabl>
+				<attrdef>Total urban marginal workers, other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_MRW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_MRW</attrlabl>
+				<attrdef>Urban male marginal workers, other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_MRW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_MRW</attrlabl>
+				<attrdef>Urban female marginal workers, other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_MRW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_T_MRG_CU</attrlabl>
+				<attrdef>Total urban marginal cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_T_MRG_CU</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_MRG_CU</attrlabl>
+				<attrdef>Urban male marginal cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_MRG_CU</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_MRG_CU</attrlabl>
+				<attrdef>Urban female marginal cultivators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_MRG_CU</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_T_MRG_AG</attrlabl>
+				<attrdef>Total urban marginal agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_T_MRG_AG</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_MRG_AG</attrlabl>
+				<attrdef>Urban male marginal agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_MRG_AG</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_MRG_AG</attrlabl>
+				<attrdef>Urban female marginal agricultural laborers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_MRG_AG</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_T_MRG_HH</attrlabl>
+				<attrdef>Total urban marginal household industry workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_T_MRG_HH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_MRG_HH</attrlabl>
+				<attrdef>Urban male marginal household industry workersq</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_MRG_HH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_MRG_HH</attrlabl>
+				<attrdef>Urban female Marginal household industry workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_MRG_HH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_T_MRG_OT</attrlabl>
+				<attrdef>Total urban marginal other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_T_MRG_OT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_MRG_OT</attrlabl>
+				<attrdef>Urban male marginal other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_MRG_OT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_MRG_OT</attrlabl>
+				<attrdef>Urban femal marginal other workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_MRG_OT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_TOT_NNW</attrlabl>
+				<attrdef>Total urban non-workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_TOT_NNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_M_NNW</attrlabl>
+				<attrdef>Urban male non-workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_M_NNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>U_F_NNW</attrlabl>
+				<attrdef>Urban female non-workers</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">U_F_NNW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Harvard Geospatial Library</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Harvard University Library</address>
+					<address>Office For Information Systems</address>
+					<address>90 Mount Auburn Street</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02138</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-495-2417</cntvoice>
+				<cntfax>617-496-0440</cntfax>
+				<cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>SHAPE</formname>
+					<filedec>ZIP</filedec>
+					<transize>0.799</transize>
+					<dssize Sync="TRUE">0.799</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://hgl.harvard.edu/</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130301</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">WestBengalDistricts01</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">85.822906</westBL>
+<eastBL Sync="TRUE">89.893219</eastBL>
+<northBL Sync="TRUE">27.217173</northBL>
+<southBL Sync="TRUE">21.517263</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">85.822906</westBL>
+<eastBL Sync="TRUE">89.893219</eastBL>
+<northBL Sync="TRUE">27.217173</northBL>
+<southBL Sync="TRUE">21.517263</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\WestBengalState\WestBengalDistricts01.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.799</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="WestBengalDistricts01">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">125</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130301</SyncDate>
+<SyncTime>11572800</SyncTime>
+<ModDate>20130301</ModDate>
+<ModTime>11572800</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130301</mdDateSt>
+</metadata>

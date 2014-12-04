@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Kokusai Kyoryoku Jigyodan</origin>
+				<pubdate>2010</pubdate>
+				<title>Roads Nairobi 2003</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+					<sername>Nairobi GIS Maps and Database</sername>
+				</serinfo>
+				<pubinfo>
+					<publish>Columbia University. Spatial Information Design Lab</publish>
+					<pubplace>New York (N.Y.)</pubplace>
+</pubinfo>
+				<onlink>http://nairobigismaps.wikischolars.columbia.edu/home</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Columbia University. Spatial Information Design Lab</origin>
+						<pubdate>2010</pubdate>
+						<title>Nairobi GIS Maps and Database</title>
+						<pubinfo>
+							<publish>Columbia University. Spatial Information Design Lab</publish>
+							<pubplace>New York (N.Y.)</pubplace>
+</pubinfo>
+						<onlink>http://nairobigismaps.wikischolars.columbia.edu/home</onlink>
+</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">NairobiRoads03</ftname>
+<origin>Columbia University. Spatial Information Design Lab</origin>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This line dataset represents road networks in Nairobi. The Nairobi Roads file was created by manually digitizing a map which was prepared jointly by the Japan International Cooperation Agency (JICA) and the Government of the Republic of Kenya under the Japanese Government Technical Cooperation Program. It represents all the major and minor roads within the boundaries of City of Nairobi, Kenya. This data was developed for a Columbia University Earth Institute research team interested in using it in a transporation model. Given this purpose the most important compoenent of the data is it's network capabilities.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2003</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">36.663458</westbc>
+				<eastbc Sync="TRUE">37.106312</eastbc>
+				<northbc Sync="TRUE">-1.156782</northbc>
+				<southbc Sync="TRUE">-1.387759</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">240000.023656</leftbc>
+<rightbc Sync="TRUE">289280.306147</rightbc>
+<bottombc Sync="TRUE">9846540.428720</bottombc>
+<topbc Sync="TRUE">9872045.384040</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>line</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Roads</themekey>
+</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Nairobi</placekey>
+				<placekey>Kenya</placekey>
+				<placekey>Republic of Kenya</placekey>
+</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Southern hemisphere</placekey>
+				<placekey>Eastern hemisphere</placekey>
+				<placekey>Africa</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Spatial Information Design Lab, Columbia University</cntorg>
+					<cntper>Sarah Williams</cntper>
+</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>New York</city>
+					<postal>10027</postal>
+					<country>USA</country>
+					<state>NY</state>
+<address>Spatial Information Design Lab</address>
+<address>Graduate School of Architecture, Planning, and Presevation at Columbia University</address>
+<address>1172 Amsterdam Avenue</address>
+<address>400 Avery Hall</address>
+</cntaddr>
+				<cntemail>csudei@gmail.com</cntemail>
+				<cntpos>Director</cntpos>
+<cntvoice>202-854-8563</cntvoice>
+<cntemail>sew@alum.mit.edu</cntemail>
+</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>1:15,000</srcscale>
+				<typesrc>Scanned Paper Map</typesrc>
+<srccontr>Kokusai Kyoryoku Jigyodan</srccontr>
+</srcinfo>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>11073200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlB389.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>11135000</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Name changed from roads_final_checked to NairobiRoads03.</procdesc>
+				<procdate>20130212</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University. Geographic Information Systems Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Ave</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-suuport@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Nairobi\NairobiLanduse03.shp.xml</srcused>
+<procdate Sync="TRUE">20130531</procdate>
+<proctime Sync="TRUE">09372700</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Nairobi\NairobiLanduse10.shp.xml</srcused>
+<procdate Sync="TRUE">20130531</procdate>
+<proctime Sync="TRUE">11473800</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NairobiRoads03">
+				<sdtstype Sync="TRUE">String</sdtstype>
+				<ptvctcnt Sync="TRUE">66693</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NairobiRoads03">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">66693</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">D_Arc_1960</horizdn>
+				<ellips Sync="TRUE">Clarke_1880_RGS</ellips>
+				<semiaxis Sync="TRUE">6378249.145000</semiaxis>
+				<denflat Sync="TRUE">293.465000</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_Arc_1960</geogcsn>
+<projcsn Sync="TRUE">Arc_1960_UTM_Zone_37S</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">meters</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999600</sfctrmer>
+<longcm Sync="TRUE">39.000000</longcm>
+<latprjo Sync="TRUE">0.000000</latprjo>
+<feast Sync="TRUE">500000.000000</feast>
+<fnorth Sync="TRUE">10000000.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NairobiRoads03">
+			<enttyp>
+				<enttypl Sync="TRUE">NairobiRoads03</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">66693</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">Id</attrlabl>
+<attalias Sync="TRUE">Id</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<attrdef>Unique identifier</attrdef>
+<attrdefs>Columbia University. Spatial Information Design Lab</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">road_type</attrlabl>
+<attalias Sync="TRUE">road_type</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Main road</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Bitumen (Minor road)</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Earth (Dirt road)</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Other tracks and foot paths</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Type of road</attrdef>
+<attrdefs>Columbia University. Spatial Information Design Lab</attrdefs>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Tracks (Main track)</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">name</attrlabl>
+<attalias Sync="TRUE">name</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdef>Name of the road</attrdef>
+<attrdefs>Columbia University. Spatial Information Design Lab</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">obstacle</attrlabl>
+<attalias Sync="TRUE">obstacle</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>One obstruction present</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Two obstructions present</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+<attrdef>In some instances, there are buildings in roadways</attrdef>
+<attrdefs>Columbia University. Spatial Information Design Lab</attrdefs>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Clear roadway</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">develop</attrlabl>
+<attalias Sync="TRUE">develop</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Unknown attribute</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">roadwide</attrlabl>
+<attalias Sync="TRUE">roadwide</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Width of the road</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">roadtype</attrlabl>
+<attalias Sync="TRUE">roadtype</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Type of road (same as road_type)</attrdef>
+<attrdefs>Columbia University. Spatial Information Design Lab</attrdefs>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Main road</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Bitumen (minor road)</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Earth (Dirt road)</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Other tracks and foot paths</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Tracks (Main track)</edomvd>
+<edomvds>Columbia University. Spatial Information Design Lab</edomvds>
+</edom>
+</attrdomv>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>1.706</transize>
+					<dssize Sync="TRUE">9.133</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20131115</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NairobiRoads03</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">240000.023656</westBL>
+<eastBL Sync="TRUE">289280.306147</eastBL>
+<northBL Sync="TRUE">9872045.38404</northBL>
+<southBL Sync="TRUE">9846540.42872</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">36.663458</westBL>
+<eastBL Sync="TRUE">37.106312</eastBL>
+<northBL Sync="TRUE">-1.156782</northBL>
+<southBL Sync="TRUE">-1.387759</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Nairobi\NairobiRoads03.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">9.133</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NairobiRoads03">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">66693</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20131115</SyncDate>
+<SyncTime>12515700</SyncTime>
+<ModDate>20131115</ModDate>
+<ModTime>12515700</ModTime>
+<CreaDate>20130531</CreaDate>
+<CreaTime>11473800</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<MetaID>{D0F544EE-C8CD-42E9-B51F-FB32158AE076}</MetaID>
+</Esri>
+<mdDateSt Sync="TRUE">20131115</mdDateSt>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">Arc_1960_UTM_Zone_37S</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+</metadata>

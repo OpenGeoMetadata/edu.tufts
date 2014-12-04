@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Cambridge (Mass.). Geographic Information Systems</origin>
+				<pubdate>2010</pubdate>
+				<title>Bridges Cambridge MA 2004</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Cambridge (Mass.)</pubplace>
+					<publish>Cambridge (Mass.). Geographic Information Systems</publish>
+				</pubinfo>
+				<onlink>http://www.cambridgema.gov/gis.aspx</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Cambridge (Mass.). Geographic Information Systems</origin>
+						<title>City of Cambridge MA GIS Data</title>
+						<pubinfo>
+							<pubplace>Cambridge (Mass.)</pubplace>
+							<publish>Cambridge (Mass.) Geographic Information Systems</publish>
+						</pubinfo>
+						<onlink>http://www.youtube.com/watch?v=PxQuH910xc4&amp;amp;feature=fvwrel</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">CambridgeBridges04</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents bridges in Cambridge, MA.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>City of Cambridge, MA GIS basemap development project encompasses the land area of City of Cambridge with a 200 foot fringe surrounding the area and Charles River shoreline towards Boston. The basemap data was developed at 1" = 40' mapping scale using digital photogrammetric techniques. Planimetric features; both man-made and natural features like vegetation, rivers have been depicted. These features are important to all GIS/mapping applications and publication. A set of data datasets such as Buildings, Roads, Rivers, Utility structures, 1 ft interval contours are developed and represented in the geodatabase. The features are labeled and coded in order to represent specific feature class for thematic representation and topology between the features is maintained for an accurate representation at the 1:40 mapping scale for both publication and analysis.</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2004</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-71.163986</westbc>
+				<eastbc>
+-71.056155</eastbc>
+				<northbc>
+42.405572</northbc>
+				<southbc>
+42.347255</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">750656.535690</leftbc>
+<rightbc Sync="TRUE">774175.714702</rightbc>
+<bottombc Sync="TRUE">2953554.220774</bottombc>
+<topbc Sync="TRUE">2971436.041965</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>structure</themekey>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Bridges</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Cambridge</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Middlesex</placekey>
+				<placekey>New England</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>CIty of Cambridge MA GIS</cntorg>
+					<cntper>Jeff Amero</cntper>
+				</cntorgp>
+				<cntpos>GIS Manager</cntpos>
+				<cntaddr>
+					<addrtype>physical address</addrtype>
+					<address>831 Massachusetts Ave., 2nd Floor</address>
+					<city>Cambridge</city>
+					<state>MA</state>
+					<postal>02139</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(617) 349-4140</cntvoice>
+				<cntfax>Fax: 617-349-6165</cntfax>
+				<cntemail>gis@cambridgema.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<logic>The dataset contains vector (planimetric, Topography and Contours) files and raster (Ortho imagery) and LiDAR. The file naming convention of the datasets is based on a Basic Modular Unit  of tile grid adopted by the City of Cambridge, MA based on the NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet, and vertical datum is NAVD 1988. The neat area is bounded by the state plane grid whose easting and northing are evenly divisible by 2640 x 2640 feet. Each Basic Modular Unit map is identified by a map number derived from grid naming convention with alphanumeric values. The rows are numbered from South to North and the Columns named with A, B, C, from West to East. E.g. A1, A2, etc.</logic>
+		<posacc>
+			<horizpa>
+				<horizpar>Compiled to meet horizontal and vertical accuracy at 95% confidence level in accordance with ASPRS Class 1 standards.</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>Compiled to meet the vertical accuracy at 95% confidence level in accordance with ASPRS Class 1 standards.</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdesc>Digital aerial photography was acquired using Microsoft-Vexcel UltraCAMX on April 14, 2010 on a clear day with onboard airborne GPS and IMU parameters. Digital Aerial Triangulation (DAT) was performed, primarily, using softcopy workstations and Intergraph's ISPM / ISAT software or BINGO where applicable. Image tie points were collected using automatic correlation. The correlated points were triangulated and blunders were rectified with manual edits until the desired accuracy levels were achieved. Well distributed 21 ground control points surveyed in the year 2010, 6 controls from 2006_Harvard, 6 controls form 2003_CambridgeGIS and 5 vertical controls from 1995_CambridgeGIS were used to achieve the absolute accuracy within the defined residual limits.
+
+Geodatabase schema was developed for the Planimetric features to create the required basemap data. The planimetric features were compiled using standard pothogrammetric collection techniques on Intergraph's SSK softcopy workstations. The features were post processed in ESRI's ArcGIS and topology validation was performed. The dataset comprises of 35 feature classes with 142 attribute domains. Feature specific description is provided in the attributes section of this metadata. Appropriate attributes for the hydro features, buildings, etc were conflated from the Cambridge, MA existing GIS database. 
+
+Digital Terrain Model (DTM) was developed using softcopy photogrammetry for the purposes of ortho rectification and 1 ft contour generation. Elevation point (masspoint) data was collected at 20ft grid and supplemented with breaklines. Breaklines were collected at significant breaks in the terrain to support the generation of 1 ft interval contours. DTM data was enhanced with the contour interpolate (CIP) 3d geometry features include Curb, Road Paved &amp;amp; Unpaved, Road-Traffic-Island, Alley, Trail Paved &amp;amp; Unpaved, Driveway Paved &amp;amp; Unpaved, Parking lot Paved and Unpaved, Sidewalk, Public Footpath, Impervious features, Concrete Pad, Patio, Plaza and other impervious features,  Rail road - Abandon, Active, Elevated, Floodwall, Wet area, Open channel, River / stream, Pond, In ground pool, Retention Pond, Retaining Wall, etc) to generate accurate 1ft contours. Also, spot elevations were collected at street intersections, depression areas, saddles and peaks. These DTM features include elevation points, breaklines, CIP features and spot elevations were interpolated using Maps 3D software and 1 ft contours were generated. Contours were coded for Index (every 5th contour), intermediate, depression, hidden and obscured according to the specification. Index contours were labeled with the contour value. Spot elevations placed at the intersections of streets, ridges, saddles, depressions were labeled with one decimal precision for cartographic representation. DTM data was supplemented with building polygons and used for true ortho generation for the project area.
+
+All the Planimetric features, DTM points and Contour data was loaded to Geodabase schema and annotation datasets were created for Streets (Roads), Spot Elevations, Cemeteries, Hydro and Index Contours from the respective attribute fields.Topology has been validated for all features.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Infotech Enterprises America, Inc</cntorg>
+							<cntper>Srinu Ratnala</cntper>
+						</cntorgp>
+						<cntpos>Project Manager</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>100 Carpenter Dr, STE 200</address>
+							<city>Sterling</city>
+							<state>Virginia</state>
+							<postal>20164</postal>
+							<country>United States of America</country>
+						</cntaddr>
+						<cntvoice>(571) 313-1065 ext 129</cntvoice>
+						<cntfax>(571) 313-1071</cntfax>
+						<cntemail>Srinu.Ratnala@infotech-enterprises.com</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Name changed from BASEMAP_Bridges to CambridgeBridges04.</procdesc>
+				<procdate>201201</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+		<cloud>0%</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="CambridgeBridges04">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>41</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="CambridgeBridges04">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">41</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000328</absres>
+						<ordres>0.000328</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">656166.666667</feast>
+<fnorth Sync="TRUE">2460625.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</projcsn>
+</cordsysn>
+</horizsys>
+		<vertdef>
+			<altsys>
+				<altdatum>North American Vertical Datum of 1988</altdatum>
+				<altres>0.000100</altres>
+				<altunits>feet</altunits>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="CambridgeBridges04">
+			<enttyp>
+				<enttypl>
+CambridgeBridges04</enttypl>
+				<enttypd>Bridge is a structure built to span a valley, road, body of water, or other physical obstacle, for the purpose of providing passage over the obstacle. Outline of the bridge deck is collected as a polygon.</enttypd>
+				<enttypds>Cambridge (Mass.) Geographic Information Systems</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">41</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>TYPE</attrlabl>
+				<attrdef>Type of bridge</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EditDate</attrlabl>
+				<attrdef>Edit date</attrdef>
+				<attrdefs>Cambridge (Mass.). Geographic Information Systems</attrdefs>
+				<attalias Sync="TRUE">EditDate</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Shape_Leng</attrlabl>
+				<attrdef>Shape length in feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Shape_Area</attrlabl>
+				<attrdef>Shape area in square feet</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset.</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.144</transize>
+					<dssize Sync="TRUE">0.144</dssize>
+</digtinfo>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based Distribution Only.</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20101014</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metsi>
+			<metscs>Not Available</metscs>
+			<metsc>Confidential</metsc>
+			<metshd>Not Available</metshd>
+		</metsi>
+		<metextns>
+			<onlink>www.cambridgema.gov/GIS</onlink>
+			<metprof>NPS NR and GIS Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">CambridgeBridges04</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">750656.53569</westBL>
+<eastBL Sync="TRUE">774175.714702</eastBL>
+<northBL Sync="TRUE">2971436.041965</northBL>
+<southBL Sync="TRUE">2953554.220774</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.150434</westBL>
+<eastBL Sync="TRUE">-71.063087</eastBL>
+<northBL Sync="TRUE">42.40124</northBL>
+<southBL Sync="TRUE">42.351875</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\CityofCambridge\CambridgeBridges04.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.144</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="CambridgeBridges04">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">41</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130927</SyncDate>
+<SyncTime>11205900</SyncTime>
+<ModDate>20130927</ModDate>
+<ModTime>11205900</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130927</mdDateSt>
+</metadata>

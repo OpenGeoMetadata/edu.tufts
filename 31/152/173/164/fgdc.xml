@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Geological Survey</origin>
+				<pubdate>200506</pubdate>
+				<title>Ground Water Climate Response Network United States 2005 </title>
+				<pubinfo>
+					<pubplace>Reston (Va.)</pubplace>
+					<publish>Geological Survey (U.S.)</publish>
+				</pubinfo>
+				<onlink>http://www.nationalatlas.gov/metadata/gwwst0x020.faq.html</onlink>
+				<ftname Sync="TRUE">USGroundWaterClimResNetwork05</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<lworkcit>
+<citeinfo>
+<origin>Geological Survey (U.S.)</origin>
+<pubdate>2005</pubdate>
+<title>National Atlas of the United States</title>
+<pubinfo>
+<pubplace>Reston (Va.)</pubplace>
+<publish>Geological Survey (U.S.)</publish>
+</pubinfo>
+<onlink>http://www.nationalatlas.gov/index.html</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset shows the locations of wells maintained by the U.S.
+Geological Survey (USGS) that are used to monitor the effects of droughts
+and other climate variability on ground-water levels.  The Ground-Water
+Climate Response Network consists of a national network of about 140 wells
+monitored as part of the Ground-Water Resources Program.  It is
+supplemented by more than 200 wells monitored as part of the Cooperative
+Water Program that meet the same network criteria, which are: open to a
+single, known hydrogeologic unit; known well construction that allows good
+water-level measurements; located in unconfined aquifers or near-surface
+confined aquifers that respond to climatic fluctuations; minimally
+affected by pumpage and likely to remain so; essentially unaffected by
+irrigation, canals, and other potential sources of artificial recharge;
+long-term accessibility; and well has never gone dry (not susceptible to
+going dry).</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>
+This map layer represents a 'snapshot' of ground-water levels on a
+specific date.  Current ground-water level information, updated on a daily
+basis, is available from the Ground-Water Climate Response Network home
+page at &amp;lt;http://groundwaterwatch.usgs.gov/&amp;gt;.  More than 200 of the network
+wells are equipped with telemetry that transmits a reading of water level
+to an office by satellite or telephone.  The data typically are updated
+every 4 hours.
+</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>20050301</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-155</westbc>
+				<eastbc>-66</eastbc>
+				<northbc>65</northbc>
+				<southbc>17</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-155.895554</leftbc>
+<rightbc Sync="TRUE">-66.216393</rightbc>
+<bottombc Sync="TRUE">17.996111</bottombc>
+<topbc Sync="TRUE">64.909447</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Alaska</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>District of Columbia</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Hawaii</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+				<placekey>Puerto Rico</placekey>
+				<placekey>Virgin Islands</placekey>
+				<placekey>Virgin Islands of the United States</placekey>
+			</place>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>geoscientificInformation</themekey>
+<themekey>environment</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>inlandWaters</themekey>
+</theme>
+<theme>
+<themekey>Ground water</themekey>
+<themekey>Wells</themekey>
+<themekey>Droughts</themekey>
+<themekey>Water</themekey>
+<themekt>LCSH</themekt>
+<themekey>Climate</themekey>
+</theme>
+<place>
+<placekt>GNS</placekt>
+<placekey>United States of America</placekey>
+</place>
+<place>
+<placekey>North America</placekey>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+</place>
+</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational noncommercial use only. </useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Linda Geiger</cntper>
+					<cntorg>U.S. Geological Survey, National Atlas of the United States</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>MS 411 National Center</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>703-648-5011</cntvoice>
+				<cntfax>703-648-6693</cntfax>
+				<cntemail>lgeiger@usgs.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<datacred>
+The following U.S. Geological Survey scientists contributed to this
+map layer: Xiaodong Jian, George Karavitis.
+</datacred>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.  </attraccr>
+			<qattracc>
+<attracce>Site information is checked yearly.  Latitude and longitude values may not
+be verified.</attracce>
+</qattracc>
+</attracc>
+		<logic>No tests for logical consistency were performed on this data set.</logic>
+		<complete>
+This map layer contains the locations of the 331 wells that are currently in
+the ground-water climate response network.  New sites are added as
+requested.
+</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>20050301</pubdate>
+						<title>Ground-Water Wells</title>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<onlink>&amp;lt;http://groundwaterwatch.usgs.gov/&amp;gt;</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Electronic mail</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20050301</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>GWW</srccitea>
+				<srccontr>Spatial and attribute information.</srccontr>
+				<srcscale>1:2,000,000</srcscale>
+</srcinfo>
+			<procstep>
+				<procdesc>
+A shapefile containing the ground-water wells information was received
+and renamed.  Unnecessary attribute fields were deleted.
+</procdesc>
+				<srcused>GWW</srcused>
+				<procdate>200503</procdate>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\gberes01\AppData\Local\Temp\xml63EC.tmp</srcused>
+<procdate Sync="TRUE">20140813</procdate>
+<proctime Sync="TRUE">10372300</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00am - 5:00pm, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>The file name of this dataset was changed from gwwst0x020 to USGroundWaterClimResNetwork05
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+<procdate>8/13/14</procdate>
+<proctime>11:16am</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<indspref>
+U.S. Department of Commerce, 1987, Codes for the Identification of the
+States, the District of Columbia and the Outlying Areas of The United
+States, and Associated Areas (Federal Information Processing Standard 5-2):
+Washington, DC, National Institute of Standards and Technology.
+</indspref>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USGroundWaterClimResNetwork05">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">331</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USGroundWaterClimResNetwork05">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">331</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000278</latres>
+				<longres>0.000278</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>GRS1980</ellips>
+				<semiaxis>6378137.0</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USGroundWaterClimResNetwork05">
+			<enttyp>
+				<enttypl Sync="TRUE">USGroundWaterClimResNetwork05</enttypl>
+				<enttypd>
+Ground-water wells within the United States that are used for monitoring
+climate conditions.
+</enttypd>
+				<enttypds>Geological Survey (U.S.)</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">331</enttypc>
+</enttyp>
+			<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>The representation of the entity in the data.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Point</edomv>
+						<edomvd>0-dimensional element</edomvd>
+						<edomvds>Environmental Systems Research Institute (Redlands, Calif.)
+</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Gwwst0x020</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>331</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">GWWST0X020</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<atprecis Sync="TRUE">11</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Staid</attrlabl>
+				<attrdef>Ground-water well identification number.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>175947066130601</rdommin>
+						<rdommax>645434147385101</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">STAID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>St</attrlabl>
+				<attrdef>The State in which the well is located.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>
+Codes for the Identification of the States, the District of
+Columbia and the Outlying Areas of the United States, and
+Associated Areas, FIPS 5-2, 1987.
+</codesetn>
+						<codesets>
+U.S. Department of Commerce, National Institute of Standards and
+Technology
+</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">ST</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Latdd</attrlabl>
+				<attrdef>The latitude of the well, in decimal degrees.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>17.996</rdommin>
+						<rdommax>64.909</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">LATDD</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+<atprecis Sync="TRUE">12</atprecis>
+<attscale Sync="TRUE">3</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">LONDD</attrlabl>
+<attalias Sync="TRUE">LONDD</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+<attrdef>Longitude measured in decimal degrees</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">3</atnumdec>
+</attr>
+<attr>
+				<attrlabl>Latdms</attrlabl>
+				<attrdef>The latitude of the well, in degrees, minutes, and seconds.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>175946</rdommin>
+						<rdommax>645434</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">LATDMS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">LONDMS</attrlabl>
+<attalias Sync="TRUE">LONDMS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdef>Longitude measured in degrees minutes seconds</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+</attr>
+<attr>
+				<attrlabl>Symbol</attrlabl>
+				<attrdef>An indication of how frequently data are collected from the well.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>
+Data are collected continuously and values are transmitted via
+satellite on a quasi-real-time basis, every four hours, then
+processed and stored in the USGS National Water Information System.
+</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>
+Data are collected on a continuous basis using onsite
+instrumentation.  These data are downloaded to a laptop or over a
+phone line at varying frequencies, but, generally about every 6-8
+weeks, processed and stored in the USGS National Water Information
+System.
+</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>
+Data are manually collected at varying intervals, processed and
+stored in the USGS National Water Information System.
+</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SYMBOL</attalias>
+<attrtype Sync="TRUE">SmallInteger</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<atprecis Sync="TRUE">1</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Url</attrlabl>
+				<attrdef>World Wide Web address for the individual well.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>There is no predefined set of valid URLs.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">URL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">75</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<address>16 Dearborn Rd</address>
+<country>USA</country>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntpos>Data Technician</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00am-5:00pm, EST-USA</hours>
+</cntinfo>
+		</distrib>
+		<distliab>
+Although these data have been processed successfully on a computer system at
+the U.S. Geological Survey, no warranty expressed or implied is made by the
+U.S. Geological Survey regarding the utility of the data on any other
+system, nor shall the act of distribution constitute any such warranty.  No
+responsibility is assumed by the U.S. Geological Survey in the use of these
+data.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<transize Sync="TRUE">0.009</transize>
+<dssize Sync="TRUE">0.009</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>&amp;lt;http://nationalatlas.gov/atlasftp.html&amp;gt;</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>SDTS</formname>
+					<transize Sync="TRUE">0.009</transize>
+<dssize Sync="TRUE">0.009</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>&amp;lt;http://nationalatlas.gov/atlasftp.html&amp;gt;</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>There is no charge for the map layer.</fees>
+		</stdorder>
+		<resdesc>Online Dataset.</resdesc>
+</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140813</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Gita Urban-Mathieux</cntper>
+					<cntorg>Geological Survey (U.S.)</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>12201 Sunrise Valley Dr</address>
+					<address>MS 561</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+				</cntaddr>
+				<cntvoice>703-648-5175</cntvoice>
+				<cntemail>atlasmail@usgs.gov</cntemail>
+				<cntinst>In addition to the address above there are other Earth Sciences Information Center (U.S. Geological Survey) offices throughout the country.  A full list of these offices is at
+&amp;lt;http://geography.usgs.gov/esic/esic_index.html&amp;gt;.</cntinst>
+<cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
+</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<metsi>
+			<metscs>None</metscs>
+			<metsc>Unclassified</metsc>
+			<metshd>None</metshd>
+		</metsi>
+		<langmeta Sync="TRUE">en</langmeta>
+<mettc Sync="TRUE">local time</mettc>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{4B20C919-5C26-4851-AF9E-A0108F106C17}</MetaID>
+<CreaDate>20140813</CreaDate>
+<CreaTime>10372300</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140813</SyncDate>
+<SyncTime>13360300</SyncTime>
+<ModDate>20140813</ModDate>
+<ModTime>13373700</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USGroundWaterClimResNetwork05</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-155.895554</westBL>
+<eastBL Sync="TRUE">-66.216393</eastBL>
+<northBL Sync="TRUE">64.909447</northBL>
+<southBL Sync="TRUE">17.996111</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-155.895554</westBL>
+<eastBL Sync="TRUE">-66.216393</eastBL>
+<northBL Sync="TRUE">64.909447</northBL>
+<southBL Sync="TRUE">17.996111</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NationalAtlas\Water - Tufts\Ground Water Climate Response Network\USGroundWaterClimResNetwork05.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.009</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USGroundWaterClimResNetwork05">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">331</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140813</mdDateSt>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_North_American_1983</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+</metadata>

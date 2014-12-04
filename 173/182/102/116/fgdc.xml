@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Geological Survey (U.S.)</origin>
+				<pubdate>201007</pubdate>
+				<title>Earthquakes USA 2009</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Reston, VA</pubplace>
+					<publish>National Atlas of the United States</publish>
+				</pubinfo>
+				<onlink>&amp;lt;http://nationalatlas.gov/atlasftp.html?openChapters=chpgeol#chpgeol&amp;gt;</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of the Census. Geography Division</origin>
+						<pubdate>2010</pubdate>
+						<title>National Atlas of the United States</title>
+						<pubinfo>
+							<pubplace>Reston (Va.)</pubplace>
+							<publish>Geological Survey (U.S.)</publish>
+						</pubinfo>
+						<onlink>http://www.census.gov/geo/www/tiger</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USAearthquakes09</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This dataset represents the locations and attributes of significant,
+historic earthquakes that caused deaths, property damage, and geological
+effects, or were otherwise experienced by populations in the United
+States, Puerto Rico, and U.S. Virgin Islands.  Included are earthquakes
+located in the United States as well as some that occurred in adjacent
+portions of Canada and Mexico.  The main sources for the data are
+Seismicity of the United States, 1568-1989 and the Preliminary
+Determination of Epicenters for 1990 to August 2009.  This is a
+replacement for the January 2005 map layer.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>Provided with the downloadable files is a text file,
+quksigx_references.txt, which contains the reference information for
+earthquake magnitudes listed in the data.</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>15680101</begdate>
+					<enddate>20090818</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-179.992676</westbc>
+				<eastbc Sync="TRUE">180.000000</eastbc>
+				<northbc Sync="TRUE">68.688660</northbc>
+				<southbc Sync="TRUE">12.686000</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-179.992676</leftbc>
+<rightbc Sync="TRUE">180.000000</rightbc>
+<bottombc Sync="TRUE">12.686000</bottombc>
+<topbc Sync="TRUE">68.688660</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+				<themekey>geoscientificinformation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Earthquakes.</themekey>
+				<themekey>Paleoseismology</themekey>
+				<themekey>Earthquake magnitude</themekey>
+				<themekey>Earthquake occurrence</themekey>
+				<themekey>Seismic waves.</themekey>
+				<themekey>Earthquakes--United States</themekey>
+				<themekey>Earthquake intensity</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Alaska</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>District of Columbia</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Hawaii</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+				<placekey>Puerto Rico</placekey>
+				<placekey>Virgin Islands</placekey>
+				<placekey>Guam</placekey>
+				<placekey>Northern Mariana Islands</placekey>
+			</place>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>United States</placekey>
+				<placekey>Canada</placekey>
+				<placekey>Mexico</placekey>
+				<placekey>Virgin Islands</placekey>
+				<placekey>Guam</placekey>
+				<placekey>Northern Mariana Islands</placekey>
+				<placekey>Puerto Rico</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Margaret G. Hopper</cntper>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>MS966, Box 25046, Denver Federal Center</address>
+					<city>Denver</city>
+					<state>CO</state>
+					<postal>80225-0046</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>303-273-8564</cntvoice>
+				<cntfax>303-273-8600</cntfax>
+				<cntemail>hopper@usgs.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<datacred>The following U.S. Geological Survey scientists contributed to this
+map layer: A. Tarr, M. Hopper, J. Dewey, M. McKeever, and N. Trevor.</datacred>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.</attraccr>
+		</attracc>
+		<logic>No formal tests for logical consistency were performed on this map layer,
+principally because the map layer contains attribute values that were
+arrived at by either or both quantitative (i.e. instrumental) and
+qualitative (i.e. historical) methods.  Earthquakes that occurred prior to
+the introduction of seismological instrumentation are known only from
+written records, such as newspapers, books and journals, and diaries, which
+often may provide contradictory information that has to be carefully
+examined and weighed.  As seismographs became more common in the early
+1960's, the origin time and location were both more precisely and accurately
+determined but the compilation and evaluation of intensity reports was, and
+still is, a process that involves considerable subjectivity.  As a result,
+all attributes associated with a given earthquake should be considered
+provisional and subject to further revision based on acquisition of new
+information and use of new analytical methods.</logic>
+		<complete>This map layer contains information on significant, historical earthquakes
+that caused deaths, property damage, geological effects, or that were
+experienced by populations in the epicentral area, for the United States,
+Puerto Rico, the U.S. Virgin Islands, Guam, and the Northern Mariana
+Islands.  These data are limited to the best estimates of earthquake
+locations and to attributes such as magnitude and maximum intensity.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>100 meter is the nominal precision of the reported instrumentally
+located coordinate values but accuracy is considerably less.  Accuracy
+depends upon numerous factors including imprecision of the velocity
+model of the earth, uneven distribution of seismic stations, and
+imprecisions in the computational algorithm.  Following initial
+proofreading of the input data file, a preliminary map of the locations
+of the earthquakes was produced which was examined for gross errors in
+spatial location.</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>Although depths are reported to the nearest 1 kilometer, the accuracy is
+considerably less owing to uncertainties in the velocity model of the
+Earth, uneven distribution of seismic stations, and imprecisions in the
+computational algorithm.</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srcscale>Unknown</srcscale>
+				<srccite>
+					<citeinfo>
+						<origin>Stover, Carl W.</origin>
+						<origin>Coffman, Jerry L.</origin>
+						<pubdate>1993</pubdate>
+						<title>Seismicity of the United States, 1568-1989 (Revised)</title>
+						<edition>1</edition>
+						<serinfo>
+							<sername>Professional Paper</sername>
+							<issue>1527</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<onlink>&amp;lt;http://neic.usgs.gov/neis/epic/&amp;gt;</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1568</begdate>
+							<enddate>1989</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>Seismicity of the United States</srccitea>
+				<srccontr>Principal source of earthquake locations and attributes.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>200908</pubdate>
+						<title>Preliminary Determination of Epicenters (PDE)</title>
+						<onlink>&amp;lt;http://neic.usgs.gov/neis/epic/&amp;gt;</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1973</begdate>
+							<enddate>200908</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Ground condition</srccurr>
+				</srctime>
+				<srccitea>PDE</srccitea>
+				<srccontr>Supplemental source of earthquake locations and attributes.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>J.L. Coffman (ed.)</origin>
+						<origin>C.A. von Hake (ed.)</origin>
+						<origin>C.W. Stover (ed.)</origin>
+						<pubdate>1982</pubdate>
+						<title>Earthquake History of the United States</title>
+						<pubinfo>
+							<pubplace>Boulder, CO</pubplace>
+							<publish>National Oceanic and Atmospheric Administration and U.S.
+Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<typesrc>Paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1638</begdate>
+							<enddate>1980</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Ground condition</srccurr>
+				</srctime>
+				<srccitea>EHUS1982</srccitea>
+				<srccontr>Supplemental source of earthquake locations and attributes.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>J.G. Tanner</origin>
+						<origin>J.B. Shepherd</origin>
+						<pubdate>1997</pubdate>
+						<title>Project catalogue and seismic hazard maps, Seismic hazard in Latin
+America and the Caribbean</title>
+						<onlink>&amp;lt;http://midas.uprm.edu&amp;gt;</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1997</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>MIDAS-IPGH</srccitea>
+				<srccontr>Supplemental source of earthquake locations and attributes.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Data for the years 1568 to 1989, from Seismicity of the United States,
+were combined with Preliminary Determination of Epicenters data for 1990
+to 2009.  EHUS1982 and MIDAS-IPGH were used to compile information for
+additional locations or for years not covered by the other sources.  The
+resulting text file was loaded into ArcView and converted to a
+shapefile.  Three records for Puerto Rico were dropped because they did
+not include values for longitude and latitude.</procdesc>
+				<srcused>Seismicity of the United States</srcused>
+				<srcused>PDE</srcused>
+				<srcused>EHUS1982</srcused>
+				<srcused>MIDAS-IPGH</srcused>
+				<procdate>201006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards:
+&amp;gt;Defined projection (NAD 1983)
+&amp;gt;Imported metadata from provided quksigx020.txt (arcgis 9.3)
+&amp;gt;Changed formatting of IsO 19115 Topic Category keywords to match proper formatting
+&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&amp;gt;Changed citation title from "quksigx020" to "Significant Historic Earthquakes USA 2009"
+&amp;gt;Changed name of file from "quksigx020" to "USAearthquakes09"
+&amp;gt;Substituted "Geological Survey (U.S.)" for "U. S. Geological Survey" as the originator
+&amp;gt;Added Larger Work Citation
+&amp;gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added LCSH theme keywords
+&amp;gt;Added GNIS and GNS place keywords
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20111109</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Ave</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Census2010Tiger\xmls\USAearthquakes09.shp.xml</srcused>
+<procdate Sync="TRUE">20131004</procdate>
+<proctime Sync="TRUE">15460100</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<indspref>U.S. Department of Commerce, 1987, Codes for the Identification of the
+States, the District of Columbia and the Outlying Areas of The United
+States, and Associated Areas (Federal Information Processing Standard 5-2):
+Washington, DC, National Institute of Standards and Technology.</indspref>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USAearthquakes09">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">5402</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USAearthquakes09">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">5402</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USAearthquakes09">
+			<enttyp>
+				<enttypl Sync="TRUE">USAearthquakes09</enttypl>
+				<enttypd>Earthquakes within or near to the United States that caused deaths,
+property damage, or geological effects, or that were experienced by
+populations in the epicentral area.  These events occurred between 1568
+and August 2009.</enttypd>
+				<enttypds>National Atlas of the United States</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">5402</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>The representation of the entity in the data.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Point</edomv>
+						<edomvd>0-dimensional element</edomvd>
+						<edomvds>ESRI GIS software</edomvds>
+					</edom>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Quksigx020</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>5387</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">QUKSIGX020</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Quake_id</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>5390</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">QUAKE_ID</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Year</attrlabl>
+				<attrdef>The year when the earthquake occurred.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1568</rdommin>
+						<rdommax>2009</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">YEAR</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Month</attrlabl>
+				<attrdef>The month when the earthquake occurred.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>12</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>The month of the event is unknown.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">MONTH</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Day</attrlabl>
+				<attrdef>The day when the earthquake occurred.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>31</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>The day of the event is unknown.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">DAY</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Hour</attrlabl>
+				<attrdef>The GMT hour of the day when the earthquake occurred, on a 24-hour
+clock.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>23</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>The hour of the event is unknown.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">HOUR</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Minute</attrlabl>
+				<attrdef>The minute of the hour when the earthquake occurred.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>59</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>The minute of the event is unknown.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">MINUTE</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Second</attrlabl>
+				<attrdef>The second of the minute when the earthquake occurred.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.010</rdommin>
+						<rdommax>59.970</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999.000</edomv>
+						<edomvd>The second of the event is unknown.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SECOND</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Location</attrlabl>
+				<attrdef>The name of the town, city, physical feature, or other describable
+location near to the earthquake event.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<udom>There is no predefined set of valid location names.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomvd>No location description is available.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">LOCATION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">82</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Longitude</attrlabl>
+				<attrdef>The longitude of earthquake's epicenter in decimal degrees.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-179.990</rdommin>
+						<rdommax>180.000</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">LONGITUDE</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>LATITIUDE</attrlabl>
+				<attalias Sync="TRUE">LATITIUDE</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Depth_km</attrlabl>
+				<attrdef>The depth of earthquake's focus in kilometers.  A value of 0 may
+indicate the depth is unknown.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>274</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>The depth is unknown.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">DEPTH_KM</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Mb_gs</attrlabl>
+				<attrdef>The body wave magnitude of the earthquake as reported by the U.S.
+Geological Survey.  A body wave is a seismic wave that travels through
+the Earth's inner layers.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>3.400</rdommin>
+						<rdommax>7.000</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999.000</edomv>
+						<edomvd>The body wave magnitude is unknown.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">MB_GS</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Ms_gs</attrlabl>
+				<attrdef>The surface wave magnitude of the earthquake as reported by the U.S.
+Geological Survey.  A surface wave is a seismic wave that travels along
+the Earth's surface.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>3.100</rdommin>
+						<rdommax>8.500</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999.000</edomv>
+						<edomvd>The surface wave magnitude is unknown.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">MS_GS</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Other_mag1</attrlabl>
+				<attrdef>The magnitude of the earthquake as reported by the source identified in
+Ref1.  The type of magnitude is described by the attribute Type1.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>2.080</rdommin>
+						<rdommax>9.240</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999.000</edomv>
+						<edomvd>No additional magnitude measurement is available.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">OTHER_MAG1</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Type1</attrlabl>
+				<attrdef>The type of magnitude recorded in the attribute Other_mag1, as defined
+by the source identified in Ref1.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>FA</edomv>
+						<edomvd>The magnitude given in Other_mag1 is an estimated body wave
+magnitude.  It is commonly computed from the felt area for
+earthquakes which occurred before seismic instruments were in
+general use.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MD</edomv>
+						<edomvd>The magnitude given in Other_mag1 is based on the duration or coda
+length of the earthquake vibration.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ML</edomv>
+						<edomvd>The magnitude given in Other_mag1 is the local magnitude, which is
+also known as the original "Richter" magnitude.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MW</edomv>
+						<edomvd>The magnitude given in Other_mag1 is the moment magnitude.  It is
+the measure of total energy released by an earthquake.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Mn</edomv>
+						<edomvd>The magnitude given in Other_mag1 is the local or regional
+magnitude.  It is the body wave magnitude using the Lg wave.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Ms</edomv>
+						<edomvd>The magnitude given in Other_mag1 is the surface wave magnitude.  A
+surface wave is a seismic wave that travels along the Earth's
+surface.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Mw</edomv>
+						<edomvd>The magnitude given in Other_mag1 is the moment magnitude.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>UK</edomv>
+						<edomvd>The magnitude type for the magnitude given in Other_mag1 is unknown.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>mb</edomv>
+						<edomvd>The magnitude given in Other_mag1 is the body wave magnitude.  A
+body wave is a seismic wave that travels through the Earth's inner
+layers.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>mbLg</edomv>
+						<edomvd>The magnitude given in Other_mag1 is the local or regional
+magnitude.  It is the body wave magnitude using the Lg wave.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomvd>The type of magnitude given in Other_mag1 is unknown.  The value
+came from Coffman, Jerry L., and von Hake, Carl A., 1973,
+Earthquake History of the United States:  U.S. Dept. of Commerce,
+National Oceanic and Atmospheric Administration, Publication 41-1,
+Revised Edition (Through 1970).</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TYPE1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Ref1</attrlabl>
+				<attrdef>A code identifying the source for the magnitude given in Other_mag1.
+The list of sources is provided in the text file quksigx_references.txt.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<udom>There is no predefined set of valid reference codes.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomvd>No reference information is available.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">REF1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Other_mag2</attrlabl>
+				<attrdef>The magnitude of the earthquake as reported by the source identified in
+Ref2.  The type of magnitude is described by the attribute Type2.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>2.900</rdommin>
+						<rdommax>8.400</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999.000</edomv>
+						<edomvd>No additional magnitude measurement is available.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">OTHER_MAG2</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Type2</attrlabl>
+				<attrdef>The type of magnitude recorded in the attribute Other_mag2, as defined
+by the source identified in Ref2.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>FA</edomv>
+						<edomvd>The magnitude given in Other_mag2 is an estimated body wave
+magnitude.  It is commonly computed from the felt area for
+earthquakes which occurred before seismic instruments were in
+general use.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MD</edomv>
+						<edomvd>The magnitude given in Other_mag2 is based on the duration or coda
+length of the earthquake vibration.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ME</edomv>
+						<edomvd>The magnitude given in Other_mag2 is the energy magnitude which is
+the radiated energy of the earthquake.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ML</edomv>
+						<edomvd>The magnitude given in Other_mag2 is the local magnitude, which is
+also known as the original "Richter" magnitude.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MW</edomv>
+						<edomvd>The magnitude given in Other_mag2 is the moment magnitude.  It is
+the measure of total energy released by an earthquake.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Mn</edomv>
+						<edomvd>The magnitude given in Other_mag2 is the local or regional
+magnitude.  It is the body wave magnitude using the Lg wave.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Ms</edomv>
+						<edomvd>The magnitude given in Other_mag2 is the surface wave magnitude.  A
+surface wave is a seismic wave that travels along the Earth's
+surface.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Mw</edomv>
+						<edomvd>The magnitude given in Other_mag2 is the moment magnitude.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>UK</edomv>
+						<edomvd>The magnitude type for the magnitude given in Other_mag2 is unknown.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>mb</edomv>
+						<edomvd>The magnitude given in Other_mag2 is the body wave magnitude. A body
+wave is a seismic wave that travels through the Earth's inner
+layers.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>mbLg</edomv>
+						<edomvd>The magnitude given in Other_mag2 is the local or regional
+magnitude.  It is the body wave magnitude using the Lg wave.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomvd>The type of magnitude given in Other_mag2 is unknown.  The value
+came from Coffman, Jerry L., and von Hake, Carl A., 1973,
+Earthquake History of the United States:  U.S. Dept. of Commerce,
+National Oceanic and Atmospheric Administration, Publication 41-1,
+Revised Edition (Through 1970).</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">TYPE2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Ref2</attrlabl>
+				<attrdef>A code identifying the source for the magnitude given in Other_mag2.
+The list of sources is provided in the text file quksigx_references.txt.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<udom>There is no predefined set of valid references.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomvd>No reference information is available</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">REF2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Mmio</attrlabl>
+				<attrdef>Modified Mercalli Intensity (MMI), where the integer value represents
+the Roman numeral designation of the MMI intensity.</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>The earthquake was felt but no Modified Mercalli Intensity was
+assigned.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>An earthquake felt only by a few persons at rest, especially on
+upper floors of buildings.  Delicately suspended objects may swing.</edomvd>
+						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>An earthquake felt quite noticeably by persons indoors, especially
+on upper floors of buildings.  Many people do not recognize it as an
+earthquake.  Standing motor cars may rock slightly.  Vibration
+similar to the passing of a truck.  Duration estimated in some
+cases.</edomvd>
+						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>An earthquake felt indoors by many, outdoors by few during the day.
+At night, some awakened.  Dishes, windows, doors disturbed; walls
+make cracking sound.  Sensation like heavy truck striking building.
+Standing motor cars rocked noticeably.</edomvd>
+						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>An earthquake felt by nearly everyone; many awakened.  Some dishes,
+windows broken.  Unstable objects overturned.  Pendulum clocks may
+stop.</edomvd>
+						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>An earthquake felt by all; many frightened.  Some heavy furniture
+moved; a few instances of fallen plaster.  Damage slight.</edomvd>
+						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>An earthquake causing negligible damage in buildings of good design
+and construction; slight to moderate in well-built ordinary
+structures; considerable damage in poorly built or badly designed
+structures; some chimneys broken.  Noticed by persons driving motor
+cars.</edomvd>
+						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>An earthquake causing slight damage in specially designed
+structures; considerable in ordinary substantial buildings with
+partial collapse.  Damage great in poorly built structures.  Fall of
+chimneys, factory stacks, columns, monuments, walls.  Heavy
+furniture overturned.</edomvd>
+						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>An earthquake causing considerable damage in specially designed
+structures; well-designed frame structures thrown out of plumb.
+Damage great in substantial buildings, with partial collapse.
+Buildings shifted off foundations.</edomvd>
+						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>An earthquaking causing destruction of some well-built wooden
+structures; most masonry and frame structures destroyed with
+foundations.  Railroad rails bent.</edomvd>
+						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>An earthquake where few, if any (masonry) structures remain
+standing.  Bridges destroyed.  Railroad rails bent greatly.</edomvd>
+						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>An earthquake where damage is total.  Lines of sight and level
+distorted.  Objects thrown into the air.</edomvd>
+						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">MMIO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Felt_area</attrlabl>
+				<attrdef>The area, in square kilometers, in which the earthquake was felt.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>&amp;lt;1,000</rdommin>
+						<rdommax>5,000,000</rdommax>
+					</rdom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomvd>The area in which the earthquake was felt is unknown.</edomvd>
+						<edomvds>National Atlas of the United States</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FELT_AREA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Source</attrlabl>
+				<attrdef>The primary source of the earthquake information.</attrdef>
+				<attrdefs>National Atlas of the United States</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>EHUS1982</edomv>
+						<edomvd>Coffman, J.L., von Hake, C.A., and Stover, C.W., 1982, Earthquake
+History of the United States:  U.S. National Oceanic and Atmospheric
+Administration and U.S. Geological Survey, Publication No. 41-1,
+revised edition, [through 1980], 258p.</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MIDAS-IPGH</edomv>
+						<edomvd>Tanner, J.G. and Shepherd, J.B., 1997, Project catalogue and seismic
+hazard maps, Seismic hazard in Latin America and the Caribbean:
+Panamerican Institute of Geography and History, v. 1, 143 p.</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PDE</edomv>
+						<edomvd>Preliminary Determination of Epicenters, a list of earthquakes
+located by the National Earthquake Information Center of the U.S.
+Geological Survey and its predecessors in the U.S. Coast and
+Geodetic Survey, the National Oceanic Survey, and the Environmental
+Research Laboratories of the Department of Commerce.  The PDE is
+comprised of final hypocenter and magnitude computations by the USGS
+NEIC published in monthly lists several months after the events.</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SUS</edomv>
+						<edomvd>Stover, Carl W., and Coffman, Jerry L., 1993a, Seismicity of the
+United States, 1568-1989 (Revised):  U.S. Geological Survey
+Professional Paper 1527, 418 p.</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SOURCE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>21.420</transize>
+					<dssize Sync="TRUE">0.144</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20131004</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Terry Higgins</cntper>
+					<cntorg>National Atlas of the United States</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>Mailing and physical address</addrtype>
+					<address>1400 Independence Road</address>
+					<address>MS 760</address>
+					<city>Rolla</city>
+					<state>MO</state>
+					<postal>65401</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>573-308-3592</cntvoice>
+				<cntemail>atlasmail@usgs.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metsi>
+			<metscs>None</metscs>
+			<metsc>Unclassified</metsc>
+			<metshd>None</metshd>
+		</metsi>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USAearthquakes09</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-179.992676</westBL>
+<eastBL Sync="TRUE">180</eastBL>
+<northBL Sync="TRUE">68.68866</northBL>
+<southBL Sync="TRUE">12.686</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-179.992676</westBL>
+<eastBL Sync="TRUE">180</eastBL>
+<northBL Sync="TRUE">68.68866</northBL>
+<southBL Sync="TRUE">12.686</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Census2010Tiger\USAearthquakes09.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.144</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_North_American_1983</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USAearthquakes09">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">5402</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20131004</SyncDate>
+<SyncTime>15504500</SyncTime>
+<ModDate>20131004</ModDate>
+<ModTime>15504500</ModTime>
+<MetaID>{3EEE7C1C-12F4-4583-BAD4-FCED42F7E174}</MetaID>
+<CreaDate>20131004</CreaDate>
+<CreaTime>15460100</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+</Esri>
+<mdDateSt Sync="TRUE">20131004</mdDateSt>
+</metadata>

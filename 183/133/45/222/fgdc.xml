@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>New Hampshire. Office of Energy and Planning</origin>
+				<pubdate>20012010</pubdate>
+				<title>Waterbody Public Access Locations New Hampshire 1997 - 2012</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nh_access_sites&amp;amp;#47;nh</onlink>
+				<ftname Sync="TRUE">NHWaterAccessLocations9712</ftname>
+<pubinfo>
+<pubplace>Druham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+<lworkcit>
+<citeinfo>
+<title>NH GRANIT Database</title>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+<origin>New Hampshire. Office of Energy and Planning</origin>
+<onlink>http://www.granit.sr.unh.edu/data/downloadfreedata/category/databycategory.html</onlink>
+<origin>University of New Hampshire. Complex Systems Research Center</origin>
+<onlink>http://www.granit.sr.unh.edu/data/search?dset=nh_access_sites&amp;amp;#47;nh</onlink>
+<pubdate>20012010</pubdate>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset shows locations of access sites to public water bodies in New Hampshire. 
+The data set was developed to support statewide recreation planning activities in New Hampshire.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1997</begdate>
+					<enddate>2012</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-72.590915</westbc>
+				<eastbc Sync="TRUE">-70.673104</eastbc>
+				<northbc Sync="TRUE">45.285353</northbc>
+				<southbc Sync="TRUE">42.697196</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">746344.388889</leftbc>
+<rightbc Sync="TRUE">1239999.875000</rightbc>
+<bottombc Sync="TRUE">73305.942221</bottombc>
+<topbc Sync="TRUE">1015321.600694</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>New Hampshire</placekey>
+			</place>
+			<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>Location</themekey>
+<themekey>structure</themekey>
+<themekey>inlandWaters</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+</theme>
+<theme>
+<themekey>Boat ramps</themekey>
+<themekey>Aquatic parks and reserves </themekey>
+<themekey>Swimming. </themekey>
+<themekey>Boats and boating</themekey>
+<themekey>Fishing.</themekey>
+<themekey>Wildlife-related recreation</themekey>
+<themekt>LCSH</themekt>
+<themekey>Boathouses </themekey>
+</theme>
+</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational and non-commercial use only</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NH Office of Energy and Planning</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>4 Chenell Dr.</address>
+					<city>Concord</city>
+					<state>NH</state>
+					<postal>03301</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(603) 271-2155</cntvoice>
+				<cntemail>OEPinfo@nh.gov</cntemail>
+				<hours>8:00 - 4:30, Eastern Standard/Daylight Time</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>
+Compiled by New Hampshire Office of Energy and Planning, with input from New Hampshire
+Department of Fish and Game and the regional planning commissions of the state.
+</datacred>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.  </attraccr>
+		</attracc>
+		<logic>Point topology exists.</logic>
+		<complete>Data is complete.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data meet National Map Accuracy Standards at the stated scale (1:24,000).</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NH Office of Energy and Planning</origin>
+						<pubdate>20100111</pubdate>
+						<title>New Hampshire  Access Sites to Public Water</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Concord, NH</pubplace>
+							<publish>NH Office of Energy and Planning</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1997</begdate>
+							<enddate>2009</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>OEP</srccitea>
+				<srccontr>List of access site locations</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>US Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>DRG</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>US Geological Survey</publish>
+						</pubinfo>
+						<onlink>http://www.usgs.gov</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>DRG</srccitea>
+				<srccontr>Used in the field verification of the access site locations.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Data were collected from various older sources, including NH Office of State Planning recreation surveys, NH Department of Fish and Game data, and regional planning commission studies.  Mapped locations of access sites were transferred to 1:24,000-scale USGS topographic maps, and the resulting locations were compared with 2003 NAIP aerial photography and 2005/2006 NHDOT aerial photography and field verified.</procdesc>
+				<procdate>200912</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>NH Office of Energy and Planning</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>4 Chenell Dr.</address>
+							<city>Concord</city>
+							<state>NH</state>
+							<postal>03301</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(603) 271-2155</cntvoice>
+						<cntemail>OEPinfo@nh.gov</cntemail>
+						<hours>8 - 4:30 Eastern</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\nh_access_sites-nh-nh_access_sites.xml</srcused>
+<procdate Sync="TRUE">20140624</procdate>
+<proctime Sync="TRUE">13532100</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd.</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00am - 5:00pm, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</proccont>
+<procdesc>Name of dataset was changed from  nh_access_sites to  NHWaterAccessLocations9712.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.
+</procdesc>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NHWaterAccessLocations9712">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">915</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NHWaterAccessLocations9712">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">915</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999967</sfctrmer>
+<longcm Sync="TRUE">-71.666667</longcm>
+<latprjo Sync="TRUE">42.500000</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NHWaterAccessLocations9712">
+			<enttyp>
+				<enttypl>NHWaterAccessLocations9712</enttypl>
+				<enttypd>Point Attribute Table of public waterbody access locations in New Hampshire</enttypd>
+				<enttypds>New Hampshire. Office of Energy and Planning</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">915</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>Feature id</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Unique whole numbers</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">3</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>PUBACC_ID</attrlabl>
+				<attrdef>OEP-generated feature id</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>Belknap</edomv>
+<edomvd>Belknap County</edomvd>
+<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+</edom>
+</attrdomv>
+				<attalias Sync="TRUE">PUBACC_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COUNTY</attrlabl>
+				<attrdef>County in which site is located</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Belknap</edomv>
+						<edomvd>Belknap County</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Carroll</edomv>
+						<edomvd>Carroll County</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Cheshire</edomv>
+						<edomvd>Cheshire County</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Coos</edomv>
+						<edomvd>Coos County</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Grafton</edomv>
+						<edomvd>Grafton County</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Hillsborough</edomv>
+						<edomvd>Hillsborough County</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Merrimack</edomv>
+						<edomvd>Merrimack County</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Rockingham</edomv>
+						<edomvd>Rockingham County</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Strafford</edomv>
+						<edomvd>Strafford County</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Sullivan</edomv>
+						<edomvd>Sullivan County</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOWN</attrlabl>
+				<attrdef>Town, city, or unincorporated county subdivision in which site is located</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Individual town or city name</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TOWN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WATER_BODY</attrlabl>
+				<attrdef>Name of water body</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Individual name of water body</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">WATER_BODY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FACILITY</attrlabl>
+				<attrdef>Name of facility, taken from signage at site where possible</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Individual name of public access facility</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FACILITY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OWNERSHIP</attrlabl>
+				<attrdef>Agency that owns facility</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Individual: includes "Town", "City", "State", "Federal", "Other", or "unknown", plus specific agency</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">OWNERSHIP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACCESS_TYP</attrlabl>
+				<attrdef>Brief description of primary access activities available</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Variety of text combinations of recreation uses</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ACCESS_TYP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WB_TYPE</attrlabl>
+				<attrdef>Type of water body</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Lake</edomv>
+						<edomvd>Lake, pond, or reservoir</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Stream</edomv>
+						<edomvd>Flowing waterbody (e.g. river, stream)</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Tidal</edomv>
+						<edomvd>Tidal waterbody</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">WB_TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WB_CODE</attrlabl>
+				<attrdef>Code for water body type</attrdef>
+				<attrdefs>NH Department of Environmental Services Official List of Public Waters</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>AI</edomv>
+						<edomvd>Artificial Impoundment</edomvd>
+						<edomvds>NH Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>NL</edomv>
+						<edomvd>Natural Lake - no dam</edomvd>
+						<edomvds>NH Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>R</edomv>
+						<edomvd>River or stream</edomvd>
+						<edomvds>NH Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>RD</edomv>
+						<edomvd>Natural lake - water level raised by dam</edomvd>
+						<edomvds>NH Department of Environmental Services</edomvds>
+					</edom>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Tidal waterbody</edomvd>
+						<edomvds>NH Department of Environmental Services</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">WB_CODE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FEE</attrlabl>
+				<attrdef>Indicates whether a fee is required for entry</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>No</edomv>
+						<edomvd>No fee is charged</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>R</edomv>
+						<edomvd>Site is open only to residents/taxpayers of municipality</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yes</edomv>
+						<edomvd>Fee is charged</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FEE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SITEACCESS</attrlabl>
+				<attrdef>Level of accessibility to persons with disabilities</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Accessible</edomv>
+						<edomvd>Site is accessible</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Accessible/Partial</edomv>
+						<edomvd>Site is partially accessible</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Difficult</edomv>
+						<edomvd>Site access is difficult</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Limited</edomv>
+						<edomvd>Limited site access</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Limited/Difficult</edomv>
+						<edomvd>Site access is limited and difficult</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Partial</edomv>
+						<edomvd>Site has partial access</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Partial/Limited</edomv>
+						<edomvd>Site has partial, limited access</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Undetermined</edomv>
+						<edomvd>Accessibility not determined</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SITEACCESS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PARKING_TY</attrlabl>
+				<attrdef>Type of parking area available</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Dirt</edomv>
+						<edomvd>Dirt surface</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Gravel</edomv>
+						<edomvd>Gravel surface</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Limited</edomv>
+						<edomvd>Limited parking availability</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Limited Roadside</edomv>
+						<edomvd>Limited roadside parking availability</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>None</edomv>
+						<edomvd>No parking</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>None at site</edomv>
+						<edomvd>No parking available at site; other parking may be available nearby</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Paved</edomv>
+						<edomvd>Paved parking area</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Paved; Gravel</edomv>
+						<edomvd>Partially paved parking area; partially gravel</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Roadside</edomv>
+						<edomvd>Roadside parking only</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Unimproved</edomv>
+						<edomvd>Unimproved parking only</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PARKING_TY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RAMP</attrlabl>
+				<attrdef>Type of ramp that is available (or none)</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Concrete</edomv>
+						<edomvd>Concrete boat ramp</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Concrete Log</edomv>
+						<edomvd>Concrete-log boat ramp</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Gravel</edomv>
+						<edomvd>Gravel-surfaced boat ramp</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>None</edomv>
+						<edomvd>No boat ramp</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Paved</edomv>
+						<edomvd>Paved (asphalt) boat ramp</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Paved/Gravel</edomv>
+						<edomvd>Partially paved, partially gravel boat ramp</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">RAMP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DOCK</attrlabl>
+				<attrdef>Availability of dock</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>No dock present</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>Dock present</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">DOCK</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SHOREBANK_</attrlabl>
+				<attrdef>Availability of shorebank fishing</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>No shorebank fishing</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>U</edomv>
+						<edomvd>Shorebank fishing availability undetermined</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>Shorebank fishing available</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SHOREBANK_</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HCAP_ACC</attrlabl>
+				<attrdef>Level of handicapped accessibility</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Level A (best) through D (poorest), or text description</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">HCAP_ACC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ADDITIONAL</attrlabl>
+				<attrdef>Additional notes, if any</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Free text</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ADDITIONAL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">70</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PRIM_USE</attrlabl>
+				<attrdef>Primary use of site</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Boat</edomv>
+						<edomvd>Boating access site</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Future</edomv>
+						<edomvd>Public land not currently available as developed access</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Other</edomv>
+						<edomvd>Primary use other than boating or swimming</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Parking</edomv>
+						<edomvd>Location of parking for access site when distant from water body</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Swim</edomv>
+						<edomvd>Swimming access site</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PRIM_USE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>GRANITID</attrlabl>
+				<attrdef>GRANIT ID for water body</attrdef>
+				<attrdefs>NH GRANIT</attrdefs>
+				<attrdomv>
+					<udom>Numeric;  first 2 or 3 digits refer to USGS quadrangle code from GRANIT; remaining five digits refer to specific water body</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">GRANITID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WB_Area_SF</attrlabl>
+				<attrdef>Area of water body, in square feet</attrdef>
+				<attrdefs>NH GRANIT</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>2,000,000,000</rdommax>
+						<attrunit>square feet</attrunit>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">WB_Area_SF</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>GRANIT_Ac</attrlabl>
+				<attrdef>Area of water body, in acres</attrdef>
+				<attrdefs>NH GRANIT</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>45,000</rdommax>
+						<attrunit>acres</attrunit>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">GRANIT_Ac</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FISH</attrlabl>
+				<attrdef>Fishing availability</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>No</edomv>
+						<edomvd>No fishing</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yes</edomv>
+						<edomvd>Fishing is available</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">FISH</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>BOAT</attrlabl>
+				<attrdef>Boating availability</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>No</edomv>
+						<edomvd>No boating access</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yes</edomv>
+						<edomvd>Boating access</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">BOAT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SWIM</attrlabl>
+				<attrdef>Swimming availability</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>No</edomv>
+						<edomvd>No swimming facilities</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yes</edomv>
+						<edomvd>Swimming available</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SWIM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CAMP</attrlabl>
+				<attrdef>Camping availability</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>No</edomv>
+						<edomvd>No camping</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yes</edomv>
+						<edomvd>Camping available</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">CAMP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PICNIC</attrlabl>
+				<attrdef>Picnicking availability</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>No</edomv>
+						<edomvd>No picnic facilities</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yes</edomv>
+						<edomvd>Picnicking available</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PICNIC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>REST</attrlabl>
+				<attrdef>Restroom availability</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>No</edomv>
+						<edomvd>No restrooms</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>Yes</edomv>
+						<edomvd>Restrooms available</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">REST</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DES_Acres</attrlabl>
+				<attrdef>Acreage as reported by NH Department of Environmental Services</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Acres</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DES_Acres</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Stream_Seq</attrlabl>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+				</attrdomv>
+				<attalias Sync="TRUE">STREAM_SEQ</attalias>
+<attrtype Sync="TRUE">SmallInteger</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">4</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearborn Rd</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00am - 5:00pm, EST-USA</hours>
+				<cntpos>Data Technician</cntpos>
+</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>
+Digital data in NH GRANIT represent the efforts of the
+contributing agencies to record information from the cited
+source materials. Complex Systems Research Center, under
+contract to the NH Office of Energy and Planning, and in
+consultation with cooperating agencies, maintains a
+continuing program to identify and correct errors in these
+data. OEP, CSRC, and the cooperating agencies make no claim
+as to the validity or reliability or to any implied uses of
+these data.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI shapefile</formname>
+					<transize>550 kb</transize>
+					<dssize Sync="TRUE">0.025</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>URL:http://www.granit.unh.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>No charge when downloaded from the Internet.  Cost of reproduction for provision on CD/ROM of other media.</fees>
+			<ordering>Obtain data from www.granit.unh.edu.</ordering>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>unknown</caldate>
+					<time>unknown</time>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140707</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NH Office of Energy and Planning</cntorg>
+					<cntper>Ken Gallager</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>4 Chenell Dr.</address>
+					<city>Concord</city>
+					<state>NH</state>
+					<postal>03301</postal>
+				</cntaddr>
+				<cntvoice>(603) 271-2155</cntvoice>
+				<cntemail>OEPinfo@nh.gov</cntemail>
+				<hours>8 - 4:30 Eastern</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{972875F9-0C0B-45EB-9B35-9C58C7E71EBF}</MetaID>
+<CreaDate>20140624</CreaDate>
+<CreaTime>13532100</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140707</SyncDate>
+<SyncTime>11260200</SyncTime>
+<ModDate>20140707</ModDate>
+<ModTime>11331500</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NHWaterAccessLocations9712</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">746344.388889</westBL>
+<eastBL Sync="TRUE">1239999.875</eastBL>
+<northBL Sync="TRUE">1015321.600694</northBL>
+<southBL Sync="TRUE">73305.942221</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-72.590915</westBL>
+<eastBL Sync="TRUE">-70.673104</eastBL>
+<northBL Sync="TRUE">45.285353</northBL>
+<southBL Sync="TRUE">42.697196</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\NHWaterAccessLocations9712.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.025</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NHWaterAccessLocations9712">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">915</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140707</mdDateSt>
+</metadata>

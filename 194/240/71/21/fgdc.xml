@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Instituto Nacional de Estadistica y Geografia (Mexico)</origin>
+				<pubdate>2001</pubdate>
+				<title>Topoform System Mexico 2001</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.inegi.org.mx/geo/contenidos/recnat/fisiografia/infoescala.aspx</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Instituto Nacional de Estadistica y Geografia (Mexico)</origin>
+						<pubdate>2001</pubdate>
+						<title>Mexico INEGI Database</title>
+						<onlink>http://www.inegi.org.mx/geo/contenidos/geografia/default.aspx</onlink>
+						<pubinfo>
+<pubplace> Aguascalientes (Mexico)</pubplace>
+<publish>Mexico. Instituto Nacional de Estadisticas y Geographia</publish>
+</pubinfo>
+</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">MexicoTopoformSystem01</ftname>
+<pubinfo>
+<publish>Instituto Nacional de Estadistica y Geografia (Mexico)</publish>
+</pubinfo>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset shows cartographic representation of the 196 types of Topoforms identified by INEGI. </abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2001</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-122.988617</westbc>
+				<eastbc Sync="TRUE">-81.011866</eastbc>
+				<northbc Sync="TRUE">36.915956</northbc>
+				<southbc Sync="TRUE">10.962038</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">572600.291041</leftbc>
+<rightbc Sync="TRUE">4427354.750183</rightbc>
+<bottombc Sync="TRUE">124.680039</bottombc>
+<topbc Sync="TRUE">2767388.500344</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>geoscientificInformation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Geomorphology</themekey>
+				<themekey>Landforms</themekey>
+				<themekey>Physiographic provinces </themekey>
+<themekey>Formations (Geology)</themekey>
+<themekey>Mountains</themekey>
+<themekey>Plateaus </themekey>
+<themekey>Slopes (Physical geography) </themekey>
+<themekey>Plains</themekey>
+<themekey>Alluvial plains</themekey>
+<themekey>Valleys</themekey>
+<themekey>Canyons</themekey>
+<themekey>Floodplains</themekey>
+<themekey>Sand dunes</themekey>
+<themekey>Reefs</themekey>
+<themekey>Sinkholes</themekey>
+<themekey>Beaches</themekey>
+</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Mexico</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>North America</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Instituto Nacional de Estadistica y Geografia (Mexico)</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>physical address</addrtype>
+					<address>2301 Av Heroe de Nacozari</address>
+					<address>Fraccionamiento Jardines del Parque</address>
+					<city>Aguascalientes</city>
+					<state>Aguascalientes (AGS)</state>
+					<postal>C.P. 20276</postal>
+					<country>Mexico</country>
+				</cntaddr>
+				<cntvoice>(01 449) 910 5300 ext. 5021, 5031, 4250</cntvoice>
+				<cntvoice>01 800 111 46 34</cntvoice>
+				<cntemail>atencion.usuarios @ inegi.org.mx</cntemail>
+				<hours>Monday to Sunday from 8:00 to 4:00. Central Time Mexico.</hours>
+				<cntpos>Service representative</cntpos>
+</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+<crossref>
+<citeinfo>
+<title>Topoform system Mexico 2001</title>
+</citeinfo>
+</crossref>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.</attraccr>
+		</attracc>
+		<lineage>
+			<srcinfo>
+				<srcscale>1:1000000</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>The file name of this dataset was changed from Sistema de Topoformas to MxTopoformSystem01.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd.</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday - Friday, 9:00am - 5:00pm, EST- USA</hours>
+					</cntinfo>
+				</proccont>
+				<procdate>20140722</procdate>
+<proctime>10:30am</proctime>
+</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\gberes01\AppData\Local\Temp\xml7AA2.tmp</srcused>
+<procdate Sync="TRUE">20140722</procdate>
+<proctime Sync="TRUE">10071500</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="MexicoTopoformSystem01">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">4150</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="MexicoTopoformSystem01">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">4150</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">17.500000</stdparll>
+<stdparll Sync="TRUE">29.500000</stdparll>
+<longcm Sync="TRUE">-102.000000</longcm>
+<latprjo Sync="TRUE">12.000000</latprjo>
+<feast Sync="TRUE">2500000.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">D_ITRF_1992</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">ITRF92</geogcsn>
+<projcsn Sync="TRUE">North_America_Lambert_Conformal_Conic</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="MexicoTopoformSystem01">
+			<enttyp>
+				<enttypl Sync="TRUE">MexicoTopoformSystem01</enttypl>
+				<enttypds>Environmental Systems Research Institute (Redlands, Calif.)</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">4150</enttypc>
+<enttypd>Cartographic representation of the 196 types of Topoforms identified by INEGI.</enttypd>
+</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+				<attrdef>Unique Identifier</attrdef>
+				<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+				<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">AREA</attrlabl>
+				<attrdef>Area of the object measured in square meters.</attrdef>
+				<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+				<attalias Sync="TRUE">AREA</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERIMETER</attrlabl>
+				<attalias Sync="TRUE">PERIMETER</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Perimeter of the object measured in meters.</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">CNAL1FIT_</attrlabl>
+<attalias Sync="TRUE">CNAL1FIT_</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Continuous numeric object identifier, begins in number 2</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">CNAL1FIT_I</attrlabl>
+<attalias Sync="TRUE">CNAL1FIT_I</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Continuous numeric object identifier, begins in number 1.</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+				<attrlabl Sync="TRUE">CLAVE</attrlabl>
+				<attalias Sync="TRUE">CLAVE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Numeric code that identifies each of the 15 Physiographic provinces. Range: I:XV</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">FC</attrlabl>
+				<attalias Sync="TRUE">FC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdomv/>
+<attrdef>INEGI's numeric identifier for entity.</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">ENTIDAD</attrlabl>
+				<attalias Sync="TRUE">ENTIDAD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">29</attwidth>
+<attrdef>Entity Type</attrdef>
+<attrdomv>
+<edom>
+<edomv>SISTEMA DE TOPOFORMAS</edomv>
+<edomvd>Topoform System</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>CUERPO DE AGUA PERENNE</edomv>
+<edomvd>Perennial body of water</edomvd>
+<edomvds>Tufts Univeristy GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>PAIS EXTRANJERO</edomv>
+<edomvd>Foreign country</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>AREA SIN INFORMACION TEMATICA</edomv>
+<edomvd>Areas without thematic information</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>DISCONTINUIDAD</edomv>
+<edomvd>Discontinuity, it refers to an area which origin and morphology are different of those of the Province in which the area is located.</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+</attrdomv>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NOMBRE</attrlabl>
+				<attalias Sync="TRUE">NOMBRE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>Name of the topoform class</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Sierra</edomv>
+<edomvd>Mountain range</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>Lomerio</edomv>
+<edomvd>knoll</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>Meseta</edomv>
+<edomvd>Palteau</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>Bajada</edomv>
+<edomvd>Slope</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>Llanura</edomv>
+<edomvd>plain</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>Valle</edomv>
+<edomvd>Valley</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>Canon</edomv>
+<edomvd>canyon</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>Campo de dunas</edomv>
+<edomvd>Dunes</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>Depresion</edomv>
+<edomvd>Depression</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>Arrecife</edomv>
+<edomvd>Reef</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>Dolina</edomv>
+<edomvd>Sinkhole</edomvd>
+<edomvds>Tufts University GIS center</edomvds>
+</edom>
+<edom>
+<edomv>Isla Rocosa</edomv>
+<edomvd>Rocky Island</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+<edom>
+<edomv>Playa/Barra</edomv>
+<edomvd>Beach</edomvd>
+<edomvds>Tufts University GIS Center</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">DESCRIPCIO</attrlabl>
+<attalias Sync="TRUE">DESCRIPCIO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">78</attwidth>
+<attrdef>Description of the topoform in Spanish</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+</attr>
+<attr>
+				<attrlabl Sync="TRUE">SHAPE_area</attrlabl>
+				<attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SHAPE_area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SHAPE_len</attrlabl>
+				<attalias Sync="TRUE">SHAPE_len</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Length of the polygon in internal units</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00am - 5:00pm, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">28.661</transize>
+					<dssize Sync="TRUE">28.661</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140813</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS  Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00am - 5:00pm, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{5EAED49A-511A-4554-9068-B62533699893}</MetaID>
+<CreaDate>20140722</CreaDate>
+<CreaTime>10071500</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140813</SyncDate>
+<SyncTime>14591500</SyncTime>
+<ModDate>20140813</ModDate>
+<ModTime>15015900</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">MexicoTopoformSystem01</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">572600.291041</westBL>
+<eastBL Sync="TRUE">4427354.750183</eastBL>
+<northBL Sync="TRUE">2767388.500344</northBL>
+<southBL Sync="TRUE">124.680039</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-122.988617</westBL>
+<eastBL Sync="TRUE">-81.011866</eastBL>
+<northBL Sync="TRUE">36.915956</northBL>
+<southBL Sync="TRUE">10.962038</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Mexico\INEGI\Physiography\Topoform System\MexicoTopoformSystem01.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">28.661</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">North_America_Lambert_Conformal_Conic</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="MexicoTopoformSystem01">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">4150</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140813</mdDateSt>
+</metadata>

@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+<idinfo>
+<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<descript>
+<abstract>This polygon dataset contains the shallowest principal aquifers of the conterminous United States, Hawaii, Puerto Rico, and the U.S. Virgin Islands, portrayed as polygons.  The map layer was developed as part of the effort to produce the maps published at 1:2,500,000 in the printed series "Ground Water Atlas of the United States".  The published maps contain base and cultural features not included in these data.  This is a replacement for the July 1998 map layer called Principal Aquifers of the 48 Conterminous United States.
+
+Due to the small scale, the primary intended use is for regional and national data display and analysis, rather than specific local data analysis.</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+<supplinf>The Ground Water Atlas of the United States (GWA) chapters include 
+      additional information that may be relevant to the use of this map layer, 
+      such as maps of alluvial and glacial aquifers that overlie the aquifers in 
+      this map layer, as well as other information described below. 
+
+      The areal extent of the aquifers, as shown in this map layer, represents 
+      the area in which a named aquifer is the shallowest of the principal 
+      aquifers.  These aquifer areas are not necessarily the only areas in which 
+      ground water can be withdrawn, for two reasons:  1) The aquifers shown may 
+      have a larger areal extent than is represented here.  The boundaries in 
+      this map layer generally represent an interpretation of the surface 
+      location (outcrop), or near-surface location (shallow subcrop) of the 
+      uppermost principal aquifer for the area.  An aquifer may extend beyond 
+      the area shown, but be overlain by one or more other aquifers, and (or) 
+      low-permeability material.  2) There may be areas of water-bearing 
+      surficial material not shown in this map layer.  Major alluvial aquifers 
+      that occur along main watercourses are not shown.  Significant 
+      unconsolidated sand and gravel aquifers, that are not indicated in this 
+      map layer but are important sources of water, may occur locally in 
+      glaciated regions.  The user of this map layer is advised that to get 
+      complete information regarding areas that serve as sources of water, more
+      information about surficial aquifers needs to be obtained, particularly in 
+      glaciated areas.
+
+      This map layer was constructed by combining data created for or from the 
+      regional GWA chapters.  Minor aquifers that are important local sources of 
+      water were mapped in some regions, so the regional maps in the GWA may 
+      show more detail than this map layer.  The data were reviewed, adjusted, 
+      and published based on new information provided by national, State, and 
+      local scientists.  The juxtaposition of regionally mapped aquifers has led 
+      to some instances where an aquifer outcrop or shallow subcrop is bounded 
+      by a State line.  This is a result of the regional mapping and national 
+      categorization methods used and is not meant to imply a hydrogeologic 
+      change coincident with a State boundary.
+
+      The aquifer outcrop and shallow subcrop boundaries represent broad, 
+      regional categories and should not be interpreted as site-specific.  
+      Comments regarding the names of aquifers or the hydrogeologic 
+      interpretation of the aquifers can be directed to the U.S. Geological 
+      Survey, Water Resources Division, Office of Ground Water, 
+      ogw_webmaster@usgs.gov.
+
+      This map layer was used as part of the effort to publish a 1:5,000,000-
+      scale 'Principal Aquifers' map in the National Atlas of the United States 
+      of America series of printed maps.  The printed map can be considered  a 
+      representation of this map layer with the exceptions of: the smaller 
+      scale, slight differences in the coastline due to generalization, base and 
+      cultural information, and delineation of the glacial-deposit area.</supplinf>
+<langdata Sync="TRUE">en</langdata>
+</descript>
+<citation>
+<citeinfo>
+<origin>Geological Survey (U.S.)</origin>
+<pubdate>200310</pubdate>
+<title>Principal Aquifers United States 2003</title>
+<geoform>vector digital data</geoform>
+<onlink>http://nationalatlas.gov/atlasftp.html</onlink>
+<edition>Version 1.0</edition>
+<pubinfo>
+<pubplace>Madison (Wis.)</pubplace>
+<publish>Geological Survey (U.S.)</publish>
+</pubinfo>
+<lworkcit>
+<citeinfo>
+<origin>Geological Survey (U.S.)</origin>
+<title>National Atlas of the United States</title>
+<pubinfo>
+<pubplace>Madison (Wis.)</pubplace>
+<publish>Geological Survey (U.S.)</publish>
+</pubinfo>
+</citeinfo>
+</lworkcit>
+<ftname Sync="TRUE">USprincipalAquifers03</ftname>
+</citeinfo>
+</citation>
+<timeperd>
+<current>publication date</current>
+<timeinfo>
+<sngdate>
+<caldate>200310</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-160.236053</westbc>
+<eastbc>-64.566162</eastbc>
+<northbc>49.385620</northbc>
+<southbc>17.674693</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">-160.236053</leftbc>
+<rightbc Sync="TRUE">-64.566162</rightbc>
+<bottombc Sync="TRUE">17.674693</bottombc>
+<topbc Sync="TRUE">49.385620</topbc>
+</lboundng>
+</spdom>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>polygon</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>inlandWaters</themekey>
+</theme>
+<theme>
+<themekey>Aquifers.</themekey>
+<themekey>Groundwater.</themekey>
+<themekey>Hydrogeology.</themekey>
+<themekey>Aquitards</themekey>
+<themekt>LCSH</themekt>
+</theme>
+<place>
+<placekt>GNS</placekt>
+<placekey> United States of America</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>North America</placekey>
+<placekt>LCNH</placekt>
+<placekey>United States</placekey>
+</place>
+</keywords>
+<accconst>Unrestricted Access </accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Geological Survey (U.S.)</cntorg>
+</cntorgp>
+<cntpos>Chief, Cartographic and Publications Program, Water Resources Division</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>505 Science Drive</address>
+<city>Madison</city>
+<state>WI</state>
+<postal>53711-1061</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>608-238-9333</cntvoice>
+</cntinfo>
+</ptcontac>
+<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+<metainfo>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<city>Somerville</city>
+<state>Ma</state>
+<postal>02144</postal>
+<address>Academic Technology</address>
+<address>16 Dearborn Rd</address>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntpos>Data Technician </cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+</cntinfo>
+</metc>
+<metd>20140813</metd>
+<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm Name="USprincipalAquifers03">
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>4637</ptvctcnt>
+</sdtsterm>
+<esriterm Name="USprincipalAquifers03">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">4637</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<geogunit>Decimal degrees</geogunit>
+<latres>0.000001</latres>
+<longres>0.000001</longres>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 80</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+</cordsysn>
+</horizsys>
+<vertdef>
+<altsys>
+<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+<altres>0.000010</altres>
+</altsys>
+</vertdef>
+</spref>
+<eainfo>
+<detailed Name="USprincipalAquifers03">
+<enttyp>
+<enttypl>USAPrincipalAquifers03</enttypl>
+<enttypd>A formation, group of formations, or part of a formation that contains sufficient saturated permeable material to yield significant quantities  of water to wells and springs.</enttypd>
+<enttypds>Geological Survey (U.S.)</enttypds>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">4637</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Sync="TRUE">ESRI</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>OBJECTID_1</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attalias Sync="TRUE">OBJECTID_1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl>ROCK_NAME</attrlabl>
+<attrdomv>
+<edom>
+<edomv>Carbonate-rock aquifers</edomv>
+<edomvd>Formations composed of limestone and (or) dolomite.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>Igneous and metamorphic-rock aquifers</edomv>
+<edomvd>Formations composed of volcanic rocks.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>Sandstone and carbonate-rock aquifers</edomv>
+<edomvd>Formations composed of sandstone, limestone, and (or) dolomite</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>Sandstone aquifers</edomv>
+<edomvd>Formations composed of sandstone.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>Semiconsolidated sand aquifers</edomv>
+<edomvd>Formations partially solidified sand.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>Unconsolidated sand and gravel aquifers</edomv>
+<edomvd> Formations composed of loose sand and gravel.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>&amp;lt;blank&amp;gt;</edomv>
+<edomvd> Other rocks.  Rocks that are generally poorly permeable but locally  may contain productive aquifers.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdef>The name of the permeable geologic material that composes the aquifer.</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+<attalias Sync="TRUE">ROCK_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+<attr>
+<attrlabl>ROCK_TYPE</attrlabl>
+<attrdomv>
+<edom>
+<edomv>100</edomv>
+<edomvd>Unconsolidated sand and gravel aquifers.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>200</edomv>
+<edomvd>Semiconsolidated sand aquifers.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>300</edomv>
+<edomvd>Sandstone aquifers.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>400</edomv>
+<edomvd>Carbonate-rock aquifers.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>500</edomv>
+<edomvd>Sandstone and carbonate-rock aquifers.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>600</edomv>
+<edomvd>Igneous and metamorphic-rock aquifers.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>999</edomv>
+<edomvd>Areas that are other rocks.</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdef>The code number relating to the rock_name.</attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+<attalias Sync="TRUE">ROCK_TYPE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+<attr>
+<attrlabl>AQ_NAME</attrlabl>
+<attrdef>The aquifer unit name.  </attrdef>
+<attrdomv>
+<edom>
+<edomv>101 </edomv>
+<edomvd>Basin and Range basin-fill aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>102</edomv>
+<edomvd>Rio Grande aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>103</edomv>
+<edomvd>California Coastal Basin aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>104</edomv>
+<edomvd>Pacific Northwest basin-fill aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>105</edomv>
+<edomvd>Northern Rocky Mountains Intermontane Basins aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>106</edomv>
+<edomvd>Central Valley aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>107</edomv>
+<edomvd>High Plains aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>108</edomv>
+<edomvd>Pecos River Basin alluvial aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>109</edomv>
+<edomvd>Mississippi River Valley alluvial aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>110</edomv>
+<edomvd>Seymour aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>111</edomv>
+<edomvd>Surficial aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>112</edomv>
+<edomvd>Puget Sound aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>114</edomv>
+<edomvd>Puerto Rico south coast aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>115</edomv>
+<edomvd>Willamette Lowland basin-fill aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>116</edomv>
+<edomvd>Columbia Plateau basin-fill aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>117</edomv>
+<edomvd>Snake River Plain basin-fill aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>201</edomv>
+<edomvd>Coastal lowlands aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>202</edomv>
+<edomvd>Texas coastal uplands aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>203</edomv>
+<edomvd>Mississippi embayment aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>204</edomv>
+<edomvd>Southeastern Coastal Plain aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>205</edomv>
+<edomvd>Northern Atlantic Coastal Plain aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>301</edomv>
+<edomvd>Colorado Plateaus aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>302</edomv>
+<edomvd>Denver Basin aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>304</edomv>
+<edomvd>Lower Cretaceous aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>305</edomv>
+<edomvd>Rush Springs aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>306</edomv>
+<edomvd>Central Oklahoma aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>307</edomv>
+<edomvd>Ada-Vamoosa aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>308</edomv>
+<edomvd>Early Mesozoic basin aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>309</edomv>
+<edomvd>New York sandstone aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>310</edomv>
+<edomvd>Pennsylvanian aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>311</edomv>
+<edomvd>Marshall aquifer </edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>312</edomv>
+<edomvd>Cambrian-Ordovician aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>313</edomv>
+<edomvd>Jacobsville aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>314</edomv>
+<edomvd>Lower Tertiary aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>315</edomv>
+<edomvd>Upper Cretaceous aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>316</edomv>
+<edomvd>Wyoming Tertiary aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>401</edomv>
+<edomvd>Basin and Range carbonate-rock aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>402</edomv>
+<edomvd>Roswell Basin aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>405</edomv>
+<edomvd>Ozark Plateaus aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>406</edomv>
+<edomvd>Blaine aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>407</edomv>
+<edomvd>Arbuckle-Simpson aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>410</edomv>
+<edomvd>Silurian-Devonian aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>411</edomv>
+<edomvd>Ordovician aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>412</edomv>
+<edomvd>Upper carbonate aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>413</edomv>
+<edomvd>Floridan aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>414</edomv>
+<edomvd>Biscayne aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>416</edomv>
+<edomvd>New York and New England carbonate-rock aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>417</edomv>
+<edomvd>Piedmont and Blue Ridge carbonate-rock aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>418</edomv>
+<edomvd>Castle Hayne aquifer</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>419</edomv>
+<edomvd> Puerto Rico North Coast Limestone aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>420</edomv>
+<edomvd>Kingshill aquifer </edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>501</edomv>
+<edomvd>Edwards-Trinity aquifer system</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>502</edomv>
+<edomvd>Valley and Ridge aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>503</edomv>
+<edomvd>Mississippian aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>504</edomv>
+<edomvd>Paleozoic aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>505</edomv>
+<edomvd>Valley and Ridge carbonate-rock aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>601</edomv>
+<edomvd>Southern Nevada volcanic-rock aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>606</edomv>
+<edomvd>Snake River Plain basaltic-rock aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>607</edomv>
+<edomvd>Columbia Plateau basaltic-rock aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>608</edomv>
+<edomvd>Hawaiian Volcanic-rock aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>609</edomv>
+<edomvd>Hawaiian Sedimentary deposit aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>610</edomv>
+<edomvd>Pacific Northwest basaltic-rock aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>611</edomv>
+<edomvd>Piedmont and Blue Ridge crystalline-rock aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+<edom>
+<edomv>999</edomv>
+<edomvd>Other rocks.  Rocks that are generally poorly permeable but locally may contain productive aquifers</edomvd>
+<edomvds>Geological Survey (U.S.)</edomvds>
+</edom>
+</attrdomv>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+<attalias Sync="TRUE">AQ_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+<attr>
+<attrlabl>AQ_CODE</attrlabl>
+<attrdef>The code number relating to the aquifer unit name.  There should be a direct correlation between the values of the Rock_type and Rock_name  attributes, and between the Aq_name and Aq_code attributes.  See table   above under Aq_name. </attrdef>
+<attrdefs>Geological Survey (U.S.)</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>101</rdommin>
+<rdommax>999</rdommax>
+</rdom>
+</attrdomv>
+<attalias Sync="TRUE">AQ_CODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape_Leng</attrlabl>
+<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>Shape_Area</attrlabl>
+<attrdef>The size of the shape in file units.  In the distributed file,  file units represent square decimal degrees. </attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>0.00000020307</rdommin>
+<rdommax>56.31953779930</rdommax>
+</rdom>
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+</detailed>
+</eainfo>
+<dataIdInfo>
+<envirDesc>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode value="en"/>
+<countryCode value="USA"/>
+</dataLang>
+<idCitation>
+<resTitle>USAPrincipalAquifers03</resTitle>
+<presForm>
+<PresFormCd value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<exTypeCode>1</exTypeCode>
+<westBL>-160.236053</westBL>
+<eastBL>-64.566162</eastBL>
+<northBL>49.385620</northBL>
+<southBL>17.674693</southBL>
+</GeoBndBox>
+<GeoBndBox esriExtentType="native">
+<westBL>-160.236053</westBL>
+<eastBL>-64.566162</eastBL>
+<northBL>49.38562</northBL>
+<southBL>17.674693</southBL>
+<exTypeCode>1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL>-160.236053</westBL>
+<eastBL>-64.566162</eastBL>
+<northBL>49.38562</northBL>
+<southBL>17.674693</southBL>
+<exTypeCode>1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode value="en"/>
+<countryCode value="USA"/>
+</mdLang>
+<distInfo>
+<distFormat>
+<formatName>Personal GeoDatabase Feature Class</formatName>
+</distFormat>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc>002</orDesc>
+<linkage>file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NationalAtlas\Water - Tufts\Aquifers\aquifrp025.mdb</linkage>
+<protocol>Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">9.700</transSize>
+</distorTran>
+<distorFormat>
+<formatName>Personal GeoDatabase Feature Class</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<mdHrLv>
+<ScopeCd value="005"/>
+</mdHrLv>
+<mdHrLvName>dataset</mdHrLvName>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode code="4269">GCS_North_American_1983</identCode>
+<idCodeSpace>EPSG</idCodeSpace>
+<idVersion>7.11.2</idVersion>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd value="001"/>
+</topLvl>
+<geometObjs>
+<geoObjTyp>
+<GeoObjTypCd value="001"/>
+</geoObjTyp>
+<geoObjCnt>4637</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt>20140813</mdDateSt>
+<mdStanName>ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer>DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd value="004"/>
+</mdChar>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>Ma</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+</cntinfo>
+</distrib>
+<stdorder>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">9.700</transize>
+<dssize Sync="TRUE">9.700</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+</distinfo>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc> Aquifer outcrop line work for each GWA chapter was compiled on mylar at 
+        a scale of 1:2,000,000, and reduced to 1:2,500,000 for further
+        production work.  For chapters HA 730-G, -H, and -J, the outcrop lines 
+        were scribed at a line width of 0.006 inch.  Film positives made from 
+        the scribed materials were scanned on a drum scanner, vectorized, and 
+        converted to Arc/INFO coverages.  For chapters HA 730-B, -C, -D, -E, -F, 
+        -I, -K, -L, and -M, the aquifer compilation was either hand digitized, 
+        and (or) scanned on a drum scanner, vectorized and converted to Arc/INFO 
+        coverages.  The data were then checked, cleaned up, and attribute
+        creation was done.
+
+        The Arc/INFO coverages were plotted and checked against the source 
+        compilations.  Polygons were attributed using Arcedit.  The coverages 
+        for GWA chapters HA 730-B, -C, -D, -E, -F, -I, -K, -L, and -M were used 
+        to generate output files that were imported into Adobe Illustrator
+        for map publication.  Each completed map, at a scale of 1:2,500,000, was 
+        reviewed for content and accuracy by the chapter lead cartographer, 
+        Water Resources Discipline Geohydrologic Map Editor, and chapter author.
+
+        Individual chapter coverages were appended into one continuous coverage.  
+        Arcedit was used for edgematching and to remove duplicate labels.  No 
+        DISSOLVE was done on the coverage; an equivalent of a DISSOLVE was done
+        manually in Arcedit in conjunction with attribute checking, by removing 
+        arcs that divided adjacent polygons with the same attributes.  Several 
+        iterations of editing were performed.  These mostly involved ensuring 
+        all polygons had labels and aquifer information and ensuring polygons 
+        had correct aquifer information.  No polygons were removed for 
+        generalization.</procdesc>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>Ma</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician </cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>In order to meet Tufts university's metadata standards:
+Changed name from aquifrp025 to USAPrincipal Aquifers03. Metadata fields were standardized.</procdesc>
+<procdate>20140813</procdate>
+<proctime>11:56am</proctime>
+</procstep>
+<srcinfo>
+<srcscale>2500000</srcscale>
+</srcinfo>
+</lineage>
+<attracc>
+<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given. </attraccr>
+</attracc>
+</dataqual>
+<Esri>
+<SyncDate>20140813</SyncDate>
+<SyncTime>13185100</SyncTime>
+<ModDate>20140813</ModDate>
+<ModTime>13193400</ModTime>
+</Esri>
+</metadata>

@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Arlington (Mass.). Information and Technology Dept.</origin>
+				<pubdate>20120530</pubdate>
+				<title>Parcels Arlington MA 2012</title>
+				<geoform>vector digital data</geoform>
+				<onlink>http://www.arlingtonma.gov/public_documents/ArlingtonMA_Maps/index</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Arlington (Mass.). Information and Technology Dept.</origin>
+						<pubdate>20120530</pubdate>
+						<title>City of Arlington MA GIS Data</title>
+						<pubinfo>
+							<pubplace>Arlington (Mass.)</pubplace>
+							<publish>Arlington (Mass.). Information and Technology Dept.</publish>
+						</pubinfo>
+						<onlink>http://www.arlingtonma.gov/public_documents/ArlingtonMA_Maps/index</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">ArlingtonParcel12</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents parcels in Arlington, MA.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>20120530</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-71.202723</westbc>
+				<eastbc>
+-71.132057</eastbc>
+				<northbc>
+42.436333</northbc>
+				<southbc>
+42.397374</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">224474.912515</leftbc>
+<rightbc Sync="TRUE">230274.412464</rightbc>
+<bottombc Sync="TRUE">905272.194594</bottombc>
+<topbc Sync="TRUE">909577.184656</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Real property--Maps</themekey>
+				<themekey>Boundaries</themekey>
+			</theme>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Arlington</placekey>
+				<placekey>MA</placekey>
+				<placekey>New England</placekey>
+				<placekey>Middlesex</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>United States</placekey>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+			</place>
+		</keywords>
+		<accconst>Restricted Access Online: Access is granted to licensee only. Available only to Tufts University affiliates.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Arlington MA Maps and Geographic Information Systems</cntorg>
+					<cntper>Adam Kurowski</cntper>
+				</cntorgp>
+				<cntpos>GIS Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Ground floor, Arlington High School</address>
+					<address>869 Massachusetts Ave</address>
+					<city>Arlington</city>
+					<state>MA</state>
+					<postal>02476</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>781-316-3343</cntvoice>
+				<cntfax>781-316-3339</cntfax>
+				<cntemail>gis@town.arlington.ma.us</cntemail>
+				<cntemail>akurowski@town.arlington.ma.us</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\1_Layers\Starter Metadata Template -Tufts</srcused>
+				<procdate>20120112</procdate>
+				<proctime>12373500</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Old Folders\1_Layers\Starter Metadata Template -Tufts</srcused>
+				<procdate>20120713</procdate>
+				<proctime>16554300</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Name changed from Parcel to ArlingtonParcels12.</procdesc>
+				<procdate>20120530</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 A-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xml1476.tmp</srcused>
+				<procdate>20120716</procdate>
+				<proctime>15372200</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="ArlingtonParcel12">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>12603</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="ArlingtonParcel12">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">12603</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+				<gridsys>
+<gridsysn Sync="TRUE">State Plane Coordinate System 1983</gridsysn>
+<spcs>
+<spcszone Sync="TRUE">2001</spcszone>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">200000.000000</feast>
+<fnorth Sync="TRUE">750000.000000</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="ArlingtonParcel12">
+			<enttyp>
+				<enttypl>
+ArlingtonParcel12</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">12603</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>LOC_ID</attrlabl>
+				<attrdef>This parcel uniquely identifies a tax polygon</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems.</attrdefs>
+				<attalias Sync="TRUE">LOC_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+</attr>
+			<attr>
+				<attrlabl>gis_id</attrlabl>
+				<attalias Sync="TRUE">gis_id</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">26</attwidth>
+</attr>
+			<attr>
+				<attrlabl>POLY_TYPE</attrlabl>
+				<attrdef>This attribute identifies the kind of polygon in the tax parcel layer.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>FEE</edomv>
+						<edomvd>Parcels with fee associated</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>RAILROAD</edomv>
+						<edomvd>Boundaries interfere with railroad</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems.</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>WATER</edomv>
+						<edomvd>If the parcel boundaries are conicident with the shoreline of a water feature not entirely contained in one parcel</edomvd>
+						<edomvds>MassGIS (Office : Mass.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ROW</edomv>
+						<edomvd>The right of way polygon does not overlap tax parcels</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems.</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">POLY_TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MAP_NO</attrlabl>
+				<attrdef>Map number associated with the parcel</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">MAP_NO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>BLOCK_NO</attrlabl>
+				<attrdef>Block number associated with the parcel</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">BLOCK_NO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LOT_NO</attrlabl>
+				<attrdef>Lot number associated with the parcel</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">LOT_NO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SOURCE</attrlabl>
+				<attrdef>Source of the parcel information</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SOURCE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PLAN_ID</attrlabl>
+				<attrdef>Identifying information for the plan used to update the file</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PLAN_ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LAST_EDIT</attrlabl>
+				<attrdef>Date of the last edit</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">LAST_EDIT</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>BND_CHK</attrlabl>
+				<attrdef>This attribute is used to identify parcels where, although there is a discrepancy between the parcel boundary and features visible on the orthoimage base map, the boundary shown is believed to be correct. In addition, this attribute will enable those conducting QA to identify parcels where the boundary compilation may need editing.</attrdef>
+				<attrdefs>MassGIS (Office : Mass.)</attrdefs>
+				<attalias Sync="TRUE">BND_CHK</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NO_MATCH</attrlabl>
+				<attrdef>This attribute is for identifying parcel polygons whose exclusion from calculations of Level III match rates between parcel polygons and the assessor&amp;#146;s tax list has been approved by MassGIS.</attrdef>
+				<attrdefs>MassGIS (Office : Mass.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>The default value, indicating their is no approval</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">NO_MATCH</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Latitude</attrlabl>
+				<attrdef>Latitude of the parcel</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">LATITUDE</attalias>
+<attrtype Sync="TRUE">Integer</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atprecis Sync="TRUE">9</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>LONGITUDE</attrlabl>
+				<attrdef>Longitude of the parcel</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">LONGITUDE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ZONE_CODE</attrlabl>
+				<attrdef>Zoning code</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>B1</edomv>
+						<edomvd>Neighborhood Office District. The Neighborhood Office District is composed of all those areas so designated on the official zoning map. Predominant uses include one- and two-family residences, houses with offices on the ground floor, or office structures which are in keeping with the scale of adjacent houses. With most locations on or adjacent to Massachusetts Avenue, the district is intended to encourage preservation of small-scale structures to provide contrast and set off the higher density, more active areas along the Avenue. Uses which would detract from the desired low level of activity, consume large amounts of land, or otherwise interfere with the intent of this bylaw, are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B2</edomv>
+						<edomvd>Neighborhood Business District. The Neighborhood Business District is composed of all those areas so designated on the official zoning map. Predominant uses include small retail and service establishments serving the needs of adjacent neighborhoods and oriented to pedestrian traffic. Locations are almost all along Massachusetts Avenue or Broadway. Uses which would detract from this small-scale business character, or otherwise interfere with the intent of this bylaw are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B2A</edomv>
+						<edomvd>Major Business District. The major Business District is composed of all those areas so designated on the official zoning map. Located along Massachusetts Avenue, Mill Street, Summer Street and Broadway, these areas generally contain uses that are retail and service to serve the needs of a large neighborhood area. Customers generally arrive by car so there is ample parking to serve the retailer. Housing is also permitted at a medium density due to the proximity of the zone to residential uses. Automotive uses; some office uses, wholesale business and storage uses are prohibited.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B3</edomv>
+						<edomvd>Village Business District. The Village Business District is composed of all those areas so designated on the official zoning map. Predominant uses include retail, service and office establishments catering to both convenience and comparison-goods shoppers and oriented to pedestrian traffic. Multi-use development is encouraged, such as retail with office or business and residential. The three locations include portions of the principal business areas of Arlington: Lake Street, Arlington Center, and Arlington Heights. Businesses which consume large amounts of land and activities which interrupt pedestrian circulation and shopping patterns or otherwise interfere with the intent of this bylaw are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B4</edomv>
+						<edomvd>Vehicular Oriented Business District. The Vehicular Oriented Business District is composed of all those areas so designated on the official zoning map. Uses include establishments primarily oriented to automotive traffic which require large amounts of land in proportion to building coverage; or establishments devoted to the sale or servicing of motor vehicles, the sale of vehicular parts and accessories, and service stations. Arlington has an overabundance of automotive and automotive accessory sales and service establishments; thus when one of these businesses closes, the conversion of the property to other retail, service, office or residential use is encouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>B5</edomv>
+						<edomvd>Central Business District. The Central Business District is composed of all those areas so designated on the official zoning map in Arlington Center. It includes retail, service, and office uses, and provides for large-scale development. The scale is intended to reinforce the Center's role as the focus of activity in Arlington. Multi-use development is encouraged, such as the combining of residential and business uses. Activities shall be oriented to pedestrian traffic and to centralized parking. Businesses which consume large amounts of land and interrupt pedestrian circulation and shopping patterns or otherwise interfere with the intent of this bylaw are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>I</edomv>
+						<edomvd>Industrial. The Industrial District is composed of all those areas so designated on the official zoning map. These areas in the Mill Brook Valley allow uses requiring the manufacture, assembly, processing or handling of materials which because of their traffic, noise, appearance, odor, or hazards would be disruptive to residential and other business uses. Residential uses, retail business uses, or uses which would otherwise interfere with the intent of this bylaw are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>MU</edomv>
+						<edomvd>Multi-use. The Multi-Use District is composed of all those areas so designated on the official zoning map. Districts must contain at least one acre. The district allows larger scale development only when controlled by the Arlington Redevelopment Board through urban renewal plans and Environmental Design Review.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>OS</edomv>
+						<edomvd>Open Space. The Open Space District is composed of all those areas so designated on the official zoning map. The Open Space District is composed of parcels under the jurisdiction of Park and Recreation Commission, the Conservation Commission, the ARB, the MDC, or the MBTA. Structures where present are clearly accessory to the principle function of the property.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>PUD</edomv>
+						<edomvd>Planned Unit Development. The Planned Unit Development District is composed of that area so designated on the official zoning map. Large scale, multi-use development is permitted upon approval of a development plan and the assembly of a large amount of land.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>R0</edomv>
+						<edomvd>Residential: Large Lot Single Family District. The Large Lot Single-Family District is composed of all those areas so designated on the official zoning map. It has the lowest residential density of all districts and is generally served by local streets only. Intensive land uses, uses which would detract from the desired residential character, and uses which would otherwise interfere with the intent of this bylaw are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>R1</edomv>
+						<edomvd>Residential: Single-Family District. The Single-Family District is composed of all those areas so designated on the official zoning map.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>R2</edomv>
+						<edomvd>Residential: Two-Family District. The Two-Family District is composed of all those areas so designated on the official zoning map. The predominant use is a two-family dwelling and the district is generally served by local streets only. This district is generally within walking distance of the stores and transportation facilities along Massachusetts Avenue and Broadway. Uses which would detract from the desired residential character, consume large amounts of land, or otherwise interfere with the intent of this bylaw, are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>R3</edomv>
+						<edomvd>Residential: Three-Family District. The Three-Family District is composed of all those areas so designated on the official zoning map. The predominant use is a three-family dwelling with locations along Massachusetts Avenue and Broadway. It is the intent that no businesses be located in the R3 district. Uses which would detract from the desired residential character, consume large amounts of land, or otherwise interfere with the intent of this bylaw, are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>R4</edomv>
+						<edomvd>Residential: Town House Districts. The Town House District is composed of all those areas so designated on the official zoning map. It is located along arterials or in the Center area. The predominant uses are one- and two-family dwellings in large, older houses. Conversions of these old homes to apartments or offices is allowed to encourage their preservation. Town house construction is permitted at the same density as the apartment conversions, and at a scale in keeping with the older houses. Uses which would detract from the desired residential character, or otherwise interfere with the intent of this bylaw, are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>R5</edomv>
+						<edomvd>Residential District: Apartment District, Low Density. The Low-Density Apartment District is composed of all those areas so designated on the official zoning map. The predominant use is two- to three-story garden apartments located along or near principal arteries. Small-scale offices would be allowed on principal arteries only. Uses which would detract from the desired residential character, consume large amounts of land, or otherwise interfere with the intent of this bylaw, are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>R6</edomv>
+						<edomvd>Residential District: Apartment District, Medium Density. The Medium Density Apartment District is composed of all those areas so designated on the official zoning map. The predominant use is apartments up to four stories high with offices permitted at a smaller scale. Locations are principally Massachusetts Avenue and Pleasant Street. Uses which would detract from the desired residential and office character, or otherwise interfere with the intent of this bylaw, are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>R7</edomv>
+						<edomvd>Residential District: Apartment District, High Density. The High Density Apartment District is composed of those areas so designated on the official zoning map. The predominant use is apartments up to 5 stories high, although offices are also permitted at the same scale. Locations are principally within or adjacent to Arlington center. Uses which would detract from the desired character, such as large-scale retail uses, or otherwise interfere with the intent of this bylaw, are discouraged.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>T</edomv>
+						<edomvd>Transportation District. The Transportation District is composed of all those areas designated on the official zoning map. Principal uses are bus terminals, open space uses, and the Minuteman Bikeway. Uses in conflict with these allowed uses or which otherwise interfere with the intent of this bylaw are prohibited.</edomvd>
+						<edomvds>Arlington (Mass.). Information and Technology Department</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Water</edomv>
+						<edomvd>Water bodies</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">ZONE_CODE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ACRES_GIS</attrlabl>
+				<attrdef>Amount of acres in the parcel</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">ACRES_GIS</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>SQFT_GIS</attrlabl>
+				<attrdef>Square footage of the parcel</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">SQFT_GIS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Shape_Area</attrlabl>
+				<attrdef>Area of feature in square feet</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Shape_Leng</attrlabl>
+				<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>3.227</transize>
+					<dssize Sync="TRUE">3.227</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.tufts.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130125</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper/>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">ArlingtonParcel12</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">224474.912515</westBL>
+<eastBL Sync="TRUE">230274.412464</eastBL>
+<northBL Sync="TRUE">909577.184656</northBL>
+<southBL Sync="TRUE">905272.194594</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.202723</westBL>
+<eastBL Sync="TRUE">-71.132057</eastBL>
+<northBL Sync="TRUE">42.436333</northBL>
+<southBL Sync="TRUE">42.397374</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Arlington\Shapefiles\ArlingtonParcel12.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">3.227</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="ArlingtonParcel12">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">12603</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130405</SyncDate>
+<SyncTime>11514600</SyncTime>
+<ModDate>20130405</ModDate>
+<ModTime>11514600</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130405</mdDateSt>
+</metadata>

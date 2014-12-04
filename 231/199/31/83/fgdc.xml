@@ -1,0 +1,5234 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Federal Highway Administration</origin>
+				<pubdate>2011</pubdate>
+				<title>Bridges USA 2011</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington (D.C.)</pubplace>
+					<publish>United States. Federal Highway Administration</publish>
+				</pubinfo>
+				<onlink>http://www.fhwa.dot.gov/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Department of Transportation. Research and Innovative Technology Administration</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Databases (NTAD) 2011</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Department of Transportation. Research and Innovative Technology Administration</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USBridges11</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset represents the locations of bridges, on the basis of the National Bridge Inventory. The NBI is a collection of information (database) describing the more than 600,000 of the Nation's bridges located on public roads, including Interstate Highways, U.S. highways, State and county roads, as well as publicly-accessible bridges on Federal lands. It presents a State by State summary analysis of the number, location, and general condition of highway bridges within each State.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+<bounding>
+<westbc Sync="TRUE">-174.140000</westbc>
+<eastbc Sync="TRUE">0.000000</eastbc>
+<northbc Sync="TRUE">69.150556</northbc>
+<southbc Sync="TRUE">0.000000</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">-174.140000</leftbc>
+<rightbc Sync="TRUE">0.000000</rightbc>
+<bottombc Sync="TRUE">0.000000</bottombc>
+<topbc Sync="TRUE">69.150556</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+<place>
+<placekey>United States</placekey>
+<placekt>GNS</placekt>
+</place>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>Bridges</themekey>
+<themekt>LCSH</themekt>
+</theme>
+<place>
+<placekey>Nothern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekey>transportation</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>structure</themekey>
+</theme>
+</keywords>
+<accconst>Unrestricted access online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<natvform Sync="TRUE">Shapefile</natvform>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Federal Highway Administration</cntorg>
+</cntorgp>
+<cntvoice>202-366-0660</cntvoice>
+<cntaddr>
+<address>1200 New Jersey Avenue</address>
+<addrtype>mailing and physical address</addrtype>
+<address>SE </address>
+<city>Washington</city>
+<state>D.C.</state>
+<postal>20590 </postal>
+<country>USA</country>
+</cntaddr>
+</cntinfo>
+</ptcontac>
+<crossref>
+<citeinfo>
+<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+<pubdate>2011</pubdate>
+<title>National Transportation Atlas Databases (NTAD) 2011</title>
+<edition>2011</edition>
+<pubinfo>
+<pubplace>Washington DC</pubplace>
+<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+</pubinfo>
+<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+</citeinfo>
+</crossref>
+<secinfo>
+<secsys>None</secsys>
+<secclass>Unclassified</secclass>
+</secinfo>
+</idinfo>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USBridges11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-174.14</westBL>
+<eastBL Sync="TRUE">0</eastBL>
+<northBL Sync="TRUE">69.150556</northBL>
+<southBL Sync="TRUE">0</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-174.14</westBL>
+<eastBL Sync="TRUE">0</eastBL>
+<northBL Sync="TRUE">69.150556</northBL>
+<southBL Sync="TRUE">0</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<metainfo>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University Geigraphic Information Systems Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing address</addrtype>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<address>Academic Technology</address>
+<country>USA</country>
+<address>16 Dearborn Ave</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<cntpos>GIS Data Technician</cntpos>
+</cntinfo>
+</metc>
+<metd Sync="TRUE">20140514</metd>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distinfo>
+<resdesc>Online dataset</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">16.142</transize>
+<dssize Sync="TRUE">16.142</dssize>
+<formname>ESRI Shaprfile</formname>
+<formvern>2011</formvern>
+<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<accinstr>NTAD is available for download at www.bts.gov/programs/geographic_information_services.  The NTAD DVD can also be ordered from the online bookstore at www.bts.gov.</accinstr>
+</onlinopt>
+<offoptn>
+<offmedia>DVD</offmedia>
+<recfmt>ISO 9660</recfmt>
+</offoptn>
+</digtopt>
+</digform>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University Geographic Information Systems Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+<address>16 Dearborn Ave</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<cntpos>GIS Data Technician</cntpos>
+</cntinfo>
+</distrib>
+<availabl>
+<timeinfo>
+<sngdate>
+<caldate>2011</caldate>
+</sngdate>
+</timeinfo>
+</availabl>
+</distinfo>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USBridges11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">16.142</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="USBridges11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">604493</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="USBridges11">
+<sdtstype Sync="TRUE">Entity point</sdtstype>
+<ptvctcnt Sync="TRUE">604493</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+<geograph>
+<geogunit Sync="TRUE">Decimal degrees</geogunit>
+<latres Sync="TRUE">0.000000</latres>
+<longres Sync="TRUE">0.000000</longres>
+</geograph>
+<geodetic>
+<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+<ellips Sync="TRUE">WGS_1984</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257224</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USBridges11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">604493</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<eainfo>
+<detailed Name="USBridges11">
+<enttyp>
+<enttypl Sync="TRUE">USBridges11</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">604493</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">STFIPS</attrlabl>
+<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdef>State FIPS Code</attrdef>
+<attrdefs>United States. Federal Highway Administration</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>Federal Information Processing Standard- FIPS Pub 6-4</codesetn>
+<codesets>National Institute for Standards and Technology (NIST)</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">REGION</attrlabl>
+<attalias Sync="TRUE">REGION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdef>The FHWA region in which the bridge exists</attrdef>
+<attrdefs>United States. Federal Highway Administration</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+<codesets>Federal Highway Administration</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM8</attrlabl>
+				<attrdef>Structure Number</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">15</attwidth>
+				<attalias Sync="TRUE">ITEM8</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM5A</attrlabl>
+				<attrdef>Record Type</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Route carried "on" the structure</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM5A</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM5B</attrlabl>
+				<attrdef>Route Signing Prefix</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Route carried "on" the structure</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM5B</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>U.S. numbered highway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>State highway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>County highway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>City street</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Federal lands road</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>State lands road</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Other (including toll roads not otherwise indicated)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM5C</attrlabl>
+				<attrdef>Designated Level of Service</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>8</edomv>
+<edomvd>Other (including toll roads not otherwise indicated)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM5C</attalias>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>None of the below</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Mainline</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Alternate</edomvd>
+<edomvds>United States. Federal Highway Administration </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Bypass</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Spur</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Business</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Ramp, Wye, Connector, etc.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Service and/or unclassified frontage road</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM5D</attrlabl>
+				<attrdef>Route Number</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">5</attwidth>
+				<attalias Sync="TRUE">ITEM5D</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM5E</attrlabl>
+				<attrdef>Directional Suffix</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM5E</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM2</attrlabl>
+				<attrdef>Highway Agency District</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM2</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM3</attrlabl>
+				<attrdef>County (Parish) Code	</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM3</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM4</attrlabl>
+				<attrdef>Place Code</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">5</attwidth>
+				<attalias Sync="TRUE">ITEM4</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM6A</attrlabl>
+				<attrdef>Features Intersected	</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">24</attwidth>
+				<attalias Sync="TRUE">ITEM6A</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM6B</attrlabl>
+				<attrdef>Critical Facility Indicator</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM6B</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM7</attrlabl>
+				<attrdef>Facility Carried By Structure</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">18</attwidth>
+				<attalias Sync="TRUE">ITEM7</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM9</attrlabl>
+				<attrdef>Location</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">25</attwidth>
+				<attalias Sync="TRUE">ITEM9</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM10</attrlabl>
+				<attrdef>Inventory Route/Min Vert Clearance</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>9999</edomv>
+<edomvd>No clearance needed/no restriction exists.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM10</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM11</attrlabl>
+				<attrdef>Kilometerpoint, or the linerar referece used to establish the location of the bridge on the Base Highway Network</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom/>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">7</attwidth>
+				<attalias Sync="TRUE">ITEM11</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM12</attrlabl>
+				<attrdef>Base Highway Network</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0</edomv>
+<edomvd>Inventory route is not in the Base Network</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM12</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Inventory route is on the base network</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM13A</attrlabl>
+				<attrdef>LRS Inventory Route.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0, or blank</edomv>
+<edomvd>When ITEM12 has been coded 0</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attalias Sync="TRUE">ITEM13A</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>ITEM12 has been coded 1</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM13B</attrlabl>
+				<attrdef>Subroute Number</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM13B</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM16</attrlabl>
+				<attrdef>Latitude</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<attalias Sync="TRUE">ITEM16</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM17</attrlabl>
+				<attrdef>Longitude</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">9</attwidth>
+				<attalias Sync="TRUE">ITEM17</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM19</attrlabl>
+				<attrdef>Bypass/Detour Length in kilometers</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM19</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM20</attrlabl>
+				<attrdef>Toll information</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Toll bridge. Tolls are paid specifically to use the structure.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM20</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>On that toll road. The structure carries a toll road, that is, tolls are paid to use the facility, whcih includes both the highway and the structure</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>On free road. The structure is toll-free and carries a toll-free highway.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>On Interstate toll segment under Secretarial agreement. Structure functions as part of the toll segment.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Toll bridge is under Secretarial Agreement. Structure is separate agreement from hgihway segment</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM21</attrlabl>
+				<attrdef>Maintenance Responsibility-- the actual names of the agencies responsible for the maintenance of the structure.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>01</edomv>
+<edomvd>State highway agency</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM21</attalias>
+<attrdomv>
+<edom>
+<edomv>02</edomv>
+<edomvd>County highway agency</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>03</edomv>
+<edomvd>Town or township highway agency</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>04</edomv>
+<edomvd>City or municipal highway agency</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>11</edomv>
+<edomvd>State park, forest, or reservation agency</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>12</edomv>
+<edomvd>Loal park, forest, or reservation agency</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>21</edomv>
+<edomvd>Other state agencies</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>25</edomv>
+<edomvd>Other local agencies</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>26</edomv>
+<edomvd>Private (other than railroad)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>27</edomv>
+<edomvd>Railroad</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>31</edomv>
+<edomvd>State toll authority</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>32</edomv>
+<edomvd>Local toll authority</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>60</edomv>
+<edomvd>Other federal agencies</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>61</edomv>
+<edomvd>Indian tribal government</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>62 </edomv>
+<edomvd>Bureau of Indian affairs</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>63</edomv>
+<edomvd>Bureau of fish and wildlife services</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>64</edomv>
+<edomvd>U.S. Forest service</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>66</edomv>
+<edomvd>National park service</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>67</edomv>
+<edomvd>Tennessee Valley Authority</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>68</edomv>
+<edomvd>Bureau of land management</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>69</edomv>
+<edomvd>Bureau of reclamation</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>70</edomv>
+<edomvd>Corps of civil engineers</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>71</edomv>
+<edomvd>Corps of military engineers</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>72</edomv>
+<edomvd>Air force</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>73</edomv>
+<edomvd>Navy/marines</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>74</edomv>
+<edomvd>Army</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>75</edomv>
+<edomvd>NASA</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>76</edomv>
+<edomvd>Metropolitan Washington Airports Service</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>80</edomv>
+<edomvd>Unknown</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM22</attrlabl>
+				<attrdef>Names of the owner(s) of the bridge</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM22</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM26</attrlabl>
+				<attrdef>Functional Class Of Inventory Route</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>01</edomv>
+<edomvd>Rural, Principal arterial-interstate</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM26</attalias>
+<attrdomv>
+<edom>
+<edomv>02</edomv>
+<edomvd>Rural, Principal arterial-other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>06</edomv>
+<edomvd>Rural, Minor arterial</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>07</edomv>
+<edomvd>Rural, Major collector</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>08</edomv>
+<edomvd>Rural, Minor collector</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>09</edomv>
+<edomvd>Rural, Local</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>11</edomv>
+<edomvd>Urban principal arterial-interstate</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>12</edomv>
+<edomvd>Urban principal arterial-other freeways or expressway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>14</edomv>
+<edomvd>Urban-Other principal arterial</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>16</edomv>
+<edomvd>Urban-Minor arterial</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>17</edomv>
+<edomvd>Urban collector</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>19</edomv>
+<edomvd>Urban-local</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM27</attrlabl>
+				<attrdef>Year Built</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM27</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM28A</attrlabl>
+				<attrdef>Number of lanes on the bridge</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM28A</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM28B</attrlabl>
+				<attrdef>Average daily traffic</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM28B</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM29</attrlabl>
+				<attrdef>Average Daily Traffic</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">6</attwidth>
+				<attalias Sync="TRUE">ITEM29</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM30</attrlabl>
+				<attrdef>Year Of Average Daily Traffic</attrdef>
+				<attrdefs>Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM30</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM31</attrlabl>
+				<attrdef>Design Load</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>M9, H10</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM31</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>M 13.5, H 15</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>MS 13.5, HS 15</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>M18, H20</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>MS18, HS 20</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>MS18+Mod, HS 20+Mod</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Pedestrian</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Railroad</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>MS 22.5, HS 25</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Other, or unknown</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM32</attrlabl>
+				<attrdef>Approach Roadway Width</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM32</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM33</attrlabl>
+				<attrdef>Bridge Median. Indicates with a 1 digit code the nature of the median</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0</edomv>
+<edomvd>No median</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM33</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Open median</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Closed median</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Closed median with non mountable barriers</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM34</attrlabl>
+				<attrdef>Skew angle between the centerline of a pier and a line normal to the roadway centerline</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>00</edomv>
+<edomvd>0 degrees</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM34</attalias>
+<attrdomv>
+<edom>
+<edomv>10</edomv>
+<edomvd>10 degrees</edomvd>
+<edomvds>United States. Federal Highway Administration </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>08</edomv>
+<edomvd>8 degrees</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>29</edomv>
+<edomvd>29 degrees</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM35</attrlabl>
+				<attrdef>Indicates if the structure is flared (ie the width of the structure varies)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0</edomv>
+<edomvd>No flare</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM35</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Yes, flared</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM36A</attrlabl>
+				<attrdef>Inspection of the bridge railings. Some factors affecting this are height, amterial, strength, and geometric features,</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0</edomv>
+<edomvd>Inspected feature does not meet currently acceptable standards or a saftey feature is required and none is provided</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM36A</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Inspected feature meets currently acceptable standards</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable or a safety feature is not required</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM36B</attrlabl>
+				<attrdef>Inspection of transitions. The transitions from guard rail to bridge requires that the approach guardrail be firmly attached to the bridge railing</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable or a safety feature is not required</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM36B</attalias>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Inspected feature does not meet currently acceptable standards or a safety feature is required and none provided</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Inspected feature meets currently acceptable standards</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM36C</attrlabl>
+				<attrdef>Approach guardrail. The structural adequacy and compatibility of approach guardrail with transition designs should be determined.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Inspected feature meets currently acceptable standards</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM36C</attalias>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Inspected feature does not meet currently acceptable standards or a safety feature is required and none provided</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable or a safety feature is not required</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM36D</attrlabl>
+				<attrdef>Approach guardrail ends. The ends of approach guardrails to bridges should be flared, buried, made breakway, or shielded.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Inspected feature meets currently acceptable standards</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM36D</attalias>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Inspected feature does not meet currently acceptable standards or a safety feature is required and none is provided</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable or a safety feature is not required</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM37</attrlabl>
+				<attrdef>Historical significance of the bridge.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Bridge is placed on the National Register of Historic Places</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM37</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Bridge is eligible for the National Register of Historic Places</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Bridge is possibly eligible for the National Register of Historic Places (requires further investigation before determination can be made) or bridge is on a State or local register)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Historical significance is not determinable at this time</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM38</attrlabl>
+				<attrdef>Navigation Control-- indicates for this item whether or not navigation control is required on the bridge</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable, no waterway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM38</attalias>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>No navigation control on waterway (bridge permit not required)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Navigation control on waterway (bridge permit required)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM39</attrlabl>
+				<attrdef>Navigation Vertical Clearance</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>If ITEM38=1</edomv>
+<edomvd>Record the minimum vertical clearance imposed at the site as measured above a datum that is specified on a navigation permit issued by a control agency</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM39</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM40</attrlabl>
+				<attrdef>Navigation Horizontal Clearance</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>If ITEM38=1</edomv>
+<edomvd>Record the horizontal clearance measurement imposed at the site that is shown on the navigation permit</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">5</attwidth>
+				<attalias Sync="TRUE">ITEM40</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM41</attrlabl>
+				<attrdef>This item provides information about the actual operational status of a structure.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>A</edomv>
+<edomvd>Open, no restriction</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM41</attalias>
+<attrdomv>
+<edom>
+<edomv>B</edomv>
+<edomvd>Open, posting recommended but not legally implemented (all signs not in place or not correctly implemented)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>D</edomv>
+<edomvd>Open, would be posted or closed expect for temporary shoring, etc. to allow for unrestricted access</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>E</edomv>
+<edomvd>Open, temporary structure in place to carry legal loads while original structure is clsoed and awaiting replacement or rehabilitation</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>G</edomv>
+<edomvd>New structure not yet open to traffic</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>K</edomv>
+<edomvd>Bridge closed to all traffic</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>P</edomv>
+<edomvd>Posted for load (may include other restrictions such as temporary bridges which are load posted)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>R</edomv>
+<edomvd>Posted for other load-capacity restriction (speed, number or vehicles on bridge, etc.)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM42A</attrlabl>
+				<attrdef>Type of Service On Bridge</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Highway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM42A</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Railroad</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Pedestrian-bicycle</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Highway-railroad</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Highway-pedestrian</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Overpass structure at an interchange or second level of a multilevel interchange</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Fourth level (interchange)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Third level (interchange)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Building or plaza</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM42B</attrlabl>
+				<attrdef>Type of Service Under Bridge</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0</edomv>
+<edomvd>Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM42B</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Highway, with or without pedestrian</edomvd>
+<edomvds>United States. Federal Highway Administration </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Railroad</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Pedestrian-bicycle</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Highway-railroad</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Waterway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Highway-waterway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Railroad-waterway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Highway-waterway-railroad</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Relief for waterway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM43A</attrlabl>
+				<attrdef>Kind of Material/Design</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Concrete</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM43A</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Concrete continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Steel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Steel continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Prestressed concrete</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Prestressed concrete continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Wood or timber</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Masonry</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Aluminum, wrought iron, or cast iron</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-01</edomv>
+<edomvd>Slab</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-02</edomv>
+<edomvd>Stringer/Muti-beam or Girder</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-03</edomv>
+<edomvd>Girder and floorbeam system</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-04</edomv>
+<edomvd>Tee beam</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-05</edomv>
+<edomvd>Box beam or girders (multiple)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-06</edomv>
+<edomvd>Box beam or girders-single or spread</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-07</edomv>
+<edomvd>Frame (except frame culverts)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-08</edomv>
+<edomvd>Orthotropic</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-09</edomv>
+<edomvd>Truss-deck</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-10</edomv>
+<edomvd>Truss-thru</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-11</edomv>
+<edomvd>Arch-deck</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-12</edomv>
+<edomvd>Arch-thru</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-13</edomv>
+<edomvd>Suspension</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-14</edomv>
+<edomvd>Stayed girder</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-15</edomv>
+<edomvd>Movable-lift</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-16</edomv>
+<edomvd>Movable-bascule</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-17</edomv>
+<edomvd>Movable-swing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-18</edomv>
+<edomvd>Tunnel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-19</edomv>
+<edomvd>Culvert</edomvd>
+<edomvds>United States. Federal Highway Administration </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-20</edomv>
+<edomvd>Mixed types</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-21</edomv>
+<edomvd>Segmental box girder</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-22</edomv>
+<edomvd>Channel beam</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-00</edomv>
+<edomvd>Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM43B</attrlabl>
+				<attrdef>Type of Design/Construction</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0</edomv>
+<edomvd>Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM43B</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Concrete</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Concrete continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Steel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Steel continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Prestressed concrete</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Prestressed concrete continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Wood or timber</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Masonry</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Aluminum, wrought iron, or cast iron</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-01</edomv>
+<edomvd>Slab</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-02</edomv>
+<edomvd>Stringer</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-03</edomv>
+<edomvd>Girder and floorbeam system</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-04</edomv>
+<edomvd>Tee Beam</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-05</edomv>
+<edomvd>Box beam or girders-multiple</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-06</edomv>
+<edomvd>Box beam or girders-single or spread</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-07</edomv>
+<edomvd>Frame (except frame culverts)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-08</edomv>
+<edomvd>Orthotropic</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-09</edomv>
+<edomvd>Truss-deck</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-10</edomv>
+<edomvd>Truss-thru</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-11</edomv>
+<edomvd>Arch-deck</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-12</edomv>
+<edomvd>Arch-thru</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-13</edomv>
+<edomvd>Suspension</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-14</edomv>
+<edomvd>Stayed girder</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-15</edomv>
+<edomvd>Movable-lift</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-16 </edomv>
+<edomvd>Movable- Bascule</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-17</edomv>
+<edomvd>Movable- Swing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-18</edomv>
+<edomvd>Tunnel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-19</edomv>
+<edomvd>Culvert (includes frame culverts)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-20</edomv>
+<edomvd>Mixed types</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-21</edomv>
+<edomvd>Segmental box girder</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-22</edomv>
+<edomvd>Channel beam</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>00</edomv>
+<edomvd>Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM44A</attrlabl>
+				<attrdef>Kind of Material/Design</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Concrete</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM44A</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Concrete continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Steel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Steel continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Prestressed concrete</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Prestressed concrete continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Wood or timber</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Masonry</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Aluminum, wrought iron, or cast iron</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>20</edomv>
+<edomvd>Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-01</edomv>
+<edomvd>Slab</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-02</edomv>
+<edomvd>Stringer/multi-beam or grinder</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-03</edomv>
+<edomvd>Girder and floorbeam system</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-04</edomv>
+<edomvd>Tee Beam</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-05</edomv>
+<edomvd>Box beam or girders-multiple</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-06</edomv>
+<edomvd>Box beam or girders-single or spread</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-07</edomv>
+<edomvd>Frame (except frame culverts)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-08</edomv>
+<edomvd>Orthotropic</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-09</edomv>
+<edomvd>Truss-deck</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-10</edomv>
+<edomvd>Truss-thru</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-11</edomv>
+<edomvd>Arch-deck</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-12</edomv>
+<edomvd>Arch-thru</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-13</edomv>
+<edomvd>Suspension</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-14</edomv>
+<edomvd>Stayed girder</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-15</edomv>
+<edomvd>Movable-lift</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-16</edomv>
+<edomvd>Movable-bascule</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-17</edomv>
+<edomvd>Movable-swing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-18</edomv>
+<edomvd>Tunnel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-19</edomv>
+<edomvd>Culvert (includes frame culverts)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-20</edomv>
+<edomvd>Mixed types</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-21</edomv>
+<edomvd>Segmental box girder</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-22</edomv>
+<edomvd>Channel beam</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM44B</attrlabl>
+				<attrdef>Type of Design/Construction</attrdef>
+				<attrdefs>Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Concrete</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM44B</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Concrete continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Steel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Steel continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Prestressed concrete</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Prestressed concrete continuous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Wood or timber</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Masonry</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Aluminum, wrought iron, or cast iron</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>20</edomv>
+<edomvd> Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-01</edomv>
+<edomvd>Slab</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-02</edomv>
+<edomvd>Stringer/multi-beam or girder</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-03</edomv>
+<edomvd>Girder and floorbeam system</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-04</edomv>
+<edomvd>Tee beam</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-05</edomv>
+<edomvd>Box beam or girders-single or spread</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-06</edomv>
+<edomvd>Box beam or girders-single or spread</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-07</edomv>
+<edomvd>Frame (except frame culverts)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-08</edomv>
+<edomvd>Orthotropic</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-09</edomv>
+<edomvd>Truss-deck</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-10</edomv>
+<edomvd>Truss-thru</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-11</edomv>
+<edomvd>Arch-deck</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-12</edomv>
+<edomvd>Arch-thru</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-13</edomv>
+<edomvd>Suspension</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-14</edomv>
+<edomvd>Stayed girder</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-15</edomv>
+<edomvd>Movable-lift</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-16</edomv>
+<edomvd>Movable-Bascule</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-17</edomv>
+<edomvd>Movable-Swing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-18</edomv>
+<edomvd>Tunnel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-19</edomv>
+<edomvd>Culvert (includes frame culverts)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-20</edomv>
+<edomvd>Mixed types</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-21</edomv>
+<edomvd>Segmental box girder</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>-22</edomv>
+<edomvd>Channel beam</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM45</attrlabl>
+				<attrdef>Number Of Spans In Main Unit</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM45</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM46</attrlabl>
+				<attrdef>Number Of Approach Spans</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM46</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM47</attrlabl>
+				<attrdef>Inventory Route Total Horizontal Clearance, measured between the restrictive features (curbsm, rails, walls, etc.)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM47</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM48</attrlabl>
+				<attrdef>Length Of Maximum Span (measured along the centerline of the bridge)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">5</attwidth>
+				<attalias Sync="TRUE">ITEM48</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM49</attrlabl>
+				<attrdef>Structure Length (meters)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">6</attwidth>
+				<attalias Sync="TRUE">ITEM49</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM50A</attrlabl>
+				<attrdef>Left Curb/Sidewalk Width (meters)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM50A</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM50B</attrlabl>
+				<attrdef>Right Curb/Sidewalk Width (meters)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM50B</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM51</attrlabl>
+				<attrdef>Bridge Roadway Width Curb-To-Curb (meters)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM51</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM52</attrlabl>
+				<attrdef>Deck Width/Out-To-Out (meters)</attrdef>
+				<attrdefs>Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM52</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM53</attrlabl>
+				<attrdef>Minimum Vertical Clearance Over Bridge Roadway (meters)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM53</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM54A</attrlabl>
+				<attrdef>Reference Feature (the structure from which minimum vertical clearance is measured)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>H</edomv>
+<edomvd>Highway beneath the structure</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM54A</attalias>
+<attrdomv>
+<edom>
+<edomv>R</edomv>
+<edomvd>Railroad beneath the structure</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Feature not a highway or railroad</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM54B</attrlabl>
+				<attrdef>Minimum Vertical Under Clearance (measured in meters)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM54B</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM55A</attrlabl>
+				<attrdef>Reference Feature (feature from which the mimum underclearance is measured)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>N</edomv>
+<edomvd>Feature not a highway or railroad</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM55A</attalias>
+<attrdomv>
+<edom>
+<edomv>H</edomv>
+<edomvd>Highway beneath the structure</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>R</edomv>
+<edomvd>Railroad beneath structure</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM55B</attrlabl>
+				<attrdef>Minimum Lateral Under Clearance (measured in meters)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM55B</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM56</attrlabl>
+				<attrdef>Minimum Lateral Under Clearance On Left</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>R</edomv>
+<edomvd>Railroad beneath structure</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM56</attalias>
+<attrdomv>
+<edom>
+<edomv>H</edomv>
+<edomvd>Highway beneath structure</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Feature not a highway or a railroad</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM58</attrlabl>
+				<attrdef>Describes the overall condition of the deck</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable</edomvd>
+<edomvds>United States. Federal Highway AdministrationUnited States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM58</attalias>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Excellent condition</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Very good condition-no problems noted</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Good condition- some minor problems.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Satisfactory condition-structural elements show some minor deterioration</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Fair condition- All primary structural elements are sound by may have minor section loss, cracking, spalling or scour</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Poor condition-Advanced section loss, deterioration, spalling, or scour</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Serious condition-Loss of section, deterioration, spalling, or scour have seriously affected primary structural component. Local failures are possible. Fatigure cracks in steel or shear cracks in concrete may be present. </edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2 </edomv>
+<edomvd>Critical condition- Advanced deterioration of primary structural elements. Fatigue cracks in steel or shear cracks in concrete may be present or scour may have removed substructure support. Unless closely monitored it may be necessary to close the bridge until corrective action is taken.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Imminent failure condition - major deterioration or section loss present in critical structural components or obvious vertical or horizontal movement affecting structure stability. Bridge is closed to traffic but corrective action may put back in light service.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Failed condition- out of service - beyond corrective action</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM59</attrlabl>
+				<attrdef>Overall condition of the superstructure.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable</edomvd>
+<edomvds>United States. Federal Highway AdministrationUnited States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM59</attalias>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Excellent condition</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Very good condition - no problems noted</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Good condition- some minor problems</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Satisfactory condition- structural elements show some minor deterioration</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Fair condition - All primary structural elements are sound but may have minor section loss, cracking, spalling, or scour</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Poor condition - Advanced section loss, deterioration, spalling, or scour</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Serious condition - loss of section, deterioration, spalling or scour have seriously affected primary structural components. Local failures are possible. Fatigure cracks in steels or shear cracks in concrete may be presents.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Critical condition- Advanced deterioration of primary structural elements. Fatigue cracks in steel or shear cracks in concrete may be present or scour may have removed substructure support. Unless closely monitored it may be necessary to close the bridge until corrective action is taken.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Imminent failure condition - major deterioration or section loss present in critical structural components or obvious vertical or horiztonal movement affecting structure stability. Bridge is closed to traffic but corrective action may put back in light service.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Failed condition - Out of service. Beyond corrective action.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM60</attrlabl>
+				<attrdef>Substructure-- describes the physical condition of piers, abutements, piles, fenders, footings, or other components.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM60</attalias>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Excellent condition</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Very good condition - No problems noted</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7 </edomv>
+<edomvd>Good condition - some minor problems</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Satisfactory condition- structural elements show some minor deterioration</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Fair condition - All primary structural elements are sound but may have minor section loss, cracking, spalling, or scour</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Poor condition- Advanced section loss, deterioration, spalling or scour</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Serious condition - Loss of section, deterioration, spalling or scour have seriously affected primary structural components. Local failures are possible. Fatigue cracks in steel or shear cracks in conrete may be present.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Critical condition - Advanced deterioration of primary structural elements. Fatigue cracks in steel or shear cracks in concrete msy be present or scour may have removed substructure support. Unless closely  monitored it may be necessary to close the bridge until corrective action is taken</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Imminent failure condition- major deterioration or section loss present in critical structural components or obvious vertical or horizontal movement affecting structure stability. Bridge is closed to traffic but corrective action may put back in light service</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Failed Condition - Out of service, beyond corrective action</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM61</attrlabl>
+				<attrdef>Describes the physical conditions associated witht he flow of water through the bridge such as stream stability and the condition of the devices.</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM61</attalias>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>There are no noticeable or noteworthy deficiences which affect the condition of the channel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Banks are protected or well vegetated. River control devices such as spur dikes and embankment protection are not required or are in stable condition</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Bank protection is in need of minor repairs. River control devices and embankment protection have a little minor damage. Banks and/or channel have minor amounts of drift.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Bank is beginning to slump. River control devices and embankment protection have widespread minor damagae. There is minor stream bed movement evident. Debris is restricting the channel slightly.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Bank protection is being eroded. River control devices and/or embankment have major damage. Trees and brush restrict the channel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Bank and embankment protection is severly undermined. River control devices have severe damage. Large deposits of debris are in the channel.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Bank protectionhas failed. River control devices have been destroyed. Stream bed aggradation, degradation, or lateral movement has changed the channel to now threaten the bridge and/or approach roadway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>The channel has changed to the extent the bridge is near a state of collapse</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Bridge closed because of channel failure. Corrective action may put back in light service.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Bridge closed because of channel failure. Replacement necessary.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM62</attrlabl>
+				<attrdef>Evaluates the alignment, settlement, joints, structural  condition, scour, and other items associated with culverts</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable. Use if structures is not a culvert</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM62</attalias>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>No deficiencies</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>No noticeable or noteworthy deficiencies which affect the condition of the culvert. Insignificant scrape marks caused by drift.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Shrinkage cracks, light scaling, and insignificant spalling which does not expose reinforcing steel. Insignificant damage caused  by drift with no misalignment and not requiring corrective action. Some minor scouring has occurred near curtain walls, wingwalls, or pipes. Metal culverts have a smooth symmetrical curvature with superficial corrosion and no pitting </edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM63</attrlabl>
+				<attrdef>Method Used To Determine Operating Rating</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM63</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Load factor (LF)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Allowable stress (AS)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Load and resistance factor (LRFR)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Load testing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>No rating analysis performed</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM64</attrlabl>
+				<attrdef>The capacity rating in metric tons</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM64</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM65</attrlabl>
+				<attrdef>Method Used To Determine Inventory Rating</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Load factor (LF)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM65</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Allowable stress (AS)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Load and resistance factor (LRFR)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Load testing</edomvd>
+<edomvds>United States. Federal Highway Administration </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>No rating analysis performed</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM66</attrlabl>
+				<attrdef>Iventory rating, a capacity rating which will result in a load level which can safely utilize an existing structure for an indefinite period of time in metric tons</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM66</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM67</attrlabl>
+				<attrdef>Structural Evaluation, calculated by the edit/update program based on Table 1</attrdef>
+				<attrdefs>Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM67</attalias>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Superior to present desirable criteria</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Equal to present desirable criteria</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Better than present minimum criteria</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Equal to present minumim criteria</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Somewhat better than minimum adequacy to tolerative being left in place as is</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Meets minimum tolerable limits to be left in place as is</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Basically intolerable requiring high prioroty of corrective action</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Basically intolerable requiring high priority of replacement</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>This value of rating code not used</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Bridge closed</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM68</attrlabl>
+				<attrdef>Deck Geometry, calculated by the edit/update program and need not be coded by the bridge inspector</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM68</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM69</attrlabl>
+				<attrdef>Rating by clearance of minimum vertical underclearance</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM69</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM70</attrlabl>
+				<attrdef>National bridge posting-- on the national ispection standards, which required the posting of load limits only if the maximum legal load configurations in the state exceeds the load permitted under the operating rating</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>5</edomv>
+<edomvd>Equal to or above legal loads</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM70</attalias>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>0.1-9.9% below</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>10.0-19.9% below</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>20.0-29.9% below</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>30.0-39.9% below</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>&amp;gt;39.9% below</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM71</attrlabl>
+				<attrdef>This item appraises the waterway opening with respect to passage of flow through the bridge</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>N</edomv>
+<edomvd>Bridge not over a waterway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM71</attalias>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Bridge deck and roadway approaches above flood water elevations (high water). Chance of overtopping is remote</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Bridge deck above roadway approaches. Slight chance of overtopping roadway approaches.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Slight change of overtopping bridge deck and roadway approaches</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Bridge deck above roadway approaches. Occasional overtopping of roadway approaches with insiginificant traffic delays</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Bridge deck above roadway approaches. Occasional overtopping of roadway approaches with significant traffic delays</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Occasional overtopping of bridge deck and roadway approaches with significant traffic delays</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Frequent overtopping of bridge deck and roadway approaches with signficant traffic delays</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Occasional or frequent overtopping of bridge deck and roadway approaches with severe traffic delays</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Bridge closed</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">ITEM72</attrlabl>
+<attalias Sync="TRUE">ITEM72</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Bridge not over a waterway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Bridge deck and roadway approaches above flood water elevations</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Bridge deck above roadway approaches. Slight chance of overtopping roadway approaches</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Sight chance of overtopping bridge deck and roadway approaches</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Bridge deck above roadway approaches. Occasional overtopping of roadway approaches with insignificant traffic delays</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Bridge deck above roadway approaches. Occasional overtopping of roadway approaches with significant traffic delays</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Occasional overtopping of bridge deck and roadway approaches with significant traffic delays</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Frequent overtopping of bridge deck and rodway approaches with significant traffic delays</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Occasional or frequent overtopping of bridge deck and roadway approaches with severe traffic delays</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Identified the bridges which do not function properly or adequatley due to the alignment of the approaches</attrdef>
+<attrdefs>United States. Federal Highway Administration</attrdefs>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Bridge closed</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+				<attrlabl>ITEM75A</attrlabl>
+				<attrdef>Type of Work Proposed</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>31 </edomv>
+<edomvd>Replacement of bridge or other structure because of substandard load carrying capacity or substandard bridge roadway geometery</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM75A</attalias>
+<attrdomv>
+<edom>
+<edomv>32</edomv>
+<edomvd>Replacement of bridge or other structure because of relocation of road</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>33</edomv>
+<edomvd>Widening of existing bridge or other major structure without deck rehabiliation or replacement; includes culvert lengthening</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>34</edomv>
+<edomvd>Widening of existing bridge with deck rehabilitation or replacement</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>35</edomv>
+<edomvd>Bridge rehabilitation because of general structure deterioration of inadequate strength</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>36</edomv>
+<edomvd>Bridge deck rehabilitation with only incidental widening</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>37</edomv>
+<edomvd>Bridge deck replacement with only incidental widening</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>38</edomv>
+<edomvd>Other structural work, including hydraulic replacement</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM75B</attrlabl>
+				<attrdef>Work Done By</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Work to be done by contract</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM75B</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Work to be done by owner's forces</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM76</attrlabl>
+				<attrdef>Length of the proposed bridge improvement to the nearest tenth of a meters (with an assumed decimal point)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">6</attwidth>
+				<attalias Sync="TRUE">ITEM76</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM90</attrlabl>
+				<attrdef>Record the month and year that the last routine inspection of the structure was performed in MMYY format</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM90</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM91</attrlabl>
+				<attrdef>Code 2 digits to represent the number of months designated  inspections of the structure</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM91</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM92A</attrlabl>
+				<attrdef>Fracture Critical Details</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM92A</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM92B</attrlabl>
+				<attrdef>Underwater Inspection</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM92B</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM92C</attrlabl>
+				<attrdef>Other Special Inspection</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM92C</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM93A</attrlabl>
+				<attrdef>Fracture Critical Details Date</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM93A</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM93B</attrlabl>
+				<attrdef>Underwater Inspection Date</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM93B</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM93C</attrlabl>
+				<attrdef>Other Special Inspection Date</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM93C</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM94</attrlabl>
+				<attrdef>Bridge Improvement Cost. Amount formatted in such format ($55,850=000056).</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">6</attwidth>
+				<attalias Sync="TRUE">ITEM94</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM95</attrlabl>
+				<attrdef>Roadway Improvement Cost</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">6</attwidth>
+				<attalias Sync="TRUE">ITEM95</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM96</attrlabl>
+				<attrdef>Total Project Cost</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">6</attwidth>
+				<attalias Sync="TRUE">ITEM96</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM97</attrlabl>
+				<attrdef>Year Of Improvement Cost Estimate</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM97</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM98A</attrlabl>
+				<attrdef>Neighboring State Code</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">3</attwidth>
+				<attalias Sync="TRUE">ITEM98A</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM98B</attrlabl>
+				<attrdef>Percent Responsibility</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM98B</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM99</attrlabl>
+				<attrdef>Border Bridge Structure Number</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0</edomv>
+<edomvd>The inventory route is not a STRAHNET route</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">15</attwidth>
+				<attalias Sync="TRUE">ITEM99</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>The inventory route is on an Interstate STRAHNET route</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>The inventory route is on a non-interstate STRAHNET route</edomvd>
+<edomvds>United States. Federal Highway Administration </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>The inventory route is on a STRAHNET connector route</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM100</attrlabl>
+				<attrdef>STRAHNET Highway Designation</attrdef>
+				<attrdefs>Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>3</edomv>
+<edomvd>The inventory route is on a STRAHNET connector route</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM100</attalias>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>The inventory route is not a STRAHNET route</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>The inventory route is on an Interstate STRAHNET route</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>The inventory route is on a non-interstate STRAHNET route</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM101</attrlabl>
+				<attrdef>Code this item to indicate situations where separate structures carry the inventory route in opposite directions of travel over the same features</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>R</edomv>
+<edomvd>The right structure of parallel bridges carrying the roadway in the direction of the inventory</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM101</attalias>
+<attrdomv>
+<edom>
+<edomv>L</edomv>
+<edomvd>The left structure of parallel bridges. This structure carries traffic in the opposite direction</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>No parallel structure exists</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM102</attrlabl>
+				<attrdef>Code the direction of traffic of the inventory route identified in Item 4 as a 1-digit number using one of the codes listed</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0</edomv>
+<edomvd>Highway traffic not carried</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM102</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>1-way traffic</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>2-way traffic</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>One lane bridge for 2-way traffic</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM103</attrlabl>
+				<attrdef>Indicates situations where temporary structures or conditions exist</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>T</edomv>
+<edomvd>Temporary structure or conditions exist</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM103</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM104</attrlabl>
+				<attrdef>Indicates if the record is on the national highway system</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0</edomv>
+<edomvd>Inventory route is not on the NHS</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM104</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Inventory route is on the NHS</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM105</attrlabl>
+				<attrdef>Structures owned by state and local jurisdictions on roads which lead to and traverse through federal lands sometimes require special coded unique identification because they are eligible to receieve funding from the Federal  Lands Highway Program</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0</edomv>
+<edomvd>Not applicable</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM105</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Indian reservation road (IRR)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Forest highway (FH)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Land management highway system (LMHS)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Both IRR and FH</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Both IRR and LMHS</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Both FH and LMHS</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Combined IRR, FH, and LMHS</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM106</attrlabl>
+				<attrdef>Year Reconstructed</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM106</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM107</attrlabl>
+				<attrdef>Record the type of deck system on the bridge</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Concrete cast-in-place</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM107</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Concrete precast panels</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Open grating</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Closed grating</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Steel plate</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Corrugated steel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Aluminum</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Wood or timber</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM108A</attrlabl>
+				<attrdef>Type of Wearing Surface</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Monolithic concrete (concurrently placed with structural deck)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM108A</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Integral concrete (separate non-modified layer of concrete added to structural deck)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Latex concrete or similiar additive</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Low slump concrete</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Epoxy overlay</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Bituminous</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Wood timber</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Gravel</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>None (no additional concrete thickness or wearing surface is included in the bridge deck)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable (applies only to structures with no deck)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM108B</attrlabl>
+				<attrdef>Type of Membrane</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Built-up</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM108B</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Preformed fabric</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Epoxy</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Unknown</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable (applies only to structures with no  deck)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM108C</attrlabl>
+				<attrdef>Deck Protection</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Epoxy coated reinforcing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM108C</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Galvanized reinforcing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Other coated reinforcing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Cathodic protection</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Epoxy coated reinforcing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Galvanized reinforcing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Other coated reinforcing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Cathodic protection</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6 </edomv>
+<edomvd>Polymer impregnated</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Internally sealed</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Unknown</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Other</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>None</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>Not applicable (applies only to structures with no deck)</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM109</attrlabl>
+				<attrdef>Average Daily Truck Traffic (indicates by percentage, so 007 is 7%)</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">ITEM109</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM110</attrlabl>
+				<attrdef>Designated National Network</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>0</edomv>
+<edomvd>Inventory route is not part of the national network for trucks</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM110</attalias>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>The inventory route is part of the national network for trucks</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM111</attrlabl>
+				<attrdef>Pier/Abutment Protection</attrdef>
+				<attrdefs>Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Navigation protection not required</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM111</attalias>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>In place and functioning</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>In place but in a deteriorated condition</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>In place but reevaluation of design suggested</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>None present but reevaluation suggested</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM112</attrlabl>
+				<attrdef>NBIS Bridge Length -- does it meet or exceed the minimum length specified to be designated as a bridge for National Bridge Inspection Standards purposes?</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>Y</edomv>
+<edomvd>Yes</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM112</attalias>
+<attrdomv>
+<edom>
+<edomv>N</edomv>
+<edomvd>No</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM113</attrlabl>
+				<attrdef>Use a single digit code as indicated below to identify the current status of the bridge regarding its vulnerability to scour</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>N</edomv>
+<edomvd>Bridge not over waterway</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">ITEM113</attalias>
+<attrdomv>
+<edom>
+<edomv>U</edomv>
+<edomvd>Bridge with "unknown" foundation that has not been evaluated for scour. Since risk cannot be determined, flag for monitoring during flood events and, if appropriate, closure</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>T</edomv>
+<edomvd>Bridge over "tidal" water that has not been evaluated for scour, but considered low risk. Bridge will be monitored with regular inspection cycle and with appropriate underwater inspections</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>9</edomv>
+<edomvd>Bridge foundations (including piles) on dry 1 and well above flood water elevations</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>8</edomv>
+<edomvd>Bridge foundations determined to be stable for assessed or calculated scour conditions; calculated scour is above top of footing</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>7</edomv>
+<edomvd>Countermeasures have been installed to correct a previously existing problems with scour</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>6</edomv>
+<edomvd>Scour calculation/evaluation has not been made.</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>5</edomv>
+<edomvd>Bridge foundations determined to be stable for calculated scour conditions' scour within limits of footing or piles</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvd>Bridge foundations determined to be stable for calculated scour conditions; field review indicates action is required to protect exposed foundations from effects of additional erosion and corrosion</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvd>Bridge is scour critical; bridge foundations determined to be unstable for calculated scour conditions</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvd>Bridge is scour critical; field review indicates that extensive scour has occured at the bridge foundations. Immediate action is required to provide scour countermeasures</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Bridge is scour critical; field review indicates that failure of piers/abutements is imminent. Bridge is closed to traffic</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Bridge is scour critical. Bridge has failed and is closed to traffic</edomvd>
+<edomvds>United States. Federal Highway Administration</edomvds>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+				<attrlabl>ITEM114</attrlabl>
+				<attrdef>Future Average Daily Traffic</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">6</attwidth>
+				<attalias Sync="TRUE">ITEM114</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM115</attrlabl>
+				<attrdef>Year of Future Average Daily Traffic</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM115</attalias>
+</attr>
+			<attr>
+				<attrlabl>ITEM116</attrlabl>
+				<attrdef>Minimum Navigation Vertical</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">ITEM116</attalias>
+</attr>
+			<attr>
+				<attrlabl>FUNDED</attrlabl>
+				<attrdef>Is Funded</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">FUNDED</attalias>
+</attr>
+			<attr>
+				<attrlabl>FEDERAL</attrlabl>
+				<attrdef>Is Funding Federal</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">FEDERAL</attalias>
+</attr>
+			<attr>
+				<attrlabl>WO</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">17</attwidth>
+				<attalias Sync="TRUE">WO</attalias>
+</attr>
+			<attr>
+				<attrlabl>DT</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">DT</attalias>
+</attr>
+			<attr>
+				<attrlabl>WO_2</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>United States. Federal Highway Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">16</attwidth>
+				<attalias Sync="TRUE">WO_2</attalias>
+</attr>
+			<attr>
+				<attrlabl>STAT</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Ststems Center</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>1</edomv>
+<edomvd>Structurally Deficient Bridge</edomvd>
+<edomvds>FHWA</edomvds>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>Functionally Obsolete Bridge</edomvd>
+<edomvds>FHWA</edomvds>
+</edom>
+<edom>
+<edomv>null</edomv>
+<edomvd>bridge in acceptable condition</edomvd>
+<edomvds>FHWA</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">STAT</attalias>
+</attr>
+			<attr>
+				<attrlabl>SR1</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<attalias Sync="TRUE">SR1</attalias>
+</attr>
+			<attr>
+				<attrlabl>SR2</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges</codesetn>
+						<codesets>Federal Highway Administration</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attalias Sync="TRUE">SR2</attalias>
+</attr>
+			<attr>
+				<attrlabl>STATUS</attrlabl>
+				<attrdef>Unknown attribute</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<edom>
+<edomv>AM</edomv>
+<edomvd>Bridge was automatically conflated to the TeleAtlas Road Network</edomvd>
+<edomvds>RITA</edomvds>
+</edom>
+<edom>
+<edomv>MM</edomv>
+<edomvd>Bridge was manually matched to the TeleAtlas Road Network</edomvd>
+<edomvds>RITA</edomvds>
+</edom>
+<edom>
+<edomv>ST</edomv>
+<edomvd>State Supplied Coordinates were used.  Not guaranteed to match any road network.</edomvd>
+<edomvds>RITA</edomvds>
+</edom>
+<edom>
+<edomv>XX</edomv>
+<edomvd>Bridge could not be located and is mapped to longitude-latitude 0-0.</edomvd>
+<edomvds>RITA</edomvds>
+</edom>
+</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attalias Sync="TRUE">STATUS</attalias>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">DATE</attrlabl>
+<attalias Sync="TRUE">DATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Date - month and year of the bridge's coordinates</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attrdomv>
+<udom>month and year of the bridge's coordinates</udom>
+</attrdomv>
+</attr>
+<attr>
+				<attrlabl>LONGDD</attrlabl>
+				<attrdef>Longitude Decimal Degrees</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<rdom>
+<rdommin>-180</rdommin>
+<rdommax>180</rdommax>
+</rdom>
+</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<attalias Sync="TRUE">LONGDD</attalias>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>LATDD</attrlabl>
+				<attrdef>Latitude Decimal Degrees</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<rdom>
+<rdommin>-90</rdommin>
+<rdommax>90</rdommax>
+</rdom>
+</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">12</attwidth>
+				<attalias Sync="TRUE">LATDD</attalias>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">STPOSTAL</attrlabl>
+<attalias Sync="TRUE">STPOSTAL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdef>U.S. Postal Service two letter state abbreviation.</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>U.S. Postal Service two letter state abbreviation.</codesetn>
+<codesets>U.S. Postal Service</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">VERSION</attrlabl>
+<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+<attrdef>Version of the Database</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>00</rdommin>
+<rdommax>99</rdommax>
+</rdom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11452400</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11453800</ModTime>
+<CreaDate>20110324</CreaDate>
+<CreaTime>11104200</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<DataProperties>
+<lineage>
+<Process Date="20100505" Time="092340" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append">Append C:\nbi_update\2009\shapes\s23nbi09_rev1.shp C:\nbi_update\2009\shapes\nbi09_final.shp TEST # # C:\nbi_update\2009\shapes\nbi09_final.shp</Process>
+</lineage>
+</DataProperties>
+<MetaID>{2EF6EE05-3DE2-4FCD-9EFF-6EFEFF0C9CA1}</MetaID>
+</Esri>
+<dataqual>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<title>National Bridge Inventory</title>
+<origin>FHWA</origin>
+<pubdate>2011</pubdate>
+<geoform>vector digital data</geoform>
+<serinfo>
+<sername>National Bridge Inventory</sername>
+</serinfo>
+<pubinfo>
+<pubplace>Washington DC</pubplace>
+<publish>FHWA</publish>
+</pubinfo>
+<onlink>http://www.fhwa.dot.gov/bridge/nbi.htm</onlink>
+</citeinfo>
+</srccite>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>2011</caldate>
+</sngdate>
+</timeinfo>
+</srctime>
+</srcinfo>
+<procstep>
+<procdesc>Conflated to TeleAtlas Road Network</procdesc>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University Geographic Information Systems Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 Am-5:00 PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Name changed from nbi to USBridges11.</procdesc>
+<procdate>20130326</procdate>
+</procstep>
+</lineage>
+<logic>RITA/BTS quality checks were to cross reference the NBI dataset with an up-to-date TeleAtlas dataset, to determine that the spatial data and attribute data were accurate.  For those bridges that were not matched to the TeleAtlas data, an attempt was made to use the State supplied longitude-latitude data contained in the NBI.  If the resulting point fell within the State, then that location was used.  If the point fell outside of the State, it is coded to longitude-latitude 0-0.  See the STATUS attribute for more information.</logic>
+</dataqual>
+</metadata>

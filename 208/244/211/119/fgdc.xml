@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Geological Survey (U.S.)</origin>
+				<pubdate>201403</pubdate>
+				<title>Streamflow Gaging Station Locations United States 2013</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Reston (Va.)</pubplace>
+					<publish>Geological Survey (U.S.)</publish>
+				</pubinfo>
+				<onlink>http://www.nationalatlas.gov/metadata/gages_x010g.faq.html</onlink>
+				<ftname Sync="TRUE">USStreamflowGageStations13</ftname>
+<lworkcit>
+<citeinfo>
+<origin>Geological Survey (U.S.)</origin>
+<pubdate>2014</pubdate>
+<title>National Atlas of the United States</title>
+<onlink>http://www.nationalatlas.gov/index.html</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset shows selected streamflow gaging stations of the United States, Puerto Rico, and the
+U.S. Virgin Islands, in 2013.  Gaging stations, or gages, measure the height (stage) and volume of
+flow at a point location on a water feature.  Gages in this map layer were drawn from the National
+Hydrography Dataset Plus (NHDPlus) Version 1 Stream Gage Events, NHDPlus Version 2 National
+Data - Gage Locations, and from the National Water Information System (NWIS) Web Interface.  The
+gage positions were adjusted (snapped) using ArcGIS so that the gages were located directly on
+streams in the National Atlas map layer, 1:1,000,000-Scale Streams of the United States.  The gages
+and streams also share attributes that link them together.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2013</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-165.755602</westbc>
+				<eastbc Sync="TRUE">-65.479939</eastbc>
+				<northbc Sync="TRUE">70.668322</northbc>
+				<southbc Sync="TRUE">17.986617</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-165.755602</leftbc>
+<rightbc Sync="TRUE">-65.479939</rightbc>
+<bottombc Sync="TRUE">17.986617</bottombc>
+<topbc Sync="TRUE">70.668322</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<place>
+				<placekt>GNIS</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Alaska</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>District of Columbia</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Hawaii</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+				<placekey>Puerto Rico</placekey>
+				<placekey>Virgin Islands</placekey>
+				<placekey>U.S. Virgin Islands</placekey>
+			</place>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>inlandWaters</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+</theme>
+<theme>
+<themekey>Drainage</themekey>
+<themekey>Hydrography</themekey>
+<themekey>Hydrology</themekey>
+<themekey>Stream-gaging stations </themekey>
+<themekey>Streamflow</themekey>
+<themekey>Water</themekey>
+<themekt>LCSH</themekt>
+<themekey>Flow meters</themekey>
+</theme>
+<place>
+<placekt>GNS</placekt>
+<placekey>United States of America.</placekey>
+</place>
+<place>
+<placekey>United States.</placekey>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational noncommercial use only. </useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey, National Atlas of the United States</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>Mailing and physical address</addrtype>
+					<address>U.S. Geological Survey</address>
+					<address>511 National Center</address>
+					<address>12201 Sunrise Valley Drive</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
+				<cntemail>atlasmail@usgs.gov</cntemail>
+				<cntinst>
+For questions about this map layer or metadata, please contact the National Atlas using the
+information above, or through the U.S. Geological Survey contact page at
+http://www.usgs.gov/ask/.  For distribution questions, please see the Distribution Information
+elsewhere in this metadata.
+</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+<crossref>
+<citeinfo/>
+</crossref>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.  </attraccr>
+			<qattracc>
+<attracce>The Gage_ID and Site_NO attributes were checked for duplicates and null values.  All features have
+unique values.
+
+The values for Site_TP_CD, Lat_NWIS, Long_NWIS, Lat_1M, and Long_1M were checked to ensure that
+there are no null values and that all values are in the correct domain.
+
+Values in the ReachCode field were checked to ensure that there are no null values.  They were
+cross-checked with the Huc8 and Region values, and were checked against the ReachCode for the
+corresponding stream in the National Atlas Streams 1:1,000,000-scale (1:1M) map layer.
+
+Values in the Stream_ID field were checked to ensure that there are no null values.  Stream_IDs
+were also compared to Stream_IDs in the National Atlas Streams 1:1M map layer to ensure that
+corresponding gages and streams have identical codes.
+
+Values in the Region and Huc8 fields were checked to ensure that there are no null values and all
+values are in the correct domain.  Selections by attribute and location were used to ensure the
+region code matches the region the gage is in.
+
+Values in the State and State_FIPS fields were checked to ensure that there are no null values and
+all values are in the correct domain.
+
+All remaining attribute fields were checked to ensure that there are no null values.</attracce>
+</qattracc>
+</attracc>
+		<logic>
+Stream gage positions were checked against streams in the National Atlas Streams 1:1M 2014 map layer
+to ensure that each gage has a corresponding 1:1M stream and no gage is associated with more than one
+stream.
+
+Stream_IDs and ReachCodes were compared to Stream_IDs and ReachCodes in the National Atlas Streams
+1:1M 2014 map layer to ensure that corresponding gages and streams have identical values.
+
+Stream gages downloaded from NWIS Web were compared to aerial imagery and topographic maps to ensure
+they are located on the correct stream.
+
+Attributes were checked for nulls and valid values.
+
+Stream gages were checked to ensure that they are within national boundaries and coastlines.
+</logic>
+		<complete>
+This map layer contains selected stream gages in the United States, Puerto Rico, and the U.S. Virgin
+Islands.  Sites were selected only if they were within the terrestrial and coastal boundaries of the
+U.S., they had a corresponding stream in the National Atlas Streams 1:1M map layer, they had one of
+the following site types:
+&amp;gt; Canal
+&amp;gt; Ditch
+&amp;gt; Diversion
+&amp;gt; Estuary
+&amp;gt; Lake, Reservoir, Impoundment
+&amp;gt; Spring
+&amp;gt; Stream
+&amp;gt; Tidal Stream
+&amp;gt; Wetland
+&amp;gt;
+and they had daily values in the following list of parameters:
+&amp;gt; 00060 - Streamflow, ft/s
+&amp;gt; 00065 - Gage height, ft
+&amp;gt; 00054 - Reservoir storage, acre-ft
+&amp;gt; 00053 - Surface Area, acres
+&amp;gt; 00055 - Stream velocity, ft/s
+&amp;gt; 00059 - Streamflow rate, gal/min
+&amp;gt; 00062 - Reservoir elevation, ft
+&amp;gt; 50042 - Discharge, gallons per minute
+&amp;gt; 50051 - Flow rate, instantaneous, million gallons per day
+&amp;gt; 72022 - Reservoir contents, M/gal
+&amp;gt; 99020 - Elevation above NGVD 1929, ft
+&amp;gt; 99060 - Streamflow, m/s
+&amp;gt; 99065 - Gage height, m
+</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+Most gages had their location reviewed during the creation of the NHDPlus version 1 and version 2
+source data and therefore reflect the accuracy of those sources.  Gages from NWIS Web had their
+location reviewed during the creation of this data set.  Gages were located on (snapped to)
+streams in the National Atlas Streams 1:1M 2014 map layer.  The streams had been generalized, and
+in some cases moved as much as 300 meters from nearby transportation features, so gages were
+relocated along with their corresponding stream.
+</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Environmental Protection Agency (USEPA)</origin>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>2006</pubdate>
+						<title>National Hydrography Dataset Plus Stream Gage Event</title>
+						<edition>1</edition>
+						<geoform>Vector digital data</geoform>
+						<othercit>
+To locate the stream gage data at the listed URL, select a data region.  The stream gage data
+are included in the Stream Gage Event zip files.
+</othercit>
+						<onlink>http://www.horizon-systems.com/NHDPlus/NHDPlusV1_data.php</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>1:1,000,000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2004</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>NHDPlus V1 Gages</srccitea>
+				<srccontr>
+Spatial and attribute information.  Served as source data from which the 1:1,000,000-scale map
+layer was created.
+</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>National Atlas of the United States</origin>
+						<pubdate>201208</pubdate>
+						<title>1:1,000,000-Scale Streams of the United States</title>
+						<edition>1</edition>
+						<geoform>Vector digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>1000000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>201208</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>National Atlas Streams 1:1M</srccitea>
+				<srccontr>
+Spatial and attribute information.  Gages were snapped to the 1:1,000,000-Scale Streams of the
+United States.  Streams were also used as a guide to determine location and attributes of stream
+gages obtained from NWIS Web.
+</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Environmental Systems Research Institute - ESRI</origin>
+						<pubdate>2009</pubdate>
+						<title>ESRI USA Topo Maps Map Service</title>
+						<geoform>Raster digital data</geoform>
+						<onlink>http://www.esri.com/software/arcgis/arcgisonline/maps/maps-and-map-layers</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2009</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>USA Topo Maps Map Service</srccitea>
+				<srccontr>Spatial and attribute information.  Used to identify location and attributes of stream gages.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>2010</pubdate>
+						<title>National Water Information System Web Interface</title>
+						<geoform>Tabular digital data</geoform>
+						<onlink>http://waterdata.usgs.gov/nwis</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2010</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>NWIS Web</srccitea>
+				<srccontr>
+Spatial and attribute information.  Served as source data from which the 1:1,000,000-scale map
+layer was created.
+</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Environmental Protection Agency (USEPA)</origin>
+						<origin>U.S. Geological Survey (USGS)</origin>
+						<pubdate>2006</pubdate>
+						<title>National Hydrography Dataset Plus NHDFlowline</title>
+						<edition>1</edition>
+						<geoform>Vector digital data</geoform>
+						<othercit>
+To locate the flowline data at the listed URL, select a data region.  The Flowline data are
+included in the NHD zip files.
+</othercit>
+						<onlink>http://www.horizon-systems.com/NHDPlus/NHDPlusV1_data.php</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2006</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>NHDPlus V1 NHDFlowline</srccitea>
+				<srccontr>
+Spatial and attribute information.  Used as a guide to determine location and attributes of
+stream gages obtained from NWIS Web.  Used for all areas except Alaska.
+</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>1999</pubdate>
+						<title>High-Resolution National Hydrography Dataset NHDFlowline</title>
+						<geoform>Vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<onlink>ftp://nhdftp.usgs.gov/DataSets/Staged/SubRegions/FileGDB/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1999</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>High-Resolution NHDFlowline</srccitea>
+				<srccontr>
+Spatial and attribute information.  Used as a guide to determine location and attributes of
+stream gages obtained from NWIS Web.  Used only for Alaska.
+</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Environmental Systems Research Institute - ESRI</origin>
+						<pubdate>2009</pubdate>
+						<title>ESRI Imagery World 2D Map Service</title>
+						<geoform>Raster digital data</geoform>
+						<onlink>http://www.esri.com/software/arcgis/arcgisonline/maps/maps-and-map-layers</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2009</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>ESRI Imagery World 2D</srccitea>
+				<srccontr>Spatial and attribute information.  Used to identify location and attributes of stream gages.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>National Atlas of the United States</origin>
+						<pubdate>201403</pubdate>
+						<title>1:1,000,000-Scale Streams of the United States</title>
+						<edition>2</edition>
+						<geoform>Vector digital data</geoform>
+						<onlink>http://nationalatlas.gov/atlasftp-1m.html</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>1000000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>201403</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>National Atlas Streams 1:1M 2014</srccitea>
+				<srccontr>Spatial and attribute information.  Gages were snapped to the streams.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Environmental Protection Agency (USEPA)</origin>
+						<origin>U.S. Geological Survey (USGS)</origin>
+						<pubdate>2013</pubdate>
+						<title>National Hydrography Dataset Plus Version 2 National Data - Gage Locations</title>
+						<edition>2</edition>
+						<geoform>Vector digital data</geoform>
+						<onlink>http://www.horizon-systems.com/NHDPlus/V2NationalData.php</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2013</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>NHDPlus V2 Gage Locations</srccitea>
+				<srccontr>
+Spatial and attribute information.  Served as source data from which the 1:1,000,000-scale map
+layer was created.
+</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Environmental Protection Agency (USEPA)</origin>
+						<origin>U.S. Geological Survey (USGS)</origin>
+						<pubdate>2013</pubdate>
+						<title>National Hydrography Dataset Plus Version 2 National Data - Gage Info</title>
+						<edition>2</edition>
+						<geoform>Tabular data</geoform>
+						<onlink>http://www.horizon-systems.com/NHDPlus/V2NationalData.php</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2013</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>NHDPlus V2 Gage Info</srccitea>
+				<srccontr>Attribute information.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey (USGS)</origin>
+						<pubdate>Unpublished material</pubdate>
+						<title>National Hydrography Dataset Plus Version 2 Gages</title>
+						<geoform>Vector digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>Internal file</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2014</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Compilation date</srccurr>
+				</srctime>
+				<srccitea>NHDPlus V2 Gages</srccitea>
+				<srccontr>Spatial and attribute information.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Environmental Protection Agency (USEPA)</origin>
+						<origin>U.S. Geological Survey (USGS)</origin>
+						<pubdate>2012</pubdate>
+						<title>National Hydrography Dataset Plus Version 2 NHDFlowline</title>
+						<edition>Version 2</edition>
+						<geoform>Vector digital data</geoform>
+						<othercit>
+To locate the flowline data at the listed URL, select a data region.  The Flowline data are
+included in the NHDSnapshot zip files.
+</othercit>
+						<onlink>http://www.horizon-systems.com/NHDPlus/NHDPlusV2_data.php</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2012</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>NHDPlus V2 NHDFlowline</srccitea>
+				<srccontr>Spatial and attribute information.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>National Atlas of the United States</origin>
+						<pubdate>201403</pubdate>
+						<title>1:1,000,000-Scale State Boundaries of the United States</title>
+						<edition>2</edition>
+						<geoform>Vector digital data</geoform>
+						<onlink>http://nationalatlas.gov/atlasftp-1m.html</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>1000000</srcscale>
+				<typesrc>Online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>201403</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication date</srccurr>
+				</srctime>
+				<srccitea>National Atlas States 1:1M 2014</srccitea>
+				<srccontr>
+Spatial and attribute information.  Used to determine the State code and State_FIPS code for
+gages.  Also used to determine if gages were within coastlines and national boundaries.
+</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+Selection of Gages from NHDPlus V1 Stream Gages
+
+Gages were obtained from the NHDPlus V1 Gages.  If the gage's reach code matched a reach code in
+the National Atlas Streams 1:1M map layer then the gage was included and snapped to the nearest
+point on the nearest stream.  The reach code of the gage was compared to the reach code of the
+stream the gage snapped to.  If the codes were not identical then the station name for the gage
+was compared to topographic map stream names to determine if the gage should be moved to a
+different stream with a matching reach code or if the reach code for the gage should be
+corrected.
+</procdesc>
+				<srcused>NHDPlus V1 Gages</srcused>
+				<srcused>National Atlas Streams 1:1M</srcused>
+				<srcused>USA Topo Maps Map Service</srcused>
+				<procdate>2009</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Selection of Gages from the National Water Information System Web Interface
+
+The NHDPlus V1 Gages were from 2004.  Additional gages were obtained from NWIS Web to supplement
+the NHDPlus V1 Gages.  Gages were downloaded in February 2010, and gages with daily data in the
+following categories were selected:
+&amp;gt;
+&amp;gt; Parameter code = 00060 - Streamflow, ft3/s
+&amp;gt; Parameter code = 00065 - Gage height, ft
+&amp;gt; Parameter code = 00054 - Reservoir storage, acre-ft
+&amp;gt; Parameter code = 00053 - Surface Area, acres
+&amp;gt; Parameter code = 00055 - Stream velocity, ft/s
+&amp;gt; Parameter code = 00059 - Streamflow rate, gal/min
+&amp;gt; Parameter code = 00062 - Reservoir elevation, ft
+&amp;gt; Parameter code = 50042 - Discharge, gallons per minute
+&amp;gt; Parameter code = 50051 - Flow rate, instantaneous, million gallons
+&amp;gt;                            per day
+&amp;gt; Parameter code = 72022 - Reservoir contents, M gal
+&amp;gt; Parameter code = 99020 - Elevation above NGVD 1929, ft
+&amp;gt; Parameter code = 99060 - Streamflow, m3/s
+&amp;gt; Parameter code = 99065 - Gage height, m
+</procdesc>
+				<srcused>NWIS Web</srcused>
+				<procdate>2010</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Selection of Additional Gages and Streams
+
+Gages from the NWIS Web download were snapped to streams in the National Atlas Streams 1:1M.  If
+the gage couldn't be snapped to a 1:1M stream, it was snapped to the NHDPlus V1 NHDFlowlines, or
+in Alaska, to the High-Resolution NHDFlowlines.  Any gages that could not be snapped to one of
+these three sources were deleted.  To determine if gages were snapped to the correct stream, the
+station name was compared to stream names from National Atlas Streams 1:1M, NHDPlus V1
+NHDFlowline, High-Resolution NHDFlowline, topographic maps, and aerial imagery.
+
+The 1:1M gages and streams were edited simultaneously.  Gages were used to determine if
+additional streams should be added to the streams map layer, and streams were used to determine
+if gages should be added in the gages map layer.  Gages were reviewed visually, using topographic
+maps, aerial imagery, NHDPlus V1 NHDFlowlines, High-Resolution NHDFlowline, and National Atlas
+Streams 1:1M.  Gages were not added to the map layer if adding their corresponding stream was
+inconsistent with the density of streams in the area, if other gages on similar streams were
+nearby, if the stream order was lower than other streams in the area, or if the gage was on a
+canal.  At the same time, the stream was added to the National Atlas Streams 1:1M map layer.
+</procdesc>
+				<srcused>NHDPlus V1 NHDFlowline</srcused>
+				<srcused>High-Resolution NHDFlowline</srcused>
+				<srcused>National Atlas Streams 1:1M</srcused>
+				<srcused>NWIS Web</srcused>
+				<srcused>NHDPlus V1 Gages</srcused>
+				<srcused>USA Topo Maps Map Service</srcused>
+				<srcused>ESRI Imagery World 2D</srcused>
+				<procdate>2011</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Integration of Gages with Version 2 of the 1:1M Streams
+
+National Atlas Streams 1:1M 2014 (version 2 of the streams map layer) contains minor adjustments
+along the U.S.-Canada border and in other places where the data were improved or corrected.
+Gages were checked to verify that they were snapped to the correct stream and were moved if
+necessary.
+</procdesc>
+				<srcused> National Atlas Streams 1:1M 2014</srcused>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Combination of NHDPlus V2 Gage Locations and Gage Info
+
+The NHDPlus V2 Gage Locations and Gage Info files were downloaded from the NHDPlus website.  The
+Gage Info table was joined to the Gage Locations table and the combined data were exported to a
+new feature class.
+</procdesc>
+				<srcused>NHDPlus V2 Gage Locations</srcused>
+				<srcused>NHDPlus V2 Gage Info</srcused>
+				<procdate>2014</procdate>
+				<srcprod>NHDPlus V2 Gages</srcprod>
+			</procstep>
+			<procstep>
+				<procdesc>
+Selection of Gages from NHDPlus V2 Gages
+
+NHDPlus V2 Gages were checked to see if they had matching reach codes in National Atlas
+Streams 1:1M 2014.  If they had a matching reach code and they were not already in the gages map
+layer, they were snapped to the stream and added.  NHDPlus V2 Gages that did not have a matching
+reach code in the streams were reviewed if their drainage area was greater than 100 square miles.
+The station name for the gage was checked against topographic maps, imagery, and stream names to
+determine if the gage should be moved to a different stream, have its reach code changed, and be
+added to the gages map layer.
+</procdesc>
+				<srcused>NHDPlus V2 Gages</srcused>
+				<srcused>National Atlas Streams 1:1M 2014</srcused>
+				<srcused>NHDPlus V2 NHDFlowline</srcused>
+				<srcused>USA Topo Maps Map Service</srcused>
+				<srcused>ESRI Imagery World 2D</srcused>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Calculation of Reach Code
+
+National Atlas Streams 1:1M 2014 has reach codes that were updated to match the reach codes in
+NHDPlus V2 NHDFlowlines in the 48 conterminous States; High-Resolution NHDFlowlines in Alaska,
+Puerto Rico, and the U.S. Virgin Islands; and Medium-Resolution NHDFlowlines in Hawaii.  All 1:1M
+gages were checked and, if necessary, their reach codes were updated to match their corresponding
+stream in National Atlas Streams 1:1M 2014.
+</procdesc>
+				<srcused>National Atlas Streams 1:1M 2014</srcused>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Calculation of Measure
+
+Gages were intersected with National Atlas Streams 1:1M 2014 and each gage was assigned a measure
+that corresponds to its location on a reach.  Measures range from 0 to 100 and record the
+distance, as a percentage, from the downstream end of a reach.  If a reach is composed of more
+than one stream segment, the measure is based on the length of the entire group of segments that
+comprise the reach.  Measures are used in linear referencing.
+</procdesc>
+				<srcused>National Atlas Streams 1:1M 2014</srcused>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Calculation of the Gage_ID
+
+The Gage_ID is the unique identifier for gages in the 1:1M map layer.  The starting number
+is 100,001.
+</procdesc>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Calculation of State Abbreviation and FIPS codes
+
+The gages were intersected with the National Atlas States 1:1M 2014 map layer to transfer the
+State abbreviations and Federal Information Processing Series (FIPS) codes.  The intersected
+layer was analyzed to determine which gages fell in multiple States.  For gages on State
+boundaries, the State abbreviations and FIPS codes were concatenated with a hyphen to include
+information from multiple States.  Gages outside the boundaries of the States layer were removed.
+</procdesc>
+				<srcused>National Atlas States 1:1M 2014</srcused>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Calculation of Region and HUC8
+
+The two-digit region code (Hydrologic Unit Code or HUC) was calculated from the first two digits
+of the reach code.  The eight-digit sub-basin code (Hydrologic Unit Code or HUC) was calculated
+from the first eight digits of the reach code.
+</procdesc>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Calculation of Agency_CD, Site_NO, Station_NM, Site_TP_CD, Lat_NWIS, Long_NWIS
+
+Attributes values for Agency_CD, Site_NO, Station_NM, Site_TP_CD, Lat_NWIS, Long_NWIS were
+determined from the agency_cd, site_no, station_nm, site_tp_cd, dec_lat_va, and dec_long_va
+values in NWIS Web.
+</procdesc>
+				<srcused>NWIS Web</srcused>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Calculation of Stream_ID
+
+The Stream_ID is the unique identifier of the stream that the gage is snapped to.  The value
+comes from the National Atlas Streams 1:1M 2014 map layer and links the two map layers together.
+There may be more than one gage sharing the same Stream_ID.  No gage has more than one Stream_ID.
+</procdesc>
+				<srcused>National Atlas Streams 1:1M 2014</srcused>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Calculation of Source
+
+The value for the Source attribute was determined from the data set from which the gage was
+obtained.
+</procdesc>
+				<srcused>NHDPlus V1 Gages</srcused>
+				<srcused>NHDPlus V2 Gages</srcused>
+				<srcused>NWIS Web</srcused>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Calculation of Review
+
+The Review attribute provides information about when the gage location was reviewed, or about
+what entity reviewed the location of the gage during data compilation.  It was calculated
+primarily from the Reviewed attribute in the NHDPlus version 1 and version 2 source data sets.
+</procdesc>
+				<srcused>NHDPlus V1 Gages</srcused>
+				<srcused>NHDPlus V2 Gages</srcused>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Calculation of Lat_1M and Long_1M
+
+Latitude and longitude coordinates were calculated for the location of the gage using ArcGIS.
+These coordinates may be different from the coordinates in NWIS because the streams the gages are
+on have been generalized and moved for cartographic reasons.
+</procdesc>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+Calculation of NWISWeb
+
+The URL for the gage's NWIS web page was calculated by concatenating the gage's site number and a
+generic NWISWeb URL.
+</procdesc>
+				<srcused>NWIS Web</srcused>
+				<procdate>2014</procdate>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\gberes01\AppData\Local\Temp\xml2BBF.tmp</srcused>
+<procdate Sync="TRUE">20140813</procdate>
+<proctime Sync="TRUE">11502000</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00am-5:00pm, EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>The file name of this dataset was changed from gages_x010g to USStreamflowGageStations13.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+<procdate>8/13/14</procdate>
+<proctime>12:00pm</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USStreamflowGageStations13">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">20032</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USStreamflowGageStations13">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">20032</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">TRUE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USStreamflowGageStations13">
+			<enttyp>
+				<enttypl Sync="TRUE">USStreamflowGageStations13</enttypl>
+				<enttypd>
+A gage used to measure the height (stage) and volume of flow at a point location on a water
+feature.
+</enttypd>
+				<enttypds>Geological Survey (U.S.)</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">20032</enttypc>
+</enttyp>
+			<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>The representation of the entity in the data.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Point M</edomv>
+						<edomvd>
+A point is a 0-dimensional element.  A point M is a point feature that can store a distance
+measurement (M) value along an associated line feature.
+</edomvd>
+						<edomvds>Environmental Systems Research Institute (Redlands, Calif.)
+</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Gage_ID</attrlabl>
+				<attrdef>A unique identifier for the feature.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>100001</rdommin>
+						<rdommax>120032</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Gage_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Agency_CD</attrlabl>
+				<attrdef>
+A code identifying the agency which reports data collected at the gage.  Agency codes are fixed
+values assigned by the National Water Information System (NWIS).
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>USGS</edomv>
+						<edomvd>U.S. Geological Survey</edomvd>
+						<edomvds>National Water Information System (U.S.) </edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Agency_CD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Site_NO</attrlabl>
+				<attrdef>
+The site number.  Each site in the USGS data base has a unique 8- to 15-digit identification
+number.  Site numbers are assigned by the USGS.  The first two digits of the site number indicate
+the major drainage basin in which the site is located; the additional digits identify the site
+location within the stream network, and generally indicate the downstream order of the sites.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>There is no predefined set of valid site numbers.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Site_NO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Station_NM</attrlabl>
+				<attrdef>
+The name associated with the streamflow gaging station.  The name is usually a brief phrase
+describing the location of the gage, including the name of the water feature the gage is on and
+landmarks nearby.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>There is no predefined set of valid station names.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Station_NM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">60</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Site_TP_CD</attrlabl>
+				<attrdef>The Site Type Code of the gage, which describes the hydrologic setting of the site.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>ES</edomv>
+						<edomvd>
+The gage is located on an estuary.  An estuary is a partially enclosed coastal waterbody
+where tidal movement and stream flow mix fresh and salt water.
+</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>FA-DV</edomv>
+						<edomvd>
+The gage is located at a facility where water is withdrawn or diverted from a stream or
+waterbody.  Streamflow measurements at facility locations are expected to be strongly
+influenced by current or previous human activity; diversion sites include points such as the
+upstream end of a canal where it intersects a stream, the point where water is withdrawn from
+a reservoir, and the point where water is pumped from a water body for use elsewhere.
+</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>LK</edomv>
+						<edomvd>
+The gage is located on a lake, reservoir, or other impoundment.  Lakes, reservoirs, and other
+impoundments are standing bodies of water, deeper than wetlands, including expanded portions
+of rivers, and may be natural or man-made.
+</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SP</edomv>
+						<edomvd>
+The gage is located on a spring.  A spring is a place where there is a natural flow of
+groundwater to the surface.  Springs may be perennial, intermittent, or ephemeral.
+</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ST</edomv>
+						<edomvd>
+The gage is located on a stream.  A stream is a body of flowing water which follows a defined
+channel.  The channel may be natural or may be partially artificial.
+</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ST-CA</edomv>
+						<edomvd>
+The gage is located on a canal.   A canal is an artificial open waterway constructed to
+transport water, to irrigate or drain land, to connect two or more bodies of water, or to
+serve as a waterway for water craft; it is larger than a ditch.
+</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ST-DCH</edomv>
+						<edomvd>
+The gage is located on a ditch.   A ditch is an artificial waterway dug in the ground,
+constructed to transport water for drainage or irrigation.  It may be lined or unlined, and
+is smaller than a canal.
+</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>ST-TS</edomv>
+						<edomvd>
+The gage is on a tidal stream.  The flow of a tidal stream is influenced by the tide, but the
+water chemistry is not normally affected.
+</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>WE</edomv>
+						<edomvd>
+The gage is located in a wetland.  A wetland is a non-cultivated, vegetated area that is
+inundated or saturated for a significant part of the year.  Wetlands may be natural or
+artificially created; they include swamps, marshes, bogs, and similar areas, and may be
+forested or unforested.
+</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Site_TP_CD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ReachCode</attrlabl>
+				<attrdef>
+A 14-digit, unique identifier for the reach where the gage is located.  A reach is a continuous
+piece of surface water with similar hydrologic characteristics.  A reach may be composed of a
+single feature, such as a lake or isolated stream, but reaches may also be composed of a number
+of contiguous features.  The first eight digits of the code are the Watershed Boundary Dataset
+Hydrologic Unit Code (HUC), which identifies the subbasin in which the water feature is located.
+The next six digits are a randomly assigned, sequential number that is unique within the
+subbasin.  Once assigned, a reach code is permanently associated with its reach.
+
+The ReachCode links gages and other features to the 1:1,000,000-Scale Streams of the United
+States, National Hydrography Dataset, National Hydrography Dataset Plus Version 1, National
+Hydrography Dataset Plus Version 2, and other data sets that use reach codes.  No gage is
+associated with more than one reach, however, there may be multiple gages on one reach.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>01010002000001</rdommin>
+						<rdommax>21010006000086</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">ReachCode</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Stream_ID</attrlabl>
+				<attrdef>
+The unique identifier of the stream segment where the gage is located.  The Stream_ID is taken
+from  the National Atlas Streams 1:1M map layer.  No gage is associated with more than one
+Stream_ID, however, there may be multiple gages with the same Stream_ID.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>10000002</rdommin>
+						<rdommax>11095585</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Stream_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>State</attrlabl>
+				<attrdef>
+The 2-letter Federal Information Processing Series (FIPS) code for the State or State
+equivalent in which the gage is located.  If the gage falls in two States, both codes are listed,
+separated by a dash.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>
+American National Standards Institute (ANSI) Codes for States, the District of Columbia,
+Puerto Rico, and the Insular Areas of the United States
+</codesetn>
+						<codesets>U.S. Department of Commerce</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">State</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>State_FIPS</attrlabl>
+				<attrdef>
+The 2-digit FIPS code for the State or State equivalent in which the gage is located.  If the
+gage falls in two States, both codes are listed, separated by a dash.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>
+American National Standards Institute (ANSI) Codes for States, the District of Columbia,
+Puerto Rico, and the Insular Areas of the United States
+</codesetn>
+						<codesets>U.S. Department of Commerce</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">State_FIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Region</attrlabl>
+				<attrdef>
+The 2-digit Hydrologic Unit Code identifying the major river basin where the gage is located.
+Leading zeroes are not shown.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>21</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Region</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HUC8</attrlabl>
+				<attrdef>The 8-digit Hydrologic Unit Code identifying the subbasin where the gage is located.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>01010002</rdommin>
+						<rdommax>21010006</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">HUC8</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Lat_NWIS</attrlabl>
+				<attrdef>The latitude of the gage as listed in the National Water Information System (NWIS).</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>17.981721</rdommin>
+						<rdommax>70.669884</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Lat_NWIS</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Long_NWIS</attrlabl>
+				<attrdef>The longitude of the gage as listed in NWIS.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-165.755743</rdommin>
+						<rdommax>-65.480437</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Long_NWIS</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Lat_1M</attrlabl>
+				<attrdef>
+The latitude of the gage in this 1:1M National Atlas data.  The value may be
+different from the NWIS latitude for one or more of the following reasons: the latitude was
+calculated using ArcGIS; the gage was moved in order to snap it to a stream in the National Atlas
+Streams 1:1M 2014 map layer; the stream the gage is associated with was generalized and moved for
+cartographic reasons; or the gage was moved to a new location based on the station name and a
+review of topographic maps and imagery.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>17.986617</rdommin>
+						<rdommax>70.668322</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Lat_1M</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Long_1M</attrlabl>
+				<attrdef>
+The longitude of the gage in this 1:1M National Atlas data.  The value may be
+different from the NWIS longitude for one or more of the following reasons: the longitude was
+calculated using ArcGIS; the gage was moved in order to snap it to a stream in the National Atlas
+Streams 1:1M 2014 map layer; the stream the gage is associated with was generalized and moved for
+cartographic reasons; or the gage was moved to a new location based on the station name and a
+review of topographic maps and imagery.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>-165.755602</rdommin>
+						<rdommax>-65.479939</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Long_1M</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Source</attrlabl>
+				<attrdef>The source from which the gage information was obtained.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NHDPlusV1</edomv>
+						<edomvd>The gage was obtained from NHDPlus V1 Gages.</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NHDPlusV2</edomv>
+						<edomvd>The gage was obtained from NHDPlus V2 Gages.</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NWISWeb</edomv>
+						<edomvd>The gage was retrieved from NWISWeb.</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Source</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Review</attrlabl>
+				<attrdef>
+The entity that determined the stream reach on which the gage is located.  The reach and any
+gages associated with the reach may have been moved for cartographic purposes after the review.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NHDPlusV1</edomv>
+						<edomvd>The gage location was reviewed during the creation of the NHDPlus V1 Gages.</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>NHDPlusV2</edomv>
+						<edomvd>The gage location was reviewed during the creation of the NHDPlus V2 Gages.</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>None</edomv>
+						<edomvd>
+The gage came from either the NHDPlus Version 1 or version 2 sources but the location was not
+reviewed during the creation of either of those data sets, nor during the creation of this
+data set.
+</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>TXWSC</edomv>
+						<edomvd>
+The gage location was reviewed by geographers at the Texas Water Science Center.  This is
+used for gages retrieved from NWIS Web.  It was also used for gages from one of the two
+NHDPlus source data sets if the gage was moved to a new reach.
+</edomvd>
+						<edomvds>Geological Survey (U.S.)</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Review</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>Measure</attrlabl>
+				<attrdef>
+The measure represents a gage's location on a reach in the National Atlas Streams 1:1M 2014.
+Measures range from 0 to 100 and record the distance, as a percentage, from the downstream end of
+a reach.  If a reach is composed of more than one stream segment, the measure is based on the
+length of the entire group of segments that comprise the reach.  Measures are used in linear
+referencing.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Measure</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>NWISWeb</attrlabl>
+				<attrdef>
+The URL for the gage's page in NWIS Web.  Detailed streamflow and other information for each gage
+is provided in NWIS Web.
+</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>There is no predefined set of valid NWIS Web addresses.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NWISWeb</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">75</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Somerville</city>
+					<state>MA</state>
+					<country>USA</country>
+					<address>Academic Technology</address>
+<address>16 Dearborn Rd</address>
+<postal>02144</postal>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntvoice>866-573-3222</cntvoice>
+				<cntpos>Data Technician</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00am-5:00pm, EST-USA</hours>
+</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>
+Although these data have been processed successfully on a computer system at the U.S. Geological
+Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility
+of the data on any other system, nor shall the act of distribution constitute any such warranty. No
+responsibility is assumed by the U.S. Geological Survey in the use of these data.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<transize Sync="TRUE">0.688</transize>
+<dssize Sync="TRUE">0.688</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://nationalatlas.gov/atlasftp-1m.html</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>ESRI File Geodatabase 10.0</formname>
+					<transize Sync="TRUE">0.688</transize>
+<dssize Sync="TRUE">0.688</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://nationalatlas.gov/atlasftp-1m.html</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None.</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140813</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Earth Explorer, U.S. Geological Survey</cntorg>
+</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>U.S. Geological Survey</address>
+					<address>511 National Center</address>
+					<address>12201 Sunrise Valley Drive</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>605-594-6116</cntvoice>
+<cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
+<cntemail>custserv@usgs.gov</cntemail>
+<cntaddr>
+<address>U.S. Geological Survey</address>
+<addrtype>mailing address</addrtype>
+<address>47914 252nd Street</address>
+<city>Sioux Falls</city>
+<state>SD</state>
+<postal>57198-0001</postal>
+<country>USA</country>
+</cntaddr>
+</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<metsi>
+			<metscs>None</metscs>
+			<metsc>Unclassified</metsc>
+			<metshd>None</metshd>
+		</metsi>
+		<langmeta Sync="TRUE">en</langmeta>
+<mettc Sync="TRUE">local time</mettc>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{713AAF60-E8CF-44AE-8E56-63F019CB5AA1}</MetaID>
+<CreaDate>20140813</CreaDate>
+<CreaTime>11502000</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140813</SyncDate>
+<SyncTime>13421500</SyncTime>
+<ModDate>20140813</ModDate>
+<ModTime>13443800</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USStreamflowGageStations13</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-165.755602</westBL>
+<eastBL Sync="TRUE">-65.479939</eastBL>
+<northBL Sync="TRUE">70.668322</northBL>
+<southBL Sync="TRUE">17.986617</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-165.755602</westBL>
+<eastBL Sync="TRUE">-65.479939</eastBL>
+<northBL Sync="TRUE">70.668322</northBL>
+<southBL Sync="TRUE">17.986617</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NationalAtlas\Water - Tufts\Streamflow Gaging Stations\USStreamflowGageStations13.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.688</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_North_American_1983</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USStreamflowGageStations13">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">20032</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140813</mdDateSt>
+</metadata>

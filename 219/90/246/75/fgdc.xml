@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Department of Transportation</origin>
+				<pubdate>2011</pubdate>
+				<title>Railroad Border Crossings USA 2011</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington (D.C.)</pubplace>
+					<publish>United States. Bureau of Customs and Border Protection</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_service/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of Customs and Border Protection</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Databases (NTAD) 2011</title>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+						<pubinfo>
+<publish>United States. Bureau of Customs and Border Protection</publish>
+<pubplace>Washington (D.C.)</pubplace>
+</pubinfo>
+</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USBorderCross11</ftname>
+<origin>U.S. Customs and Border Protection</origin>
+<onlink>http://www.cbp.gov/xp/cgov/toolbox/contacts/ports/</onlink>
+<onlink>http://www.cbp.gov/</onlink>
+<othercit>This data is created and maintained by the Customs and Border Protection (CBP), and spatially enhanced by BTS. The CBP also designated the port codes, names, and attributes.</othercit>
+<origin>United States. Department of Transportation. Research and Innovative Technology Administration</origin>
+<origin>United States. Bureau of Customs and Border Protection</origin>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset represents border crossing ports in the United States and Mexico. Border crossing ports are points of entry for land modes along the U.S. - Canadian and U.S.- Mexcian borders.  The ports of entry are located in 15 states along the U.S. borders. </abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>Used for the interface of Border Crossing/Entry Data:
+http://www.bts.gov/programs/international/transborder/TBDR_BC/TBDR_BC_Index.html.
+This data is created and maintained by the Customs and Border Protection (CBP), and spatially enhanced by BTS. The CBP also designated the port codes, names, and attributes. For any questions regarding the CBP data, please contact (877) CBP-5511.</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-141.001444</westbc>
+				<eastbc Sync="TRUE">-66.980076</eastbc>
+				<northbc Sync="TRUE">64.085516</northbc>
+				<southbc Sync="TRUE">25.883416</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-141.001444</leftbc>
+<rightbc Sync="TRUE">-66.980076</rightbc>
+<bottombc Sync="TRUE">25.883416</bottombc>
+<topbc Sync="TRUE">64.085516</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<place>
+				<placekey>United States</placekey>
+<placekt>GNS</placekt>
+</place>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>boundaries</themekey>
+<themekey>location</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>transportation</themekey>
+</theme>
+<theme>
+<themekey>Border patrol agents</themekey>
+<themekey>Railroads</themekey>
+<themekey>U.S. Border Patrol</themekey>
+<themekey>Boundaries</themekey>
+<themekt>LCSH</themekt>
+<themekey>Political and administrative divisions</themekey>
+</theme>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>International Transportation Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>Bureau of Transportation Statistics</address>
+					<address>Research and Innovative Technology Administration</address>
+					<address>U.S. Department of Transportation</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(202) 366-9683</cntvoice>
+				<cntemail>steven.beningo@dot.gov</cntemail>
+				<hours>8:00AM-4:30PM EST</hours>
+				<cntorgp>
+<cntorg>USDOT-RITA-BTS</cntorg>
+<cntper>Steven Beningo</cntper>
+</cntorgp>
+</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Confidential</secclass>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<crossref>
+			<citeinfo>
+				<origin>BTS-RITA-USDOT</origin>
+				<pubdate>2011</pubdate>
+				<title>National Transportation Atlas Databases (NTAD) 2011</title>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+<lworkcit>
+<citeinfo>
+<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+		</crossref>
+		<accconst>Unrestricted Access Online</accconst>
+<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>
+The accuracy of the location data is very high.  PortName and PortCode are extracted from the Census website:
+The link is: http://www.census.gov/foreign-trade/reference/codes/index.html
+Only 40% of data were converted from .csv files, others were from digitized manually using high resolution image as background (Google Earth).
+</attraccr>
+		</attracc>
+		<posacc>
+			<horizpa>
+				<horizpar>Within 10 meters</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdesc>
+The creation of this geospatial data layer was completed by USDOT-RITA-BTS in November 2010 and updated in December 2011.
+Step 1:  Convert textual data into shapefile using the ArcGIS function.
+Step 2: Export the shapefile into KML and display the ports on Google Earth.  Each port was checked with road network and country bounderies.  Corrections were made for the locations that are far from ports, then record their geographic coordinates.
+Step 3: Export KML file with port locations into shapefile using the third-party software.  Then other attributes were added within ArcGIS.
+</procdesc>
+				<procdate>20101122</procdate>
+				<proctime>10483600</proctime>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Zhi Liu</cntper>
+							<cntorg>MacroSys LLC</cntorg>
+						</cntperp>
+						<cntpos>Senior GIS/IT Specialist</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Bureau of Transportation Statistics</address>
+							<address>Research and Innovative Technology Administration</address>
+							<address>U.S. Department of Transportation</address>
+							<city>Washington</city>
+							<state>DC</state>
+							<postal>20590</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>202-366-0262</cntvoice>
+						<cntemail>zhi.liu@dot.gov</cntemail>
+						<hours>8:00AM - 4:30PM EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<srcinfo>
+<srccite>
+<citeinfo>
+<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+<lworkcit>
+<citeinfo>
+<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</srccite>
+<srcscale>1:1000000</srcscale>
+</srcinfo>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>GIS Data Analyst</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 Am-5:00 PM, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</proccont>
+<procdesc>Name changed from border_x to USBorderCross11</procdesc>
+<procdate>20130322</procdate>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USBorderCross11">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">171</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USBorderCross11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">171</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="USBorderCross11">
+			<enttyp>
+				<enttypl Sync="TRUE">USBorderCross11</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">171</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>PortCode</attrlabl>
+				<attrdef>Unique identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PortCode</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PortName</attrlabl>
+				<attrdef>Name of the port</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">PortName</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">80</attwidth>
+</attr>
+			<attr>
+				<attrlabl>State</attrlabl>
+				<attrdef>U.S. State Abbreviation</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">State</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CP_Name</attrlabl>
+				<attrdef>Customs Port Name</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attalias Sync="TRUE">CP_Name</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>UniqueID</attrlabl>
+				<attrdef>A number that is a unique identifier for each border crossing, corresponding to PortCode</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">UNIQUEID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Year</attrlabl>
+				<attalias Sync="TRUE">Year</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<attrdef>Year of the attribute data</attrdef>
+<attrdefs>United States. Department of Transportation</attrdefs>
+<attrdomv>
+<edom>
+<edomv>2009</edomv>
+<edomvd>Year of the attribute information</edomvd>
+<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+</edom>
+</attrdomv>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Trucks</attrlabl>
+				<attrdef>Number of arriving trucks; does not include privately owned pick-up trucks.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1382319</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Trucks</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Loaded_Tru</attrlabl>
+				<attrdef>A container (loaded) is any conveyance entering the U.S. used for commercial purposes, full or empty. In this case, it is the number of full or empty truck containers arriving at a port. This series includes containers moving as inbound shipments.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>984285</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Loaded_Tru</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Empty_Truc</attrlabl>
+				<attrdef>A container (empty) is any conveyance entering the U.S. used for commercial purposes, full or empty. In this case, it is the number of full or empty truck containers arriving at a port. This series includes containers moving as inbound shipments.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>457514</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Empty_Truc</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Trains</attrlabl>
+				<attrdef>Number of arriving trains at a particular port.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>3286</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Trains</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Loaded_Rai</attrlabl>
+				<attrdef>A container (loaded) is any conveyance entering the U.S. used for commercial purposes, full or empty. In this case, it is the number of full or empty rail containers arriving at a port. This series includes containers moving as inbound shipments.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>224202</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Loaded_Rai</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Empty_Rail</attrlabl>
+				<attrdef>A container (empty) is any conveyance entering the U.S. used for commercial purposes, full or empty. In this case, it is the number of full or empty rail containers arriving at a port. This series includes containers moving as inbound shipments.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>172718</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Empty_Rail</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Train_Pass</attrlabl>
+				<attrdef>Number of passengers and crew arriving by train and requiring U.S. Customs processing.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>64751</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Train_Pass</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Buses</attrlabl>
+				<attrdef>Number of arriving buses at a particular port, whether or not they are carrying passengers.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>72450</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Buses</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Bus_Passen</attrlabl>
+				<attrdef>Number of persons arriving by bus requiring U.S. Customs processing.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>883448</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Bus_Passen</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Personal_V</attrlabl>
+				<attrdef>Number of privately owned vehicles (POVs) arriving at a particular port. Includes pick-up trucks, motorcycles, recreational vehicles, taxis, snowmobiles, ambulances, hearses, and other motorized private ground vehicles.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>13354887</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Personal_V</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Personal_1</attrlabl>
+				<attrdef>Passengers Crossing In Privately Owned Vehicles-Persons entering the United States at a particular port by private automobiles, pick-up trucks, motorcycles, recreational vehicles, taxis, ambulances, hearses, tractors, snowmobiles and other motorized private ground vehicles.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>23934882</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Personal_1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>Pedestrian</attrlabl>
+				<attrdef>The number of persons arriving on foot or by certain conveyance (such as bicycles, mopeds, or wheel chairs) requiring U.S. Customs processing.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>7637649</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">Pedestrian</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">CLASS</attrlabl>
+<attalias Sync="TRUE">CLASS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Port of Entry</edomvd>
+<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>Other Crossing</edomvd>
+<edomvds>United States. Dept. of Transportation. Research and Innovative Technology Administration</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Class of the border port. </attrdef>
+<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+</attr>
+<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>State FIPS code</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard (FIPS), Publication 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>Version of the database.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+		<overview/>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+<address>16 Dearborn Ave</address>
+</cntaddr>
+<cntpos>GIS Data Technician</cntpos>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.005</transize>
+					<dssize Sync="TRUE">0.005</dssize>
+<formname>ESRI Shapefile</formname>
+<formverd>2011</formverd>
+<filedec>No compression applied. However, if using digital transfer online option, note access instructions.</filedec>
+</digtinfo>
+				<digtopt>
+<onlinopt>
+<accinstr>NTAD is available for download at www.bts.gov/programs/geographic_information_services.  The NTAD DVD can also be ordered from the online bookstore at www.bts.gov.</accinstr>
+</onlinopt>
+<offoptn>
+<offmedia>DVD</offmedia>
+<reccap/>
+</offoptn>
+</digtopt>
+</digform>
+			<fees>None</fees>
+</stdorder>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+<caldate>2011</caldate>
+<time>unknown</time>
+</sngdate>
+</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140514</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University. Geographic Information Systems Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>Academic Technology</address>
+<address>16 Dearborn Ave</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday- Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<CreaDate>20110324</CreaDate>
+<CreaTime>10013500</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11451000</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11452300</ModTime>
+<MetaID>{8A86E476-6116-4E81-AE14-B60AF0F37973}</MetaID>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USBorderCross11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-141.001444</westBL>
+<eastBL Sync="TRUE">-66.980076</eastBL>
+<northBL Sync="TRUE">64.085516</northBL>
+<southBL Sync="TRUE">25.883416</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-141.001444</westBL>
+<eastBL Sync="TRUE">-66.980076</eastBL>
+<northBL Sync="TRUE">64.085516</northBL>
+<southBL Sync="TRUE">25.883416</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USBorderCross11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.005</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USBorderCross11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">171</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

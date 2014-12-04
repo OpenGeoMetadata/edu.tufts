@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>New Hampshire. Office of Energy and Planning </origin>
+				<pubdate>200606</pubdate>
+				<title>GNIS Locations New Hampshire 2008</title>
+				<edition>One</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>&amp;lt;URL:http://www.granit.unh.edu/data/search?dset=gnis/nh&amp;gt;</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>New Hampshire. Office of Energy and Planning </origin>
+						<pubdate>1986</pubdate>
+						<title>NH GRANIT Database</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Durham (N.H.)</pubplace>
+							<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+						<onlink>&amp;lt;URL:http://www.granit.unh.edu&amp;gt;</onlink>
+						<origin>University of New Hampshire. Complex Systems Research Center</origin>
+</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">NHGNISLocations08</ftname>
+<origin>University of New Hampshire. Complex Systems Research Center</origin>
+<pubinfo>
+<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset shows the locations for all named places in New Hampshire according to the federal Geographic Names Information System (GNIS) as of 2008.  Place name locations from the federal GNIS have been corrected and updated, based upon a variety of sources, including current and historic
+US Geological Survey topographic maps, aerial photography, New Hampshire state agency records, and current web sites. This data set will provide a quick reference for anyone wishing to determine what features in New Hampshire have names.  It will also aid those wishing to name an unnamed feature in New Hampshire, by indicating whether duplicate or similar names exist elsewhere in the state.</abstract>
+			<langdata Sync="TRUE">en</langdata>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1901</begdate>
+					<enddate>200808</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-72.575068</westbc>
+				<eastbc Sync="TRUE">-70.559961</eastbc>
+				<northbc Sync="TRUE">45.299808</northbc>
+				<southbc Sync="TRUE">42.693324</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">750483.567723</leftbc>
+<rightbc Sync="TRUE">1269056.668708</rightbc>
+<bottombc Sync="TRUE">72240.295665</bottombc>
+<topbc Sync="TRUE">1020592.261041</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>location</themekey>
+<themekt>ISO 19115 Topic Category </themekt>
+</theme>
+<theme>
+<themekey>Names, Geographical</themekey>
+<themekey>Places of interest</themekey>
+<themekey>Airport buildings</themekey>
+<themekey>Church buildings</themekey>
+<themekey>Bars (Drinking establishments) </themekey>
+<themekey>Areas</themekey>
+<themekey>Recreation areas</themekey>
+<themekey>Bodies of water</themekey>
+<themekey>Beaches</themekey>
+<themekey>Bridges</themekey>
+<themekey>Buildings</themekey>
+<themekey>Cemeteries</themekey>
+<themekey>Parks</themekey>
+<themekey>Schools</themekey>
+<themekey>Public buildings</themekey>
+<themekt>LCSH</themekt>
+<themekey>United States Board on Geographic Names</themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>New Hampshire</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>for educational and noncommercial use only</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NH Office of Energy and Planning</cntorg>
+					<cntper>Ken Gallager</cntper>
+				</cntorgp>
+				<cntpos>Principal Planner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>57 Regional Drive</address>
+					<city>Concord</city>
+					<state>NH</state>
+					<postal>03301</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(603) 271-2155</cntvoice>
+				<cntfax>(603) 271-2615</cntfax>
+				<cntemail>ken.gallager@nh.gov</cntemail>
+				<hours>8:00 am- 4:00 pm EST</hours>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.  </attraccr>
+			<qattracc>
+				<attraccv>FEATURE</attraccv>
+				<attracce>Feature names are derived directly from federal Geographic Names Information System.
+Some editing has been performed by the NH Office of Energy and Planning (see individual attribute values).
+Occasional, obvious errors in feature names (e.g. Ammonoosucuc for Ammonoosuc)
+have been corrected, but otherwise all names are assumed to be correct as stored.</attracce>
+			</qattracc>
+			<qattracc>
+				<attraccv>FEATYPE</attraccv>
+				<attracce>
+Source values were found, upon editing, to be frequently (5%) inaccurate and
+have been corrected to the Office of Energy and Planning's best judgement.
+</attracce>
+			</qattracc>
+			<qattracc>
+				<attraccv>COUNTY</attraccv>
+				<attracce>100% accurate.</attracce>
+			</qattracc>
+			<qattracc>
+				<attraccv>STCODE</attraccv>
+				<attracce>100% accurate (all values are for New Hampshire).</attracce>
+			</qattracc>
+			<qattracc>
+				<attraccv>COCODE</attraccv>
+				<attracce>100% accurate.</attracce>
+			</qattracc>
+			<qattracc>
+				<attraccv>QUAD</attraccv>
+				<attracce>
+99% accurate.  Some quadrangle names have not been updated to reflect corrected
+locations of some named features.
+</attracce>
+			</qattracc>
+		</attracc>
+		<logic>Point data.  No topology necessary.</logic>
+		<complete>Data is complete.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+Original GNIS locations appeared to be derived from printed
+latitude/longitude pairs and contained numerous inaccuracies.  All locations whose names appear on
+USGS quadrangles have been correctly located.  Features such as churches, schools, and other structures
+are estimated to be 80% accurate.
+</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>N/A</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>1995 (DRGs); 1968-1995 (original paper quadrangles)</pubdate>
+						<title>U.S.G.S. Digital Raster Graphics</title>
+						<geoform>raster digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>24,000</srcscale>
+				<typesrc>CD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1953</begdate>
+							<enddate>1990</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>USGS Digital Raster Graphics</srccitea>
+				<srccontr>95% of feature locations were tied to the USGS DRGs.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Department of Agriculture, Farm Services Agency, Aerial Photography Field Office</origin>
+						<pubdate>2005</pubdate>
+						<title>2003 National Agricultural Imagery Program Imagery</title>
+						<edition>One</edition>
+						<geoform>raster digital data</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>40000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>200302</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>NAIP Imagery</srccitea>
+				<srccontr>5% of locations.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+Dataset copied from Geographic Names Information System web site.  Tabular data contained
+latitude and longitude pairs for each feature.  ArcInfo Generate command created an ArcInfo coverage, which
+was then converted, using ArcGIS 9.1, into geodatabase format.  Features were displayed using USGS Digital
+Raster Graphics backdrop, and feature locations were adjusted to match the DRGS.  Where the feature was not
+visible on the DRG, 2003 NAIP photography was used, along with information culled from historic USGS quadrangles
+dating back to 1900, and with current information from features' web sites.  Upon completion of editing, dataset
+was projected into NH State Plane coordinates and converted to shapefile format.
+</procdesc>
+				<procdate>200512</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>NH Office of Energy and Planning</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>57 Regional Drive</address>
+							<city>Concord</city>
+							<state>NH</state>
+							<postal>03301</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(603) 271-2155</cntvoice>
+						<cntfax>(603) 271-2615</cntfax>
+						<cntemail>ken.gallager@nh.gov</cntemail>
+						<hours>8:00 - 4:30 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+Complex Systems Research Center acquired shapefile from NH Office of Energy and Planning.
+In comparing tabular data to spatial data, nine hundred and twenty-four tabular records were found to
+have missing spatial locations.  These records were removed from the data, and the shapefile was provided
+back to NH Office of Energy and Planning.
+</procdesc>
+				<procdate>200606</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Complex Systems Research Center</cntorg>
+						</cntorgp>
+						<cntpos>GRANIT Database Manager</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Morse Hall, University of New Hampshire</address>
+							<city>Durham</city>
+							<state>NH</state>
+							<postal>03824</postal>
+						</cntaddr>
+						<cntvoice>603-862-1792</cntvoice>
+						<cntfax>603-862-0188</cntfax>
+						<cntemail>granit@unh.edu</cntemail>
+						<hours>8:30AM-5PM, EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\gnis-nh-gnis.xml</srcused>
+<procdate Sync="TRUE">20140612</procdate>
+<proctime Sync="TRUE">12281700</proctime>
+</procstep>
+<procstep>
+<procdesc>Name of dataset was changed from GNIS to NHGNISLocations08.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>Ma</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician </cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis_support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00am-5:00pm EST-USA</hours>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NHGNISLocations08">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">12447</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt>4</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NHGNISLocations08">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">12447</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999967</sfctrmer>
+<longcm Sync="TRUE">-71.666667</longcm>
+<latprjo Sync="TRUE">42.500000</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NHGNISLocations08">
+			<enttyp>
+				<enttypl Sync="TRUE">NHGNISLocations08</enttypl>
+				<enttypd>Geographic Names Information System</enttypd>
+				<enttypds>United States Board on Geographic Names</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">12447</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>FEATURE</attrlabl>
+				<attrdef>Name of feature</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<udom>Text</udom>
+				</attrdomv>
+				<begdatea>1901</begdatea>
+				<enddatea>200510</enddatea>
+				<attrvai>
+					<attrva>90</attrva>
+					<attrvae>
+Some obvious typing errors have been found.  It is to be expected that
+other errors exist which have not been found.
+</attrvae>
+				</attrvai>
+				<attalias Sync="TRUE">FEATURE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FEATYPE</attrlabl>
+				<attrdef>
+Type of named feature:  Derived from GNIS "feature class".  A feature class is a designation
+for a group of features in a broadly defined descriptive category. All features are assigned to one and only one
+class. They do not individually classify all kinds of cultural and natural features. By design, there are no
+Federal or industry standards or guidelines for feature classification. These classifications originally were
+developed for mainframe file structure search purposes. Although the terms are generally consistent with dictionary
+definitions, they may not conform exactly and are not always intuitive.
+</attrdef>
+				<attrdefs>United States Board on Geographic Names</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Feature class values and definitions for the Geographic Names Information System</codesetn>
+						<codesets>Geological Survey (U.S.)</codesets>
+					</codesetd>
+				</attrdomv>
+				<begdatea>1901</begdatea>
+				<enddatea>200510</enddatea>
+				<attrvai>
+					<attrva>90</attrva>
+					<attrvae>Values in many cases are a judgement call.</attrvae>
+				</attrvai>
+				<attalias Sync="TRUE">FEATYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COUNTY</attrlabl>
+				<attrdef>The county containing the geographic feature.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Counties And Equivalent Entities Of The United States, Its Possessions, And Associated Areas.</codesetn>
+						<codesets>Federal information processing standards publication </codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STCODE</attrlabl>
+				<attrdef>State Code</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>
+Codes For The Identification Of The States, The District Of Columbia And The Outlying Areas
+Of The United States, And Associated Areas.
+</codesetn>
+						<codesets>Federal information processing standards publication</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrvai>
+					<attrva>100</attrva>
+					<attrvae>Values are accurate.</attrvae>
+				</attrvai>
+				<attalias Sync="TRUE">STCODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COCODE</attrlabl>
+				<attrdef>Three-digit code for county.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Counties And Equivalent Entities Of The United States, Its Possessions, And Associated Areas.</codesetn>
+						<codesets>Federal information processing standards publication</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">COCODE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>QUAD</attrlabl>
+				<attrdef>7-1/2 minute USGS quadrangle on which named feature is found.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>The Geographic Names Information System (GNIS)</codesetn>
+						<codesets>Geological Survey (U.S.)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attrvai>
+					<attrva>90</attrva>
+					<attrvae>
+Some feature locations may have been moved to a new quadrangle
+without this field being updated.
+</attrvae>
+				</attrvai>
+				<attalias Sync="TRUE">QUAD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FeatID</attrlabl>
+				<attrdef>Numeric feature identifier.</attrdef>
+				<attrdefs>Geological Survey (U.S.)</attrdefs>
+				<attrdomv>
+					<udom>Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FeatID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<address>16 Dearborn Rd.</address>
+<country>USA</country>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00am - 5:00pm EST -USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>
+Digital data in NH GRANIT represent the efforts of the contributing agencies to record
+information from the cited source materials. Complex Systems Research Center, under contract to the NH Office
+of Energy and Planning, and in consultation with cooperating agencies, maintains a continuing program to identify
+and correct errors in these data. OEP, CSRC, and the cooperating agencies make no claim as to the validity or
+reliability or to any implied uses of these data.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI shapefile</formname>
+					<transize>3.55 MB</transize>
+					<dssize Sync="TRUE">0.332</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>www.granit.unh.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>No charge when downloaded from the internet. Cost of reproduction for provision on CD/ROM or other media.</fees>
+			<ordering>Email GRANIT (granit@unh.edu) or order from web site (www.granit.unh.edu).</ordering>
+			<turnarnd>Two weeks.</turnarnd>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140708</metd>
+		<metrd>20081016</metrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NH Office of Energy and Planning</cntorg>
+					<cntper>Ken Gallager</cntper>
+				</cntorgp>
+				<cntpos>Principal Planner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>57 Regional Drive</address>
+					<city>Concord</city>
+					<state>NH</state>
+					<postal>03301</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(603) 271-2155</cntvoice>
+				<cntfax>(603) 271-2615</cntfax>
+				<cntemail>ken.gallager@nh.gov</cntemail>
+				<hours>8:00 - 4:00, EST</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<langmeta Sync="TRUE">en</langmeta>
+<mettc Sync="TRUE">local time</mettc>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{89F8A494-6817-4144-A5EE-F5376E1E98EE}</MetaID>
+<CreaDate>20140612</CreaDate>
+<CreaTime>12281700</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140708</SyncDate>
+<SyncTime>09541600</SyncTime>
+<ModDate>20140708</ModDate>
+<ModTime>09544200</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NHGNISLocations08</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">750483.567723</westBL>
+<eastBL Sync="TRUE">1269056.668708</eastBL>
+<northBL Sync="TRUE">1020592.261041</northBL>
+<southBL Sync="TRUE">72240.295665</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-72.575068</westBL>
+<eastBL Sync="TRUE">-70.559961</eastBL>
+<northBL Sync="TRUE">45.299808</northBL>
+<southBL Sync="TRUE">42.693324</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\NHGNISLocations08.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.332</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NHGNISLocations08">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">12447</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140708</mdDateSt>
+</metadata>

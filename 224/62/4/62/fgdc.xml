@@ -1,0 +1,2350 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>University of Michigan. China Data Center</origin>
+				<origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+				<origin>Zhonghua di tu xue she</origin>
+				<origin>China. Guo jia tong ji ju</origin>
+				<pubdate>20060513</pubdate>
+				<title>Population by County Census China 1990</title>
+				<edition>Version III</edition>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>Historical China County Population Census Data with GIS Maps</sername>
+					<issue>Version III</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Ann Arbor (Mich.)</pubplace>
+					<publish>University of Michigan. China Data Center</publish>
+				</pubinfo>
+				<onlink>http://chinadatacenter.org/Data/ServiceContent.aspx?id=53</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>University of Michigan. China Data Center</origin>
+						<origin>Beijing Hua tong ren shi chang xin xi you xian ze ren gong si</origin>
+						<origin>Zhonghua di tu xue she</origin>
+						<origin>China. Guo jia tong ji ju</origin>
+						<pubdate>20060513</pubdate>
+						<title>China Data Center Featured Data</title>
+						<serinfo>
+							<sername>Historical China County Population Census Data with GIS Maps</sername>
+							<issue>Version III</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Ann Arbor (Mich.)</pubplace>
+							<publish>University of Michigan. China Data Center</publish>
+						</pubinfo>
+						<onlink>http://chinadatacenter.org/Data/ServiceContent.aspx?id=53</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">ChinaCensusCounties90</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents county boundaries and population data in China from the 1990 Census. This dataset also includes detailed demographic data such as: sex and age statistics, litteracy, employment, professions, marital status, births, death, and immigration.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1990</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+73.446960</westbc>
+				<eastbc>
+135.085831</eastbc>
+				<northbc>
+53.557926</northbc>
+				<southbc>
+6.318641</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">73.446960</leftbc>
+<rightbc Sync="TRUE">135.085831</rightbc>
+<bottombc Sync="TRUE">6.318641</bottombc>
+<topbc Sync="TRUE">53.557926</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>society</themekey>
+				<themekey>economy</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Counties</themekey>
+				<themekey>Boundaries</themekey>
+				<themekey>Administrative and political divisions</themekey>
+				<themekey>Census</themekey>
+				<themekey>Sex--Statistics</themekey>
+				<themekey>Demography</themekey>
+				<themekey>Labor</themekey>
+				<themekey>Childbirth--Statistics</themekey>
+				<themekey>Mortality--Statistics</themekey>
+				<themekey>Age distribution (Demography)</themekey>
+				<themekey>Literacy</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>China</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Asia</placekey>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+			</place>
+		</keywords>
+		<accconst>Restricted Access Online: Access is granted to licensee only. Available only to Tufts University affiliates.</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>China Data Center at University of Michigan</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1007 E Huron St</address>
+					<city>Ann Arbor</city>
+					<state>Michigan</state>
+					<postal>48104-1690</postal>
+					<country>United States of America</country>
+				</cntaddr>
+				<cntvoice>734-647-9610</cntvoice>
+				<cntfax>734-763-0335</cntfax>
+				<cntemail>chinadata@umich.edu</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>Unknown</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Name changed from china90 to ChinaCensusCounties90.</procdesc>
+				<procdate>20121101</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM- 5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xmlDD70.tmp</srcused>
+				<procdate>20121101</procdate>
+				<proctime>14021700</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xmlC7B2.tmp</srcused>
+				<procdate>20121101</procdate>
+				<proctime>15010900</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\gberes01\AppData\Local\Temp\xml8645.tmp</srcused>
+				<procdate>20121101</procdate>
+				<proctime>15344400</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="ChinaCensusCounties90">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>2375</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="ChinaCensusCounties90">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">2375</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="ChinaCensusCounties90">
+			<enttyp>
+				<enttypl>
+ChinaCensusCounties90</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">2375</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center.</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>PROVGB</attrlabl>
+				<attrdef>Province GB code</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>Beijing</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Tianjin</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>13</edomv>
+						<edomvd>Hebei</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>Shanxi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>15</edomv>
+						<edomvd>Neimenggu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>21</edomv>
+						<edomvd>Liaoning</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>22</edomv>
+						<edomvd>Jilin</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>23</edomv>
+						<edomvd>Heilongjiang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>31</edomv>
+						<edomvd>Shanghai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>32</edomv>
+						<edomvd>Jiangsu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>33</edomv>
+						<edomvd>Zhejiang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>34</edomv>
+						<edomvd>Anhui</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>35</edomv>
+						<edomvd>Fujian</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>36</edomv>
+						<edomvd>Jiangxi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>37</edomv>
+						<edomvd>Shandong</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>41</edomv>
+						<edomvd>Henan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>42</edomv>
+						<edomvd>Hubei</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>43</edomv>
+						<edomvd>Hunan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>44</edomv>
+						<edomvd>Guangdong</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>45</edomv>
+						<edomvd>Guangxi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>46</edomv>
+						<edomvd>Hainan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>51</edomv>
+						<edomvd>Sichuan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>52</edomv>
+						<edomvd>Guizhou</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>53</edomv>
+						<edomvd>Yunnan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>54</edomv>
+						<edomvd>Xizang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>61</edomv>
+						<edomvd>Shaanxi</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>62</edomv>
+						<edomvd>Gansu</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>63</edomv>
+						<edomvd>Qinghai</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>64</edomv>
+						<edomvd>Ningxia</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>65</edomv>
+						<edomvd>Xinjiang</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>71</edomv>
+						<edomvd>Taiwan</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>81</edomv>
+						<edomvd>Hongkong</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+					<edom>
+						<edomv>82</edomv>
+						<edomvd>Macau</edomvd>
+						<edomvds>Tufts University. Geographic Information Systems Center</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PROVGB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">7</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CITYGB</attrlabl>
+				<attrdef>Prefecture city GB code</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">CITYGB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">7</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CNTYGB</attrlabl>
+				<attrdef>Country GB code</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">CNTYGB</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CPROV</attrlabl>
+				<attrdef>Province name in Chinese</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">CPROV</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EPROV</attrlabl>
+				<attrdef>Province name in English</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">EPROV</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">16</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CCNTY</attrlabl>
+				<attrdef>County name in Chinese</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">CCNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">24</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ECNTY</attrlabl>
+				<attrdef>County name in English</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">ECNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">26</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90001</attrlabl>
+				<attrdef>The number of households (Unit: household)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90001</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90002</attrlabl>
+				<attrdef>Total population (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90002</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90003</attrlabl>
+				<attrdef>Total male population (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90003</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90004</attrlabl>
+				<attrdef>Total female population (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90004</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90005</attrlabl>
+				<attrdef>Total population of households (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90005</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90006</attrlabl>
+				<attrdef>Total agriculture population (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90006</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90007</attrlabl>
+				<attrdef>Total male population of urban city (the first measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90007</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90008</attrlabl>
+				<attrdef>Total female population of urban city (the first measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90008</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90009</attrlabl>
+				<attrdef>Total male population of all towns (the first measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90009</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90010</attrlabl>
+				<attrdef>Total female population of all towns (the first measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90010</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90011</attrlabl>
+				<attrdef>Total male population of all townships (the first measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90012</attrlabl>
+				<attrdef>Total female population of all townships (the first measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90013</attrlabl>
+				<attrdef>Total male population of urban city (the second measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90014</attrlabl>
+				<attrdef>Total female population of urban city (the second measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90014</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90015</attrlabl>
+				<attrdef>Total male population of all street committees/Juweihui) (the second measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90015</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90016</attrlabl>
+				<attrdef>Total female population of all street committees/Juweihui (the second measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90016</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90017</attrlabl>
+				<attrdef>Total male population of all village committees/Xiangweihui (the second measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90017</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90018</attrlabl>
+				<attrdef>Total female population of all village committees/Xiangweihui (the second measurement) (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90018</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90019</attrlabl>
+				<attrdef>The male population aged 0-4 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90019</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90020</attrlabl>
+				<attrdef>The female population aged 0-4 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90020</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90021</attrlabl>
+				<attrdef>The male population aged 5-9 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90021</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90022</attrlabl>
+				<attrdef>The female population aged 5-9 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90022</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90023</attrlabl>
+				<attrdef>The male population aged 10-14 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90023</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90024</attrlabl>
+				<attrdef>The female population aged 10-14 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90024</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90025</attrlabl>
+				<attrdef>The male population aged 15-19 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90025</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90026</attrlabl>
+				<attrdef>The female population aged 15-19 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90026</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90027</attrlabl>
+				<attrdef>The male population aged 20-24 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90027</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90028</attrlabl>
+				<attrdef>The female population aged 20-24 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90028</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90029</attrlabl>
+				<attrdef>The male population aged 25-29 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90029</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90030</attrlabl>
+				<attrdef>The female population aged 25-29 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90030</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90031</attrlabl>
+				<attrdef>The male population aged 30-34 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90031</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90032</attrlabl>
+				<attrdef>The female population aged 30-34 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90032</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90033</attrlabl>
+				<attrdef>The male population aged 35-39 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90033</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90034</attrlabl>
+				<attrdef>The female population aged 35-39 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90034</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90035</attrlabl>
+				<attrdef>The male population aged 40-44 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90035</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90036</attrlabl>
+				<attrdef>The female population aged 40-44 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90036</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90037</attrlabl>
+				<attrdef>The male population aged 45-49 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90037</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90038</attrlabl>
+				<attrdef>The female population aged 45-49 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90038</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90039</attrlabl>
+				<attrdef>The male population aged 50-54 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90039</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90040</attrlabl>
+				<attrdef>The female population aged 50-54 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90040</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90041</attrlabl>
+				<attrdef>The male population aged 55-59 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90041</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90042</attrlabl>
+				<attrdef>The female population aged 55-59 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90042</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90043</attrlabl>
+				<attrdef>The male population aged 60-64 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90043</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90044</attrlabl>
+				<attrdef>The female population aged 60-64 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90044</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90045</attrlabl>
+				<attrdef>The male population aged 65-69 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90045</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90046</attrlabl>
+				<attrdef>The female population aged 65-69 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90046</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90047</attrlabl>
+				<attrdef>The male population aged 70-74 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90047</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90048</attrlabl>
+				<attrdef>The female population aged 70-74 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90048</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90049</attrlabl>
+				<attrdef>The male population aged 75-79 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90049</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90050</attrlabl>
+				<attrdef>The female population aged 75-79 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90050</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90051</attrlabl>
+				<attrdef>The male population aged 80-84 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90051</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90052</attrlabl>
+				<attrdef>The female population aged 80-84 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90052</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90053</attrlabl>
+				<attrdef>The male population aged 85-89 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90053</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90054</attrlabl>
+				<attrdef>The female population aged 85-89 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90054</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90055</attrlabl>
+				<attrdef>The male population aged 90-94 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90055</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90056</attrlabl>
+				<attrdef>The female population aged 90-94 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90056</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90057</attrlabl>
+				<attrdef>The male population aged 95-99 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90057</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90058</attrlabl>
+				<attrdef>The female population aged 95-99 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90058</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90059</attrlabl>
+				<attrdef>The male population aged over 100 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90059</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90060</attrlabl>
+				<attrdef>The female population aged above 100 (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90060</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90061</attrlabl>
+				<attrdef>The male population aged 6 and above (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90061</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90062</attrlabl>
+				<attrdef>The female population aged 6 and above (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90062</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90063</attrlabl>
+				<attrdef>The male population with college degree (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90063</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90064</attrlabl>
+				<attrdef>The female population with college degree (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90064</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90065</attrlabl>
+				<attrdef>The male population with junior college degree (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90065</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90066</attrlabl>
+				<attrdef>The female population with junior college degree (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90066</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90067</attrlabl>
+				<attrdef>The male population with specialized secondary school education (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90067</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90068</attrlabl>
+				<attrdef>The female population with specialized secondary school education (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90068</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90069</attrlabl>
+				<attrdef>The male population with high school education (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90069</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90070</attrlabl>
+				<attrdef>The female population with high school education (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90070</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90071</attrlabl>
+				<attrdef>The male population with middle school education (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90071</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90072</attrlabl>
+				<attrdef>The female population with middle school education (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90072</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90073</attrlabl>
+				<attrdef>The male population with primary school education (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90073</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90074</attrlabl>
+				<attrdef>The female population with primary school education (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90074</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90075</attrlabl>
+				<attrdef>The male population of illiterate (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90075</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90076</attrlabl>
+				<attrdef>The female population of illiterate (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90076</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90077</attrlabl>
+				<attrdef>The male population aged 15 and above (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90077</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90078</attrlabl>
+				<attrdef>The female population aged 15 and above (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90078</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90079</attrlabl>
+				<attrdef>The illiterate or semi-literate men aged 15 and above (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90079</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90080</attrlabl>
+				<attrdef>The illiterate or semi-literate women aged 15 and above (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90080</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90081</attrlabl>
+				<attrdef>Total employment (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90081</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90082</attrlabl>
+				<attrdef>Professional/Technical personnel (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90082</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90083</attrlabl>
+				<attrdef>Administrators for government agencies, political parties, social organizations and enterprises (Unit: person)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90083</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90084</attrlabl>
+				<attrdef>Staffs in offices (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90084</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90085</attrlabl>
+				<attrdef>Staffs in commerce (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90085</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90086</attrlabl>
+				<attrdef>Public service workers (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90086</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90087</attrlabl>
+				<attrdef>Workers in farming, forestry, animal husbandry and fishery (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90087</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90088</attrlabl>
+				<attrdef>Workers in production and transportation (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90088</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90089</attrlabl>
+				<attrdef>Other workers not categorized (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90089</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90090</attrlabl>
+				<attrdef>Boys in schools (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90090</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90091</attrlabl>
+				<attrdef>Girls in schools (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90091</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90092</attrlabl>
+				<attrdef>Male population stayed at home for housework (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90092</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90093</attrlabl>
+				<attrdef>Female population stayed at home for housework (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90093</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90094</attrlabl>
+				<attrdef>Male population waiting for admission by schools (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90094</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90095</attrlabl>
+				<attrdef>Male population waiting for admission by schools (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90095</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90096</attrlabl>
+				<attrdef>Unemployed men looking for jobs (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90096</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90097</attrlabl>
+				<attrdef>Unemployed women looking for jobs (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90097</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90098</attrlabl>
+				<attrdef>Male population retired (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90098</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90099</attrlabl>
+				<attrdef>Female population retired (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90099</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90100</attrlabl>
+				<attrdef>Disabled men (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90100</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90101</attrlabl>
+				<attrdef>Disabled women (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90101</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90102</attrlabl>
+				<attrdef>Other male population (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90102</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90103</attrlabl>
+				<attrdef>Other female population (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90103</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90104</attrlabl>
+				<attrdef>Unmarried men (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90104</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90105</attrlabl>
+				<attrdef>Unmarried women (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90105</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90106</attrlabl>
+				<attrdef>Married men (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90106</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90107</attrlabl>
+				<attrdef>Married women (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90107</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90108</attrlabl>
+				<attrdef>Widowed men (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90108</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90109</attrlabl>
+				<attrdef>Widowed women (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90109</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90110</attrlabl>
+				<attrdef>Divorced men (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90110</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90111</attrlabl>
+				<attrdef>Divorced women (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90111</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90112</attrlabl>
+				<attrdef>Boys born during the first half of 1989 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90112</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90113</attrlabl>
+				<attrdef>Girls born during the first half of 1989 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90113</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90114</attrlabl>
+				<attrdef>Boys born during the second half of 1989 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90114</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90115</attrlabl>
+				<attrdef>Girls born during the second half of 1989 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90115</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90116</attrlabl>
+				<attrdef>Boys born during the first half of 1990 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90116</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90117</attrlabl>
+				<attrdef>Girls born during the first half of 1990 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90117</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90118</attrlabl>
+				<attrdef>Women aged 15-64 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90118</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90119</attrlabl>
+				<attrdef>The average number of children born alive of each woman aged 15-64 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90119</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A90120</attrlabl>
+				<attrdef>The average number of surviving children of each woman aged 15-64 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90120</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A90121</attrlabl>
+				<attrdef>The male population died during the first half of 1989 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90121</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90122</attrlabl>
+				<attrdef>The female population died during the first half of 1989 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90122</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90123</attrlabl>
+				<attrdef>The male population died during the second half of 1989 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90123</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90124</attrlabl>
+				<attrdef>The female population died during the second half of 1989 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90124</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90125</attrlabl>
+				<attrdef>The male population died during the first half of 1990 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90125</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90126</attrlabl>
+				<attrdef>The female population died during the first half of 1990 (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90126</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90127</attrlabl>
+				<attrdef>The immigration from the jie dao of other cities or counties of same province (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90127</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90128</attrlabl>
+				<attrdef>The immigration from the towns of other cities or counties of same province (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90128</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90129</attrlabl>
+				<attrdef>The immigration from the townships of other cities or counties of same province (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90129</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90130</attrlabl>
+				<attrdef>The immigration from the jie dao of other provinces (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90130</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90131</attrlabl>
+				<attrdef>The immigration from the towns of other provinces (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90131</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90132</attrlabl>
+				<attrdef>The immigration from the townships of other provinces (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90132</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90133</attrlabl>
+				<attrdef>The population by street committee in counties (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90133</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+<atnumdec Sync="TRUE">4</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A90134</attrlabl>
+				<attrdef>The population by village committee in counties (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90134</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+<atnumdec Sync="TRUE">4</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A90135</attrlabl>
+				<attrdef>Other population in towns not counted by street committee or village committee (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90135</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+<atnumdec Sync="TRUE">4</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>A90136</attrlabl>
+				<attrdef>The employment in farming (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90136</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90137</attrlabl>
+				<attrdef>The employment in forestry (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90137</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90138</attrlabl>
+				<attrdef>The employment in animal husbandry (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90138</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90139</attrlabl>
+				<attrdef>The employment in fishery (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90139</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90140</attrlabl>
+				<attrdef>The employment in the water conservancy industry (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90140</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90141</attrlabl>
+				<attrdef>The employment in the service sector for farming, forestry, animal husbandry, fishery and water conservancy (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90141</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90142</attrlabl>
+				<attrdef>The employment in coal mining and dressing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90142</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90143</attrlabl>
+				<attrdef>The employment in petroleum and natural gas extraction (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90143</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90144</attrlabl>
+				<attrdef>The employment in ferrous ore mining and dressing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90144</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90145</attrlabl>
+				<attrdef>The employment in non-ferrous ore mining and dressing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90145</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90146</attrlabl>
+				<attrdef>The employment in building materials and other non-metallic ore mining and dressing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90146</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90147</attrlabl>
+				<attrdef>The employment in salt mining (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90147</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90148</attrlabl>
+				<attrdef>The employment in other ore mining and dressing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90148</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90149</attrlabl>
+				<attrdef>The employment in timber and bamboo logging and transportation (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90149</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90150</attrlabl>
+				<attrdef>The employment in production and supply of tap water (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90150</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90151</attrlabl>
+				<attrdef>The employment in food manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90151</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90152</attrlabl>
+				<attrdef>The employment in beverage manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90152</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90153</attrlabl>
+				<attrdef>The employment in tobacco processing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90153</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90154</attrlabl>
+				<attrdef>The employment in fodder (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90154</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90155</attrlabl>
+				<attrdef>The employment in textile (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90155</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90156</attrlabl>
+				<attrdef>The employment in sewing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90156</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90157</attrlabl>
+				<attrdef>The employment in leather, fur and its products manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90157</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90158</attrlabl>
+				<attrdef>The employment in timber processing and bamboo, cane, coir and grass products manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90158</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90159</attrlabl>
+				<attrdef>The employment in furniture manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90159</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90160</attrlabl>
+				<attrdef>The employment in paper-making, paper products manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90160</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90161</attrlabl>
+				<attrdef>The employment in printing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90161</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90162</attrlabl>
+				<attrdef>The employment in cultural goods and sporting goods manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90162</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90163</attrlabl>
+				<attrdef>The employment in art and craft goods manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90163</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90164</attrlabl>
+				<attrdef>The employment in the production and supply of electric power, vapor and hot water (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90164</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90165</attrlabl>
+				<attrdef>The employment in the petroleum refining industry (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90165</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90166</attrlabl>
+				<attrdef>The employment in coking coal, coal gas and coal products manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90166</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90167</attrlabl>
+				<attrdef>The employment in chemistry (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90167</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90168</attrlabl>
+				<attrdef>The employment in pharmaceutical manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90168</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90169</attrlabl>
+				<attrdef>The employment in chemical fiber (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90169</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90170</attrlabl>
+				<attrdef>The employment in rubber products manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90170</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90171</attrlabl>
+				<attrdef>The employment in plastic products manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90171</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90172</attrlabl>
+				<attrdef>The employment in building materials and other non-metallic ore products manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90172</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90173</attrlabl>
+				<attrdef>The employment in the industry of ferrous metal melting and rolling (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90173</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90174</attrlabl>
+				<attrdef>The employment in non-ferrous metal melting and rolling (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90174</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90175</attrlabl>
+				<attrdef>The employment in metalwork manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90175</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90176</attrlabl>
+				<attrdef>The employment in machinery (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90176</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90177</attrlabl>
+				<attrdef>The employment in traffic and transportation equipment manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90177</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90178</attrlabl>
+				<attrdef>The employment in electric equipment manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90178</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90179</attrlabl>
+				<attrdef>The employment in electronic and telecommunication equipment manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90179</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90180</attrlabl>
+				<attrdef>The employment in measuring instruments, meters and other measuring products manufacturing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90180</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90181</attrlabl>
+				<attrdef>The employment in other manufacturing industries (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90181</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90182</attrlabl>
+				<attrdef>The employment in geological prospecting and exploration (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90182</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90183</attrlabl>
+				<attrdef>The employment in civil engineering construction (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90183</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90184</attrlabl>
+				<attrdef>The employment in installation of lines, pipelines and equipment (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90184</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90185</attrlabl>
+				<attrdef>The employment in installation of lines, pipelines and equipment (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90185</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90186</attrlabl>
+				<attrdef>The employment in transportation (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90186</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90187</attrlabl>
+				<attrdef>The employment in post and telecommunication (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90187</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90188</attrlabl>
+				<attrdef>The employment in commerce (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90188</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90189</attrlabl>
+				<attrdef>The employment in catering trade (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90189</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90190</attrlabl>
+				<attrdef>The employment in the supply and marketing of commodities (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90190</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90191</attrlabl>
+				<attrdef>The employment in the storage of commodities (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90191</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90192</attrlabl>
+				<attrdef>The employment in real estate management (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90192</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90193</attrlabl>
+				<attrdef>The employment in public facilities (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90193</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90194</attrlabl>
+				<attrdef>The employment in residential service (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90194</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90195</attrlabl>
+				<attrdef>The employment in consulting service (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90195</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90196</attrlabl>
+				<attrdef>The employment in public health service (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90196</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90197</attrlabl>
+				<attrdef>The employment in sports (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90197</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90198</attrlabl>
+				<attrdef>The employment in social welfare service (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90198</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90199</attrlabl>
+				<attrdef>The employment in education (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90199</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90200</attrlabl>
+				<attrdef>The employment in culture and art sector (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90200</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90201</attrlabl>
+				<attrdef>The employment in broadcast and television sector (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90201</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90202</attrlabl>
+				<attrdef>The employment in research agencies and institutions (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90202</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90203</attrlabl>
+				<attrdef>The employment in comprehensive technical service (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90203</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90204</attrlabl>
+				<attrdef>The employment in financial service (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90204</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90205</attrlabl>
+				<attrdef>The employment in insurance service (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90205</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90206</attrlabl>
+				<attrdef>The employment in government agencies (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90206</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90207</attrlabl>
+				<attrdef>The employment in political party committees (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90207</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90208</attrlabl>
+				<attrdef>The employment in social organizations (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90208</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90209</attrlabl>
+				<attrdef>The employment in enterprise management (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90209</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90210</attrlabl>
+				<attrdef>The employment in other industries not categorized (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90210</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90211</attrlabl>
+				<attrdef>The personnel of scientific research (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90211</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90212</attrlabl>
+				<attrdef>The technical personnel of engineering and agriculture (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90212</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90213</attrlabl>
+				<attrdef>The personnel of aircraft and shipping technology (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90213</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90214</attrlabl>
+				<attrdef>The personnel of medical and health care (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90214</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90215</attrlabl>
+				<attrdef>The personnel of business marketing (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90215</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90216</attrlabl>
+				<attrdef>The personnel of legal affair (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90216</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90217</attrlabl>
+				<attrdef>The teachers (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90217</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90218</attrlabl>
+				<attrdef>The professionals of arts and sports (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90218</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90219</attrlabl>
+				<attrdef>The professionals for culture service (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90219</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90220</attrlabl>
+				<attrdef>The professionals for religious service (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90220</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90221</attrlabl>
+				<attrdef>The workers in post and telecommunication (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90221</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90222</attrlabl>
+				<attrdef>The worker in construction (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90222</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90223</attrlabl>
+				<attrdef>The number of single-person households by city and county (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90223</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90224</attrlabl>
+				<attrdef>The number of single-couple households by city and county (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90224</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90225</attrlabl>
+				<attrdef>The number of 2 generation households by city and county (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90225</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90226</attrlabl>
+				<attrdef>The number of 3 generation households by city and county (Unit: person)</attrdef>
+				<attalias Sync="TRUE">A90226</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90227</attrlabl>
+				<attrdef>The number of domestic households with children aged 0-6 by city and county (Unit: househeld)</attrdef>
+				<attalias Sync="TRUE">A90227</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90228</attrlabl>
+				<attrdef>The number of domestic households with children aged 7-14 by city and county (Unit: househeld)</attrdef>
+				<attalias Sync="TRUE">A90228</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90229</attrlabl>
+				<attrdef>The number of domestic households with persons aged 60 and above by city and county (Unit: househeld)</attrdef>
+				<attalias Sync="TRUE">A90229</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>A90330</attrlabl>
+				<attrdef>The number of domestic households with persons aged 65 and above by city and county (Unit: househeld)</attrdef>
+				<attrdefs>University of Michigan. China Data Center</attrdefs>
+				<attalias Sync="TRUE">A90330</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>14.522</transize>
+					<dssize Sync="TRUE">14.182</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.tufts.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130301</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper/>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">ChinaCensusCounties90</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">73.44696</westBL>
+<eastBL Sync="TRUE">135.085831</eastBL>
+<northBL Sync="TRUE">53.557926</northBL>
+<southBL Sync="TRUE">6.318641</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">73.44696</westBL>
+<eastBL Sync="TRUE">135.085831</eastBL>
+<northBL Sync="TRUE">53.557926</northBL>
+<southBL Sync="TRUE">6.318641</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\ChinaDataCtr\ChinaHistoricalCountyCensus\1990\ChinaCensusCounties90.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">14.182</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="ChinaCensusCounties90">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">2375</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130301</SyncDate>
+<SyncTime>13402700</SyncTime>
+<ModDate>20130301</ModDate>
+<ModTime>13402700</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130301</mdDateSt>
+</metadata>

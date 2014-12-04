@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United Nations. Office for the Coordination of Humanitarian Affairs</origin>
+				<pubdate>20111006</pubdate>
+				<title>Settlements Pakistan 2010</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>United Nations OCHA</sername>
+					<issue>Pakistan</issue>
+				</serinfo>
+				<pubinfo>
+					<publish>United Nations. Office for the Coordination of Humanitarian Affairs</publish>
+				</pubinfo>
+				<onlink>http://cod.humanitarianresponse.info/country-region/pakistan</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United Nations. Office for the Coordination of Humanitarian Affairs</origin>
+						<pubdate>20111006</pubdate>
+						<title>United Nations OCHA Pakistan</title>
+						<pubinfo>
+							<publish>United Nations. Office for the Coordination of Humanitarian Affairs</publish>
+						</pubinfo>
+						<onlink>http://cod.humanitarianresponse.info/country-region/pakistan</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">PakistanSettlements10</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset represents settlements in Pakistan.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2010</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>REQUIRED: The state of the data set.</progress>
+			<update>REQUIRED: The frequency with which changes and additions are made to the data set after the initial data set is completed.</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+60.866667</westbc>
+				<eastbc>
+77.800014</eastbc>
+				<northbc>
+37.085473</northbc>
+				<southbc>
+23.616667</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">60.866667</leftbc>
+<rightbc Sync="TRUE">77.800014</rightbc>
+<bottombc Sync="TRUE">23.616667</bottombc>
+<topbc Sync="TRUE">37.085473</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>location</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Human settlements</themekey>
+				<themekey>Cities and towns</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Pakistan</placekey>
+				<placekey>Islamic Republic of Pakistan</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern hemisphere</placekey>
+				<placekey>Eastern hemisphere</placekey>
+				<placekey>Asia</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>United Nations. Office for the Coordination of Humanitarian Affairs</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>8-14 Palais de Nations</address>
+					<city>Geneva</city>
+					<postal>1211</postal>
+					<country>Switzerland</country>
+				</cntaddr>
+				<cntvoice>+41 229171234</cntvoice>
+				<cntfax>+41 229170023/0368</cntfax>
+				<cntemail>ochagva@un.org</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>Unknown</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>11073200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlB389.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>11135000</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Name changed from PAK_Settkements_NGA_Admin_Bndry_Attributes_20111006 to PakistanSettlements10.</procdesc>
+				<procdate>20130212</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University. Geographic Information Systems Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Ave</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-suuport@elist.tufts.edu</cntemail>
+						<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlB49F.tmp</srcused>
+				<procdate>20130212</procdate>
+				<proctime>12354500</proctime>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="PakistanSettlements10">
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>179995</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="PakistanSettlements10">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">179995</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="PakistanSettlements10">
+			<enttyp>
+				<enttypl>
+PakistanSettlements11</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">179995</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>FID_1</attrlabl>
+				<attalias Sync="TRUE">FID_1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Unique Identifier</attrdef>
+<attrdefs>Tufts University GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>RC</attrlabl>
+				<attalias Sync="TRUE">RC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Region Font Code.  A code that determines the equivalent characters used when generating the SORT and NO DIACRITICS (ND) feature names information rendered in Roman script.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency </attrdefs>
+</attr>
+			<attr>
+				<attrlabl>UFI</attrlabl>
+				<attalias Sync="TRUE">UFI</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Unique Feature Identifier.  A number which uniquely identifies a feature</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>UNI</attrlabl>
+				<attalias Sync="TRUE">UNI</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Unique Name Identifier.  A number which uniquely identifies a feature name.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>LAT</attrlabl>
+				<attalias Sync="TRUE">LAT</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+<attrdef>Latitude of the feature in ± decimal degrees; DD; (± dd.dddddd):</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>LONG</attrlabl>
+				<attalias Sync="TRUE">LONG</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+<attrdef> 	Longitude of the feature in ± decimal degrees; DD; (± ddd.dddddd):</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>DMS_LAT</attrlabl>
+				<attalias Sync="TRUE">DMS_LAT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Latitude of the feature in ± degrees, minutes, and seconds; DMS; (±ddmmss):</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>DMS_LONG</attrlabl>
+				<attalias Sync="TRUE">DMS_LONG</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef> 	Longitude of the feature in ± degrees, minutes, and seconds; DMS; (±dddmmss):</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>MGRS</attrlabl>
+				<attalias Sync="TRUE">MGRS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Military Grid Reference System coordinates. MGRS is an alpha-numeric system for expressing UTM/UPS coordinates. A single alpha-numeric value references an area that is unique for the entire earth. </attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>JOG</attrlabl>
+				<attalias Sync="TRUE">JOG</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Joint Operations Graphic reference.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>FC</attrlabl>
+				<attalias Sync="TRUE">FC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdomv>
+<edom>
+<edomv>A</edomv>
+<edomvd>Administrative region feature type </edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>P</edomv>
+<edomvd>Populated place feature type </edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>V</edomv>
+<edomvd>Vegetation feature type </edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>L</edomv>
+<edomvd>Locality or area feature type </edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>U</edomv>
+<edomvd>Undersea feature type</edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>R</edomv>
+<edomvd>Streets, highways, roads, or railroad feature type </edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>T</edomv>
+<edomvd>Hypsographic feature type</edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>H</edomv>
+<edomvd>Hydrographic feature type </edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>S</edomv>
+<edomvd>Spot feature type</edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Feature Classification: Nine (9) major feature categories into which similar feature designations are grouped.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>DSG</attrlabl>
+				<attalias Sync="TRUE">DSG</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Feature Designation Code.  A two to five-character code used to identify the type of feature a name is applied to. For a description of these codes/values, please see the "Look-up Tables..." section on the GNS Offered Services page.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>PC</attrlabl>
+				<attalias Sync="TRUE">PC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Populated Place Classification.  A numerical scale identifying the relative importance of a populated place. The scale ranges from 1 (high) to 5 (low). The scale can also include NULL (no value) as a value for populated places with unknown or undetermined relative importance.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>CC1</attrlabl>
+				<attalias Sync="TRUE">CC1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Primary Geopolitical Code. A two alphabetic character code from the Geopolitical Entities and Codes (formerly FIPS 10-4 standard) that uniquely identifies a feature's primary geopolitical entity (countries, dependencies, and areas of special sovereignty). This field can contain one, or multiple comma separated non-spaced country codes to identify international (shared) features that run through multiple countries for up to 255 characters (example: Danube River - AU,BU,EZ.). For a description of these codes/values, please see the "Look-up Tables..." section on the GNS Offered Services page.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>ADM1</attrlabl>
+				<attalias Sync="TRUE">ADM1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Primary administrative division code. A two character alpha-numeric code from the Geopolitical Entities and Codes (formerly FIPS 10-4 standard) that describes the primary administrative division of a feature, similar to a state level in the United States. For a description of these codes/values, please see the "Look-up Tables..." section on the GNS Offered Services page.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>POP</attrlabl>
+				<attalias Sync="TRUE">POP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Population figures</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>ELEV</attrlabl>
+				<attalias Sync="TRUE">ELEV</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Elevation in meters</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>CC2</attrlabl>
+				<attalias Sync="TRUE">CC2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Secondary Geopolitical Code. A two alphabetic character code from the Geopolitical Entities and Codes (formerly FIPS 10-4 standard) that uniquely identifies the particular feature name that is applicable in a particular geopolitical entity, or entities, for international features.  This field can contain one, or multiple comma separated non-spaced country codes to identify international (shared) features that run through multiple countries for up to 255 characters (example: Donau - AU,GM. to identify the Austrian and German name for the Danube River).  For a description of these codes/values, please see the "Look-up Tables..." section on the GNS Offered Services page.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>NT</attrlabl>
+				<attalias Sync="TRUE">NT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdomv>
+<edom>
+<edomv>C</edomv>
+<edomvd>Conventional </edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>N</edomv>
+<edomvd>Approved</edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>D</edomv>
+<edomvd>Unverified</edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>P</edomv>
+<edomvd>Provisional</edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>VA</edomv>
+<edomvd>Anglicized Variant</edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>V</edomv>
+<edomvd>Variant</edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>NS</edomv>
+<edomvd>Non-Roman Script</edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>DS</edomv>
+<edomvd>UNverified Non-Roman Script</edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+<edom>
+<edomv>VS</edomv>
+<edomvd>Variant Non-Roman Script</edomvd>
+<edomvds>United States. National Geospatial-Intelligence Agency</edomvds>
+</edom>
+</attrdomv>
+<attrdef>Name Type</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>LC</attrlabl>
+				<attalias Sync="TRUE">LC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Lanuage Code. A three alphabetic character code (ISO 639-3) uniquely identifying the language assigned to a feature name. For a description of these codes/values, please see the "Look-up Tables..." section on the GNS Offered Services page.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>SHORT_FORM</attrlabl>
+				<attalias Sync="TRUE">SHORT_FORM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>A part of the full name that could substitute for the full name.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>GENERIC</attrlabl>
+				<attalias Sync="TRUE">GENERIC</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>The descriptive part of the full name such as Cerro (mountain), Arroyo (river), or Golfo (gulf) (generally does not apply to populated place names or English based generics).</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>SORT_NAME_</attrlabl>
+				<attalias Sync="TRUE">SORT_NAME_</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Sort name - reading order. A form of the full name that allows for alphabetical sorting of the file into gazetteer sequence. For Roman script names, all character/diacritic combinations and special characters are substituted with QWERTY (visible U.S. English keyboard) characters, all characters are upper-cased, numerals are converted to lower-case characters (0-9 = a-j), spaces are stripped out, and commas replaced with a space.  This field also includes non-roman script based names which are stripped of vowel markings/pointers for languages using Arabic based letters. This field is included for the benefit of the end user of the data to aid in the sorting of names if required.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>FULL_NAME_</attrlabl>
+				<attalias Sync="TRUE">FULL_NAME_</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+<attrdef>Full name - reading order. The full name is the complete name that identifies a named feature.  The full name is output in reading order, "Mount Everest", vs. reversed generic, "Everest, Mount".</attrdef>
+</attr>
+			<attr>
+				<attrlabl>FULL_NAME1</attrlabl>
+				<attalias Sync="TRUE">FULL_NAME1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+<attrdef>Full name - reading order with no diacritics. Same as the full name but the character/diacritic combinations and special characters are substituted with QWERTY (visible U.S. English keyboard) characters while still maintaining casing and spaces. This field also includes non-roman script based names which are stripped of vowel markings.</attrdef>
+</attr>
+			<attr>
+				<attrlabl>SORT_NAME1</attrlabl>
+				<attalias Sync="TRUE">SORT_NAME1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Sort name - reading order. A form of the full name that allows for alphabetical sorting of the file into gazetteer sequence. For Roman script names, all character/diacritic combinations and special characters are substituted with QWERTY (visible U.S. English keyboard) characters, all characters are upper-cased, numerals are converted to lower-case characters (0-9 = a-j), spaces are stripped out, and commas replaced with a space.  This field also includes non-roman script based names which are stripped of vowel markings/pointers for languages using Arabic based letters. This field is included for the benefit of the end user of the data to aid in the sorting of names if required.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>FULL_NAM_1</attrlabl>
+				<attalias Sync="TRUE">FULL_NAM_1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef> 	Full name - reading order. The full name is the complete name that identifies a named feature.  The full name is output in reading order, "Mount Everest", vs. reversed generic, "Everest, Mount".</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>FULL_NAM_2</attrlabl>
+				<attalias Sync="TRUE">FULL_NAM_2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Full name - reading order with no diacritics. Same as the full name but the character/diacritic combinations and special characters are substituted with QWERTY (visible U.S. English keyboard) characters while still maintaining casing and spaces. This field also includes non-roman script based names which are stripped of vowel markings.</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>NOTE</attrlabl>
+				<attalias Sync="TRUE">NOTE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>This field holds a geopolitical policy note concerning the feature, populated when CC1 and ADM1 are NULL, and it could contain multiple notes. If multiple notes are present, they will be delimited by semicolon followed by four spaces (1:note1; 2:note2; 3:note3; etc...).</attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>MODIFY_DAT</attrlabl>
+				<attalias Sync="TRUE">MODIFY_DAT</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdef>The date a new feature was added or any part of an existing feature was modified (YYYY-MM-DD). </attrdef>
+<attrdefs>United States. National Geospatial-Intelligence Agency</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>Province</attrlabl>
+				<attalias Sync="TRUE">Province</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>Province name</attrdef>
+<attrdefs>Tufts University GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>PROVINCE_1</attrlabl>
+				<attalias Sync="TRUE">PROVINCE_1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>Province Name </attrdef>
+<attrdefs>Tufts University GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>PROVINCE_C</attrlabl>
+				<attalias Sync="TRUE">PROVINCE_C</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+<attrdef>Numerical Code identifying province</attrdef>
+<attrdefs>Tufts University GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>DISTRICT</attrlabl>
+				<attalias Sync="TRUE">DISTRICT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>District Name</attrdef>
+<attrdefs>Tufts University GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>DISTRICT_C</attrlabl>
+				<attalias Sync="TRUE">DISTRICT_C</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Numerical Code identifying districts</attrdef>
+<attrdefs>Tufts University GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>TEHSIL</attrlabl>
+				<attalias Sync="TRUE">TEHSIL</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>Administrative Region </attrdef>
+<attrdefs>Tufts Univeristy GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>TEHSIL_C</attrlabl>
+				<attalias Sync="TRUE">TEHSIL_C</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">6</atnumdec>
+<attrdef>numerical code for Tehsil administrative region code</attrdef>
+<attrdefs>Tufts University GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>Remarks</attrlabl>
+				<attalias Sync="TRUE">Remarks</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdef>Notations made by the originators</attrdef>
+<attrdefs>Tufts Univeristy GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>M_20110207</attrlabl>
+				<attalias Sync="TRUE">M_20110207</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Unknown Numerical Attribute</attrdef>
+<attrdefs>Tufts University GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>M_20110217</attrlabl>
+				<attalias Sync="TRUE">M_20110217</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Unknown Numerical Attribute</attrdef>
+<attrdefs>Tufts University GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>M_20110302</attrlabl>
+				<attalias Sync="TRUE">M_20110302</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Unknown Numerical Attribute</attrdef>
+<attrdefs>Tufts Univeristy GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>M_20110322</attrlabl>
+				<attalias Sync="TRUE">M_20110322</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Unknown Numerical Attribute</attrdef>
+<attrdefs>Tufts Univeristy GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>M_20110324</attrlabl>
+				<attalias Sync="TRUE">M_20110324</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Unknown Numerical Attribute</attrdef>
+<attrdefs>Tufts Univeristy GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>T_NAME</attrlabl>
+				<attalias Sync="TRUE">T_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Tehsil Name </attrdef>
+<attrdefs>Tufts University GIS Center</attrdefs>
+</attr>
+			<attr>
+				<attrlabl>Title</attrlabl>
+				<attalias Sync="TRUE">Title</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdef>Tehsil Descriptive Title </attrdef>
+<attrdefs>Tufts University GIS Center</attrdefs>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>4.806</transize>
+					<dssize Sync="TRUE">4.806</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130212</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntpos>GIS Data Analyst</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Ave</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">PakistanSettlements10</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">60.866667</westBL>
+<eastBL Sync="TRUE">77.800014</eastBL>
+<northBL Sync="TRUE">37.085473</northBL>
+<southBL Sync="TRUE">23.616667</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">60.866667</westBL>
+<eastBL Sync="TRUE">77.800014</eastBL>
+<northBL Sync="TRUE">37.085473</northBL>
+<southBL Sync="TRUE">23.616667</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Pakistan\Settlements\PakistanSettlements10.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">4.806</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="PakistanSettlements10">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">179995</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140717</SyncDate>
+<SyncTime>11201700</SyncTime>
+<ModDate>20140717</ModDate>
+<ModTime>11590300</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140717</mdDateSt>
+</metadata>

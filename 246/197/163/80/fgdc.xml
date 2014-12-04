@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>National Institute of Statistics (Cambodia)</origin>
+				<pubdate>201002</pubdate>
+				<title>Districts Cambodia 2008</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+				</serinfo>
+				<pubinfo>
+				</pubinfo>
+				<onlink>http://www.nis.gov.kh/nada/index.php/catalog/25</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>National Institute of Statistics (Cambodia)</origin>
+						<pubdate>201002</pubdate>
+						<title>Cambodia</title>
+						<serinfo>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Phnom Penh (Cambodia)</pubplace>
+							<publish>National Institute of Statistics (Cambodia)</publish>
+						</pubinfo>
+						<onlink>http://www.nis.gov.kh/nada/index.php/catalog/25</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">CambodiaDistricts08</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset indicates the district (2nd Level) divisions of Cambodia</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>200803</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+102.324324</westbc>
+				<eastbc>
+107.646647</eastbc>
+				<northbc>
+14.701231</northbc>
+				<southbc>
+10.340690</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">211837.191488</leftbc>
+<rightbc Sync="TRUE">785034.001831</rightbc>
+<bottombc Sync="TRUE">1144269.122240</bottombc>
+<topbc Sync="TRUE">1625281.249100</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>society</themekey>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Administrative and political divisions</themekey>
+				<themekey>Census</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Cambodia</placekey>
+			</place>
+			<place>
+				<placekt>Asia</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Eastern Hemisphere</placekey>
+				<placekey>Asia</placekey>
+			</place>
+		</keywords>
+		<accconst>Restricted Access Online: Access is granted to licensee only.  Available only to Tufts University Affiliates</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>National Institute of Statistics, Ministry of Planning, Royal Government of Cambodia</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Building C and E, #386 Preah Monivong Blvd, Boeung Keng Kong 1, Chamkarmorn</address>
+					<city>Phnom Penh</city>
+					<country>Kingdom of Cambodia</country>
+				</cntaddr>
+				<cntvoice>855-23-727400</cntvoice>
+				<cntvoice>855-23-213650</cntvoice>
+				<cntvoice>855-23-210791</cntvoice>
+				<cntfax>855-23-213650</cntfax>
+				<cntemail>info@nis.gov.kh</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\1_Layers\Starter Metadata Template -Tufts</srcused>
+				<procdate>20120112</procdate>
+				<proctime>12373500</proctime>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>GIS Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday - Friday, 9:00 AM - 5:00 PM EST-USA</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>S:\GIS_Center_Projects\EnterpriseGIS\1_Layers\Starter Metadata Template -Tufts</srcused>
+				<procdate>20120217</procdate>
+				<proctime>16392200</proctime>
+			</procstep>
+			<procstep>
+				<procdesc>Changed name from districts_region toCambodiaDistricts08.</procdesc>
+				<srcused>H:\Cambodia\NIS\2008 Census Map Layers and Databases\ShapeFileLayers\CambodiaTemplate.xml</srcused>
+				<procdate>20120228</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="CambodiaDistricts08">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>193</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="CambodiaDistricts08">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">193</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000</absres>
+						<ordres>0.000000</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+				<gridsys>
+<gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn>
+<utm>
+<utmzone Sync="TRUE">48</utmzone>
+<transmer>
+<sfctrmer Sync="TRUE">0.999600</sfctrmer>
+<longcm Sync="TRUE">105.000000</longcm>
+<latprjo Sync="TRUE">0.000000</latprjo>
+<feast Sync="TRUE">500000.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</utm>
+</gridsys>
+</planar>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+<projcsn Sync="TRUE">WGS_1984_UTM_Zone_48N</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="CambodiaDistricts08">
+			<enttyp>
+				<enttypl>
+CambodiaDistricts08</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">193</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>DIST_CODE</attrlabl>
+				<attrdef>Unique code for each district</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">DIST_CODE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DIST_NAME</attrlabl>
+				<attrdef>Name of district</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">DIST_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HH_TOT</attrlabl>
+				<attrdef>Number of Households</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">HH_TOT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>HH_REG</attrlabl>
+				<attrdef>Number of Regular Households</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">HH_REG</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOTPOP</attrlabl>
+				<attrdef>Total Population</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">TOTPOP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MALES</attrlabl>
+				<attrdef>Male Population</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">MALES</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FEMALES</attrlabl>
+				<attrdef>Female Population</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">FEMALES</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DENSITY</attrlabl>
+				<attrdef>Population Density (persons/Km2)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">DENSITY</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>URBAN</attrlabl>
+				<attrdef>Percentage Urban ((Urban population/totalpopulation)*100).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">URBAN</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FHEADS</attrlabl>
+				<attrdef>Percentage of Female Headed Households</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">FHEADS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>SEXRATIO</attrlabl>
+				<attrdef>Sex Ratio ((Males/Females)*100))</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">SEXRATIO</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>AVG_HS</attrlabl>
+				<attrdef>Average Household Size (population/households)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">AVG_HS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>MALBL15</attrlabl>
+				<attrdef>Males aged below 15</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">MALBL15</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MAL1019</attrlabl>
+				<attrdef>Males aged 10 to 19 (Adolescents)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">MAL1019</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MAL1564</attrlabl>
+				<attrdef>Males aged 15 to 64 (Economically active age groups)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">MAL1564</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MAL65OV</attrlabl>
+				<attrdef>Males aged 65 and above (elderly)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">MAL65OV</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FEMBL15</attrlabl>
+				<attrdef>Females aged below 15</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">FEMBL15</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FEM1019</attrlabl>
+				<attrdef>Females aged 10 to 19 (Adolescents)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">FEM1019</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FEM1564</attrlabl>
+				<attrdef>Females aged 15 to 64 (Economically active age groups)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">FEM1564</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FEM65OV</attrlabl>
+				<attrdef>Females aged 65 and above (Elderly)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">FEM65OV</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>POPBL15</attrlabl>
+				<attrdef>Population aged below 15</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">POPBL15</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>POP1019</attrlabl>
+				<attrdef>Population aged 10 to 19 (Adolescents)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">POP1019</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>POP1564</attrlabl>
+				<attrdef>Females aged 15 to 64 (Economically active groups)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">POP1564</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>POP65OV</attrlabl>
+				<attrdef>Population aged 65 and above (Elderly)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">POP65OV</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FEM1549</attrlabl>
+				<attrdef>Females aged 15 to 49 (Reproductive age groups)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">FEM1549</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOTMED</attrlabl>
+				<attrdef>Median Age - Total Population</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">TOTMED</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>MALMED</attrlabl>
+				<attrdef>Median Age - males</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">MALMED</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>FEMMED</attrlabl>
+				<attrdef>Median age - Females</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">FEMMED</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>DEPENDENCY</attrlabl>
+				<attrdef>Dependency Ratio (((Pop. Below 15 + Pop. 65 and above)/Pop. 15 to 64)*100)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">DEPENDENCY</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>CW_RATIO</attrlabl>
+				<attrdef>Child Women Ratio ((Children Below 5/Females aged 15 to 49)*100</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">CW_RATIO</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>BUDDHIST</attrlabl>
+				<attrdef>Population with Buddhist religion</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">BUDDHIST</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MUSLIM</attrlabl>
+				<attrdef>Population with Muslim religion</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">MUSLIM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CHRISTIAN</attrlabl>
+				<attrdef>Population with Crhistian religion</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">CHRISTIAN</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OTH_REL</attrlabl>
+				<attrdef>Population with Other religion</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">OTH_REL</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SMAM_T</attrlabl>
+				<attrdef>Singulate mean age at marriage - both sexes</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">SMAM_T</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>SMAM_M</attrlabl>
+				<attrdef>Singulate mean age at marriage - males</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">SMAM_M</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>SMAM_F</attrlabl>
+				<attrdef>Singulate mean age at marriage - females</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">SMAM_F</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>T_NEVMAR</attrlabl>
+				<attrdef>Population never married (as % of population aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_NEVMAR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>T_MARRIED</attrlabl>
+				<attrdef>Population married (as % of population aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_MARRIED</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>T_WIDOW</attrlabl>
+				<attrdef>Population Widowed (as % of population aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_WIDOW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>T_DIVSEP</attrlabl>
+				<attrdef>Population divorced or separated (% of pop aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_DIVSEP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_NEVMAR</attrlabl>
+				<attrdef>Population never married (as % of males aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_NEVMAR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_MARRIED</attrlabl>
+				<attrdef>Males married (as % of males aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_MARRIED</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_WIDOW</attrlabl>
+				<attrdef>Males widowed (as % of males aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_WIDOW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_DIVSEP</attrlabl>
+				<attrdef>Males divorced or separated (as % of males aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_DIVSEP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>F_NEVMAR</attrlabl>
+				<attrdef>Females never married (as % of females aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_NEVMAR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>F_MARRIED</attrlabl>
+				<attrdef>Females married (as % of females aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_MARRIED</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>F_WIDOW</attrlabl>
+				<attrdef>Females Widowed (as % of Females aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_WIDOW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>F_DIVSEP</attrlabl>
+				<attrdef>Females divorced or separated (% of females aged 15+)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_DIVSEP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>T_LIT15</attrlabl>
+				<attrdef>Total adult literacy rate (as % of population aged 15 and above)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_LIT15</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_LIT15</attrlabl>
+				<attrdef>Male adult literacy rate (as % of males 15 and above)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_LIT15</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>F_LIT15</attrlabl>
+				<attrdef>Female adult literacy rate (as % of females 15 and above)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_LIT15</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>T_ATTEND</attrlabl>
+				<attrdef>Population Attending School now (% of Pop. aged 6 and over).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_ATTEND</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_ATTEND</attrlabl>
+				<attrdef>Males Attending School now (% of Males aged 6 and over).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_ATTEND</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>F_ATTEND</attrlabl>
+				<attrdef>Females Attending School now (% of Females aged 6 and over).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_ATTEND</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_NOEDUC</attrlabl>
+				<attrdef>Literate Males aged 7+ - No Education.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_NOEDUC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_PNC</attrlabl>
+				<attrdef>Literate Males aged 7+ - Primary School Not Completed.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_PNC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_PRIM</attrlabl>
+				<attrdef>Literate Males aged 7+ - Primary School Completed</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_PRIM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_LOWSEC</attrlabl>
+				<attrdef>Literate Males aged 7+ - Lower Secondary School.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_LOWSEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_SEC</attrlabl>
+				<attrdef>Literate Males aged 7+ - Secondary School Completed</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_SEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_HIGH</attrlabl>
+				<attrdef>Literate Males aged 7+ - Higher Education</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_HIGH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_NOEDUC</attrlabl>
+				<attrdef>Literate Males aged 7+ - No Education.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_NOEDUC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_PNC</attrlabl>
+				<attrdef>Literate Females aged 7+ - Primary School Not Completed.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_PNC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_PRIM</attrlabl>
+				<attrdef>Literate Females aged 7+ - Primary School Completed.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_PRIM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_LOWSEC</attrlabl>
+				<attrdef>Literate Females aged 7+ - Lower Secondary School.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_LOWSEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_SEC</attrlabl>
+				<attrdef>Literate Females aged 7+ - Secondary School Completed.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_SEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_HIGH</attrlabl>
+				<attrdef>Literate Females aged 7+ - Higher Education.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_HIGH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M25_NO</attrlabl>
+				<attrdef>Literate Males aged 25+ - No Education.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M25_NO</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M25_PNC</attrlabl>
+				<attrdef>Literate Males aged 25+ - Primary School Not Completed.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M25_PNC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M25_PRIM</attrlabl>
+				<attrdef>Literate Males aged 25+ - Primary School Completed.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M25_PRIM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M25_LS</attrlabl>
+				<attrdef>Literate Males aged 25+ - Lower Secondary School.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M25_LS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M25_SEC</attrlabl>
+				<attrdef>Literate Males aged 25+ - Secondary School Completed.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M25_SEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M25_HIGH</attrlabl>
+				<attrdef>Literate Males aged 25+ - Higher Education.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M25_HIGH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F25_NO</attrlabl>
+				<attrdef>Literate Females aged 25+ - No Education.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F25_NO</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F25_PNC</attrlabl>
+				<attrdef>Literate Females aged 25+ - Primary School Not Completed.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F25_PNC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F25_PRIM</attrlabl>
+				<attrdef>Literate Females aged 25+ - Primary School Completed.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F25_PRIM</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F25_LS</attrlabl>
+				<attrdef>Literate Females aged 25+ - Lower Secondary School</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F25_LS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F25_SEC</attrlabl>
+				<attrdef>Literate Females aged 25+ - Secondary School Completed.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F25_SEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F25_HIGH</attrlabl>
+				<attrdef>Literate Females aged 25+ - Higher Education.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F25_HIGH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_SEE</attrlabl>
+				<attrdef>Disabled Males -disabled in Seeing.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_SEE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_SPEAK</attrlabl>
+				<attrdef>Disabled Males -disabled in Speaking</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_SPEAK</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_HEAR</attrlabl>
+				<attrdef>Disabled Males -disabled in Hearing.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_HEAR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_MOVE</attrlabl>
+				<attrdef>Disabled Males -disabled in Movement.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_MOVE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>M_MENTAL</attrlabl>
+				<attrdef>Disabled Males - Mentally disabled.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_MENTAL</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_SEE</attrlabl>
+				<attrdef>Disabled Females -disabled in Seeing</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_SEE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_SPEAK</attrlabl>
+				<attrdef>Disabled Females -disabled in Speaking.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_SPEAK</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_HEAR</attrlabl>
+				<attrdef>Disabled Females -disabled in Hearing.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_HEAR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_MOVE</attrlabl>
+				<attrdef>Disabled Females -disabled in Movement.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_MOVE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_MENTAL</attrlabl>
+				<attrdef>Disabled Females - Mentally disabled.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_MENTAL</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>T_ACTIVE</attrlabl>
+				<attrdef>Total General Activity Rate (Economically Active Population as % of Population aged 7 and above).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_ACTIVE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_ACTIVE</attrlabl>
+				<attrdef>Male General Activity Rate (Economically Active Males as % of Males aged 7 and above).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_ACTIVE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>F_ACTIVE</attrlabl>
+				<attrdef>Female General Activity Rate (Economically Active Females as % of Females aged 7 and above).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_ACTIVE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>T_PRIMSEC</attrlabl>
+				<attrdef>Population in Primary Sector (as % of Employed Population).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_PRIMSEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>T_SECSEC</attrlabl>
+				<attrdef>Population in Secondary Sector (as % of Employed Population).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_SECSEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>T_TERSEC</attrlabl>
+				<attrdef>Population in Tertiary Sector (as % of Employed Population).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_TERSEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_PRIMSEC</attrlabl>
+				<attrdef>Males in Primary Sector (as % of Employed Males).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_PRIMSEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_SECSEC</attrlabl>
+				<attrdef>Males in Secondary Sector (as % of Employed Males).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_SECSEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_TERSEC</attrlabl>
+				<attrdef>Males in Tertiary Sector (as % of Employed Males).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_TERSEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>F_PRIMSEC</attrlabl>
+				<attrdef>Females in Primary Sector (as % of Employed Females).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_PRIMSEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>F_SECSEC</attrlabl>
+				<attrdef>Females in Secondary Sector (as % of Employed Females).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_SECSEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>F_TERSEC</attrlabl>
+				<attrdef>Females in Tertiary Sector (as % of Employed Females).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_TERSEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>T_UER</attrlabl>
+				<attrdef>Total Unemployed Rate (as % of Econ. Active Population).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_UER</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>M_UER</attrlabl>
+				<attrdef>Male Unemployed Rate (as % of Econ. Active Males).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">M_UER</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>F_UER</attrlabl>
+				<attrdef>Female Unemployed Rate (as % of Econ. Active Females).</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_UER</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>D_OWN</attrlabl>
+				<attrdef>Dwelling Status - Owner occupied</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">D_OWN</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>D_RENT</attrlabl>
+				<attrdef>Dwelling Status - Rent</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">D_RENT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>D_FREE</attrlabl>
+				<attrdef>Dwelling Status - Not owner, but rent free</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">D_FREE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>D_OTH</attrlabl>
+				<attrdef>Dwelling Status - Other</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">D_OTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L_CITY</attrlabl>
+				<attrdef>Main Source of Light - City power</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">L_CITY</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L_GEN</attrlabl>
+				<attrdef>Main Source of Light - Generator</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">L_GEN</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L_CG</attrlabl>
+				<attrdef>Main Source of Light - Both city power and generator</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">L_CG</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L_KERO</attrlabl>
+				<attrdef>Main Source of Light - Kerosene</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">L_KERO</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L_CAND</attrlabl>
+				<attrdef>Main Source of Light - Candle</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">L_CAND</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L_BATT</attrlabl>
+				<attrdef>Main Source of Light - Battery</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">L_BATT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>L_OTH</attrlabl>
+				<attrdef>Main Source of Light - Other</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">L_OTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_FIRE</attrlabl>
+				<attrdef>Main Cooking Fuel - Firewood</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_FIRE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_CHAR</attrlabl>
+				<attrdef>Main Cooking Fuel - Charcoal</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_CHAR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_KEROS</attrlabl>
+				<attrdef>Main Cooking Fuel - Kerosene</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_KEROS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_LPG</attrlabl>
+				<attrdef>Main Cooking Fuel - Liquefied Petroleum Gas (LPG)</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_LPG</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_ELEC</attrlabl>
+				<attrdef>Main Cooking Fuel - Electricity</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_ELEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_NONE</attrlabl>
+				<attrdef>Main Cooking Fuel - None</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_NONE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>F_OTH</attrlabl>
+				<attrdef>Main Cooking Fuel - Other</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">F_OTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>T_NOT</attrlabl>
+				<attrdef>Toilet Facility within premises - Not available</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_NOT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>T_SEW</attrlabl>
+				<attrdef>Toilet Facility within premises - Connected to sewerage</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_SEW</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>T_SEP</attrlabl>
+				<attrdef>Toilet Facility within premises - Septic tank</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_SEP</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>T_PIT</attrlabl>
+				<attrdef>Toilet Facility within premises - Pit latrine</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_PIT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>T_OTH</attrlabl>
+				<attrdef>Toilet Facility within premises - Other</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">T_OTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>W_PIPED</attrlabl>
+				<attrdef>Main Source of Drinking water - Piped water</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">W_PIPED</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>W_TUBED</attrlabl>
+				<attrdef>Main Source of Drinking water - Tube / pipe well</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">W_TUBED</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>W_PROTECT</attrlabl>
+				<attrdef>Main Source of Drinking water - Protected dug well</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">W_PROTECT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>W_UNPROT</attrlabl>
+				<attrdef>Main Source of Drinking water - Unprotected dug well</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">W_UNPROT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>W_RAIN</attrlabl>
+				<attrdef>Main Source of Drinking water - Rain</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">W_RAIN</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>W_SPRING</attrlabl>
+				<attrdef>Main Source of Drinking water - Spring, river, stream, etc.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">W_SPRING</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>W_BOUGHT</attrlabl>
+				<attrdef>Main Source of Drinking water - Bought</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">W_BOUGHT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>W_OTHER</attrlabl>
+				<attrdef>Main Source of Drinking water - Other</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">W_OTHER</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WL_WITHIN</attrlabl>
+				<attrdef>Location of Drinking water - Within the premises</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">WL_WITHIN</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WL_NEAR</attrlabl>
+				<attrdef>Location of Drinking water - Near the premises</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">WL_NEAR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WL_AWAY</attrlabl>
+				<attrdef>Location of Drinking water - Away</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">WL_AWAY</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">11</attwidth>
+</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area size of Entity in Km2.</attrdef>
+				<attrdefs>National Institute of Statistics (Cambodia)</attrdefs>
+				<attalias Sync="TRUE">AREA</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">31</attwidth>
+<atnumdec Sync="TRUE">15</atnumdec>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>GIS Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 AM - 5:00 PM EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>2.554</transize>
+					<dssize Sync="TRUE">2.554</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://gis.tufts.edu</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Web-based distribution only</ordering>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20130107</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+					<cntper>David Murphy</cntper>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 AM - 5:00 PM EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">CambodiaDistricts08</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">211837.191488</westBL>
+<eastBL Sync="TRUE">785034.001831</eastBL>
+<northBL Sync="TRUE">1625281.2491</northBL>
+<southBL Sync="TRUE">1144269.12224</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">102.324324</westBL>
+<eastBL Sync="TRUE">107.646647</eastBL>
+<northBL Sync="TRUE">14.701231</northBL>
+<southBL Sync="TRUE">10.34069</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Cambodia\NIS\2008 Census Map Layers and Databases\ShapeFileLayers\CambodiaDistricts08.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">2.554</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">WGS_1984_UTM_Zone_48N</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="CambodiaDistricts08">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">193</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20130107</SyncDate>
+<SyncTime>16311400</SyncTime>
+<ModDate>20130107</ModDate>
+<ModTime>16311400</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20130107</mdDateSt>
+</metadata>

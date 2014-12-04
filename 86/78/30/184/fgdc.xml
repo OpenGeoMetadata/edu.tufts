@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20140327</CreaDate>
+<CreaTime>17141000</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140617</SyncDate>
+<SyncTime>12580700</SyncTime>
+<ModDate>20140617</ModDate>
+<ModTime>12580700</ModTime>
+<MetaID>{ED232D63-E73B-46FD-A2E7-BF0393BBC883}</MetaID>
+</Esri>
+<idinfo>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<descript>
+<langdata Sync="TRUE">en</langdata>
+<abstract>This point dataset represents geographic location, name, type, and area name of over 1000 cultural heritage sites and museums in Syria. The sites are categorized by type, which include but not limited to, archaelogical sites, roman ruins, mosques, schools, churches, cemetaries, and towns. </abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+</descript>
+<citation>
+<citeinfo>
+<origin>United States. Department of State. Office of the Geographer</origin>
+<pubdate>20130522</pubdate>
+<title>Cultural Sites Syria 20130522</title>
+<ftname Sync="TRUE">SyriaCulturalSites20130522</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<onlink>https://hiu.state.gov/data/data.aspx</onlink>
+<lworkcit>
+<citeinfo>
+<origin>United States. Department of State. Office of the Geographer</origin>
+<pubdate>201310522</pubdate>
+<title>Syria Data</title>
+<pubinfo>
+<pubplace>Washington (D.C.) </pubplace>
+<publish>United States. Department of State. Office of the Geographer</publish>
+</pubinfo>
+<onlink>https://hiu.state.gov/data/data.aspx</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<timeperd>
+<current>ground condition</current>
+<timeinfo>
+<sngdate>
+<caldate>20130522</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">35.624744</westbc>
+<eastbc Sync="TRUE">41.955972</eastbc>
+<northbc Sync="TRUE">37.057708</northbc>
+<southbc Sync="TRUE">32.348056</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">35.624744</leftbc>
+<rightbc Sync="TRUE">41.955972</rightbc>
+<bottombc Sync="TRUE">32.348056</bottombc>
+<topbc Sync="TRUE">37.057708</topbc>
+</lboundng>
+</spdom>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>location</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>society</themekey>
+</theme>
+<theme>
+<themekey>Regions and cities </themekey>
+<themekt>LCSH </themekt>
+<themekey>Cultural sitings </themekey>
+<themekey>Archaeological geology</themekey>
+<themekey>Ruins </themekey>
+<themekey>Mosques </themekey>
+<themekey>Cemeteries </themekey>
+<themekey>Schools </themekey>
+</theme>
+<place>
+<placekt>GNS</placekt>
+<placekey>Syria </placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekt>LCNH </placekt>
+<placekey>Eastern Hemisphere</placekey>
+<placekey>Asia</placekey>
+</place>
+</keywords>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>U.S. Department of State, Office of the Geographer</cntorg>
+</cntorgp>
+<cntemail>HIU_INFO@state.gov</cntemail>
+<cntpos>Author</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>2025 E St., NW, Suite NE5-037</address>
+<city>Washington</city>
+<state>D.C.</state>
+<postal>20522</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(202) 634-0340</cntvoice>
+<cntfax>(202) 634-0380</cntfax>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">SyriaCulturalSites20130522</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">35.624744</westBL>
+<eastBL Sync="TRUE">41.955972</eastBL>
+<northBL Sync="TRUE">37.057708</northBL>
+<southBL Sync="TRUE">32.348056</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">35.624744</westBL>
+<eastBL Sync="TRUE">41.955972</eastBL>
+<northBL Sync="TRUE">37.057708</northBL>
+<southBL Sync="TRUE">32.348056</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<metainfo>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<address>Academic Technology</address>
+<address>16 Dearborn Rd</address>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntpos>Data Technician</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</metc>
+<metd Sync="TRUE">20140617</metd>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">0.028</transize>
+<dssize Sync="TRUE">0.028</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</distrib>
+</distinfo>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Syria\CulturalSites\SyriaCulturalSites20130522.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.028</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="SyriaCulturalSites20130522">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">1063</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="SyriaCulturalSites20130522">
+<sdtstype Sync="TRUE">Entity point</sdtstype>
+<ptvctcnt Sync="TRUE">1063</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+<geograph>
+<geogunit Sync="TRUE">Decimal degrees</geogunit>
+<latres Sync="TRUE">0.000000</latres>
+<longres Sync="TRUE">0.000000</longres>
+</geograph>
+<geodetic>
+<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+<ellips Sync="TRUE">WGS_1984</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257224</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="SyriaCulturalSites20130522">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">1063</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<eainfo>
+<detailed Name="SyriaCulturalSites20130522">
+<enttyp>
+<enttypl Sync="TRUE">SyriaCulturalSites20130522</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">1063</enttypc>
+<enttypds>United States. Department of State. Office of the Geographer</enttypds>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FACILITY_N</attrlabl>
+<attalias Sync="TRUE">FACILITY_N</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Facility name</attrdef>
+<attrdefs>United States. Department of State. Office of the Geographer</attrdefs>
+<attrdomv>
+<udom>Text</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DMS_LAT</attrlabl>
+<attalias Sync="TRUE">DMS_LAT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Latitude</attrdef>
+<attrdefs>United States. Department of State. Office of the Geographer</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FAC_DES</attrlabl>
+<attalias Sync="TRUE">FAC_DES</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Facility description</attrdef>
+<attrdefs>United States. Department of State. Office of the Geographer</attrdefs>
+<attrdomv>
+<udom>Text</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">CLASS</attrlabl>
+<attalias Sync="TRUE">CLASS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Classification of facility</attrdef>
+<attrdefs>United States. Department of State. Office of the Geographer</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DMS_LONG</attrlabl>
+<attalias Sync="TRUE">DMS_LONG</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdef>Longitude</attrdef>
+<attrdefs>United States. Department of State. Office of the Geographer</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">LENGTH_M</attrlabl>
+<attalias Sync="TRUE">LENGTH_M</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdefs>United States. Department of State. Office of the Geographer</attrdefs>
+<attrdef>Length of the facility measured in the unit of meter.</attrdef>
+<atnumdec Sync="TRUE">5</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">WIDTH_M</attrlabl>
+<attalias Sync="TRUE">WIDTH_M</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdefs>United States. Department of State. Office of the Geographer</attrdefs>
+<attrdef>Width of the facility measured in the unit of meter.</attrdef>
+<atnumdec Sync="TRUE">5</atnumdec>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20140617</mdDateSt>
+<dataqual>
+<lineage>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Changed name of file from Syria_CulturalSites_2013May22_HIU_USDos to SyriaCulturalSites130522. 
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+<proctime>20140327</proctime>
+</procstep>
+<srcinfo>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Syria\DeathLocations\SyriaDeathLocations110318.shp.xml</srcused>
+<procdate Sync="TRUE">20140327</procdate>
+<proctime Sync="TRUE">16431300</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\Syria\BorderCrossings\SyriaBorderCrossing131021.shp.xml</srcused>
+<procdate Sync="TRUE">20140327</procdate>
+<proctime Sync="TRUE">17141000</proctime>
+</procstep>
+</lineage>
+<attracc>
+<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.  </attraccr>
+</attracc>
+</dataqual>
+</metadata>

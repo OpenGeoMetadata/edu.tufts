@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20130102</CreaDate>
+<CreaTime>16092800</CreaTime>
+<ArcGISFormat>1.0</ArcGISFormat>
+<SyncOnce>FALSE</SyncOnce>
+<DataProperties>
+<itemProps>
+<itemName Sync="TRUE">PF_NE_Final</itemName>
+<imsContentType Sync="TRUE" export="False">002</imsContentType>
+<nativeExtBox>
+<westBL Sync="TRUE">167332.719736</westBL>
+<eastBL Sync="TRUE">276034.589980</eastBL>
+<southBL Sync="TRUE">859418.689980</southBL>
+<northBL Sync="TRUE">959747.439975</northBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</nativeExtBox>
+<itemSize Sync="TRUE">130.020</itemSize>
+<itemLocation>
+<linkage Sync="TRUE">file://\\ANF-ITD-957731\C$\gis\pf\PF_NE_Final.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</itemLocation>
+</itemProps>
+<coordRef>
+<type Sync="TRUE">Projected</type>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+</coordRef>
+<lineage/>
+</DataProperties>
+<SyncDate>20140522</SyncDate>
+<SyncTime>21481800</SyncTime>
+<ModDate>20140522</ModDate>
+<ModTime>21500600</ModTime>
+<ArcGISProfile>FGDC</ArcGISProfile>
+</Esri>
+<mdLang>
+<languageCode value="eng"/>
+<countryCode Sync="TRUE" value="USA"/>
+</mdLang>
+<mdHrLv>
+<ScopeCd value="005"/>
+</mdHrLv>
+<mdContact>
+<rpIndName>David Goodwin</rpIndName>
+<rpOrgName>MA DCR, Bureau of Forestry, Management Forestry Program</rpOrgName>
+<rpPosName>Assistant Program Manager</rpPosName>
+<rpCntInfo>
+<cntPhone>
+<voiceNum tddtty="">413 545-5748</voiceNum>
+</cntPhone>
+<cntAddress addressType="postal">
+<eMailAdd>David.Goodwin@state.ma.us</eMailAdd>
+<delPoint>40 Cold Storage Drive</delPoint>
+<city>Amherst</city>
+<adminArea>MA</adminArea>
+<postCode>01004</postCode>
+<country>UNITED STATES</country>
+</cntAddress>
+</rpCntInfo>
+<role>
+<RoleCd value="007"/>
+</role>
+</mdContact>
+<mdDateSt Sync="TRUE">20140522</mdDateSt>
+<mdStanName>ArcGIS Metadata</mdStanName>
+<mdStanVer>1.0</mdStanVer>
+<dataIdInfo>
+<idCitation>
+<resTitle Sync="FALSE">Prime Forest Land - Northeast Mass.</resTitle>
+<citRespParty>
+<rpOrgName>DCR, Bureau of Forestry, Amherst, MA</rpOrgName>
+<role>
+<RoleCd value="006"/>
+</role>
+</citRespParty>
+<presForm>
+<PresFormCd value="005"/>
+</presForm>
+<presForm>
+<fgdcGeoform>vector digital data</fgdcGeoform>
+</presForm>
+</idCitation>
+<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;Using digital soils data from the Natural Resources Conservation Service (downloaded from MassGIS), a series of selections and calculations were done to classify soil associations into 9 different categories of prime forest based ultimately on forest productivity in white pine and red oak. Other data sets were used to refine this classification, including aspect, 1999 land use - land cover, riparian, slope position, wetlands, hydrologic soil association and unique areas. The hydrologic soil associations were based on NRCS information that came as Access files with the soils data. All other data was available from MassGIS.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<idPurp>The purpose of this project is to identify spatially and statistically the amount and type of prime forestland in Massachusetts. This Northeast Massachusetts shapefile contains data for Essex, Middlesex Norfolk and Suffolk counties.</idPurp>
+<idCredit>This dataset was created by David Goodwin while he worked at two different organizations - the University of Massachusetts at Amherst, Department of Natural Resources Conservation and at the Massachusetts Department of Conservation and Recreation, Bureau of Forestry. He can be contacted at (413) 545-5748 or at david.goodwin@state.ma.us with any questions.</idCredit>
+<idStatus>
+<ProgCd value="001"/>
+</idStatus>
+<idPoC>
+<rpIndName>David Goodwin</rpIndName>
+<rpOrgName>DCR</rpOrgName>
+<rpPosName>Assistant Program Manager</rpPosName>
+<rpCntInfo>
+<cntPhone>
+<voiceNum tddtty="">413-545-5748</voiceNum>
+</cntPhone>
+<cntAddress addressType="postal">
+<eMailAdd>David.Goodwin@state.ma.us</eMailAdd>
+<delPoint>40 Cold Storage Drive</delPoint>
+<city>Amherst</city>
+<adminArea>MA</adminArea>
+<postCode>01004</postCode>
+<country>UNITED STATES</country>
+</cntAddress>
+</rpCntInfo>
+<role>
+<RoleCd value="007"/>
+</role>
+</idPoC>
+<themeKeys>
+<keyword>prime forest mapping, forest productivity</keyword>
+</themeKeys>
+<searchKeys>
+<keyword>prime forest mapping</keyword>
+<keyword>forest productivity</keyword>
+</searchKeys>
+<resConst>
+<Consts>
+<useLimit>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;It is important to understand that these prime forest categories are based ultimately on digital NRCS soils data. Therefore, the final data set cannot be any more accurate than the original source data, including aspect, land cover, riparian, slope position, wetland, hydrologic soil groups and unique area.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</useLimit>
+</Consts>
+</resConst>
+<aggrInfo>
+<aggrDSName>
+<resTitle>Prime Forest Land Classification for Forest Productivity in Massachusetts</resTitle>
+<citRespParty>
+<rpOrgName>W. MacConnell, D. Mader, J. O'Keefe, J. Edwards</rpOrgName>
+<role>
+<RoleCd value="006"/>
+</role>
+</citRespParty>
+<otherCitDet>Mass. Agricultural Experiment Station Research Bulletin Number 705</otherCitDet>
+</aggrDSName>
+<assocType>
+<AscTypeCd value="001"/>
+</assocType>
+</aggrInfo>
+<spatRpType>
+<SpatRepTypCd value="001"/>
+</spatRpType>
+<dataLang>
+<languageCode country="USA" value="eng"/>
+<countryCode Sync="TRUE" value="USA"/>
+</dataLang>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<westBL>-73.53335</westBL>
+<eastBL>-69.898703</eastBL>
+<southBL>41.230598</southBL>
+<northBL>42.888348</northBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">167332.719736</westBL>
+<eastBL Sync="TRUE">276034.58998</eastBL>
+<northBL Sync="TRUE">959747.439975</northBL>
+<southBL Sync="TRUE">859418.68998</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<dataChar>
+<CharSetCd value="004"/>
+</dataChar>
+<descKeys>
+<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+<keyword Sync="TRUE">002</keyword>
+</descKeys>
+<tpCat>
+<TopicCatCd value="002"/>
+</tpCat>
+<tpCat>
+<TopicCatCd value="007"/>
+</tpCat>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-71.899883</westBL>
+<eastBL Sync="TRUE">-70.569283</eastBL>
+<northBL Sync="TRUE">42.888351</northBL>
+<southBL Sync="TRUE">41.981457</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="MAPrimeForestNE13">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">92248</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<distInfo>
+<distFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distFormat>
+<distTranOps>
+<transSize Sync="TRUE">130.020</transSize>
+</distTranOps>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\MassGIS2013_3\primeforest_northeast\MAPrimeForestNE13.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">130.020</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE" code="26986" value="26986">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</identCode>
+<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+<idVersion Sync="TRUE">7.4.1</idVersion>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spdoinfo>
+<ptvctinf>
+<esriterm Name="MAPrimeForestNE13">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE" code="4">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">92248</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="MAPrimeForestNE13">
+<sdtstype Sync="TRUE">G-polygon</sdtstype>
+<ptvctcnt Sync="TRUE">92248</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+<direct Sync="TRUE">Vector</direct>
+</spdoinfo>
+<eainfo>
+<detailed Name="MAPrimeForestNE13">
+<enttyp>
+<enttypl Sync="TRUE">MAPrimeForestNE13</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">92248</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">PRIME</attrlabl>
+<attalias Sync="TRUE">PRIME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Prime forest category</attrdef>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Prime 1 (&amp;gt;155 ft3 for white pine, &amp;gt;55 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
+<edomvds>Massachusetts. Department of Conservation and Recreation </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Conservation and Recreation </edomvds>
+<edomv>2</edomv>
+<edomvd>Prime 2 (120-154 ft3 for white pine, 45-54 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Conservation and Recreation </edomvds>
+<edomv>3</edomv>
+<edomvd>Prime 3 (85-119 ft3 for white pine, 40-44 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Conservation and Recreation </edomvds>
+<edomv>3W</edomv>
+<edomvd>Prime 3 Wetland (85-119 ft3 for white pine, 40-44 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Conservation and Recreation </edomvds>
+<edomv>L</edomv>
+<edomvd>Local Importance (&amp;lt;65 ft3 for white pine, &amp;lt;35 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Conservation and Recreation </edomvds>
+<edomv>LW</edomv>
+<edomvd>Local Importance Wetland (&amp;lt;65 ft3 for white pine, &amp;lt;35 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Conservation and Recreation </edomvds>
+<edomv>NON-FOREST</edomv>
+<edomvd>Not prime forest land</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Conservation and Recreation </edomvds>
+<edomv>S</edomv>
+<edomvd>Statewide Importance (65-84 ft3 for white pine, 35-39 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Conservation and Recreation </edomvds>
+<edomv>SW</edomv>
+<edomvd>Statewide Importance Wetland (65-84 ft3 for white pine, 35-39 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Conservation and Recreation </edomvds>
+<edomv>UW</edomv>
+<edomvd>Unique Wetland (Atlantic White Cedar)</edomvd>
+</edom>
+</attrdomv>
+<attrdefs>Massachusetts. Department of Conservation and Recreation </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="FALSE">ACRES</attrlabl>
+<attalias Sync="TRUE">Acres</attalias>
+<attrtype Sync="TRUE">Single</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Acreage of polygon</attrdef>
+<attrdefs>Massachusetts. Department of Conservation and Recreation </attrdefs>
+</attr>
+</detailed>
+</eainfo>
+<Binary>
+<Thumbnail>
+<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3R0Vx
+hhkfypht1YEM7t/dyfu+49/frUtFfOXNhkbllw3DrwwHrUYkU3gCEkFDuI6ZBGPx5NSPFHIcvGjE
+f3hmmTYiCSAfdIXAHUEgY/kfwpoCO2+RID2kjUf8CA/w/lVqq8aeZa7RxydmR0wfl/kKmjfzIkfG
+NwBxQwElcovy43E4UH1pUQIgUZ+p70z71yPRFz+J/wD1H86lpAFFFFICKTmaFR1BLfhgj+oqWody
+pcSMzBRsXknA6tS+Y7/6tMD+84x+nX+VVYCWovODf6oeZ7g/L+f+GaPIDf60mT2P3fy/xqQkKCWI
+AHUmkBH5TP8A618j+6OB/wDX/l7VIAFXAAAA/Ko/NZ/9UuR/ebgfh6/y96in+RMufNc9FI4/Lv8A
+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</Data>
+</Thumbnail>
+</Binary>
+<mdChar>
+<CharSetCd value="004"/>
+</mdChar>
+<mdMaint>
+<maintFreq>
+<MaintFreqCd value="011"/>
+</maintFreq>
+</mdMaint>
+<mdConst>
+<LegConsts>
+<useLimit>None</useLimit>
+</LegConsts>
+</mdConst>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Massachusetts. Department of Conservation and Recreation</origin>
+<pubdate>20130111</pubdate>
+<title>Prime Forest Land Northeast Massachusetts 2013</title>
+<geoform>vector digital data</geoform>
+<ftname Sync="TRUE">MAPrimeForestNE13</ftname>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/primeforest.html</onlink>
+<lworkcit>
+<citeinfo>
+<origin>MassGIS (Office : Mass.) </origin>
+<pubdate>20131102</pubdate>
+<title>MassGIS Data</title>
+<pubinfo>
+<pubplace>Massachusetts</pubplace>
+<publish>MassGIS (Office : Mass.) </publish>
+</pubinfo>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/primeforest.html</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This polygon dataset represents digital soils data from the Natural Resources Conservation Service (downloaded from MassGIS), a series of selections and calculations were done to classify soil associations into 9 different categories of prime forest based ultimately on forest productivity in white pine and red oak. Other data sets were used to refine this classification, including aspect, 1999 land use - land cover, riparian, slope position, wetlands, hydrologic soil association and unique areas. The hydrologic soil associations were based on NRCS information that came as Access files with the soils data. All other data was available from MassGIS.</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+<langdata Sync="TRUE">en</langdata>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>20130111</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>David Goodwin</cntper>
+<cntorg>MA DCR, Bureau of Forestry, Management Forestry Program</cntorg>
+</cntperp>
+<cntpos>Assistant Program Manager</cntpos>
+<cntaddr>
+<addrtype>mailing address</addrtype>
+<address>40 Cold Storage Drive</address>
+<city>Amherst</city>
+<state>MA</state>
+<postal>01004</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>413-545-5748</cntvoice>
+<cntemail>David.Goodwin@state.ma.us</cntemail>
+</cntinfo>
+</ptcontac>
+<keywords>
+<place>
+<placekt>GNIS</placekt>
+<placekey>Massachusetts</placekey>
+</place>
+<theme>
+<themekey>polygon</themekey>
+<themekt>FGDC</themekt>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>environment</themekey>
+</theme>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Forests and forestry</themekey>
+<themekey>United States. Natural Resources Conservation Service</themekey>
+<themekey>Pine</themekey>
+<themekey>Red oak</themekey>
+<themekey>Land cover</themekey>
+</theme>
+</keywords>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">-71.899883</westbc>
+<eastbc Sync="TRUE">-70.569283</eastbc>
+<northbc Sync="TRUE">42.888351</northbc>
+<southbc Sync="TRUE">41.981457</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">167332.719736</leftbc>
+<rightbc Sync="TRUE">276034.589980</rightbc>
+<bottombc Sync="TRUE">859418.689980</bottombc>
+<topbc Sync="TRUE">959747.439975</topbc>
+</lboundng>
+</spdom>
+<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+<metainfo>
+<metd>20130111</metd>
+<metc>
+<cntinfo>
+<cntpos>Data Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+<address>16 Dearborn Rd</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</metc>
+<metextns>
+<onlink>http://www.mass.gov/itd/primeforest</onlink>
+<metprof>MassGIS Web Documentation</metprof>
+</metextns>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+<address>16 Dearborn Rd</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntpos>Data Technician</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</distrib>
+<stdorder>
+<ordering>Download from http://www.mass.gov/itd/primeforest</ordering>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">130.020</transize>
+<dssize Sync="TRUE">130.020</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+<resdesc>Online Dataset</resdesc>
+</distinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn>GCS_North_American_1983</geogcsn>
+<projcsn>NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.000100</absres>
+<ordres>0.000100</ordres>
+</coordrep>
+<plandu>meters</plandu>
+</planci>
+<gridsys>
+<gridsysn>State Plane Coordinate System</gridsysn>
+<spcs>
+<spcszone Sync="TRUE">2001</spcszone>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">200000.000000</feast>
+<fnorth Sync="TRUE">750000.000000</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+</planar>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 80</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<dataqual>
+<lineage>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<address>16 Dearborn Rd</address>
+<addrtype>mailing and physical address</addrtype>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Change name of file from PRIMEFOREST_POLY_NORTHEAST to MAPrimeForestNE13</procdesc>
+<procdate>20131102</procdate>
+</procstep>
+<srcinfo>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+</lineage>
+</dataqual>
+</metadata>

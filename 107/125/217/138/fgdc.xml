@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>New Hampshire. Office of Energy and Planning</origin>
+				<pubdate>20120904</pubdate>
+				<title>Senate District Boundaries New Hampshire 2012</title>
+				<edition>One</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Durham (N.H.)</pubplace>
+<publish>NH GRANIT (Firm)</publish>
+</pubinfo>
+				<othercit>None</othercit>
+				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nhsenatedists2012&amp;amp;#47;nh</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin> University of New Hampshire. Complex Systems Research Center</origin>
+						<pubdate>19860101</pubdate>
+						<title>NH GRANIT Database</title>
+						<pubinfo>
+							<pubplace>Durham (N.H.)</pubplace>
+							<publish>NH GRANIT (Firm)</publish>
+						</pubinfo>
+						<onlink>http://www.granit.sr.unh.edu/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">NHSenateDistricts12</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset shows  New Hampshire Senate district boundaries drawn by the New Hampshire Legislature based on the 2010 US Census population count. Boundaries were derived by applying district codes retrieved from the NH Secretary of State web site to the geometry provided by the GRANIT town boundary layer (PBNH).</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<supplinf>Data distribution tile: statewide</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>20120904</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>After each decennial census</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-72.594653</westbc>
+				<eastbc Sync="TRUE">-70.567752</eastbc>
+				<northbc Sync="TRUE">45.307191</northbc>
+				<southbc Sync="TRUE">42.692817</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">745473.875163</leftbc>
+<rightbc Sync="TRUE">1267014.499846</rightbc>
+<bottombc Sync="TRUE">72029.906250</bottombc>
+<topbc Sync="TRUE">1023284.000000</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+<themekt>FGDC</themekt>
+<themekey>polygon</themekey>
+</theme>
+<theme>
+<themekey>boundaries</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>society</themekey>
+</theme>
+<theme>
+<themekey>Administrative and political divisions</themekey>
+<themekey>United States. Congress. Senate. </themekey>
+<themekey>Districts</themekey>
+<themekey>New Hampshire. General Court. Senate </themekey>
+<themekt>LCSH</themekt>
+<themekey>Election districts </themekey>
+</theme>
+<place>
+<placekey>New Hampshire</placekey>
+<placekt>GNIS</placekt>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational noncommercial use only. Not for legal use</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NH Office of Energy and Planning</cntorg>
+					<cntper>GIS Planner</cntper>
+				</cntorgp>
+				<cntpos>GIS Planner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>107 Pleasant Street, 3rd Floor</address>
+					<city>Concord</city>
+					<state>NH</state>
+					<postal>03301</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>603-271-2155</cntvoice>
+				<cntfax>603-271-2615</cntfax>
+				<cntemail>OEPinfo@nh.gov</cntemail>
+				<hours>8:00AM-4:30PM, EST</hours>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>&amp;lt;URL:http://www.granit.unh.edu/cgi-bin/load_file?PATH=/data/database/d-webdata/nhsenatedists2012/browse.gif&amp;gt;</browsen>
+			<browsed>gif image file</browsed>
+			<browset>GIF</browset>
+		</browse>
+		<datacred>GRANIT database</datacred>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.</attraccr>
+		</attracc>
+		<logic>Polygon and arc-node topology exists.</logic>
+		<complete>Data is complete for the tile.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+The data were generated from standard USGS
+1:24,000/1:25,000-scale Digital Line Graphs, and thus meet
+National Map Accuracy standards.
+</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>
+The data were generated from standard USGS
+1:24,000-1:25,000-scale Digital Line Graphs, and thus meet
+National Map Accuracy standards.
+</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NH GRANIT</origin>
+						<pubdate>19920101</pubdate>
+						<title>NH Political Boundaries at 1:24,000 Scale</title>
+						<edition>1</edition>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Durham, NH</pubplace>
+							<publish>NH GRANIT, University of New Hampshire</publish>
+						</pubinfo>
+						<othercit>None</othercit>
+						<onlink>&amp;lt;URL:http://www.granit.unh.edu&amp;gt;</onlink>
+						<lworkcit>
+							<citeinfo>
+								<origin>Complex Systems Research Center, University of New Hampshire</origin>
+								<pubdate>1986</pubdate>
+								<title>GRANIT Database</title>
+								<pubinfo>
+									<pubplace>Reston, VA</pubplace>
+									<publish>US Geological Survey</publish>
+								</pubinfo>
+								<onlink>&amp;lt;URL:http://www.granit.unh.edu&amp;gt;</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>Digital</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>19530101</begdate>
+							<enddate>19900101</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>PBNH</srccitea>
+				<srccontr>Provided basic geometry.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>NH Secretary of State</origin>
+						<pubdate>2012</pubdate>
+						<title>"2012 - New Hampshire State Senate Districts"</title>
+						<edition>1</edition>
+						<geoform>.pdf document</geoform>
+						<pubinfo>
+							<pubplace>Concord, NH</pubplace>
+							<publish>NH Secretary of State</publish>
+						</pubinfo>
+						<othercit>None</othercit>
+						<onlink>&amp;lt;URL:http://sos.nh.gov/Voting_Districts.aspx&amp;gt;</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>N/A</srcscale>
+				<typesrc>Digital</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2012</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>TOWNLISTINGS</srccitea>
+				<srccontr>Provided the listing of towns in each of NH Senate Districts.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+Attribute was added to PBNH to capture the Senate District
+for each town.  TOWNLISTINGS was used to populate the field.
+Results were "dissolved" to generate the Senate District
+boundaries.
+</procdesc>
+				<srcused>PBNH, TOWNLISTINGS</srcused>
+				<procdate>20120904</procdate>
+				<srcprod>Version 1</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>GIS Planner</cntper>
+							<cntorg>NH Office of Energy and Planning</cntorg>
+						</cntperp>
+						<cntpos>GIS Planner</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>107 Pleasant Street, 3rd Floor</address>
+							<city>Concord</city>
+							<state>NH</state>
+							<postal>03301</postal>
+							<country>US</country>
+						</cntaddr>
+						<cntvoice>603-271-2155</cntvoice>
+						<cntfax>603-271-2615</cntfax>
+						<cntemail>OEPinfo@nh.gov</cntemail>
+						<hours>8:00AM-4:30PM, EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\nhsenatedists2012-nh-nhsenatedists2012.xml</srcused>
+<procdate Sync="TRUE">20140625</procdate>
+<proctime Sync="TRUE">10354800</proctime>
+</procstep>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearnorn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>Data technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Moday - Friday, 9:00am-5:00pm, EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</proccont>
+<procdesc>The name of the dataset file was changed from NHSenateDists2012 to NHSenateDistricts12.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+<procdate>20140625</procdate>
+<proctime>10:57AM</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="NHSenateDistricts12">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">24</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="NHSenateDistricts12">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">24</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+<transmer>
+<sfctrmer Sync="TRUE">0.999967</sfctrmer>
+<longcm Sync="TRUE">-71.666667</longcm>
+<latprjo Sync="TRUE">42.500000</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</transmer>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="NHSenateDistricts12">
+			<enttyp>
+				<enttypl Sync="TRUE">NHSenateDistricts12</enttypl>
+				<enttypd>Defines State Senate Districts in NH</enttypd>
+				<enttypds>New Hampshire. Office of Energy and Planning</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">24</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdef>Internal feature number</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+				<attrlabl>SENATE2012</attrlabl>
+				<attrdef>NH Senate District</attrdef>
+				<attrdefs>New Hampshire. Office of Energy and Planning</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>NH Senate District 1</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>NH Senate District 2</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>NH Senate District 3</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>NH Senate District 4</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>NH Senate District 5</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>NH Senate District 6</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>NH Senate District 7</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>NH Senate District 8</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>NH Senate District 9</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>NH Senate District 10</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>NH Senate District 11</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>NH Senate District 12</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>13</edomv>
+						<edomvd>NH Senate District 13</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>NH Senate District 14</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>15</edomv>
+						<edomvd>NH Senate District 15</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>16</edomv>
+						<edomvd>NH Senate District 16</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>17</edomv>
+						<edomvd>NH Senate District 17</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>18</edomv>
+						<edomvd>NH Senate District 18</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>19</edomv>
+						<edomvd>NH Senate District 19</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>20</edomv>
+						<edomvd>NH Senate District 20</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>21</edomv>
+						<edomvd>NH Senate District 21</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>22</edomv>
+						<edomvd>NH Senate District 22</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>23</edomv>
+						<edomvd>NH Senate District 23</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+					<edom>
+						<edomv>24</edomv>
+						<edomvd>NH Senate District 24</edomvd>
+						<edomvds>New Hampshire. Office of Energy and Planning</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">Senate2012</attalias>
+<attrtype Sync="TRUE">SmallInteger</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">4</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">Shape_Leng</attrlabl>
+<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>The shape length values for polyline feature classes in internal units</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+<attrdomv>
+<edom>
+<edomv>Shape_leng</edomv>
+<edomvd>Length of Shape</edomvd>
+<edomvds>Environmental Systems Research Institute (Redlands, Calif.)
+</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape_Area</attrlabl>
+<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>The shape length values for polyline feature classes in internal units squared.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 deraborn Rd</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00am-5:00pm, EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>
+Digital data in NH GRANIT represent the efforts of the
+contributing agencies to record information from the cited
+source materials. Complex Systems Research Center, under
+contract to the NH Office of Energy and Planning, and in
+consultation with cooperating agencies, maintains a
+continuing program to identify and correct errors in these
+data. OSP, CSRC, and the cooperating agencies make no claim
+as to the validity or reliability or to any implied uses of
+these data.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI shapefile</formname>
+					<transize>660 kb</transize>
+					<dssize Sync="TRUE">0.615</dssize>
+</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>&amp;lt;URL:http://www.granit.sr.unh.edu&amp;gt;</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>
+No charge when downloaded from the internet.  Cost of
+reproduction for provision on CD/ROM or other media.
+</fees>
+			<ordering>
+Mail or fax a copy of the GRANIT "Data Request Form" from
+the GRANIT Data Catalog.
+Delivery Time: Two weeks
+</ordering>
+		</stdorder>
+		<techpreq>
+Ability to read/import shapefiles or Arc/Info export files.
+</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140707</metd>
+		<metrd>20121025</metrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NH Office of Energy and Planning</cntorg>
+					<cntper>GIS Planner</cntper>
+				</cntorgp>
+				<cntpos>GIS Planner</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and physical address</addrtype>
+					<address>107 Pleasant Street, 3rd Floor</address>
+					<city>Concord</city>
+					<state>NH</state>
+					<postal>03301</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>603-271-2155</cntvoice>
+				<cntfax>603-271-2615</cntfax>
+				<cntemail>OEPinfo@nh.gov</cntemail>
+				<hours>8:00AM-4:30PM, EST</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<langmeta Sync="TRUE">en</langmeta>
+<mettc Sync="TRUE">local time</mettc>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{32190CBA-06BC-4C61-990E-62EF11ED3146}</MetaID>
+<CreaDate>20140625</CreaDate>
+<CreaTime>10354800</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140707</SyncDate>
+<SyncTime>13205700</SyncTime>
+<ModDate>20140707</ModDate>
+<ModTime>13250000</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NHSenateDistricts12</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">745473.875163</westBL>
+<eastBL Sync="TRUE">1267014.499846</eastBL>
+<northBL Sync="TRUE">1023284</northBL>
+<southBL Sync="TRUE">72029.90625</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-72.594653</westBL>
+<eastBL Sync="TRUE">-70.567752</eastBL>
+<northBL Sync="TRUE">45.307191</northBL>
+<southBL Sync="TRUE">42.692817</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\GRANIT\NHSenateDistricts12.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.615</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_Hampshire_FIPS_2800_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NHSenateDistricts12">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">24</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140707</mdDateSt>
+</metadata>

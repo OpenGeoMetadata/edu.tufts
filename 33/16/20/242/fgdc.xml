@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+				<origin>United States. Federal Highway Administration. Office of Planning</origin>
+				<pubdate>2006</pubdate>
+				<title>Sulfur Oxides Non-Attainment Areas USA 2006</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington (D.C.)</pubplace>
+					<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Databases (NTAD) 2011</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USASulfOxide06</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset represents sulfur oxide non-attainment and maintenance areas for the United States and its territories.  For more detailed information on this dataset, see the Overview Description in the Entity Attribute section of this document.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-115.167861</westbc>
+				<eastbc>
+144.837098</eastbc>
+				<northbc>
+46.595091</northbc>
+				<southbc>
+13.431642</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-115.167861</leftbc>
+<rightbc Sync="TRUE">144.837098</rightbc>
+<bottombc Sync="TRUE">13.431642</bottombc>
+<topbc Sync="TRUE">46.595091</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+				<themekey>health</themekey>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Sulfur oxides</themekey>
+				<themekey>Air--Pollution</themekey>
+				<themekey>Air--Pollution--United States</themekey>
+				<themekey>Air--Pollution--Standards--United States</themekey>
+			</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<place>
+				<placekey>North America</placekey>
+				<placekey>Northern Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>Western Hemisphere</placekey>
+</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+					<cntper>Office of Geospatial Information Systems</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1200 New Jersey Ave., SE</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20590</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>202-366-4000 </cntvoice>
+				<cntemail>answers@bts.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
+		<crossref>
+			<citeinfo>
+				<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+				<pubdate>2011</pubdate>
+				<title>National Transportation Atlas Databases (NTAD) 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington, DC</pubplace>
+					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+				</pubinfo>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Unknown</attraccr>
+			<qattracc>
+				<attraccv>None</attraccv>
+				<attracce>Unknown</attracce>
+			</qattracc>
+		</attracc>
+		<logic>None</logic>
+		<complete>Unknown</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Unknown</horizpar>
+				<qhorizpa>
+				</qhorizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<pubdate>2005</pubdate>
+						<title>40 Code of Federal Regulations Part 81</title>
+						<othercit>The spatial boundaries of each nonattainment and maintenance area are defined in 40 Code of Federal Regulations Part 81.</othercit>
+						<onlink>http://www.epa.gov/epahome/cfr40.htm</onlink>
+						<lworkcit>
+							<citeinfo>
+								<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2005</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>40 CFR</srccitea>
+				<srccontr>The spatial boundaries of each nonattainment and maintenance area are defined in 40 Code of Federal Regulations Part 81.</srccontr>
+				<srcscale>Unknown</srcscale>
+</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Environmental Protection Agency</origin>
+						<pubdate>2005</pubdate>
+						<title>Green Book</title>
+						<onlink>http://www.epa.gov/oar/oaqps/greenbk/</onlink>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2009</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Green Book</srccitea>
+				<srccontr>The United States Environmental Protection Agency's (EPA) "Green Book" defines Criteria Pollutants.  EPA uses six "criteria pollutants" as indicators of air quality, and has established for each of them a maximum concentration above which adverse effects on human health may occur. These threshold concentrations are called National Ambient Air Quality Standards (NAAQS).</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2011</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<procstep>
+				<procdesc>Data collected from the Environmental Protection Agency or created using base geographic reference layers and physical descriptions provided by EPA and contained in in 40 Code of Federal Regulations Part 81.</procdesc>
+				<procdate>2004</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Updated with information from the EPA Green Book.</procdesc>
+				<procdate>2005</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+						</cntperp>
+						<cntemail>bruce.spear@fhwa.dot.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Spatial data edited and cleaned to more closely match shorelines.</procdesc>
+				<procdate>2006</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+						</cntperp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Standard quality control processes performed in preparation for publication.</procdesc>
+				<procdate>2009</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Geospatial Information Program</cntper>
+							<cntorg>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</cntorg>
+						</cntperp>
+						<cntvoice>1 202 366 DATA</cntvoice>
+						<cntfax>1 202 366 3640</cntfax>
+						<cntemail>answers@bts.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards:
+&amp;gt;Changed name of file from "naa_ma_sox" to "USASulfOxide06"
+&amp;gt;Changed citatition title from "Non-Attainment Areas: Sulfur Oxides" to "Sulfur Oxides Non-Attainment Areas USA 2006"
+&amp;gt;Changed access contraints from "None." to "Unrestricted Access Online"
+&amp;gt;Added to Larger work Citation originator, pubdate, title, pubplace, publisher
+&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added ISO 19115 Topic Category keywords
+&amp;gt;Added LCSH theme keywords
+&amp;gt;Added GNS place keywords
+&amp;gt;Changed originator from "Federal Highway Administration, Office of Planning, HEPP-1" to "United States. Federal Highway Administration. Office of Planning"
+&amp;gt;Changed originator/publisher from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services"
+&amp;gt;Changed publication place to reflect LCNH formatting
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20111206</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USASulfOxide06">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>54</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USASulfOxide06">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">54</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000001</latres>
+				<longres>0.000001</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>0.000010</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="USASulfOxide06">
+			<enttyp>
+				<enttypl>
+naa_ma_sox</enttypl>
+				<enttypd>Non-Attainment Areas: Sulfur Dioxide</enttypd>
+				<enttypds>RITA/BTS</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">54</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>Sequential Unique Identifier</attrdef>
+				<attrdefs>RITA/BTS</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of the polygon</attrdef>
+				<attrdefs>RITA/BTS</attrdefs>
+				<attrdomv>
+					<udom>Numeric Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">AREA</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+<atnumdec Sync="TRUE">2</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>AREA_NAME</attrlabl>
+				<attrdef>Name of the NAA as designated by the EPA</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">AREA_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">75</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATE</attrlabl>
+				<attrdef>Primary state in which NAA is found</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of U.S. Postal Code Abbreviations</codesetn>
+						<codesets>U.S. Postal Service (USPS)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>EPA_REGION</attrlabl>
+				<attrdef>Primary EPA region in which the NAA is found</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of EPA Regions: http://www.epa.gov/epahome/locate2.htm</codesetn>
+						<codesets>U.S. Environmental Protection Agency (EPA)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">EPA_REGION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATUS</attrlabl>
+				<attrdef>Current status of the area as designated by the EPA.</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Maintenance</edomv>
+						<edomvd>area is in maintenance status</edomvd>
+						<edomvds>EPA</edomvds>
+					</edom>
+					<edom>
+						<edomv>Nonattainment</edomv>
+						<edomvd>area is in nonattainment status</edomvd>
+						<edomvds>EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STATUS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CLASSIFICA</attrlabl>
+				<attrdef>Severity classification as identified by the EPA.</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Primary</edomv>
+						<edomvd>an annual arithmetic mean of 0.03 ppm (80 ug/m3) and/or 24-hour level of 0.14 ppm (365 ug/m3).</edomvd>
+						<edomvds>EPA</edomvds>
+					</edom>
+					<edom>
+						<edomv>Secondary</edomv>
+						<edomvd>a 3-hour level of 0.50 ppm (1300 ug/m3).</edomvd>
+						<edomvds>EPA</edomvds>
+					</edom>
+					<edom>
+						<edomv>Primary, Secondary</edomv>
+						<edomvd>an annual arithmetic mean of 0.03 ppm (80 ug/m3) and/or 24-hour level of 0.14 ppm (365 ug/m3) and a 3-hour level of 0.50 ppm (1300 ug/m3).</edomvd>
+						<edomvds>EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">CLASSIFICA</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ATTAINMENT</attrlabl>
+				<attrdef>Date or year in which the area received its current classification by the EPA.</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<udom>date or year</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ATTAINMENT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COMMENTS</attrlabl>
+				<attrdef>Additional clarifying information on the status or characteristics of the area.</attrdef>
+				<attrdefs>EPA</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">COMMENTS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">75</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>State FIPS code</attrdef>
+				<attrdefs>RITA/BTS</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>FIPS (Federal Information Processing Standard) Pub 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>Version of the database</attrdef>
+				<attrdefs>RITA/BTS</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+		<overview>
+			<eaover>High concentrations of sulfur dioxide (SO2) affect breathing and may aggravate existing respiratory and cardiovascular disease. Sensitive populations include asthmatics, individuals with bronchitis or emphysema, children and the elderly. SO2 is also a primary contributor to acid deposition, or acid rain, which causes acidification of lakes and streams and can damage trees, crops, historic buildings and statues. In addition, sulfur compounds in the air contribute to visibility impairment in large parts of the country. This is especially noticeable in national parks. 
+
+Ambient SO2 results largely from stationary sources such as coal and oil combustion, steel mills, refineries, pulp and paper mills and from nonferrous smelters. There are three NAAQS for SO2: 
+
+. an annual arithmetic mean of 0.03 ppm (80 ug/m3); 
+. a 24-hour level of 0.14 ppm (365 ug/m3); and 
+. a 3-hour level of 0.50 ppm (1300 ug/m3). 
+
+The first two standards are primary (health-related) standards, while the 3-hour NAAQS is a secondary (welfare-related) standard. The annual mean standard is not to be exceeded, while the short-term standards are not to be exceeded more than once per year. 
+
+Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air quality standard for sulfur dioxide.</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.442</transize>
+					<dssize Sync="TRUE">0.442</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20110215</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearborn Ave</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<cntpos>GIS Data Technician</cntpos>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USASulfOxide06</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-115.167861</westBL>
+<eastBL Sync="TRUE">144.837098</eastBL>
+<northBL Sync="TRUE">46.595091</northBL>
+<southBL Sync="TRUE">13.431642</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-115.167861</westBL>
+<eastBL Sync="TRUE">144.837098</eastBL>
+<northBL Sync="TRUE">46.595091</northBL>
+<southBL Sync="TRUE">13.431642</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USASulfOxide06.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.442</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USASulfOxide06">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">54</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11445700</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11445700</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

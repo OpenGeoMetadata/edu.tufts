@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>United States. Army. Corps of Engineers</origin>
+				<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+				<pubdate>2011</pubdate>
+				<title>Ports USA 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Alexandria (Va.)</pubplace>
+					<publish>United States. Army. Corps of Engineers</publish>
+				</pubinfo>
+				<onlink>http://www.iwr.usace.army.mil/ndc/data/datapwd.htm</onlink>
+				<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</origin>
+						<pubdate>2011</pubdate>
+						<title>National Transportation Atlas Databases (NTAD) 2011</title>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington (D.C.)</pubplace>
+							<publish>United States. Bureau of Transportation Statistics. Office of Geographic Information Services</publish>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">USAPorts11</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This point dataset represents ports in the United States. The data consists of listings of port area's waterfront facilities, including information on berthing, cranes, transit sheds, grain elevators, marine repair plants, fleeting areas, and docking and storage facilities. Collection of data is performed on a rotational basis to ensure on-site accuracy at each facility.</abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Continually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>
+-166.556892</westbc>
+				<eastbc>
+-68.772540</eastbc>
+				<northbc>
+66.907665</northbc>
+				<southbc>
+19.639189</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">-166.556892</leftbc>
+<rightbc Sync="TRUE">-68.772540</rightbc>
+<bottombc Sync="TRUE">19.639189</bottombc>
+<topbc Sync="TRUE">66.907665</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>point</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>transportation</themekey>
+			</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Harbors</themekey>
+				<themekey>Mooring of ships</themekey>
+				<themekey>Docks </themekey>
+				<themekey>Seaports</themekey>
+<themekey>Ports</themekey>
+</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>United States</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>North America</placekey>
+</place>
+		</keywords>
+		<accconst>Unrestricted Access Online</accconst>
+		<useconst>For educational noncommercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>US Army Corps of Engineers (USACE)</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>7701 Telegraph Road, Casey Bldg</address>
+					<city>Alexandria</city>
+					<state>VA</state>
+					<postal>22315-3868</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>703.428.9061</cntvoice>
+				<cntfax>703.428.6047</cntfax>
+				<cntemail>hq-publicaffairs@usace.army.mil</cntemail>
+</cntinfo>
+		</ptcontac>
+		<datacred>The National Waterway Network was created on behalf of the Research and Innovative Technology Administration's Bureau of Transportation Statistics, the U.S. Army Corps of Engineers, the U.S. Bureau of Census, and the U.S. Coast Guard by Vanderbilt University and Oak Ridge National Laboratory.  Additional agencies with input into network development include Volpe National Transportation Systems Center, Maritime Administration, Military Traffic Management Command, Tennessee Valley Authority, U.S. Environmental Protection Agency, and the Federal Railroad Administration.</datacred>
+		<secinfo>
+			<secsys>none</secsys>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<crossref>
+			<citeinfo>
+				<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</origin>
+				<pubdate>2011</pubdate>
+				<title>National Transportation Atlas Databases (NTAD) 2011</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington DC</pubplace>
+					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
+				</pubinfo>
+				<onlink>&amp;lt;http://www.bts.gov/programs/geographic_information_services/&amp;gt;</onlink>
+				<lworkcit>
+					<citeinfo>
+						<pubinfo>
+						</pubinfo>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+					</citeinfo>
+				</lworkcit>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute accuracy is tested by manual comparison of the source with hard copy printouts and/or symbolized display of digital line graphs on an interactive computer graphic system; selected attributes that cannot be visually verified on plots or on screen, are interactively queried and verified on screen.</attraccr>
+			<qattracc>
+				<attraccv>unknown</attraccv>
+			</qattracc>
+		</attracc>
+		<logic>RITA/BTS quality checks were to cross reference the place dataset with the state dataset, to determine that the spatial data and attribute data were accurate</logic>
+		<posacc>
+			<horizpa>
+				<horizpar>The accuracy of each point element is correlated to the data source used to derive that element.  For example, links and nodes derived from 1:100,000 scale Digital Line Graphs are more accurate than links and nodes derived from 1:500,000 scale NOAA Navigational Charts.  Elements with an "M" in the source field (indicating an unknown or missing source) are the least accurate.</horizpar>
+				<qhorizpa>
+					<horizpav>unknown</horizpav>
+				</qhorizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Vanderbilt Engineering Center for Transportation Operations and Research Vanderbilt University</origin>
+						<pubdate>2011</pubdate>
+						<title>USACE Port Database</title>
+						<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+						<lworkcit>
+							<citeinfo>
+								<onlink>http://www.bts.gov/programs/geographic_information_services/</onlink>
+							</citeinfo>
+						</lworkcit>
+					</citeinfo>
+				</srccite>
+				<typesrc>stable-base material</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2011</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srcscale>Unknown</srcscale>
+</srcinfo>
+			<procstep>
+				<procdesc>Extraction of the USACE identified port nodes from the National Waterway Network file.</procdesc>
+				<srcused>PORT</srcused>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>In order to meet Tufts University's metadata standards:
+&amp;gt;Changed citatition title from "ports" to "Ports USA 2011"
+&amp;gt;Changed originators/publishers from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" and "US Army Corps of Engineers (USACE)" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services" and "United States. Army. Corps of Engineers"
+&amp;gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
+&amp;gt;Added ISO 19115 Topic Category keywords
+&amp;gt;Added LCSH theme keywords
+&amp;gt;Added GNS place keywords
+&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&amp;gt;Changed publication place to reflect LCNH formatting
+&amp;gt;Replaced Tufts as the distributor
+&amp;gt;Changed name of file from "ports" to "USAPorts11"
+&amp;gt;Exported metadata</procdesc>
+				<procdate>20111129</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USAPorts11">
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>9636</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USAPorts11">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">9636</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+</cordsysn>
+</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>1.000000</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="USAPorts11">
+			<enttyp>
+				<enttypl>
+USAports11</enttypl>
+				<enttypd>A description of the physical and Intermodal (infrastructure) characteristics of the: coastal, Great Lakes, and inland ports of the United States.</enttypd>
+				<enttypds>USACE</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">9636</enttypc>
+</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>Unique Identifier</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Numeric String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Wharf Name</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">109</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LOCATION</attrlabl>
+				<attrdef>Location of wharf on wharf waterway or in port</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">LOCATION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>ADDRESS</attrlabl>
+				<attrdef>Street address for wharf location</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ADDRESS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">53</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COUNTY</attrlabl>
+				<attrdef>County in which wharf is located</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">17</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COUNTYFIPS</attrlabl>
+				<attrdef>County FIPS Code</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standard (FIPS), Publication 6-4</codesetn>
+						<codesets>National Institute for Standards and Technology (NIST)</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTYFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOWN</attrlabl>
+				<attrdef>Town in which wharf is located</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TOWN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">24</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STATE</attrlabl>
+				<attrdef>State in which wharf is located</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">STATE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">7</attwidth>
+</attr>
+			<attr>
+				<attrlabl>WATERWAY</attrlabl>
+				<attrdef>Waterway on which wharf is located</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">WATERWAY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">40</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PORT_NAME</attrlabl>
+				<attrdef>Port in which the wharf is located</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">PORT_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">61</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MILE</attrlabl>
+				<attrdef>Waterway mile of wharf location above or below a datum point</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MILE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">7</attwidth>
+</attr>
+			<attr>
+				<attrlabl>BANK</attrlabl>
+				<attrdef>Bank of river for wharf location (Left or Right)</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">BANK</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LATDEC</attrlabl>
+				<attrdef>WHARF LOCATION LATITUDE: DECIMAL</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>90 degrees South</rdommin>
+						<rdommax>90 degrees North</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">LATDEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">5</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>LONG_DEC</attrlabl>
+				<attrdef>WHARF LOCATION LONGITUDE: DECIMAL</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>180 degrees West</rdommin>
+						<rdommax>180 degrees East</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">LONG_DEC</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">5</atnumdec>
+</attr>
+			<attr>
+				<attrlabl>OPERATOR1</attrlabl>
+				<attrdef>Operator of wharf</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">OPERATOR1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">160</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OWNER</attrlabl>
+				<attrdef>Owner of wharf</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">OWNER</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">113</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PURPOSE</attrlabl>
+				<attrdef>Purpose for which wharf is used, including commodities handled and/or services performed</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">PURPOSE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">247</attwidth>
+</attr>
+			<attr>
+				<attrlabl>RWY_CONN</attrlabl>
+				<attrdef>Railway connections servicing wharf</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">RWY_CONN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PORTSERIES</attrlabl>
+				<attrdef>Port Series Report Number (One of 57, Hard Copy)</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>57</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">PORTSERIES</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+</attr>
+			<attr>
+				<attrlabl>SEQNO</attrlabl>
+				<attrdef>Unique number that is generated within each port series number</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Integer</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SEQNO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LOC_CD</attrlabl>
+				<attrdef>Location code generated by waterborne commerce statistics center (WCSC)</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of Location Codes</codesetn>
+						<codesets>Waterborne Commerce Statistics Center</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">LOC_CD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PWDNO</attrlabl>
+				<attrdef>Pier, wharf or dock record sequence number from current edition of port series report</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Integer</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">PWDNO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>OLDPWD</attrlabl>
+				<attrdef>Pier, wharf or dock record sequence number from previous edition of Port Series Report</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Integer</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">OLDPWD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DOCKCD</attrlabl>
+				<attrdef>Location code designating where a dock is located generated by WCSC</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official List of Location Codes</codesetn>
+						<codesets>Waterborne Commerce Statistics Center</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">DOCKCD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>NDCCODE</attrlabl>
+				<attrdef>Internal code generated by the navigation data center for data integration and system interoperability</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Integer</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NDCCODE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+			<attr>
+				<attrlabl>CNGDST</attrlabl>
+				<attrdef>Congressional district of structure</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">CNGDST</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COMMODITY1</attrlabl>
+				<attrdef>Commodity code for first commodity handled at wharf</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">COMMODITY1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COMMODITY2</attrlabl>
+				<attrdef>Commodity code for second commodity handled at wharf</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">COMMODITY2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COMMODITY3</attrlabl>
+				<attrdef>Commodity code for third commodity handled at wharf</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">COMMODITY3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>COMMODITY4</attrlabl>
+				<attrdef>Commodity code for fourth commodity handled at wharf</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">COMMODITY4</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+</attr>
+			<attr>
+				<attrlabl>REMARKS</attrlabl>
+				<attrdef>Remarks, including description of wharf - related storage facilities and their operators</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">REMARKS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DATUM</attrlabl>
+				<attrdef>Depth/Height Datum Used</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DATUM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH1</attrlabl>
+				<attrdef>Depth alongside wharf's first operational element being described</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DEPTH1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH1A</attrlabl>
+				<attrdef>Second depth alongside wharf's first operational element being described</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character Value</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DEPTH1A</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH2</attrlabl>
+				<attrdef>Depth alongside wharf's second operational element being described</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DEPTH2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH2A</attrlabl>
+				<attrdef>Second depth alongside wharf's second operational element being described</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DEPTH2A</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH3</attrlabl>
+				<attrdef>Depth alongside wharf's third operational element being described</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DEPTH3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>DEPTH3A</attrlabl>
+				<attrdef>Second depth alongside wharf's third operational element being described</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DEPTH3A</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOTBERTH1</attrlabl>
+				<attrdef>Berthing distance of wharf's first operational element being described</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TOTBERTH1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOTBERTH2</attrlabl>
+				<attrdef>Berthing distance of wharf's second operational element being described</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TOTBERTH2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+			<attr>
+				<attrlabl>TOTBERTH3</attrlabl>
+				<attrdef>Berthing distance of wharf's third operational element being described</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TOTBERTH3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+</attr>
+			<attr>
+				<attrlabl>YEAR</attrlabl>
+				<attrdef>Year of last survey</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">YEAR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+			<attr>
+				<attrlabl>MAPNO</attrlabl>
+				<attrdef>Port series report map no.</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MAPNO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FIRSTNAME</attrlabl>
+				<attrdef>First name of contact person</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FIRSTNAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">21</attwidth>
+</attr>
+			<attr>
+				<attrlabl>LASTNAME</attrlabl>
+				<attrdef>Last name of contact person</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Character String</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">LASTNAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">33</attwidth>
+</attr>
+			<attr>
+				<attrlabl>PHONE</attrlabl>
+				<attrdef>Telephone number of facility operator or contact person</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">PHONE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">24</attwidth>
+</attr>
+			<attr>
+				<attrlabl>FAX</attrlabl>
+				<attrdef>Fax telephone number of facility operator or contact person</attrdef>
+				<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+				<attrdomv>
+					<udom>Number</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FAX</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">22</attwidth>
+</attr>
+			<attr>
+				<attrlabl>STFIPS</attrlabl>
+				<attrdef>The 2-character FIPS code of the State or State equivalent</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Codes for the Identification of the States, the District of Columbia and the Outlying Areas of the United States, and Associated Areas, FIPS 5-2.</codesetn>
+						<codesets>U.S. Department of Commerce, National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<attalias Sync="TRUE">STFIPS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+			<attr>
+				<attrlabl>VERSION</attrlabl>
+				<attrdef>The VERSION is a 2-digit number that will be incremented for all records in the database whenever a new release is distributed.</attrdef>
+				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>00</rdommin>
+						<rdommax>99</rdommax>
+					</rdom>
+				</attrdomv>
+				<attalias Sync="TRUE">VERSION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<distliab>Although this data is being distributed by Tufts University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.257</transize>
+					<dssize Sync="TRUE">0.257</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20111129</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+					<address>16 Dearbon Ave</address>
+</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<cntpos>GIS Data Technician</cntpos>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metsi>
+			<metscs>none</metscs>
+			<metsc>Unclassified</metsc>
+		</metsi>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">USAPorts11</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-166.556892</westBL>
+<eastBL Sync="TRUE">-68.77254</eastBL>
+<northBL Sync="TRUE">66.907665</northBL>
+<southBL Sync="TRUE">19.639189</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-166.556892</westBL>
+<eastBL Sync="TRUE">-68.77254</eastBL>
+<northBL Sync="TRUE">66.907665</northBL>
+<southBL Sync="TRUE">19.639189</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\RITA\USAPorts11.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.257</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="USAPorts11">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">9636</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20140514</SyncDate>
+<SyncTime>11445300</SyncTime>
+<ModDate>20140514</ModDate>
+<ModTime>11445300</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20140514</mdDateSt>
+</metadata>

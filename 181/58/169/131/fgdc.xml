@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20140227</CreaDate>
+<CreaTime>16432600</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140710</SyncDate>
+<SyncTime>11184000</SyncTime>
+<ModDate>20140710</ModDate>
+<ModTime>11184000</ModTime>
+<MetaID>{4502F885-1D5B-4517-A2CE-E90C9EE3FF9D}</MetaID>
+</Esri>
+<idinfo>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<descript>
+<langdata Sync="TRUE">en</langdata>
+<abstract>This line dataset represents the planimetric basemap layer containing roads, alley, and interior park paths for New York City.</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+</descript>
+<citation>
+<citeinfo>
+<origin>New York (N.Y.). Department of Information Technology and Telecommunications</origin>
+<pubdate>20130605</pubdate>
+<title>Street Centerine New York City 2013</title>
+<ftname Sync="TRUE">NYCStreeetCenterline130605</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<onlink>https://data.cityofnewyork.us/Transportation/street-centerline/nwwe-5jvu</onlink>
+<pubinfo>
+<pubplace>New York (N.Y.)</pubplace>
+<publish>New York (N.Y.). Department of Information Technology and Telecommunications</publish>
+</pubinfo>
+<lworkcit>
+<citeinfo>
+<origin>New York (N.Y.). Department of Information Technology and Telecommunications</origin>
+<pubdate>20140227</pubdate>
+<title>New York City DOITT Data</title>
+<pubinfo>
+<pubplace> New York (N.Y.)  </pubplace>
+<publish>New York (N.Y.). Department of Information Technology and Telecommunications</publish>
+</pubinfo>
+<onlink>https://data.cityofnewyork.us/Transportation/street-centerline/nwwe-5jvu</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<timeperd>
+<current>publication date</current>
+<timeinfo>
+<sngdate>
+<caldate>20130605</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">-74.256533</westbc>
+<eastbc Sync="TRUE">-73.698855</eastbc>
+<northbc Sync="TRUE">40.915139</northbc>
+<southbc Sync="TRUE">40.496398</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">913347.691006</leftbc>
+<rightbc Sync="TRUE">1067482.469350</rightbc>
+<bottombc Sync="TRUE">120269.970140</bottombc>
+<topbc Sync="TRUE">272688.102967</topbc>
+</lboundng>
+<minalti Sync="TRUE">-14.325200</minalti>
+<maxalti Sync="TRUE">403.395200</maxalti>
+</spdom>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>line</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>boundaries</themekey>
+<themekey>society</themekey>
+</theme>
+<theme>
+<themekt>LCSH </themekt>
+<themekey>Boundaries </themekey>
+<themekey>Roads </themekey>
+<themekey>Alleys</themekey>
+<themekey>Parks </themekey>
+<themekey>Trails </themekey>
+<themekey>Streets </themekey>
+<themekey>Centerline </themekey>
+</theme>
+<place>
+<placekt>GNIS</placekt>
+<placekey>New York</placekey>
+<placekey>New York</placekey>
+<placekey>NY</placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH </placekt>
+<placekey>North America</placekey>
+</place>
+</keywords>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntaddr>
+<address>Department of Information Technology &amp;amp; Telecommunications</address>
+<addrtype>mailing and physical address</addrtype>
+<address>255 Greenwich, 9th Floor</address>
+<city>New York</city>
+<state>NY</state>
+<postal>10007</postal>
+<country>USA</country>
+</cntaddr>
+<cntpos>Open Data Coordinator</cntpos>
+<cntvoice>212-788-6600</cntvoice>
+<cntorgp>
+<cntorg>New York City Department of Information Technology &amp;amp; Telecommunications</cntorg>
+<cntper>Albert Webber</cntper>
+</cntorgp>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">NYCStreeetCenterline130605</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">913347.691006</westBL>
+<eastBL Sync="TRUE">1067482.46935</eastBL>
+<northBL Sync="TRUE">272688.102967</northBL>
+<southBL Sync="TRUE">120269.97014</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+<vertEle>
+<vertMinVal Sync="TRUE">-14.3252</vertMinVal>
+<vertMaxVal Sync="TRUE">403.3952</vertMaxVal>
+</vertEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-74.256533</westBL>
+<eastBL Sync="TRUE">-73.698855</eastBL>
+<northBL Sync="TRUE">40.915139</northBL>
+<southBL Sync="TRUE">40.496398</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<metainfo>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<address>Academic Technology</address>
+<address>16 Dearborn Rd</address>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntpos>Data Technician</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+</cntinfo>
+</metc>
+<metd Sync="TRUE">20140710</metd>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distinfo>
+<resdesc>Online Dataset
+</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">80.733</transize>
+<dssize Sync="TRUE">80.733</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+</cntinfo>
+</distrib>
+</distinfo>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\NYCDOITT\STREET CENTERLINE\NYCStreeetCenterline130605.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">80.733</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="NYCStreeetCenterline130605">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polyline</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">152153</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">TRUE</linrefer>
+</esriterm>
+<sdtsterm Name="NYCStreeetCenterline130605">
+<sdtstype Sync="TRUE">String</sdtstype>
+<ptvctcnt Sync="TRUE">152153</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">survey feet</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">40.666667</stdparll>
+<stdparll Sync="TRUE">41.033333</stdparll>
+<longcm Sync="TRUE">-74.000000</longcm>
+<latprjo Sync="TRUE">40.166667</latprjo>
+<feast Sync="TRUE">984250.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+<geodetic>
+<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257222</denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+<altres Sync="TRUE">0.000000</altres>
+</altsys>
+</vertdef>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="NYCStreeetCenterline130605">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">152153</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<eainfo>
+<detailed Name="NYCStreeetCenterline130605">
+<enttyp>
+<enttypl>NYCStreeetCenterline130605</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">152153</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NAME</attrlabl>
+<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<attrdefs>New York (N.Y.). Department of Information Technology and Telecommunications</attrdefs>
+<attrdef>Name of the street</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SOURCE_ID</attrlabl>
+<attalias Sync="TRUE">SOURCE_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>The ID of data source.</attrdef>
+<attrdefs>New York (N.Y.). Department of Information Technology and Telecommunications</attrdefs>
+<atnumdec Sync="TRUE">8</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FEATURE_CO</attrlabl>
+<attalias Sync="TRUE">FEATURE_CO</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+<edomv>2265</edomv>
+<edomvd>Interior Path</edomvd>
+</edom>
+</attrdomv>
+<attrdef>The feature code.</attrdef>
+<attrdefs>New York (N.Y.). Department of Information Technology and Telecommunications</attrdefs>
+<attrdomv>
+<edom>
+<edomv>2930</edomv>
+<edomvd>Stepped Street </edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2245 </edomv>
+<edomvd>Boardwalk</edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+<edomv>2920 </edomv>
+<edomvd>Alley</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2240 </edomv>
+<edomvd>Driveway</edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2910 </edomv>
+<edomvd>Unpaved Road </edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2900</edomv>
+<edomvd>Paved Road</edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SUB_FEATUR</attrlabl>
+<attalias Sync="TRUE">SUB_FEATUR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The code of the sub feature .</attrdef>
+<attrdefs>New York (N.Y.). Department of Information Technology and Telecommunications</attrdefs>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+<edomv>293000</edomv>
+<edomvd>Stepped Street</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>292010 </edomv>
+<edomvd>Alley, Hidden</edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>292000</edomv>
+<edomvd>Alley</edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>224000</edomv>
+<edomvd>Driveways</edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>226500 </edomv>
+<edomvd>Interior Path</edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>291010 </edomv>
+<edomvd>Unpaved Road, Hidden</edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>291000</edomv>
+<edomvd>Unpaved Road</edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+<edomv>224500</edomv>
+<edomvd>Boardwalk </edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+<edomv>224510</edomv>
+<edomvd>Boardwalk, Concrete</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>224520 </edomv>
+<edomvd>Boardwalk, Wooden</edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+<edomv>290000 </edomv>
+<edomvd>Paved Road </edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>290010 </edomv>
+<edomvd>Paved Road, Hidden </edomvd>
+<edomvds>New York (N.Y.). Department of Information Technology and Telecommunications</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NUMBER_TRA</attrlabl>
+<attalias Sync="TRUE">NUMBER_TRA</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdefs>New York (N.Y.). Department of Information Technology and Telecommunications</attrdefs>
+<attrdef>The number of trail.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NUMBER_PAR</attrlabl>
+<attalias Sync="TRUE">NUMBER_PAR</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdefs>New York (N.Y.). Department of Information Technology and Telecommunications</attrdefs>
+<attrdef>The number of the park path.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NUMBER_TOT</attrlabl>
+<attalias Sync="TRUE">NUMBER_TOT</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdefs>New York (N.Y.). Department of Information Technology and Telecommunications</attrdefs>
+<attrdef>The total number of trail and park paths.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">WIDTH</attrlabl>
+<attalias Sync="TRUE">WIDTH</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdefs>New York (N.Y.). Department of Information Technology and Telecommunications</attrdefs>
+<attrdef>The width of path measured in the unit of meter.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SHAPE_LEN</attrlabl>
+<attalias Sync="TRUE">SHAPE_LEN</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>The length of feature measured in the unit of meter.</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20140710</mdDateSt>
+<dataqual>
+<lineage>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Changed name of file from STREET_CENTERLINE to NYCStreeetCenterline130605</procdesc>
+<procdate>20140227</procdate>
+</procstep>
+<srcinfo>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCDOITT\ELEVATION\NYCElevation131029.shp.xml</srcused>
+<procdate Sync="TRUE">20140227</procdate>
+<proctime Sync="TRUE">14271600</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCDOITT\PAVEMENT EDGE\NYCPavementEdge130211.shp.xml</srcused>
+<procdate Sync="TRUE">20140227</procdate>
+<proctime Sync="TRUE">14554600</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCDOITT\RAILROAD LINES\NYCRailroadlines131026.shp.xml</srcused>
+<procdate Sync="TRUE">20140227</procdate>
+<proctime Sync="TRUE">15313400</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCDOITT\ROADBED\ROADBED.shp.xml</srcused>
+<procdate Sync="TRUE">20140227</procdate>
+<proctime Sync="TRUE">16281200</proctime>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">S:\GIS_Center_Projects\EnterpriseGIS\Layers\NYCDOITT\SHORELINE\NYCShorelines130626.shp.xml</srcused>
+<procdate Sync="TRUE">20140227</procdate>
+<proctime Sync="TRUE">16432600</proctime>
+</procstep>
+</lineage>
+<attracc>
+<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.  </attraccr>
+</attracc>
+</dataqual>
+</metadata>

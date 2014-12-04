@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en">
+<Esri>
+<MetaID>{20DBD18B-F0C9-474D-B93F-45E78AF83B2A}</MetaID>
+<CreaDate>20140313</CreaDate>
+<CreaTime>15462400</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140617</SyncDate>
+<SyncTime>12223500</SyncTime>
+<ModDate>20140617</ModDate>
+<ModTime>12225300</ModTime>
+</Esri>
+<idinfo>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<descript>
+<langdata Sync="TRUE">en</langdata>
+<abstract>This point dataset represents each location where deaths were reported in Syria, since Mar 18, 2011 through March 2014.  It should be noted that GPS position is not being used for security precautions, and owing to the difficulty of reporting conditions on the ground, we have been using volunteers to refine location reports, but in some cases we have had less to work with.  The result of this is that the grouping of locations within a small region may not always reflect the physical deaths at the neighborhood level.</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+</descript>
+<citation>
+<citeinfo>
+<origin>Syria Tracker</origin>
+<pubdate>20140313</pubdate>
+<title>Death Locations Syria 2011 - 2014</title>
+<ftname Sync="TRUE">SyriaDeathLocations1114</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<onlink>https://syriatracker.crowdmap.com/reports/view/2888</onlink>
+<lworkcit>
+<citeinfo>
+<origin>Syria Tracker</origin>
+<pubdate>20140313</pubdate>
+<title>Syria Tracker data</title>
+<pubinfo>
+<pubplace>Syria</pubplace>
+<publish>Syria Tracker</publish>
+</pubinfo>
+<onlink>https://syriatracker.crowdmap.com/reports/view/2888</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<timeperd>
+<current>ground condition</current>
+<timeinfo>
+<rngdates>
+<begdate>20110318</begdate>
+<enddate>20140313</enddate>
+</rngdates>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Biweekly</update>
+</status>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">35.649996</westbc>
+<eastbc Sync="TRUE">42.139578</eastbc>
+<northbc Sync="TRUE">37.177962</northbc>
+<southbc Sync="TRUE">32.545981</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">35.649996</leftbc>
+<rightbc Sync="TRUE">42.139578</rightbc>
+<bottombc Sync="TRUE">32.545981</bottombc>
+<topbc Sync="TRUE">37.177962</topbc>
+</lboundng>
+</spdom>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<theme>
+<themekey>location</themekey>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>society</themekey>
+</theme>
+<theme>
+<themekey>Victim </themekey>
+<themekey>Death</themekey>
+<themekey>Regions and cities </themekey>
+<themekt>LCSH </themekt>
+<themekey>War</themekey>
+</theme>
+<place>
+<placekt>GNS</placekt>
+<placekey>Syria </placekey>
+</place>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekt>LCNH </placekt>
+<placekey>Eastern Hemisphere</placekey>
+<placekey>Asia</placekey>
+</place>
+</keywords>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Syria Tracker</cntorg>
+</cntorgp>
+<cntemail>syriatracker@gmail.com. </cntemail>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">SyriaDeathLocations1114</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">35.649996</westBL>
+<eastBL Sync="TRUE">42.139578</eastBL>
+<northBL Sync="TRUE">37.177962</northBL>
+<southBL Sync="TRUE">32.545981</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">35.649996</westBL>
+<eastBL Sync="TRUE">42.139578</eastBL>
+<northBL Sync="TRUE">37.177962</northBL>
+<southBL Sync="TRUE">32.545981</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<metainfo>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<address>Academic Technology</address>
+<address>16 Dearborn Rd</address>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntpos>Data Technician</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</metc>
+<metd Sync="TRUE">20140617</metd>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<transize Sync="TRUE">0.006</transize>
+<dssize Sync="TRUE">0.006</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</distrib>
+</distinfo>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Syria\DeathLocations\SyriaDeathLocations1114.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.006</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="SyriaDeathLocations1114">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">203</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="SyriaDeathLocations1114">
+<sdtstype Sync="TRUE">Entity point</sdtstype>
+<ptvctcnt Sync="TRUE">203</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">WGS 84</geogcsn>
+</cordsysn>
+<geograph>
+<geogunit Sync="TRUE">degree</geogunit>
+<latres Sync="TRUE">0.000000</latres>
+<longres Sync="TRUE">0.000000</longres>
+</geograph>
+<geodetic>
+<horizdn Sync="TRUE">WGS_1984</horizdn>
+<ellips Sync="TRUE">WGS 84</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257224</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">WGS 84</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="SyriaDeathLocations1114">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">203</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<eainfo>
+<detailed Name="SyriaDeathLocations1114">
+<enttyp>
+<enttypl Sync="TRUE">SyriaDeathLocations1114</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">203</enttypc>
+<enttypds>Syria Tracker</enttypds>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">MWShapeID</attrlabl>
+<attalias Sync="TRUE">MWShapeID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">13</attwidth>
+<attrdef>The shape ID.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+<atnumdec Sync="TRUE">1</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DeathID</attrlabl>
+<attalias Sync="TRUE">DeathID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The ID of death</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">PLACEName</attrlabl>
+<attalias Sync="TRUE">PLACEName</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>The name of the place where the death happens.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Admin1ID</attrlabl>
+<attalias Sync="TRUE">Admin1ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdef>The administrative ID.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Admin2ID</attrlabl>
+<attalias Sync="TRUE">Admin2ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdef>The administrative ID 2.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Admin3ID</attrlabl>
+<attalias Sync="TRUE">Admin3ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The administrative ID 3.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Admin1_AR</attrlabl>
+<attalias Sync="TRUE">Admin1_AR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+<attrdef>Administrative area.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Admin1_EN</attrlabl>
+<attalias Sync="TRUE">Admin1_EN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+<attrdef>Administrative entity.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Admin2_AR</attrlabl>
+<attalias Sync="TRUE">Admin2_AR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+<attrdef>Administrative area 2.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Admin2_EN</attrlabl>
+<attalias Sync="TRUE">Admin2_EN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+<attrdef>Administrative entity 2.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Admin3_AR</attrlabl>
+<attalias Sync="TRUE">Admin3_AR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+<attrdef>Administrative area 3.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Admin3_EN</attrlabl>
+<attalias Sync="TRUE">Admin3_EN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+<attrdef>Administrative entity 3.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Lon</attrlabl>
+<attalias Sync="TRUE">Lon</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Longitude of the location.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+<atnumdec Sync="TRUE">7</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Lat</attrlabl>
+<attalias Sync="TRUE">Lat</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Latitude of the location.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+<atnumdec Sync="TRUE">7</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Deaths</attrlabl>
+<attalias Sync="TRUE">Deaths</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Number of death.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">MaleDeath</attrlabl>
+<attalias Sync="TRUE">MaleDeath</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Number of male death.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FemDeath</attrlabl>
+<attalias Sync="TRUE">FemDeath</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Number of female death.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">PercFem</attrlabl>
+<attalias Sync="TRUE">PercFem</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Percentage of female.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+<atnumdec Sync="TRUE">3</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Army</attrlabl>
+<attalias Sync="TRUE">Army</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of victims who are from the army.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Civilian</attrlabl>
+<attalias Sync="TRUE">Civilian</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of victims who are civilians.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Per_Army</attrlabl>
+<attalias Sync="TRUE">Per_Army</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Percentage of army death.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">AvAge</attrlabl>
+<attalias Sync="TRUE">AvAge</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Average age of the victim.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Last30</attrlabl>
+<attalias Sync="TRUE">Last30</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened within last 30 days.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Last60</attrlabl>
+<attalias Sync="TRUE">Last60</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened within last 60 days.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Last90</attrlabl>
+<attalias Sync="TRUE">Last90</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened within the last 90 days.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Perc_Fem</attrlabl>
+<attalias Sync="TRUE">Perc_Fem</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Percentage of female death.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+<atnumdec Sync="TRUE">4</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Gunshot</attrlabl>
+<attalias Sync="TRUE">Gunshot</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death caused by gunshot.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Artillery</attrlabl>
+<attalias Sync="TRUE">Artillery</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death  caused by artillery.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Sniper</attrlabl>
+<attalias Sync="TRUE">Sniper</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death caused by sniper.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Air</attrlabl>
+<attalias Sync="TRUE">Air</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death caused by air attack.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Beat_Stab</attrlabl>
+<attalias Sync="TRUE">Beat_Stab</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of  victims who were beaten by stab.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Execution</attrlabl>
+<attalias Sync="TRUE">Execution</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of victims with execution.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NotObey</attrlabl>
+<attalias Sync="TRUE">NotObey</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of victims who did not obey.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Torture</attrlabl>
+<attalias Sync="TRUE">Torture</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death caused by torture.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Mine</attrlabl>
+<attalias Sync="TRUE">Mine</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death caused by mine.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Burn</attrlabl>
+<attalias Sync="TRUE">Burn</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdefs>Tufts University</attrdefs>
+<attrdef>The number of death caused by burn.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Stress</attrlabl>
+<attalias Sync="TRUE">Stress</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdefs>Tufts University</attrdefs>
+<attrdef>The number of death caused by stress.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Wounds</attrlabl>
+<attalias Sync="TRUE">Wounds</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death caused by wounds.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Asphyxiate</attrlabl>
+<attalias Sync="TRUE">Asphyxiate</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdefs>Tufts University</attrdefs>
+<attrdef>The number of death caused by asphyxiate.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Outage</attrlabl>
+<attalias Sync="TRUE">Outage</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happend within outage.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Crushing</attrlabl>
+<attalias Sync="TRUE">Crushing</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death caused by crushing.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Unknown</attrlabl>
+<attalias Sync="TRUE">Unknown</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdefs>Tufts University</attrdefs>
+<attrdef>The number of death whose death reason is unknown. </attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GunandUnk</attrlabl>
+<attalias Sync="TRUE">GunandUnk</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdefs>Tufts University</attrdefs>
+<attrdef>The  number of unknown Guan death.</attrdef>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shabiha</attrlabl>
+<attalias Sync="TRUE">Shabiha</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of victims who are Shabihas?</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Christian</attrlabl>
+<attalias Sync="TRUE">Christian</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of victims who are Christians.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Mar_2011</attrlabl>
+<attalias Sync="TRUE">Mar_2011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in March 2011.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Apr_2011</attrlabl>
+<attalias Sync="TRUE">Apr_2011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in April 2011.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">May_2011</attrlabl>
+<attalias Sync="TRUE">May_2011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in May 2011.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Jun_2011</attrlabl>
+<attalias Sync="TRUE">Jun_2011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in June 2011.;</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Jul_2011</attrlabl>
+<attalias Sync="TRUE">Jul_2011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in July 2011.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Aug_2011</attrlabl>
+<attalias Sync="TRUE">Aug_2011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in August 2011.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Sep_2011</attrlabl>
+<attalias Sync="TRUE">Sep_2011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in September 2011.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Oct_2011</attrlabl>
+<attalias Sync="TRUE">Oct_2011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in October 2011.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Nov_2011</attrlabl>
+<attalias Sync="TRUE">Nov_2011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in November 2011.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Dec_2011</attrlabl>
+<attalias Sync="TRUE">Dec_2011</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in December 2011.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Jan_2012</attrlabl>
+<attalias Sync="TRUE">Jan_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in January 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Feb_2012</attrlabl>
+<attalias Sync="TRUE">Feb_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in February 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Mar_2012</attrlabl>
+<attalias Sync="TRUE">Mar_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in March 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Apr_2012</attrlabl>
+<attalias Sync="TRUE">Apr_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in April 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">May_2012</attrlabl>
+<attalias Sync="TRUE">May_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in May 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Jun_2012</attrlabl>
+<attalias Sync="TRUE">Jun_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in June 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Jul_2012</attrlabl>
+<attalias Sync="TRUE">Jul_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in July 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Aug_2012</attrlabl>
+<attalias Sync="TRUE">Aug_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in August 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Sep_2012</attrlabl>
+<attalias Sync="TRUE">Sep_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in September 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Oct_2012</attrlabl>
+<attalias Sync="TRUE">Oct_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in October 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Under18</attrlabl>
+<attalias Sync="TRUE">Under18</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of victims who are under 18 years old.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">wName</attrlabl>
+<attalias Sync="TRUE">wName</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death recorded with victims' names.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">wComment</attrlabl>
+<attalias Sync="TRUE">wComment</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death recorded with comments.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">wVideo</attrlabl>
+<attalias Sync="TRUE">wVideo</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death recorded with videos.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NumVideos</attrlabl>
+<attalias Sync="TRUE">NumVideos</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of videos.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">wPhoto</attrlabl>
+<attalias Sync="TRUE">wPhoto</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death recorded with photos.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SameBirth</attrlabl>
+<attalias Sync="TRUE">SameBirth</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The victims with the same birth.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ComLen</attrlabl>
+<attalias Sync="TRUE">ComLen</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The length of comments.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Nov_2012</attrlabl>
+<attalias Sync="TRUE">Nov_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in November 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Dec_2012</attrlabl>
+<attalias Sync="TRUE">Dec_2012</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in December 2012.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Jan_2013</attrlabl>
+<attalias Sync="TRUE">Jan_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in January 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Feb_2013</attrlabl>
+<attalias Sync="TRUE">Feb_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in February 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Mar_2013</attrlabl>
+<attalias Sync="TRUE">Mar_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in March 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Apr_2013</attrlabl>
+<attalias Sync="TRUE">Apr_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in April 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">May_2013</attrlabl>
+<attalias Sync="TRUE">May_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in May 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Jun_2013</attrlabl>
+<attalias Sync="TRUE">Jun_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in June 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Jul_2013</attrlabl>
+<attalias Sync="TRUE">Jul_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in July 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Aug_2013</attrlabl>
+<attalias Sync="TRUE">Aug_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in August 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Chemical</attrlabl>
+<attalias Sync="TRUE">Chemical</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Whether the death was associated with chemical issues?</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Sep_2013</attrlabl>
+<attalias Sync="TRUE">Sep_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in Sept. 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Oct_2013</attrlabl>
+<attalias Sync="TRUE">Oct_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in Oct. 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Nov_2013</attrlabl>
+<attalias Sync="TRUE">Nov_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in Nov. 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Dec_2013</attrlabl>
+<attalias Sync="TRUE">Dec_2013</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in Dec., 2013.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Jan_2014</attrlabl>
+<attalias Sync="TRUE">Jan_2014</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in Jan., 2014.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Feb_2014</attrlabl>
+<attalias Sync="TRUE">Feb_2014</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>The number of death happened in Feb., 2014.</attrdef>
+<attrdefs>Tufts University</attrdefs>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20140617</mdDateSt>
+<dataqual>
+<lineage>
+<procstep>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Changed name of file from DeathLocations to SyriaDeathLocation1114
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+<proctime>20140313</proctime>
+</procstep>
+<srcinfo>
+<srcscale>Unkown</srcscale>
+</srcinfo>
+</lineage>
+</dataqual>
+</metadata>

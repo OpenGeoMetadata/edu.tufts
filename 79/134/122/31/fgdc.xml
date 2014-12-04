@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Instituto Nacional de Estadistica y Geografia (Mexico)</origin>
+				<pubdate>2001</pubdate>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Aguascalientes (Mexico)</pubplace>
+					<publish>Instituto Nacional de Estadistica y Geografia (Mexico)</publish>
+				</pubinfo>
+				<onlink>http://www.inegi.org.mx/geo/contenidos/recnat/fisiografia/infoescala.aspx</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Instituto Nacional de Estadistica y Geografia (Mexico)</origin>
+						<pubdate>2001</pubdate>
+						<pubinfo>
+							<pubplace>Aguascalientes (Mexico)</pubplace>
+							<publish>Instituto Nacional de Estadisticas y Geographias</publish>
+						</pubinfo>
+						<onlink>http://www.inegi.org.mx/geo/contenidos/geografia/default.aspx</onlink>
+					</citeinfo>
+				</lworkcit>
+				<title>Potential Land Use Mexico 2001</title>
+<ftname Sync="TRUE">MexicoPotentialLandUse01</ftname>
+</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This polygon dataset shows potential land uses in Mexico. The purpose of this data is to determine the possible use of land for agriculture, fishing, forests, urban development, conservation, and to evaluate the land conditions. </abstract>
+			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+			<langdata Sync="TRUE">en</langdata>
+</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+<begdate>1993</begdate>
+<enddate>1997</enddate>
+</rngdates>
+</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Unknown</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-120.701823</westbc>
+				<eastbc Sync="TRUE">-84.057252</eastbc>
+				<northbc Sync="TRUE">33.750354</northbc>
+				<southbc Sync="TRUE">13.330227</southbc>
+			</bounding>
+			<lboundng>
+<leftbc Sync="TRUE">738315.500000</leftbc>
+<rightbc Sync="TRUE">4189413.149900</rightbc>
+<bottombc Sync="TRUE">248139.877850</bottombc>
+<topbc Sync="TRUE">2410301.186200</topbc>
+</lboundng>
+</spdom>
+		<keywords>
+			<theme>
+				<themekt>FGDC</themekt>
+				<themekey>polygon</themekey>
+</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+<themekey>farming</themekey>
+</theme>
+			<theme>
+				<themekt>LCSH</themekt>
+				<themekey>Land use.</themekey>
+<themekey>Exclosures</themekey>
+<themekey>Land capability for agriculture.</themekey>
+<themekey>Land use, Rural.</themekey>
+<themekey>Open spaces.</themekey>
+<themekey>Public lands</themekey>
+<themekey>Real estate business.</themekey>
+<themekey>Real estate development.</themekey>
+<themekey>Reclamation of land.</themekey>
+<themekey>School lands</themekey>
+<themekey>Waste lands</themekey>
+<themekey>Land cover.</themekey>
+<themekey>Landscape assessment.</themekey>
+<themekey>Landscape protection.</themekey>
+<themekey>Forest landscape management</themekey>
+<themekey>Karst conservation</themekey>
+<themekey>Upland conservation</themekey>
+<themekey>Environmentally sensitive areas</themekey>
+<themekey>Conservation of natural resources.</themekey>
+<themekey>Water districts</themekey>
+<themekey>Soil conservation districts</themekey>
+<themekey>Natural areas</themekey>
+<themekey>Forest reserves</themekey>
+<themekey>Natural resources conservation areas. </themekey>
+</theme>
+			<place>
+				<placekt>GNS</placekt>
+				<placekey>Mexico</placekey>
+			</place>
+			<place>
+				<placekt>LCNH</placekt>
+				<placekey>Northern Hemisphere</placekey>
+				<placekey>Western Hemisphere</placekey>
+				<placekey>North America</placekey>
+			</place>
+		</keywords>
+		<accconst>Unrestricted Access</accconst>
+		<useconst>For educational non-commercial use only.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Instituto Nacional de Estadistica y Geografia (Mexico)</cntorg>
+				</cntorgp>
+				<cntpos>Service representative</cntpos>
+				<cntaddr>
+					<addrtype>physical address</addrtype>
+					<address>2301 Av Heroe de Nacozari</address>
+					<address>Fraccionamiento Jardines del Parque</address>
+					<city>Aguascalientes</city>
+					<state>Aguascalientes (AGS)</state>
+					<postal>C.P. 20276</postal>
+					<country>Mexico</country>
+				</cntaddr>
+				<cntvoice>01 449 910 5300</cntvoice>
+				<cntvoice>01 800 111 46 34</cntvoice>
+				<cntvoice>ext. 5021, 5031, 4250</cntvoice>
+				<cntemail>atencion.usuarios@inegi.org.mx</cntemail>
+				<hours>Monday to Sunday from 8:00 to 4:00. Central Time Mexico.</hours>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.</attraccr>
+		</attracc>
+		<lineage>
+			<srcinfo>
+				<srcscale>1:1000000</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc>The file name of this dataset was changed from usv250p to MexicoPotentialLandUse01.
+
+This shapefile metadata was edited for clarity and keywords were added per Tufts metadata standards.</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Tufts University GIS Center</cntorg>
+						</cntorgp>
+						<cntpos>Data Technician</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Academic Technology</address>
+							<address>16 Dearborn Rd.</address>
+							<city>Somerville</city>
+							<state>MA</state>
+							<postal>02144</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>617-627-3380</cntvoice>
+						<cntemail>gis-support@elist.tufts.edu</cntemail>
+						<hours>Monday - Friday, 9:00am - 5:00pm, EST- USA</hours>
+					</cntinfo>
+				</proccont>
+				<procdate>20140814</procdate>
+<proctime>1:30 PM</proctime>
+</procstep>
+			<procstep>
+<procdesc Sync="TRUE">Metadata imported.</procdesc>
+<srcused Sync="TRUE">C:\Users\Ctalma01\AppData\Local\Temp\xml2E76.tmp</srcused>
+<procdate Sync="TRUE">20140814</procdate>
+<proctime Sync="TRUE">13141400</proctime>
+</procstep>
+</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="MexicoPotentialLandUse01">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">122810</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="MexicoPotentialLandUse01">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">122810</efeacnt>
+<spindex Sync="TRUE">FALSE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj>
+<mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+<lambertc>
+<stdparll Sync="TRUE">17.500000</stdparll>
+<stdparll Sync="TRUE">29.500000</stdparll>
+<longcm Sync="TRUE">-102.000000</longcm>
+<latprjo Sync="TRUE">12.000000</latprjo>
+<feast Sync="TRUE">2500000.000000</feast>
+<fnorth Sync="TRUE">0.000000</fnorth>
+</lambertc>
+</mapproj>
+</planar>
+			<geodetic>
+				<horizdn Sync="TRUE">D_ITRF_1992</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn>
+<geogcsn Sync="TRUE">GCS_ITRF_1992</geogcsn>
+<projcsn Sync="TRUE">ITRF_1992_Lambert_Conformal_Conic</projcsn>
+</cordsysn>
+</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="MexicoPotentialLandUse01">
+			<enttyp>
+				<enttypl Sync="TRUE">MexicoPotentialLandUse01</enttypl>
+				<enttypds>Environmental Systems Research Institute (Redlands, Calif.)</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">122810</enttypc>
+<enttypd>Potential Land Uses in Mexico </enttypd>
+</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+			<attr>
+				<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+				<attrdef>Unique Identifier</attrdef>
+				<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+				<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">CVE_UNION</attrlabl>
+<attalias Sync="TRUE">CVE_UNION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+<attrdomv>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+<edomv>ACUI</edomv>
+<edomvd>AQUACULTURE</edomvd>
+</edom>
+<edom>
+<edomv>ADV</edomv>
+<edomvd>Devoid of vegetation</edomvd>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+<edomv>AH</edomv>
+<edomvd>Human Settlements</edomvd>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+<edomv>BA</edomv>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+<edomv>BB</edomv>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+<edomv>BC</edomv>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+<edomv>BG</edomv>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+<edomv>BI</edomv>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+<edomv>BJ</edomv>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomvds>Instituto Nacional de Estadistica y Geografia (Mexico)</edomvds>
+</edom>
+<edom>
+<edomv>BM</edomv>
+</edom>
+<edom>
+<edomv>BP</edomv>
+</edom>
+<edom>
+<edomv>BPQ</edomv>
+</edom>
+<edom>
+<edomv>BQ</edomv>
+</edom>
+<edom>
+<edomv>BQP</edomv>
+</edom>
+<edom>
+<edomv>BS</edomv>
+</edom>
+<edom>
+<edomv>DV</edomv>
+</edom>
+<edom>
+<edomv>H20</edomv>
+</edom>
+<edom>
+<edomv>HA</edomv>
+</edom>
+<edom>
+<edomv>HAP</edomv>
+</edom>
+<edom>
+<edomv>HAS</edomv>
+</edom>
+<edom>
+<edomv>HP</edomv>
+</edom>
+<edom>
+<edomv>HS</edomv>
+</edom>
+<edom>
+<edomv>HSP</edomv>
+</edom>
+<edom>
+<edomv>MC</edomv>
+</edom>
+<edom>
+<edomv>MDM</edomv>
+</edom>
+<edom>
+<edomv>MDR</edomv>
+</edom>
+<edom>
+<edomv>MET</edomv>
+</edom>
+<edom>
+<edomv>MK</edomv>
+</edom>
+<edom>
+<edomv>MKE</edomv>
+</edom>
+<edom>
+<edomv>MKX</edomv>
+</edom>
+<edom>
+<edomv>ML</edomv>
+</edom>
+<edom>
+<edomv>MRC</edomv>
+</edom>
+<edom>
+<edomv>MSC</edomv>
+</edom>
+<edom>
+<edomv>MSCC</edomv>
+</edom>
+<edom>
+<edomv>MSM</edomv>
+</edom>
+<edom>
+<edomv>MSN</edomv>
+</edom>
+<edom>
+<edomv>MST</edomv>
+</edom>
+<edom>
+<edomv>P/E</edomv>
+</edom>
+<edom>
+<edomv>PC</edomv>
+</edom>
+<edom>
+<edomv>PH</edomv>
+</edom>
+<edom>
+<edomv>PI</edomv>
+</edom>
+<edom>
+<edomv>PN</edomv>
+</edom>
+<edom>
+<edomv>PT</edomv>
+</edom>
+<edom>
+<edomv>PY</edomv>
+</edom>
+<edom>
+<edomv>RA</edomv>
+</edom>
+<edom>
+<edomv>RAP</edomv>
+</edom>
+<edom>
+<edomv>RAS</edomv>
+</edom>
+<edom>
+<edomv>RP</edomv>
+</edom>
+<edom>
+<edomv>RS</edomv>
+</edom>
+<edom>
+<edomv>RSP</edomv>
+</edom>
+<edom>
+<edomv>SAP</edomv>
+</edom>
+<edom>
+<edomv>SAQ</edomv>
+</edom>
+<edom>
+<edomv>SBC</edomv>
+</edom>
+<edom>
+<edomv>SBK</edomv>
+</edom>
+<edom>
+<edomv>SPB</edomv>
+</edom>
+<edom>
+<edomv>SBQ</edomv>
+</edom>
+<edom>
+<edomv>SBQP</edomv>
+</edom>
+<edom>
+<edomv>SBS</edomv>
+</edom>
+<edom>
+<edomv>SG</edomv>
+</edom>
+<edom>
+<edomv>SMC</edomv>
+</edom>
+<edom>
+<edomv>SMP</edomv>
+</edom>
+<edom>
+<edomv>SMQ</edomv>
+</edom>
+<edom>
+<edomv>SMS</edomv>
+</edom>
+<edom>
+<edomv>TA</edomv>
+</edom>
+<edom>
+<edomv>TAP</edomv>
+</edom>
+<edom>
+<edomv>TAS</edomv>
+</edom>
+<edom>
+<edomv>TP</edomv>
+</edom>
+<edom>
+<edomv>TS</edomv>
+</edom>
+</attrdomv>
+<attrdef>Land Use Code</attrdef>
+<attrdomv>
+<edom>
+<edomv>TSP</edomv>
+</edom>
+<edom>
+<edomv>VA</edomv>
+</edom>
+<edom>
+<edomv>VD</edomv>
+</edom>
+<edom>
+<edomv>VG</edomv>
+</edom>
+<edom>
+<edomv>VH</edomv>
+</edom>
+<edom>
+<edomv>VHH</edomv>
+</edom>
+<edom>
+<edomv>VM</edomv>
+</edom>
+<edom>
+<edomv>VPI</edomv>
+</edom>
+</attrdomv>
+</attr>
+			<attr>
+<attrlabl Sync="TRUE">DESCRIPCIO</attrlabl>
+<attalias Sync="TRUE">DESCRIPCIO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">70</attwidth>
+<attrdefs>Instituto Nacional de Estadistica y Geografia (Mexico)</attrdefs>
+<attrdomv/>
+<attrdef>Description of Land Use Codes</attrdef>
+</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS Center</cntorg>
+				</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00am - 5:00pm, EST USA</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Online Dataset</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">354.348</transize>
+					<dssize Sync="TRUE">354.348</dssize>
+</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20140814</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Tufts University GIS  Center</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+</cntorgp>
+				<cntpos>Data Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Academic Technology</address>
+					<address>16 Dearborn Rd.</address>
+					<city>Somerville</city>
+					<state>MA</state>
+					<postal>02144</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>617-627-3380</cntvoice>
+				<cntemail>gis-support@elist.tufts.edu</cntemail>
+				<hours>Monday - Friday, 9:00am - 5:00pm, EST-USA</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+	<Esri>
+<MetaID>{9FD19311-2540-4A51-84AA-6675C70EE847}</MetaID>
+<CreaDate>20140814</CreaDate>
+<CreaTime>13141400</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140814</SyncDate>
+<SyncTime>13224900</SyncTime>
+<ModDate>20140814</ModDate>
+<ModTime>15323100</ModTime>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">MexicoPotentialLandUse01</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">738315.5</westBL>
+<eastBL Sync="TRUE">4189413.1499</eastBL>
+<northBL Sync="TRUE">2410301.1862</northBL>
+<southBL Sync="TRUE">248139.87785</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-120.701823</westBL>
+<eastBL Sync="TRUE">-84.057252</eastBL>
+<northBL Sync="TRUE">33.750354</northBL>
+<southBL Sync="TRUE">13.330227</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Mexico\INEGI\PotentialLandUse\CAPA_UNION_SV\MexicoPotentialLandUse01.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">354.348</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">ITRF_1992_Lambert_Conformal_Conic</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="MexicoPotentialLandUse01">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">122810</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt Sync="TRUE">20140814</mdDateSt>
+</metadata>

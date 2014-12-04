@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20090512</CreaDate>
+<CreaTime>15544300</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<SyncDate>20140522</SyncDate>
+<SyncTime>21434100</SyncTime>
+<ModDate>20140522</ModDate>
+<ModTime>21440700</ModTime>
+<DataProperties>
+<itemProps>
+<itemName Sync="TRUE">OFBA_PT</itemName>
+<imsContentType Sync="TRUE">002</imsContentType>
+<nativeExtBox>
+<westBL Sync="TRUE">38693.211372</westBL>
+<eastBL Sync="TRUE">324637.641283</eastBL>
+<southBL Sync="TRUE">781324.677932</southBL>
+<northBL Sync="TRUE">954814.922175</northBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</nativeExtBox>
+<itemLocation>
+<linkage Sync="TRUE">file://\\ES-AP-AMAP-1\E\MassGIS\mtrust\MassGIS_DataViewer_SHP\gisdata\men1\Conservation_Recreation\OFBA_PT.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</itemLocation>
+<itemSize Sync="TRUE">0.000</itemSize>
+</itemProps>
+<coordRef>
+<type Sync="TRUE">Projected</type>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;LatestWKID&amp;gt;26986&amp;lt;/LatestWKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+</coordRef>
+<lineage/>
+</DataProperties>
+<MetaID>{1A93B05C-60E5-4085-B424-DD7577EAE7ED}</MetaID>
+<ArcGISProfile>FGDC</ArcGISProfile>
+<ArcGISFormat>1.0</ArcGISFormat>
+<scaleRange>
+<minScale>150000000</minScale>
+<maxScale>5000</maxScale>
+</scaleRange>
+</Esri>
+<idinfo>
+<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<descript>
+<langdata>en</langdata>
+<abstract>This point dataset represents 264 Office of Fishing and Boating Access Sites. The Office of Fishing and Boating Access (OFBA) in the Massachusetts Department of Fish and Game (DFG) is charged with providing access to these many waterways. Presently, the agency oversees boat and canoe launch sites at more than 200 coastal and inland locations in Massachusetts. The principal source for this layer has been Public Access to the Waters of Massachusetts, published by the OFBA. Additional sites have been digitized from USGS topographic quadrangles.</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+</descript>
+<citation>
+<citeinfo>
+<origin>Massachusetts. Department of Fish and Game </origin>
+<pubdate>20130816</pubdate>
+<title>Office of Fishing and Boating Access Sites Massachusetts 2008</title>
+<ftname Sync="TRUE">MAFishBoatSites08</ftname>
+<geoform Sync="TRUE">vector digital data</geoform>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/ofba.html</onlink>
+<lworkcit>
+<citeinfo>
+<origin>MassGIS (Office : Mass.) </origin>
+<pubdate>20131101</pubdate>
+<title>MassGIS Data</title>
+<pubinfo>
+<pubplace>Massachusetts</pubplace>
+<publish>MassGIS (Office : Mass.)</publish>
+</pubinfo>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/ofba.html</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<timeperd>
+<current>publication date</current>
+<timeinfo>
+<sngdate>
+<caldate>20130816</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc Sync="TRUE">-73.472838</westbc>
+<eastbc Sync="TRUE">-69.975529</eastbc>
+<northbc Sync="TRUE">42.843952</northbc>
+<southbc Sync="TRUE">41.265634</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">38693.211372</leftbc>
+<rightbc Sync="TRUE">324637.641283</rightbc>
+<bottombc Sync="TRUE">781324.677932</bottombc>
+<topbc Sync="TRUE">954814.922175</topbc>
+</lboundng>
+</spdom>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>point</themekey>
+</theme>
+<place>
+<placekey>Massachusetts</placekey>
+<placekt>GNIS</placekt>
+</place>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>environment</themekey>
+</theme>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>States Organization for Boating Access </themekey>
+<themekey>Seashore</themekey>
+<themekey>Waterways</themekey>
+<themekey>Canoes and canoeing</themekey>
+</theme>
+</keywords>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<natvform Sync="TRUE">Shapefile</natvform>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>Kevin Robicheau</cntper>
+<cntorg>Department of Fish and Game, Commonwealth of Massachusetts</cntorg>
+</cntperp>
+<cntpos>Senior GIS Specialist</cntpos>
+<cntvoice>617-626-1567</cntvoice>
+<cntemail>kevin.robicheau@state.ma.us</cntemail>
+<hours>8PM-4PM Monday-Friday</hours>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>251 Causeway St., Suite 400</address>
+<city>Boston</city>
+<state>MA</state>
+<postal>02114</postal>
+<country>USA</country>
+</cntaddr>
+</cntinfo>
+</ptcontac>
+</idinfo>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" country="USA" value="en"/>
+<countryCode value="eng"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="FALSE">Office of Fishing and Boating Access Sites</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<westBL Sync="TRUE">-73.472838</westBL>
+<eastBL Sync="TRUE">-69.975529</eastBL>
+<northBL Sync="TRUE">42.843952</northBL>
+<southBL Sync="TRUE">41.265634</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">38693.211372</westBL>
+<eastBL Sync="TRUE">324637.641283</eastBL>
+<northBL Sync="TRUE">954814.922175</northBL>
+<southBL Sync="TRUE">781324.677932</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-73.472838</westBL>
+<eastBL Sync="TRUE">-69.975529</eastBL>
+<northBL Sync="TRUE">42.843952</northBL>
+<southBL Sync="TRUE">41.265634</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+<descKeys>
+<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+<keyword Sync="TRUE">002</keyword>
+</descKeys>
+<otherKeys>
+<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+<keyword>002</keyword>
+</otherKeys>
+<idPurp>Shows boating access sites throughout the Commonwealth.</idPurp>
+<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;Massachusetts is blessed with over 1200 miles of seashore and hundreds of lakes, ponds, and streams. The Office of Fishing and Boating Access (OFBA) in the Massachusetts Department of Fish and Game (DFG) is charged with providing access to these many waterways. Presently, the agency oversees boat and canoe launch sites at more than 200 coastal and inland locations in Massachusetts. This point layer contains 264 sites. The principal source for this layer has been Public Access to the Waters of Massachusetts, published by the OFBA. Additional sites have been digitized from USGS topographic quadrangles. In ArcSDE the layer is named OFBA_PT. With the January 2008 release it replaces the Public Access Board Sites (PAB_PT) layer.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<idCredit>Developed by the Department of Fish and Game for the Office of Fishing and Boating Access</idCredit>
+<searchKeys>
+<keyword>Public Access</keyword>
+<keyword>Boating</keyword>
+<keyword>Fishing</keyword>
+<keyword>OFBA</keyword>
+<keyword>Boat Ramps</keyword>
+<keyword>Boat</keyword>
+<keyword>Recreation</keyword>
+</searchKeys>
+<resConst>
+<Consts>
+<useLimit>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;None&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</useLimit>
+</Consts>
+</resConst>
+<dataChar>
+<CharSetCd value="004"/>
+</dataChar>
+<resMaint>
+<maintFreq>
+<MaintFreqCd value="010"/>
+</maintFreq>
+<maintScp>
+<ScopeCd value="009"/>
+</maintScp>
+</resMaint>
+</dataIdInfo>
+<metainfo>
+<langmeta Sync="TRUE">en</langmeta>
+<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+<mettc Sync="TRUE">local time</mettc>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<address>Academic Technology</address>
+<country>USA</country>
+<address>16 Dearborn Rd</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntpos>Data Technician</cntpos>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</metc>
+<metd>20130816</metd>
+<metextns>
+<onlink>http://www.mass.gov/mgis/ofba.htm</onlink>
+<metprof>MassGIS Web Documentation</metprof>
+</metextns>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+<countryCode Sync="TRUE" value="USA"/>
+</mdLang>
+<mdStanName>ArcGIS Metadata</mdStanName>
+<mdStanVer>1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Shapefile</formname>
+<transize Sync="TRUE">0.007</transize>
+<dssize Sync="TRUE">0.007</dssize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://www.mass.gov/mgis/ofba.htm </networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+</cntinfo>
+</distrib>
+</distinfo>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\MassGIS2013_3\ofba\MAFishBoatSites08.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">0.007</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+<distFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distFormat>
+<distTranOps>
+<transSize Sync="TRUE">0.000</transSize>
+</distTranOps>
+</distInfo>
+<spdoinfo>
+<direct Sync="TRUE">Vector</direct>
+<ptvctinf>
+<esriterm Name="MAFishBoatSites08">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE" code="1">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">264</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="MAFishBoatSites08">
+<sdtstype Sync="TRUE">Entity point</sdtstype>
+<ptvctcnt Sync="TRUE">264</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+</cordsysn>
+<planar>
+<planci>
+<plance Sync="TRUE">coordinate pair</plance>
+<plandu Sync="TRUE">meters</plandu>
+<coordrep>
+<absres Sync="TRUE">0.000000</absres>
+<ordres Sync="TRUE">0.000000</ordres>
+</coordrep>
+</planci>
+<gridsys>
+<gridsysn>State Plane Coordinate System</gridsysn>
+<spcs>
+<spcszone Sync="TRUE">2001</spcszone>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">200000.000000</feast>
+<fnorth Sync="TRUE">750000.000000</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+</planar>
+<geodetic>
+<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+<denflat Sync="TRUE">298.257222</denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+<altres Sync="TRUE">1.000000</altres>
+</altsys>
+</vertdef>
+</spref>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE" code="26986">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</identCode>
+<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+<idVersion Sync="TRUE">7.11.2</idVersion>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="MAFishBoatSites08">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="004"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">264</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<eainfo>
+<detailed Name="MAFishBoatSites08">
+<enttyp>
+<enttypl Sync="TRUE">MAFishBoatSites08</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">264</enttypc>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">PENDING</attrlabl>
+<attalias Sync="TRUE">PENDING</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdef>Page in book</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">PAGE</attrlabl>
+<attalias Sync="TRUE">PAGE</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Page in Public Access to the Waters of Massachusetts</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">MAINTRESP</attrlabl>
+<attalias Sync="TRUE">MAINTRESP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>Maintenance and management responsibility</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">RAMPTYPE</attrlabl>
+<attalias Sync="TRUE">RAMPTYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">15</attwidth>
+<attrdef>Launch ramp type</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">TOWN</attrlabl>
+<attalias Sync="TRUE">TOWN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">21</attwidth>
+<attrdef>Town Name</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NOLANES</attrlabl>
+<attalias Sync="TRUE">NOLANES</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+<attrdef>Number of lanes</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NORAMPS</attrlabl>
+<attalias Sync="TRUE">NORAMPS</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Number of ramps</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NOPRKSP</attrlabl>
+<attalias Sync="TRUE">NOPRKSP</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">12</attwidth>
+<attrdef>Number of parking spaces</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">CONDITION</attrlabl>
+<attalias Sync="TRUE">CONDITION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<attrdef>Condition of ramp</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FEE</attrlabl>
+<attalias Sync="TRUE">FEE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdef>Fee required? (some records are null; data not yet complete)</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">STKPRMT</attrlabl>
+<attalias Sync="TRUE">STKPRMT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdef>Sticker or permit required? (some records are null; data not yet complete)</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">QUADS_ID</attrlabl>
+<attalias Sync="TRUE">QUADS_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>USGS Quad ID</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+<atnumdec Sync="TRUE">8</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">QUAD_NAME</attrlabl>
+<attalias Sync="TRUE">QUAD_NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">25</attwidth>
+<attrdef>USGS Quad name</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DOUBLEQUAD</attrlabl>
+<attalias Sync="TRUE">DOUBLEQUAD</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">18</attwidth>
+<attrdef>USGS Double quad name</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">OFBA_ID</attrlabl>
+<attalias Sync="TRUE">OFBA_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Unique site ID assigned by the OFBA. See http://www.mass.gov/dfwele/pab/pab_facilities.htm for details.</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">RESTRKT</attrlabl>
+<attalias Sync="TRUE">RESTRKT</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdef>Restrictions? (some records are null; data not yet complete)</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">DATE_ENTER</attrlabl>
+<attalias Sync="TRUE">DATE_ENTER</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<attrdef>Date entered in Public Access to the Waters of Massachusetts</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FACNAME</attrlabl>
+<attalias Sync="TRUE">FACNAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">35</attwidth>
+<attrdef>Facility name</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">TOWN_ID</attrlabl>
+<attalias Sync="TRUE">TOWN_ID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdef>Town ID</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+<atnumdec Sync="TRUE">8</atnumdec>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">COMMENT_</attrlabl>
+<attalias Sync="TRUE">COMMENT_</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">30</attwidth>
+<attrdef>Comment field</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FACIL_TYPE</attrlabl>
+<attalias Sync="TRUE">FACIL_TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">14</attwidth>
+<attrdef>Type of facility:</attrdef>
+<attrdomv>
+<edom>
+<edomv>A</edomv>
+<edomvd>General access: Concrete boat ramp and parking for boat trailers.</edomvd>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+</edom>
+</attrdomv>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomv>B</edomv>
+<edomvd>Fisherman access: Small concrete ramp, concrete pad ramp system or gravel ramp designed for smaller boats and parking for boat trailers.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomv>C</edomv>
+<edomvd>Cartop access: Access to lakes, ponds and rivers for small boats, canoes and kayaks.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomv>D</edomv>
+<edomvd>Canoe access: Access to rivers most suitable for canoes and kayaks.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomv>E</edomv>
+<edomvd>Sport fishing pier: Pier that provides fishing area for recreational anglers - barrier free.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomv>F</edomv>
+<edomvd>Shore fishing area: Minimally improved property that provides shore fishing access.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomv>*</edomv>
+<edomvd>An asterisk ( * ) after a code indicates coastal access for all facility types.</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SITEMAPSIZ</attrlabl>
+<attalias Sync="TRUE">SITEMAPSIZ</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<attrdef>Size of site map</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">PONDMAPNAM</attrlabl>
+<attalias Sync="TRUE">PONDMAPNAM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+<attrdef>Filename of pond map</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FISH_CODES</attrlabl>
+<attalias Sync="TRUE">FISH_CODES</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">32</attwidth>
+<attrdef>Fishing codes</attrdef>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>Trout</edomvd>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+</edom>
+</attrdomv>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Largemouth Bass</edomvd>
+<edomv>2</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Smallmouth Bass</edomvd>
+<edomv>3</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Northern Pike</edomvd>
+<edomv>4</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Tiger muskee</edomvd>
+<edomv>5</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>White perch</edomvd>
+<edomv>6</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Pickerel</edomvd>
+<edomv>7</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Black crappie</edomvd>
+<edomv>8</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Walleye</edomvd>
+<edomv>9</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Striped bass</edomvd>
+<edomv>10</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Bluefish</edomvd>
+<edomv>11</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Bonito</edomvd>
+<edomv>12</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>False albacore</edomvd>
+<edomv>13</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Tautog</edomvd>
+<edomv>14</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Fluke</edomvd>
+<edomv>15</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Cod</edomvd>
+<edomv>16</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomvd>Flounder</edomvd>
+<edomv>17</edomv>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game </edomvds>
+<edomv>18</edomv>
+<edomvd>Squeteague - weak fish</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SITEMAPNAM</attrlabl>
+<attalias Sync="TRUE">SITEMAPNAM</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">20</attwidth>
+<attrdef>Name of site map</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">COASTACCES</attrlabl>
+<attalias Sync="TRUE">COASTACCES</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<attrdef>Indicates Coastal Access</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FACILTYPE1</attrlabl>
+<attalias Sync="TRUE">FACILTYPE1</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdef>Type of facility</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>A</edomv>
+<edomvd>General access: Concrete boat ramp and parking for boat trailers.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>B</edomv>
+<edomvd>Fisherman Access: Small concrete ramp, concrete pad ramp system or gravel ramp designed for smaller boats and parking for boat trailers.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>C</edomv>
+<edomvd>Cartop Access:  Access to lakes, ponds and rivers for small boats, canoes and kayaks.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>D</edomv>
+<edomvd>Canoe access: Access to rivers most suitable for canoes and kayaks.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>E</edomv>
+<edomvd>Sport fishing pier: Pier that provides fishing area for recreational anglers - barrier free.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>F</edomv>
+<edomvd>Shore fishing area:minimally improved property that provides shore fishing access</edomvd>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FACILTYPE2</attrlabl>
+<attalias Sync="TRUE">FACILTYPE2</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdef>Type of Facility</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>A</edomv>
+<edomvd>General access:Concrete boat ramp and parking for boat trailers.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>B</edomv>
+<edomvd>Fisherman access:small concrete ramp, concrete pad ramp system or gravel ramp designed for smaller boats and parking for boat trailers.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>C</edomv>
+<edomvd>Cartop access: access to lakes, ponds and rivers for small boats, canoes and kayaks.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>D</edomv>
+<edomvd>Canoe access: access to rivers most suitable for canoes and kayaks.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>E</edomv>
+<edomvd>Sport fishing pier:pier that provides fishing area for recreational anglers - barrier free.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>F</edomv>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomvd>Shore fishing area: minimally improved property that provides shore fishing access.</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">BARRIERFRE</attrlabl>
+<attalias Sync="TRUE">BARRIERFRE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdef>Barrier free - No barrier to access for handicapped people</attrdef>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">FACILTYPE3</attrlabl>
+<attalias Sync="TRUE">FACILTYPE3</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">1</attwidth>
+<attrdefs>Massachusetts. Department of Fish and Game </attrdefs>
+<attrdef>Type of Facility</attrdef>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>A</edomv>
+<edomvd>General access: concrete boat ramp and parking for boat trailers.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>B</edomv>
+<edomvd>Fisherman access: small concrete ramp, concrete pad ramp system or gravel ramp designed for smaller boats and parking for boat trailers.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>C</edomv>
+<edomvd>Cartop access:access to lakes, ponds and rivers for small boats, canoes and kayaks.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>D</edomv>
+<edomvd>Canoe access: access to rivers most suitable for canoes and kayaks.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+<edomv>E</edomv>
+<edomvd>Sport fishing pier:pier that provides fishing area for recreational anglers - barrier free.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>F</edomv>
+<edomvd>Shore fishing area: minimally improved property that provides shore fishing access.</edomvd>
+<edomvds>Massachusetts. Department of Fish and Game</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">SHAPE</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20140522</mdDateSt>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc>Changed name of  file from OFBA_PT to MAFishBoatSites08</procdesc>
+<proccont>
+<cntinfo>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing and physical address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday,9:00 am- 5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdate>20131102</procdate>
+</procstep>
+<procstep>
+<procdesc Sync="TRUE">Dataset copied.</procdesc>
+<srcused Sync="TRUE">Server=sun420.env.state.ma.us; Service=esri_sde; User=massgis; Version=SDE.DEFAULT</srcused>
+<date Sync="TRUE">20090512</date>
+<time Sync="TRUE">15544300</time>
+</procstep>
+<srcinfo>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+</lineage>
+</dataqual>
+<Binary>
+<Thumbnail>
+<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKoaprWm6Ils+pXcdslzOtvE0mcNI2cD26Hk8
+UKNTgl1GaR4bqHAazt4k2OMLyrOWwSW6HAxQBforN0m81O8ErahpQsFCxmMfaBIzEoC4IAwNrEr1
+OcZrSoAKKKKACiiigAooooAKKKKAKmp211d2Dw2V81lcFlKzrGrkAMCRhgRyAR7ZqpZ6jqIOnW+p
+aW8d3cxu0z2rebBAVxgM52nnPHHXPpmtOWWOCF5ZZFjiRSzu5wFA5JJ7Cq+m6lZ6xp0GoafcLcWk
+67o5Vzhh070AW6KarozMqspZThgDyO/NOoAKqX51BUg/s5LZm89BN9oZgBFn5yuAfmx0zxVuqmnD
+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</Data>
+</Thumbnail>
+</Binary>
+</metadata>
