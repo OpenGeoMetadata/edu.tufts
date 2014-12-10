@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -90,7 +89,7 @@
 		<ptcontac>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Office of Interstate &amp;amp; Border Planning, HEPI-1 , US Department of Transportation, Federal Highway Administration</cntorg>
+					<cntorg>Office of Interstate &amp; Border Planning, HEPI-1 , US Department of Transportation, Federal Highway Administration</cntorg>
 					<cntper>Mr. Mark Sarmiento</cntper>
 				</cntorgp>
 				<cntaddr>
@@ -325,7 +324,7 @@ Creation of new LRS Routes.
 			<srcinfo>
 				<srccite>
 					<citeinfo>
-						<origin>Transport Modeling and GIS-T Application Group, Transportation &amp;amp; Space division, Battelle</origin>
+						<origin>Transport Modeling and GIS-T Application Group, Transportation &amp; Space division, Battelle</origin>
 						<title>Urban Area</title>
 					</citeinfo>
 				</srccite>
@@ -452,7 +451,7 @@ All the updates were made on this version of the NHPN
 				<procdate>20020730</procdate>
 			</procstep>
 			<procstep>
-				<procdesc>Conflation of NHPN V.4 RAT data to NHPN V 2002.10 arc and calibrate arc milepost LRS anchor information using R-TAG Interface developed by the Transport Modeling and GIS-T Applications Group, Transportation &amp;amp; Space division, Battelle, Columbus, Ohio.</procdesc>
+				<procdesc>Conflation of NHPN V.4 RAT data to NHPN V 2002.10 arc and calibrate arc milepost LRS anchor information using R-TAG Interface developed by the Transport Modeling and GIS-T Applications Group, Transportation &amp; Space division, Battelle, Columbus, Ohio.</procdesc>
 				<procdate>20020730</procdate>
 			</procstep>
 			<procstep>
@@ -631,7 +630,7 @@ All the updates were made on this version of the NHPN
 			<enttyp>
 				<enttypl Sync="TRUE">USHighways11</enttypl>
 				<enttypd>National Highway Planning Network</enttypd>
-				<enttypds>FHWA &amp;amp; RITA/BTS</enttypds>
+				<enttypds>FHWA &amp; RITA/BTS</enttypds>
 				<enttypt Sync="TRUE">Feature Class</enttypt>
 <enttypc Sync="TRUE">176231</enttypc>
 </enttyp>
@@ -1426,7 +1425,7 @@ All the updates were made on this version of the NHPN
 				<attrdomv>
 					<edom>
 						<edomv>12</edomv>
-						<edomvd>Urban Principal Arterial-Other Freeways &amp;amp; Expressways</edomvd>
+						<edomvd>Urban Principal Arterial-Other Freeways &amp; Expressways</edomvd>
 						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
 </edom>
 				</attrdomv>
@@ -1483,7 +1482,7 @@ All the updates were made on this version of the NHPN
 				<attrdomv>
 					<edom>
 						<edomv>3</edomv>
-						<edomvd>Large Urban (2000 pop &amp;gt;= 50,000)</edomvd>
+						<edomvd>Large Urban (2000 pop &gt;= 50,000)</edomvd>
 						<edomvds>Federal Highway Administration Resource Center (U.S.)</edomvds>
 </edom>
 				</attrdomv>
@@ -1873,7 +1872,7 @@ All the updates were made on this version of the NHPN
 				<digtopt>
 					<onlinopt>
 						<computer>
-							<networka/>
+							<networka />
 						</computer>
 						<accinstr>NTAD is available for download at www.bts.gov/programs/geographic_information_services.  The NTAD DVD can also be ordered from the online bookstore at www.bts.gov.</accinstr>
 					</onlinopt>
@@ -1888,7 +1887,7 @@ All the updates were made on this version of the NHPN
 				</digtopt>
 			</digform>
 			<fees>None</fees>
-			<ordering>Call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2011 DVD. This and other RITA/BTS products may be ordered from the RITA/BTS Internet site (&amp;lt;http://www.bts.gov/programs/geographic_information_services/&amp;gt;).</ordering>
+			<ordering>Call (202-366-DATA), or E-mail (answers@bts.gov) RITA/BTS to request the National Transportation Atlas Databases (NTAD) 2011 DVD. This and other RITA/BTS products may be ordered from the RITA/BTS Internet site (&lt;http://www.bts.gov/programs/geographic_information_services/&gt;).</ordering>
 		</stdorder>
 		<availabl>
 			<timeinfo>
@@ -1949,16 +1948,16 @@ All the updates were made on this version of the NHPN
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USHighways11</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1980,15 +1979,15 @@ All the updates were made on this version of the NHPN
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -2016,11 +2015,11 @@ All the updates were made on this version of the NHPN
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USHighways11">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">176231</geoObjCnt>
 </geometObjs>

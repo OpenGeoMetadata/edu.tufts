@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -205,7 +204,7 @@ Safety Program
 							<pubplace>Alexandria, VA</pubplace>
 							<publish>U.S. Army Corps of Engineers</publish>
 						</pubinfo>
-						<onlink>&amp;lt;http://crunch.tec.army.mil/nid/webpages/nid.cfm&amp;gt;</onlink>
+						<onlink>&lt;http://crunch.tec.army.mil/nid/webpages/nid.cfm&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<typesrc>online</typesrc>
@@ -232,7 +231,7 @@ Safety Program
 							<pubplace>Reston, VA</pubplace>
 							<publish>National Atlas of the United States</publish>
 						</pubinfo>
-						<onlink>&amp;lt;http://nationalatlas.gov/atlasftp.html?openChapters=chpbound#chpbound&amp;gt;</onlink>
+						<onlink>&lt;http://nationalatlas.gov/atlasftp.html?openChapters=chpbound#chpbound&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<typesrc>Online</typesrc>
@@ -463,7 +462,7 @@ name, the popular name is used.
 				<attrdefs>United States. Army. Corps of Engineers. </attrdefs>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>
 The name of the dam is not provided in the National Inventory of
 Dams.
@@ -486,7 +485,7 @@ of the dam.  Names are separated with semicolons.
 				<attrdefs>United States. Army. Corps of Engineers. </attrdefs>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>
 There are no other names for the dam, or the other names are
 unknown.
@@ -564,7 +563,7 @@ a semicolon.
 				<attrdefs>Geological Survey (U.S.)</attrdefs>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>
 The name of the county is not provided in the National Inventory of
 Dams.
@@ -589,7 +588,7 @@ is entered plus "-OS" or "OFFSTREAM".
 				<attrdefs>United States. Army. Corps of Engineers. </attrdefs>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>
 The name of the river is not provided in the National Inventory of
 Dams.
@@ -612,7 +611,7 @@ affected by floods resulting from the failure of the dam.
 				<attrdefs>United States. Army. Corps of Engineers. </attrdefs>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>
 The name of the city is not provided in the National Inventory of
 Dams.
@@ -632,7 +631,7 @@ Dams.
 				<attrdefs>United States. Army. Corps of Engineers. </attrdefs>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>
 The name of the owner is not provided in the National Inventory of
 Dams.
@@ -652,7 +651,7 @@ Dams.
 				<attrdefs>United States. Army. Corps of Engineers. </attrdefs>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>The owner type is unknown.</edomvd>
 						<edomvds>Geological Survey (U.S.)</edomvds>
 					</edom>
@@ -704,7 +703,7 @@ example, CNCB would indicate a concrete buttress type dam.
 				<attrdefs>United States. Army. Corps of Engineers. </attrdefs>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>The dam type is unknown.</edomvd>
 						<edomvds>United States. Army. Corps of Engineers. </edomvds>
 					</edom>
@@ -783,7 +782,7 @@ instead of the appropriate codes; these have been retained.
 				<attrdefs>United States. Army. Corps of Engineers. </attrdefs>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>
 The purpose of the dam is not provided in the National Inventory of
 Dams.
@@ -1064,7 +1063,7 @@ represent the true primary purpose of the dam.
 				<attrdefs>Geological Survey (U.S.)</attrdefs>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>The dam has an unknown purpose.</edomvd>
 						<edomvds>Geological Survey (U.S.)</edomvds>
 					</edom>
@@ -1178,7 +1177,7 @@ data.
 					<onlinopt>
 						<computer>
 							<networka>
-								<networkr>&amp;lt;http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater&amp;gt;</networkr>
+								<networkr>&lt;http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater&gt;</networkr>
 							</networka>
 						</computer>
 					</onlinopt>
@@ -1194,7 +1193,7 @@ data.
 					<onlinopt>
 						<computer>
 							<networka>
-								<networkr>&amp;lt;http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater&amp;gt;</networkr>
+								<networkr>&lt;http://nationalatlas.gov/atlasftp.html?openChapters=chpwater#chpwater&gt;</networkr>
 							</networka>
 						</computer>
 					</onlinopt>
@@ -1224,7 +1223,7 @@ data.
 				<cntemail>atlasmail@usgs.gov</cntemail>
 				<cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
 <cntinst>In addition to the address above there are other Earth Science Information Center (U.S. Geological Survey) offices throughout the country.  A full list of these offices is at
-&amp;lt;http://ask.usgs.gov/esic_index.html&amp;gt;.</cntinst>
+&lt;http://ask.usgs.gov/esic_index.html&gt;.</cntinst>
 </cntinfo>
 		</metc>
 		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
@@ -1254,16 +1253,16 @@ data.
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USDams0204</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1285,15 +1284,15 @@ data.
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -1321,11 +1320,11 @@ data.
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USDams0204">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">8121</geoObjCnt>
 </geometObjs>

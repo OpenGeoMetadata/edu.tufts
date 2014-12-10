@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -129,7 +128,7 @@
 					<pubplace>Washington DC</pubplace>
 					<publish>Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)</publish>
 				</pubinfo>
-				<onlink>&amp;lt;http://www.bts.gov/programs/geographic_information_services/&amp;gt;</onlink>
+				<onlink>&lt;http://www.bts.gov/programs/geographic_information_services/&gt;</onlink>
 				<lworkcit>
 					<citeinfo>
 						<pubinfo>
@@ -190,17 +189,17 @@
 			</procstep>
 			<procstep>
 				<procdesc>In order to meet Tufts University's metadata standards:
-&amp;gt;Changed citatition title from "ports" to "Ports USA 2011"
-&amp;gt;Changed originators/publishers from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" and "US Army Corps of Engineers (USACE)" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services" and "United States. Army. Corps of Engineers"
-&amp;gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
-&amp;gt;Added ISO 19115 Topic Category keywords
-&amp;gt;Added LCSH theme keywords
-&amp;gt;Added GNS place keywords
-&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
-&amp;gt;Changed publication place to reflect LCNH formatting
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Changed name of file from "ports" to "USAPorts11"
-&amp;gt;Exported metadata</procdesc>
+&gt;Changed citatition title from "ports" to "Ports USA 2011"
+&gt;Changed originators/publishers from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" and "US Army Corps of Engineers (USACE)" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services" and "United States. Army. Corps of Engineers"
+&gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
+&gt;Added ISO 19115 Topic Category keywords
+&gt;Added LCSH theme keywords
+&gt;Added GNS place keywords
+&gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&gt;Changed publication place to reflect LCNH formatting
+&gt;Replaced Tufts as the distributor
+&gt;Changed name of file from "ports" to "USAPorts11"
+&gt;Exported metadata</procdesc>
 				<procdate>20111129</procdate>
 				<proccont>
 					<cntinfo>
@@ -935,16 +934,16 @@ USAports11</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USAPorts11</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -966,15 +965,15 @@ USAports11</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -1002,11 +1001,11 @@ USAports11</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USAPorts11">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">9636</geoObjCnt>
 </geometObjs>

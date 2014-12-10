@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -380,17 +379,17 @@
 				<proctime>11165700</proctime>
 			</procstep>
 			<procstep>
-				<procdesc>&amp;gt;Changed citation title from "EPA Region 1 Environmentally Sensitive Areas" to "Environmentally Sensitive Areas New England 1998"
-&amp;gt;Changed name of file from "ESA_polys_r24" to "NewEngESAs98"
-&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
-&amp;gt;Substituted "United States. Environmental Protection Agency. Region I" for "US Environmental Protection Agency" as the originator
-&amp;gt;Added Larger Work Citation, removed non-larger work citation publisher
-&amp;gt;changed geospatial data presentation from "map" to "vector digital data"
-&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
-&amp;gt;Added LCSH theme keywords
-&amp;gt;Added GNIS place keywords
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Exported metadata</procdesc>
+				<procdesc>&gt;Changed citation title from "EPA Region 1 Environmentally Sensitive Areas" to "Environmentally Sensitive Areas New England 1998"
+&gt;Changed name of file from "ESA_polys_r24" to "NewEngESAs98"
+&gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&gt;Substituted "United States. Environmental Protection Agency. Region I" for "US Environmental Protection Agency" as the originator
+&gt;Added Larger Work Citation, removed non-larger work citation publisher
+&gt;changed geospatial data presentation from "map" to "vector digital data"
+&gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&gt;Added LCSH theme keywords
+&gt;Added GNIS place keywords
+&gt;Replaced Tufts as the distributor
+&gt;Exported metadata</procdesc>
 				<procdate>20130322</procdate>
 				<proccont>
 					<cntinfo>
@@ -674,16 +673,16 @@ ESA_polys_r24</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NewEngESAs98</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -705,15 +704,15 @@ ESA_polys_r24</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -741,11 +740,11 @@ ESA_polys_r24</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NewEngESAs98">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">4194</geoObjCnt>
 </geometObjs>

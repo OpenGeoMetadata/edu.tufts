@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="windows-1252" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -20,7 +19,7 @@
 <title>NH GRANIT Database</title>
 <origin>New Hampshire Department of Environmental Services</origin>
 <pubdate>2006</pubdate>
-<onlink>http://www.granit.sr.unh.edu/data/search?dset=communitycenterareas&amp;amp;#47;nh</onlink>
+<onlink>http://www.granit.sr.unh.edu/data/search?dset=communitycenterareas&amp;#47;nh</onlink>
 <pubinfo>
 <pubplace>Durham (N.H.)</pubplace>
 <publish>NH GRANIT (Firm)</publish>
@@ -160,7 +159,7 @@ The individual towns within the region were sent a copy of the printed map of th
 			<procstep>
 				<procdesc>
 Strafford Regional Planning Commission (SRPC)
-Originally SRPC staff/volunteers delineated the community center areas from 1998 USGS Ortho &amp;amp; Topo Quadrangles. When available, digital municipal tax parcel data was overlaid on top of the Ortho &amp;amp; Topo Quads for assistance in the delineation. GIS staff heads-up digitized the delineated boundaries of the community center areas.  In addition to the hand delineations GIS staff used Historic Digital USGS Topo Maps of New England (archived at the UNH Diamond Library) http://docs.unh.edu/nhtopos/nhtopos.htm to delineate Post World War II neighborhoods. The Historic Topo Maps were georeferenced to municipal boundaries for use in updating the community center areas.
+Originally SRPC staff/volunteers delineated the community center areas from 1998 USGS Ortho &amp; Topo Quadrangles. When available, digital municipal tax parcel data was overlaid on top of the Ortho &amp; Topo Quads for assistance in the delineation. GIS staff heads-up digitized the delineated boundaries of the community center areas.  In addition to the hand delineations GIS staff used Historic Digital USGS Topo Maps of New England (archived at the UNH Diamond Library) http://docs.unh.edu/nhtopos/nhtopos.htm to delineate Post World War II neighborhoods. The Historic Topo Maps were georeferenced to municipal boundaries for use in updating the community center areas.
 </procdesc>
 				<procdate>20060401</procdate>
 			</procstep>
@@ -603,16 +602,16 @@ This shapefile metadata was edited for clarity and keywords were added per Tufts
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NHCommunityCenterAreas06</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -634,15 +633,15 @@ This shapefile metadata was edited for clarity and keywords were added per Tufts
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -670,11 +669,11 @@ This shapefile metadata was edited for clarity and keywords were added per Tufts
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NHCommunityCenterAreas06">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">314</geoObjCnt>
 </geometObjs>

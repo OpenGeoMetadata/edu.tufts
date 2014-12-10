@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -407,8 +406,8 @@
 <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
 </metextns>
 </metainfo>
-	<lineage/>
-	<lineage/>
+	<lineage />
+	<lineage />
 	<Esri>
 <MetaID>{CAC16222-0A03-45D7-819D-4D9057FC2704}</MetaID>
 <CreaDate>20121025</CreaDate>
@@ -427,12 +426,12 @@
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">RussiaIntrusiveBodies98</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <dataExt>
@@ -454,19 +453,19 @@
 <exTypeCode Sync="TRUE">1</exTypeCode>
 </geoBox>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -494,11 +493,11 @@
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="RussiaIntrusiveBodies98">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">0</geoObjCnt>
 </geometObjs>

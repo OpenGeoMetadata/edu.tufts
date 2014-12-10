@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -125,9 +124,9 @@
 				<procdesc>Changed name from geo_region.acoustic to RussiaAcousticBasement98
 
 This data layer was created by completing the following changed to the original tiled data:
-&amp;gt;Merged all geo_region.acoustic coverages to create one file for all of Russia
-&amp;gt;Collapsed repeating auto-generated fields
-&amp;gt;Preserved original feature ID, and all other attributes</procdesc>
+&gt;Merged all geo_region.acoustic coverages to create one file for all of Russia
+&gt;Collapsed repeating auto-generated fields
+&gt;Preserved original feature ID, and all other attributes</procdesc>
 				<procdate>20120228</procdate>
 				<proccont>
 					<cntinfo>
@@ -347,16 +346,16 @@ RussiaDiaphthoriteRock98</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">RussiaDiaphthoriteRock98</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -378,15 +377,15 @@ RussiaDiaphthoriteRock98</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -414,11 +413,11 @@ RussiaDiaphthoriteRock98</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="RussiaDiaphthoriteRock98">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">2</geoObjCnt>
 </geometObjs>

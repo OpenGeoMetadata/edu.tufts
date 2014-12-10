@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 <Esri>
 <CreaDate>20080201</CreaDate>
 <CreaTime>13045400</CreaTime>
@@ -30,10 +29,10 @@
 <type Sync="TRUE">Projected</type>
 <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
 <projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
-<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;LatestWKID&amp;gt;26986&amp;lt;/LatestWKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,200000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,750000.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-71.5],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,41.71666666666667],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,42.68333333333333],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,41.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26986]]&lt;/WKT&gt;&lt;XOrigin&gt;-36530900&lt;/XOrigin&gt;&lt;YOrigin&gt;-28803200&lt;/YOrigin&gt;&lt;XYScale&gt;122610652.81195112&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26986&lt;/WKID&gt;&lt;LatestWKID&gt;26986&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
 <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
 </coordRef>
-<lineage/>
+<lineage />
 </DataProperties>
 <ArcGISProfile>FGDC</ArcGISProfile>
 <ArcGISFormat>1.0</ArcGISFormat>
@@ -156,17 +155,17 @@
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" country="USA" value="en"/>
-<countryCode value="eng"/>
+<languageCode Sync="TRUE" country="USA" value="en" />
+<countryCode value="eng" />
 </dataLang>
 <idCitation>
 <resTitle Sync="FALSE">Protected and Recreational OpenSpace (Boundaries)</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -194,15 +193,15 @@
 <exTypeCode Sync="TRUE">1</exTypeCode>
 </geoBox>
 <descKeys>
-<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66" />
 <keyword Sync="TRUE">002</keyword>
 </descKeys>
 <otherKeys>
-<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66" />
 <keyword>002</keyword>
 </otherKeys>
 <idPurp>Planning and analysis</idPurp>
-<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;The MassGIS Protected and Recreational OpenSpace data comprise a set of related data layers that represent parklands, forests, golf courses, playgrounds, wildlife sanctuaries, conservation lands, water supply areas, cemeteries, school ball fields, and other open land that may be classified as protected and/or recreational in use. Not all lands in this layer are protected in perpetuity, though nearly all have at least some level of protection. The layer includes lands owned by the state, cities and towns, federal agencies, and private and non-profit entities. The OpenSpace layer includes two feature classes: * OPENSPACE_POLY - polygons of recreational and conservation lands as described above * OPENSPACE_ARC - attributed lines that represent boundaries of the polygons These feature classes are stored in a feature dataset named OPENSPACE that includes ArcGIS geodatabase topology.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;The MassGIS Protected and Recreational OpenSpace data comprise a set of related data layers that represent parklands, forests, golf courses, playgrounds, wildlife sanctuaries, conservation lands, water supply areas, cemeteries, school ball fields, and other open land that may be classified as protected and/or recreational in use. Not all lands in this layer are protected in perpetuity, though nearly all have at least some level of protection. The layer includes lands owned by the state, cities and towns, federal agencies, and private and non-profit entities. The OpenSpace layer includes two feature classes: * OPENSPACE_POLY - polygons of recreational and conservation lands as described above * OPENSPACE_ARC - attributed lines that represent boundaries of the polygons These feature classes are stored in a feature dataset named OPENSPACE that includes ArcGIS geodatabase topology.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
 <searchKeys>
 <keyword>open space</keyword>
 <keyword>conservation</keyword>
@@ -211,25 +210,25 @@
 </searchKeys>
 <resConst>
 <Consts>
-<useLimit>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;These data are very useful for most statewide and regional planning purposes. However, they are not a legal record of ownership, and the user should understand that parcel representations are generally not based on property surveys.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</useLimit>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;These data are very useful for most statewide and regional planning purposes. However, they are not a legal record of ownership, and the user should understand that parcel representations are generally not based on property surveys.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
 </Consts>
 </resConst>
 <dataChar>
-<CharSetCd value="004"/>
+<CharSetCd value="004" />
 </dataChar>
 <resMaint>
 <maintFreq>
-<MaintFreqCd value="009"/>
+<MaintFreqCd value="009" />
 </maintFreq>
 <maintScp>
-<ScopeCd value="005"/>
+<ScopeCd value="005" />
 </maintScp>
 </resMaint>
 <idCredit>MassGIS, Executive Office of Energy and Environmental Affairs</idCredit>
 <idPoC>
 <rpIndName>Ben Smith</rpIndName>
 <rpOrgName>Executive Office of Energy and Environmental Affairs</rpOrgName>
-<rpPosName>GIS Analyst / DBA, Protected &amp;amp; Recreational Open Space Program</rpPosName>
+<rpPosName>GIS Analyst / DBA, Protected &amp; Recreational Open Space Program</rpPosName>
 <rpCntInfo>
 <cntAddress>
 <delPoint>251 Causeway Street, 5th Floor</delPoint>
@@ -243,7 +242,7 @@
 <linkage>http://www.mass.gov/itd/osp</linkage>
 <orDesc>OpenSpace Web Metadata</orDesc>
 <orFunct>
-<OnFunctCd value="002"/>
+<OnFunctCd value="002" />
 </orFunct>
 </cntOnlineRes>
 <cntPhone>
@@ -252,11 +251,11 @@
 </cntPhone>
 </rpCntInfo>
 <role>
-<RoleCd value="002"/>
+<RoleCd value="002" />
 </role>
 </idPoC>
 <tpCat>
-<TopicCatCd value="007"/>
+<TopicCatCd value="007" />
 </tpCat>
 </dataIdInfo>
 <metainfo>
@@ -295,16 +294,16 @@
 </metextns>
 </metainfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
-<countryCode Sync="TRUE" value="USA"/>
+<languageCode Sync="TRUE" value="en" />
+<countryCode Sync="TRUE" value="USA" />
 </mdLang>
 <mdStanName>ArcGIS Metadata</mdStanName>
 <mdStanVer>1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distinfo>
@@ -352,7 +351,7 @@
 <linkage>http://www.mass.gov/itd/osp</linkage>
 <orName>MassGIS OpenSpace Datalayer Web page</orName>
 <orFunct>
-<OnFunctCd value="001"/>
+<OnFunctCd value="001" />
 </orFunct>
 </cntOnlineRes>
 <cntAddress>
@@ -367,7 +366,7 @@
 </cntPhone>
 </rpCntInfo>
 <role>
-<RoleCd value="005"/>
+<RoleCd value="005" />
 </role>
 </distorCont>
 <distorTran>
@@ -459,11 +458,11 @@
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="MAOpenSpace9412">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">181742</geoObjCnt>
 </geometObjs>
@@ -1248,10 +1247,10 @@ XSoPliui/rUzilJXZ//Z</Data>
 </Binary>
 <mdMaint>
 <maintFreq>
-<MaintFreqCd value="001"/>
+<MaintFreqCd value="001" />
 </maintFreq>
 <maintScp>
-<ScopeCd value="005"/>
+<ScopeCd value="005" />
 </maintScp>
 </mdMaint>
 </metadata>

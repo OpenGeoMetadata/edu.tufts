@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 <Esri>
 <CreaDate>20100923</CreaDate>
 <CreaTime>17144100</CreaTime>
@@ -29,7 +27,7 @@
 Related data: 
 
 PAWS:
-PAWS is a polygon shapefile of publicly accessible waterfront spaces in NYC containing jurisdictional and construction status information. The majority of these spaces were constructed in conjunction with private waterfront developments, pursuant to the NYC Zoning Resolution.  This feature class also includes spaces that are under construction (in progress), or have been approved through ULURP (Uniform Land Use Review Procedure) but construction of the waterfront spaces has not commenced.  The publicly owned spaces in this database do not include parks or open spaces under the jurisdiction of NYC Department of Parks and Recreation, NYS Office of Parks, Recreation &amp;amp; Historic Preservation, or the National Park Service. This shapefile was created by the New York City Department of City Planning and is located on their website (www.nyc.gov/dcp) in the BYTES of the Big Apple section.
+PAWS is a polygon shapefile of publicly accessible waterfront spaces in NYC containing jurisdictional and construction status information. The majority of these spaces were constructed in conjunction with private waterfront developments, pursuant to the NYC Zoning Resolution.  This feature class also includes spaces that are under construction (in progress), or have been approved through ULURP (Uniform Land Use Review Procedure) but construction of the waterfront spaces has not commenced.  The publicly owned spaces in this database do not include parks or open spaces under the jurisdiction of NYC Department of Parks and Recreation, NYS Office of Parks, Recreation &amp; Historic Preservation, or the National Park Service. This shapefile was created by the New York City Department of City Planning and is located on their website (www.nyc.gov/dcp) in the BYTES of the Big Apple section.
 
 Publicly Accessible Waterfront Spaces Database: 
 This database contains information about publicly accessible waterfront spaces in NYC. The database can be joined to the NYC_PAWS shapefile on the PAWS_ID field. The database includes many additional attribute fields and provides more detailed information on each publicly accessible waterfront space. This database was created by the New York City Department of City Planning and is located on their website (www.nyc.gov/dcp) in the BYTES of the Big Apple section.
@@ -153,16 +151,16 @@ Data providing the location, type and capacity of public and private community f
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NYCWaterfrontParks13</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -215,15 +213,15 @@ Data providing the location, type and capacity of public and private community f
 </metextns>
 </metainfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distinfo>
@@ -334,11 +332,11 @@ Data providing the location, type and capacity of public and private community f
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NYCWaterfrontParks13">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">186</geoObjCnt>
 </geometObjs>

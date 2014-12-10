@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -202,7 +201,7 @@
 <cntinfo>
 <cntorgp>
 <cntorg>Tufts University GIS Center</cntorg>
-<cntper/>
+<cntper />
 </cntorgp>
 <cntpos>Data Technician</cntpos>
 <cntaddr>
@@ -289,17 +288,17 @@
 <dataIdInfo>
 <envirDesc>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.1.3143</envirDesc>
 <dataLang>
-<languageCode value="eng"/>
-<countryCode value="USA"/>
+<languageCode value="eng" />
+<countryCode value="USA" />
 </dataLang>
 <idCitation>
 <resTitle>ArlingtonRecFac12</resTitle>
 <presForm>
-<PresFormCd value="005"/>
+<PresFormCd value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd value="001"/>
+<SpatRepTypCd value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -321,8 +320,8 @@
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode value="eng"/>
-<countryCode value="USA"/>
+<languageCode value="eng" />
+<countryCode value="USA" />
 </mdLang>
 <distInfo>
 <distFormat>
@@ -346,13 +345,13 @@
 </distributor>
 </distInfo>
 <mdHrLv>
-<ScopeCd value="005"/>
+<ScopeCd value="005" />
 </mdHrLv>
 <mdHrLvName>dataset</mdHrLvName>
 <refSysInfo>
 <RefSystem>
 <refSysID>
-<identCode code="26986"/>
+<identCode code="26986" />
 <idCodeSpace>EPSG</idCodeSpace>
 <idVersion>7.11.2</idVersion>
 </refSysID>
@@ -362,12 +361,12 @@
 <VectSpatRep>
 <geometObjs>
 <geoObjTyp>
-<GeoObjTypCd value="004"/>
+<GeoObjTypCd value="004" />
 </geoObjTyp>
 <geoObjCnt>0</geoObjCnt>
 </geometObjs>
 <topLvl>
-<TopoLevCd value="001"/>
+<TopoLevCd value="001" />
 </topLvl>
 </VectSpatRep>
 </spatRepInfo>
@@ -391,7 +390,7 @@
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <spref>
 <horizsys>

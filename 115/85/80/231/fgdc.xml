@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 <Esri>
 <CreaDate>20130819</CreaDate>
 <CreaTime>16203500</CreaTime>
@@ -18,13 +17,13 @@
 <imsContentType Sync="TRUE">002</imsContentType>
 <itemSize Sync="TRUE">0.000</itemSize>
 </itemProps>
-<lineage/>
+<lineage />
 <coordRef>
 <type Sync="TRUE">Projected</type>
 <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
 <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
 <projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
-<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;LatestWKID&amp;gt;26986&amp;lt;/LatestWKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,200000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,750000.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-71.5],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,41.71666666666667],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,42.68333333333333],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,41.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26986]]&lt;/WKT&gt;&lt;XOrigin&gt;-36530900&lt;/XOrigin&gt;&lt;YOrigin&gt;-28803200&lt;/YOrigin&gt;&lt;XYScale&gt;122610652.81195112&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26986&lt;/WKID&gt;&lt;LatestWKID&gt;26986&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
 </coordRef>
 </DataProperties>
 <ArcGISFormat>1.0</ArcGISFormat>
@@ -132,13 +131,13 @@
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="FALSE" value="eng"/>
-<countryCode Sync="TRUE" value="USA"/>
+<languageCode Sync="FALSE" value="eng" />
+<countryCode Sync="TRUE" value="USA" />
 </dataLang>
 <idCitation>
 <resTitle Sync="FALSE">Geographic Response Plan Tactics (GRP_Tactics)</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 <date>
 <pubDate>2013-07-31T00:00:00</pubDate>
@@ -148,7 +147,7 @@
 <rpOrgName>MassDEP</rpOrgName>
 <rpPosName>GIS Program Manager</rpPosName>
 <role>
-<RoleCd value="006"/>
+<RoleCd value="006" />
 </role>
 <rpCntInfo>
 <cntAddress addressType="both">
@@ -184,13 +183,13 @@
 <exTypeCode Sync="TRUE">1</exTypeCode>
 </geoBox>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <idPurp>The Geographic Response Plan Tactics layer (GRP_Tactics) contains point locations for tactics to be used in response to marine oil spills.</idPurp>
-<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;Developed under contract with MassDEP by Nuka planning and research, Geographic Response Plans (GRP) are pre-arranged plans for what equipment and tactics should be deployed where to contain a marine oil spill. The GRP_Tactics layer provides the physical locations where tactics are to be applied in reponse to a marine oil spill.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Developed under contract with MassDEP by Nuka planning and research, Geographic Response Plans (GRP) are pre-arranged plans for what equipment and tactics should be deployed where to contain a marine oil spill. The GRP_Tactics layer provides the physical locations where tactics are to be applied in reponse to a marine oil spill.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
 <resConst>
 <Consts>
-<useLimit>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;None&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</useLimit>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;None&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
 </Consts>
 </resConst>
 <searchKeys>
@@ -199,23 +198,23 @@
 <keyword>Oil Spill</keyword>
 <keyword>Tactics</keyword>
 </searchKeys>
-<idCredit>Nuka Research &amp;amp; Planning Group, LLC.</idCredit>
+<idCredit>Nuka Research &amp; Planning Group, LLC.</idCredit>
 <dataChar>
-<CharSetCd value="004"/>
+<CharSetCd value="004" />
 </dataChar>
 <idStatus>
-<ProgCd value="001"/>
+<ProgCd value="001" />
 </idStatus>
 <resMaint>
 <maintFreq>
-<MaintFreqCd value="009"/>
+<MaintFreqCd value="009" />
 </maintFreq>
 <maintCont>
 <rpIndName>Brian Brodeur</rpIndName>
 <rpOrgName>MassDEP</rpOrgName>
 <rpPosName>GIS Program Manager</rpPosName>
 <role>
-<RoleCd value="006"/>
+<RoleCd value="006" />
 </role>
 <rpCntInfo>
 <cntAddress addressType="both">
@@ -238,7 +237,7 @@
 <rpOrgName>Massachusetts Office of Geographic Information (MassGIS)</rpOrgName>
 <rpPosName>GeoDatabase Administrator</rpPosName>
 <role>
-<RoleCd value="001"/>
+<RoleCd value="001" />
 </role>
 <rpCntInfo>
 <cntAddress addressType="both">
@@ -262,7 +261,7 @@
 <rpOrgName>MassDEP</rpOrgName>
 <rpPosName>GIS Program Manager</rpPosName>
 <role>
-<RoleCd value="006"/>
+<RoleCd value="006" />
 </role>
 <rpCntInfo>
 <cntAddress addressType="both">
@@ -312,16 +311,16 @@
 </metextns>
 </metainfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
-<countryCode Sync="TRUE" value="USA"/>
+<languageCode Sync="TRUE" value="en" />
+<countryCode Sync="TRUE" value="USA" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distinfo>
@@ -366,7 +365,7 @@
 <rpOrgName>Massachusetts Office of Geographic Information (MassGIS)</rpOrgName>
 <rpPosName>GeoDatabase Administrator</rpPosName>
 <role>
-<RoleCd value="001"/>
+<RoleCd value="001" />
 </role>
 <rpCntInfo>
 <cntAddress addressType="both">
@@ -468,11 +467,11 @@
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="MAGRPTactics13">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">1248</geoObjCnt>
 </geometObjs>
@@ -713,7 +712,7 @@
 </dataqual>
 <mdMaint>
 <maintFreq>
-<MaintFreqCd value="009"/>
+<MaintFreqCd value="009" />
 </maintFreq>
 </mdMaint>
 <mdContact>
@@ -721,7 +720,7 @@
 <rpOrgName>Massachusetts Office of Geographic Information (MassGIS)</rpOrgName>
 <rpPosName>GeoDatabase Administrator</rpPosName>
 <role>
-<RoleCd value="005"/>
+<RoleCd value="005" />
 </role>
 <rpCntInfo>
 <cntAddress addressType="both">
@@ -745,7 +744,7 @@
 <rpOrgName>MassDEP</rpOrgName>
 <rpPosName>GIS Program Manager</rpPosName>
 <role>
-<RoleCd value="006"/>
+<RoleCd value="006" />
 </role>
 <rpCntInfo>
 <cntAddress addressType="both">

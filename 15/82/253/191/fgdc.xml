@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -121,9 +120,9 @@
 				<procdesc>Changed name from hln_arc to RussiaHypsographyLine98
 
 This data layer was created by completing the following changed to the original tiled data:
-&amp;gt;Merged all geo_region.acoustic coverages to create one file for all of Russia
-&amp;gt;Collapsed repeating auto-generated fields
-&amp;gt;Preserved original feature ID, and all other attributes</procdesc>
+&gt;Merged all geo_region.acoustic coverages to create one file for all of Russia
+&gt;Collapsed repeating auto-generated fields
+&gt;Preserved original feature ID, and all other attributes</procdesc>
 				<procdate>20120228</procdate>
 				<proccont>
 					<cntinfo>
@@ -396,9 +395,9 @@ This data layer was created by completing the following changed to the original 
 <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
 </metextns>
 </metainfo>
-	<lineage/>
-	<lineage/>
-	<lineage/>
+	<lineage />
+	<lineage />
+	<lineage />
 	<Esri>
 <MetaID>{C797A16B-B725-4FF2-A55D-014D6ED62BDC}</MetaID>
 <CreaDate>20130228</CreaDate>
@@ -412,16 +411,16 @@ This data layer was created by completing the following changed to the original 
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">RussiaHypsographyLine98</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -443,15 +442,15 @@ This data layer was created by completing the following changed to the original 
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -479,11 +478,11 @@ This data layer was created by completing the following changed to the original 
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="RussiaHypsographyLine98">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">108318</geoObjCnt>
 </geometObjs>

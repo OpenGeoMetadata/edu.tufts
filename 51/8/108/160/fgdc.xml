@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -1143,7 +1142,7 @@ MapPLUTO</enttypl>
 				<attrdomv>
 					<edom>
 						<edomv>M1-1/R5 - M1-6/R10</edomv>
-						<edomvd>Mixed Manufacturing &amp;amp; Residential Districts</edomvd>
+						<edomvd>Mixed Manufacturing &amp; Residential Districts</edomvd>
 						<edomvds>New York (N.Y.). Dept. of City Planning</edomvds>
 					</edom>
 				</attrdomv>
@@ -1211,7 +1210,7 @@ MapPLUTO</enttypl>
 				<attrdomv>
 					<edom>
 						<edomv>AA</edomv>
-						<edomvd>Atlantic Avenue District (Eliminated &amp;amp; replaced by Downtown Brooklyn District)</edomvd>
+						<edomvd>Atlantic Avenue District (Eliminated &amp; replaced by Downtown Brooklyn District)</edomvd>
 					</edom>
 					<edom>
 						<edomv>BPC</edomv>
@@ -1243,11 +1242,11 @@ MapPLUTO</enttypl>
 					</edom>
 					<edom>
 						<edomv>F</edomv>
-						<edomvd>Fifth Avenue District (Eliminated &amp;amp; replaced by Midtown District)</edomvd>
+						<edomvd>Fifth Avenue District (Eliminated &amp; replaced by Midtown District)</edomvd>
 					</edom>
 					<edom>
 						<edomv>FM</edomv>
-						<edomvd>Fulton Mall District (Eliminated &amp;amp; replaced by Downtown Brooklyn District)</edomvd>
+						<edomvd>Fulton Mall District (Eliminated &amp; replaced by Downtown Brooklyn District)</edomvd>
 					</edom>
 					<edom>
 						<edomv>GC</edomv>
@@ -1259,7 +1258,7 @@ MapPLUTO</enttypl>
 					</edom>
 					<edom>
 						<edomv>G</edomv>
-						<edomvd>Greenwich Street Development District (Eliminated &amp;amp; replaced by Lower Manhattan District)</edomvd>
+						<edomvd>Greenwich Street Development District (Eliminated &amp; replaced by Lower Manhattan District)</edomvd>
 					</edom>
 					<edom>
 						<edomv>HS</edomv>
@@ -1271,7 +1270,7 @@ MapPLUTO</enttypl>
 					</edom>
 					<edom>
 						<edomv>HP</edomv>
-						<edomvd>Hunters Point Mixed Use District (Eliminated &amp;amp; replaced by Long Island City Mixed Use District)</edomvd>
+						<edomvd>Hunters Point Mixed Use District (Eliminated &amp; replaced by Long Island City Mixed Use District)</edomvd>
 					</edom>
 					<edom>
 						<edomv>LC</edomv>
@@ -1323,7 +1322,7 @@ MapPLUTO</enttypl>
 					</edom>
 					<edom>
 						<edomv>MLD</edomv>
-						<edomvd>Manhattan Landing District (Eliminated &amp;amp; replaced by Lower Manhattan District)</edomvd>
+						<edomvd>Manhattan Landing District (Eliminated &amp; replaced by Lower Manhattan District)</edomvd>
 					</edom>
 					<edom>
 						<edomv>MID</edomv>
@@ -1411,11 +1410,11 @@ MapPLUTO</enttypl>
 					</edom>
 					<edom>
 						<edomv>S</edomv>
-						<edomvd>South Street Seaport District (Eliminated &amp;amp; replaced by Lower Manhattan District)</edomvd>
+						<edomvd>South Street Seaport District (Eliminated &amp; replaced by Lower Manhattan District)</edomvd>
 					</edom>
 					<edom>
 						<edomv>T</edomv>
-						<edomvd>Theater District (Eliminated &amp;amp; replaced by Midtown District)</edomvd>
+						<edomvd>Theater District (Eliminated &amp; replaced by Midtown District)</edomvd>
 					</edom>
 					<edom>
 						<edomv>TA</edomv>
@@ -1586,7 +1585,7 @@ MapPLUTO</enttypl>
 					</edom>
 					<edom>
 						<edomv>A9</edomv>
-						<edomvd>Miscellaneous (Old Buildings, Attached &amp;amp; Semi-Detached Frame Houses)</edomvd>
+						<edomvd>Miscellaneous (Old Buildings, Attached &amp; Semi-Detached Frame Houses)</edomvd>
 						<edomvds>New York (N.Y.). Dept. of City Planning</edomvds>
 					</edom>
 					<edom>
@@ -2141,12 +2140,12 @@ MapPLUTO</enttypl>
 					</edom>
 					<edom>
 						<edomv>O2</edomv>
-						<edomvd>Ten Stories &amp;amp; Over (Side Street Type)</edomvd>
+						<edomvd>Ten Stories &amp; Over (Side Street Type)</edomvd>
 						<edomvds>New York (N.Y.). Dept. of City Planning</edomvds>
 					</edom>
 					<edom>
 						<edomv>O3</edomv>
-						<edomvd>Ten Stories &amp;amp; Over (Main Avenue Type)</edomvd>
+						<edomvd>Ten Stories &amp; Over (Main Avenue Type)</edomvd>
 						<edomvds>New York (N.Y.). Dept. of City Planning</edomvds>
 					</edom>
 					<edom>
@@ -2341,7 +2340,7 @@ MapPLUTO</enttypl>
 					</edom>
 					<edom>
 						<edomv>RM</edomv>
-						<edomvd>Mixed Residential &amp;amp; Commercial Building (Mixed Residential &amp;amp; Commercial Condo Building Classification Codes)</edomvd>
+						<edomvd>Mixed Residential &amp; Commercial Building (Mixed Residential &amp; Commercial Condo Building Classification Codes)</edomvd>
 						<edomvds>New York (N.Y.). Dept. of City Planning</edomvds>
 					</edom>
 					<edom>
@@ -2511,7 +2510,7 @@ MapPLUTO</enttypl>
 					</edom>
 					<edom>
 						<edomv>V8</edomv>
-						<edomvd>State &amp;amp; US</edomvd>
+						<edomvd>State &amp; US</edomvd>
 						<edomvds>New York (N.Y.). Dept. of City Planning</edomvds>
 					</edom>
 					<edom>
@@ -2689,7 +2688,7 @@ MapPLUTO</enttypl>
 				<attrdomv>
 					<edom>
 						<edomv>01</edomv>
-						<edomvd>One &amp;amp; Two Family Buildings</edomvd>
+						<edomvd>One &amp; Two Family Buildings</edomvd>
 						<edomvds>New York (N.Y.). Dept. of City Planning</edomvds>
 					</edom>
 					<edom>
@@ -3624,16 +3623,16 @@ attached row houses are Above Grade.)</attrdef>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NYCTaxLot06</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -3655,15 +3654,15 @@ attached row houses are Above Grade.)</attrdef>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -3691,11 +3690,11 @@ attached row houses are Above Grade.)</attrdef>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NYCTaxLot06">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">852982</geoObjCnt>
 </geometObjs>

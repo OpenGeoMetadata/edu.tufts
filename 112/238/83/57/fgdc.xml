@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo Sync="TRUE">
@@ -8,7 +7,7 @@
 				<title>Correctional Institution Locations New Hampshire 2006-2009</title>
 				<edition Sync="TRUE">4th Quarter 2009</edition>
 				<geoform Sync="TRUE">vector digital data</geoform>
-				<onlink>http://www.granit.unh.edu/data/search?dset=correctional_institutions&amp;amp;#47;nh</onlink>
+				<onlink>http://www.granit.unh.edu/data/search?dset=correctional_institutions&amp;#47;nh</onlink>
 <ftname Sync="TRUE">NHCorrectionalInstitutions0609</ftname>
 <origin>CACI, Inc. - Federal</origin>
 <pubinfo>
@@ -25,7 +24,7 @@
 <pubplace>Durham (N.H.)</pubplace>
 <publish>NH GRANIT (Firm)</publish>
 </pubinfo>
-<onlink>http://www.granit.unh.edu/data/search?dset=correctional_institutions&amp;amp;#47;nh</onlink>
+<onlink>http://www.granit.unh.edu/data/search?dset=correctional_institutions&amp;#47;nh</onlink>
 </citeinfo>
 </lworkcit>
 </citeinfo>
@@ -49,7 +48,7 @@ This dataset is comprised completely of license free data.
 
 The Law Enforcement dataset and the Correctional Institutions dataset were merged into one working file. TGS processed as one file and then separated for delivery purposes.
 
-With the merge of the Law Enforcement and the Correctional Institutions datasets, NAICS Codes &amp;amp; Descriptions were assigned based on the facility's main function which was determined by the entity's name, facility type, web research, and state supplied data. In instances where the entity's primary function is both law enforcement and corrections, the NAICS Codes and Descriptions are assigned based on the dataset in which the record is located (i.e., a facility that serves as both a Sheriff's Office and as a jail is designated as [NAICSDESCR]="SHERIFFS' OFFICES (EXCEPT COURT FUNCTIONS ONLY)" in the Law Enforcement layer and as [NAICSDESCR]="JAILS (EXCEPT PRIVATE OPERATION OF)" in the Correctional Institutions layer).
+With the merge of the Law Enforcement and the Correctional Institutions datasets, NAICS Codes &amp; Descriptions were assigned based on the facility's main function which was determined by the entity's name, facility type, web research, and state supplied data. In instances where the entity's primary function is both law enforcement and corrections, the NAICS Codes and Descriptions are assigned based on the dataset in which the record is located (i.e., a facility that serves as both a Sheriff's Office and as a jail is designated as [NAICSDESCR]="SHERIFFS' OFFICES (EXCEPT COURT FUNCTIONS ONLY)" in the Law Enforcement layer and as [NAICSDESCR]="JAILS (EXCEPT PRIVATE OPERATION OF)" in the Correctional Institutions layer).
 
 Records with "-DOD" appended to the end of the [NAME] value are located on a military base, as defined by the Defense Installation Spatial Data Infrastructure (DISDI) military installations and military range boundaries.
 
@@ -312,7 +311,7 @@ Records with "-DOD" appended to the end of the [NAME] value are located on a mil
 			<srcinfo>
 				<srccite>
 					<citeinfo>
-						<origin>Department of the Interior Office of Law Enforcement, Security &amp;amp; Emergency Management (DOI)</origin>
+						<origin>Department of the Interior Office of Law Enforcement, Security &amp; Emergency Management (DOI)</origin>
 						<pubdate>20080131</pubdate>
 						<title>BIA</title>
 						<edition>Unknown</edition>
@@ -334,7 +333,7 @@ Records with "-DOD" appended to the end of the [NAME] value are located on a mil
 			<srcinfo>
 				<srccite>
 					<citeinfo>
-						<origin>Department of the Interior Office of Law Enforcement, Security &amp;amp; Emergency Management (DOI)</origin>
+						<origin>Department of the Interior Office of Law Enforcement, Security &amp; Emergency Management (DOI)</origin>
 						<pubdate>20080131</pubdate>
 						<title>BOR</title>
 						<edition>Unknown</edition>
@@ -356,7 +355,7 @@ Records with "-DOD" appended to the end of the [NAME] value are located on a mil
 			<srcinfo>
 				<srccite>
 					<citeinfo>
-						<origin>Department of the Interior Office of Law Enforcement, Security &amp;amp; Emergency Management (DOI)</origin>
+						<origin>Department of the Interior Office of Law Enforcement, Security &amp; Emergency Management (DOI)</origin>
 						<pubdate>20080131</pubdate>
 						<title>FWS</title>
 						<edition>Unknown</edition>
@@ -378,7 +377,7 @@ Records with "-DOD" appended to the end of the [NAME] value are located on a mil
 			<srcinfo>
 				<srccite>
 					<citeinfo>
-						<origin>Department of the Interior Office of Law Enforcement, Security &amp;amp; Emergency Management (DOI)</origin>
+						<origin>Department of the Interior Office of Law Enforcement, Security &amp; Emergency Management (DOI)</origin>
 						<pubdate>20080226</pubdate>
 						<title>NPS</title>
 						<edition>Unknown</edition>
@@ -400,7 +399,7 @@ Records with "-DOD" appended to the end of the [NAME] value are located on a mil
 			<srcinfo>
 				<srccite>
 					<citeinfo>
-						<origin>Department of the Interior Office of Law Enforcement, Security &amp;amp; Emergency Management (DOI)</origin>
+						<origin>Department of the Interior Office of Law Enforcement, Security &amp; Emergency Management (DOI)</origin>
 						<pubdate>20080131</pubdate>
 						<title>USPP</title>
 						<edition>Unknown</edition>
@@ -428,7 +427,7 @@ Records with "-DOD" appended to the end of the [NAME] value are located on a mil
 						<edition>Unspecified</edition>
 						<geoform>tabular digital data</geoform>
 						<othercit>Publication date is unknown - downloaded on 20080222</othercit>
-						<onlink>&amp;lt;http://www.atf.gov/field/index.htm&amp;gt;</onlink>
+						<onlink>&lt;http://www.atf.gov/field/index.htm&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<typesrc>Online</typesrc>
@@ -476,7 +475,7 @@ Records with "-DOD" appended to the end of the [NAME] value are located on a mil
 						<edition>Unspecified</edition>
 						<geoform>tabular digital data</geoform>
 						<othercit>Publication date is unknown - downloaded on 20080317</othercit>
-						<onlink>&amp;lt;http://www.cbp.gov/linkhandler/cgov/toolbox/contacts/deferred_inspection/deferred_inspection_sites.ctt/deferred_inspection_sites.pdf&amp;gt;</onlink>
+						<onlink>&lt;http://www.cbp.gov/linkhandler/cgov/toolbox/contacts/deferred_inspection/deferred_inspection_sites.ctt/deferred_inspection_sites.pdf&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<typesrc>Online</typesrc>
@@ -500,7 +499,7 @@ Records with "-DOD" appended to the end of the [NAME] value are located on a mil
 						<edition>Unspecified</edition>
 						<geoform>tabular digital data</geoform>
 						<othercit>Publication date is unknown - downloaded on 20080220</othercit>
-						<onlink>&amp;lt;http://www.cbp.gov/xp/cgov/toolbox/contacts/cmcs/&amp;gt;</onlink>
+						<onlink>&lt;http://www.cbp.gov/xp/cgov/toolbox/contacts/cmcs/&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<typesrc>Online</typesrc>
@@ -524,7 +523,7 @@ Records with "-DOD" appended to the end of the [NAME] value are located on a mil
 						<edition>Unspecified</edition>
 						<geoform>tabular digital data</geoform>
 						<othercit>Publication date is unknown - downloaded on 20080220</othercit>
-						<onlink>&amp;lt;http://www.cbp.gov/xp/cgov/toolbox/contacts/ports/&amp;gt;</onlink>
+						<onlink>&lt;http://www.cbp.gov/xp/cgov/toolbox/contacts/ports/&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<typesrc>Online</typesrc>
@@ -548,7 +547,7 @@ Records with "-DOD" appended to the end of the [NAME] value are located on a mil
 						<edition>Unspecified</edition>
 						<geoform>tabular digital data</geoform>
 						<othercit>Publication date is unknown - downloaded on 20080227</othercit>
-						<onlink>&amp;lt;http://www.usmarshals.gov/district/index.html&amp;gt;</onlink>
+						<onlink>&lt;http://www.usmarshals.gov/district/index.html&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<typesrc>Online</typesrc>
@@ -1132,7 +1131,7 @@ Sometimes an entity may report a city that is not accepted by the USPS, and alth
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Entity has not been contacted by TGS.</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1575,7 +1574,7 @@ The above definition is consistent with that used by the Bureau of Justice Stati
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Unknown - It is not known if the entity's phone number rings to the entity's location.</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1597,7 +1596,7 @@ The above definition is consistent with that used by the Bureau of Justice Stati
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>The record is not TGS added or has not had Quality Control/Quality Assurance performed by TGS, or Quality Control/Quality Assurance was performed prior to 01/01/2005.</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1690,7 +1689,7 @@ The values in this field were provided by individual sources and are not verifie
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Unknown or not provided</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1723,7 +1722,7 @@ The values in this field were provided by individual sources and are not verifie
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Unknown or not provided</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1756,7 +1755,7 @@ The values in this field were provided by individual sources and are not verifie
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Unknown or not provided</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1789,7 +1788,7 @@ The values in this field were provided by individual sources and are not verifie
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Unknown or not provided</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1893,7 +1892,7 @@ The values in this field were provided by individual sources and are not verifie
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Unable to determine if entity also belongs in the Law Enforcement layer.</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1963,16 +1962,16 @@ The values in this field were provided by individual sources and are not verifie
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NHCorrectionalInstitutions0609</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1994,15 +1993,15 @@ The values in this field were provided by individual sources and are not verifie
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distinfo>
@@ -2046,11 +2045,11 @@ The values in this field were provided by individual sources and are not verifie
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NHCorrectionalInstitutions0609">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">117</geoObjCnt>
 </geometObjs>

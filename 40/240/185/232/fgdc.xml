@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -266,7 +265,7 @@ ArlingtonOpenSpace12</enttypl>
 </attr>
 			<attr>
 				<attrlabl>LEGAL_TYPE</attrlabl>
-				<attrdef>This attribute identifies the type of legal ownership interest for a tax parcel in the &amp;#147;other legal interests&amp;#148; data layer. See the description of this attribute in the discussion of the attributes for the OthLeg feature class later in this document. Note, also, that the non-fee interests may be partial or overlapping with respect to the fee interest in a parcel. For example, a conservation or agricultural restriction will often apply to only part of a property. In developing GIS files to comply with this standard, only the polygons that appear on the assessor&amp;#146;s maps need to be captured and coded. So, for example, if there are no conservation restrictions mapped on the assessor&amp;#146;s maps, then no LEGAL_TYPE values of "CR" will exist.</attrdef>
+				<attrdef>This attribute identifies the type of legal ownership interest for a tax parcel in the other legal interests data layer. See the description of this attribute in the discussion of the attributes for the OthLeg feature class later in this document. Note, also, that the non-fee interests may be partial or overlapping with respect to the fee interest in a parcel. For example, a conservation or agricultural restriction will often apply to only part of a property. In developing GIS files to comply with this standard, only the polygons that appear on the assessors maps need to be captured and coded. So, for example, if there are no conservation restrictions mapped on the assessors maps, then no LEGAL_TYPE values of "CR" will exist.</attrdef>
 				<attrdefs>MassGIS (Office : Mass.)</attrdefs>
 				<attalias Sync="TRUE">LEGAL_TYPE</attalias>
 <attrtype Sync="TRUE">String</attrtype>
@@ -395,7 +394,7 @@ ArlingtonOpenSpace12</enttypl>
 			<cntinfo>
 				<cntorgp>
 					<cntorg>Tufts University GIS Center</cntorg>
-					<cntper/>
+					<cntper />
 				</cntorgp>
 				<cntpos>Data Technician</cntpos>
 				<cntaddr>
@@ -428,16 +427,16 @@ ArlingtonOpenSpace12</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">ArlingtonOpenSpace12</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -459,15 +458,15 @@ ArlingtonOpenSpace12</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -495,11 +494,11 @@ ArlingtonOpenSpace12</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="ArlingtonOpenSpace12">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">123</geoObjCnt>
 </geometObjs>

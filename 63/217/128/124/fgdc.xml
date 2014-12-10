@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -215,25 +214,25 @@ GAP reviewed overlaps between the WDFW update and PADUS and noted a few conflict
 			<procstep>
 				<procdesc>In order to meet Tufts University's metadata standards:
 
-&amp;gt;Changed name of file from "CT" to "CTProtectedAreas0511"
-&amp;gt;Changed citation title from "CT" to "Protected Areas CT 2011"
-&amp;gt;Removed publication times "Unknown"
-&amp;gt;Changed originator from "US Geological Survey (USGS) Gap Analysis Program (GAP)" to "Gap Analysis Program (U.S.)"
-&amp;gt;Changed publisher from "USGS Gap Analysis Program (GAP)" to "Gap Analysis Program (U.S.)"
-&amp;gt;Changed larger work citation originator/publisher from "USGS National Gap Analysis Program" to "Gap Analysis Program (U.S.)"
-&amp;gt;Added publication place
-&amp;gt;Added ISO 19115 Topic Category keywords
-&amp;gt;Added LCSH keywords
-&amp;gt;Added FGDC keyword
-&amp;gt;Added GNIS keyword
-&amp;gt;Added keyword thesaurus name "Gap Analysis Program (U.S.)" to previously imported keywords without a stated thesaurus
-&amp;gt;Removed imported place keywords that were not related to the extracted state
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Included in the abstract an identification of the specific state represented
-&amp;gt;Changed access constraints from "These data are in the public domain" to "Unrestricted Access Online: These data are in the public domain"
-&amp;gt;Modified imported attribute definitions to identify enumerated domains
-&amp;gt;Added "Gap Analysis Program (U.S.)" as the attribute definition source
-&amp;gt;Exported metadata</procdesc>
+&gt;Changed name of file from "CT" to "CTProtectedAreas0511"
+&gt;Changed citation title from "CT" to "Protected Areas CT 2011"
+&gt;Removed publication times "Unknown"
+&gt;Changed originator from "US Geological Survey (USGS) Gap Analysis Program (GAP)" to "Gap Analysis Program (U.S.)"
+&gt;Changed publisher from "USGS Gap Analysis Program (GAP)" to "Gap Analysis Program (U.S.)"
+&gt;Changed larger work citation originator/publisher from "USGS National Gap Analysis Program" to "Gap Analysis Program (U.S.)"
+&gt;Added publication place
+&gt;Added ISO 19115 Topic Category keywords
+&gt;Added LCSH keywords
+&gt;Added FGDC keyword
+&gt;Added GNIS keyword
+&gt;Added keyword thesaurus name "Gap Analysis Program (U.S.)" to previously imported keywords without a stated thesaurus
+&gt;Removed imported place keywords that were not related to the extracted state
+&gt;Replaced Tufts as the distributor
+&gt;Included in the abstract an identification of the specific state represented
+&gt;Changed access constraints from "These data are in the public domain" to "Unrestricted Access Online: These data are in the public domain"
+&gt;Modified imported attribute definitions to identify enumerated domains
+&gt;Added "Gap Analysis Program (U.S.)" as the attribute definition source
+&gt;Exported metadata</procdesc>
 				<procdate>20120111</procdate>
 				<proccont>
 					<cntinfo>
@@ -522,7 +521,7 @@ CTprotectedareasDB11</enttypl>
 					</edom>
 					<edom>
 						<edomv>0310</edomv>
-						<edomvd>State Park &amp;amp; Recreation</edomvd>
+						<edomvd>State Park &amp; Recreation</edomvd>
 						<edomvds>Gap Analysis Program (U.S.)</edomvds>
 					</edom>
 					<edom>
@@ -1343,7 +1342,7 @@ CTprotectedareasDB11</enttypl>
 </attr>
 			<attr>
 				<attrlabl>GIS_Src</attrlabl>
-				<attrdef>The source of GIS spatial and attribute information the aggregator obtained (e.g. WYG&amp;amp;F_whmas08.shp) for each record.  Preferably files names match original source data to facilitate future updates.</attrdef>
+				<attrdef>The source of GIS spatial and attribute information the aggregator obtained (e.g. WYG&amp;F_whmas08.shp) for each record.  Preferably files names match original source data to facilitate future updates.</attrdef>
 				<attrdefs>Gap Analysis Program (U.S.)</attrdefs>
 				<attalias Sync="TRUE">GIS_Src</attalias>
 <attrtype Sync="TRUE">String</attrtype>
@@ -1917,16 +1916,16 @@ CTprotectedareasDB11</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">CTProtectedAreas0511</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1948,15 +1947,15 @@ CTprotectedareasDB11</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -1984,11 +1983,11 @@ CTprotectedareasDB11</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="CTProtectedAreas0511">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">7572</geoObjCnt>
 </geometObjs>

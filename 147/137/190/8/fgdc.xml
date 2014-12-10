@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>MassGIS (Office : Mass.)</origin>
+<pubdate>20130930</pubdate>
+<geoform>vector digital data</geoform>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/dep-aul.html</onlink>
+<ftname Sync="TRUE">MAOilSite9413</ftname>
+<pubinfo />
+<lworkcit>
+<citeinfo>
+<title>MassGIS Data </title>
+<origin>MassGIS (Office : Mass.)</origin>
+<pubdate>20130930</pubdate>
+<pubinfo>
+<pubplace>Massachusetts. </pubplace>
+<publish>MassGIS (Office : Mass.)</publish>
+</pubinfo>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/dep-aul.html</onlink>
+</citeinfo>
+</lworkcit>
+<title>Oil and Hazardous Materials Sites with Activity and Use Limitations (AUL) Massachusetts 1994-2013</title>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This point dataset represents hazardous material sites in Massachusetts. This point dataset is derived from Oil or Hazardous Materials Sites with Activity and Use Limitation (AUL) datalayer maintained by the Mass. Department of  Environment Protection. The is a statewide point dataset containing the approximate location of oil or hazardous material release/disposal sites where an AUL has been filed.  The sites mapped in this datalayer represent only a subset of the total reported release sites tracked by MassDEP BWSC. An AUL provides notice of the presence of oil and/or hazardous material contamination remaining at the location after a cleanup has been conducted pursuant to Chapter 21E and the MCP.  The AUL is a legal document that identifies activities and uses of the property that may and may not occur, as well as the property owner's obligation and maintenance conditions that must be followed to ensure the safe use of the property.  The complete AUL is filed at the County Registry of Deeds office for the respective City/Town.  In addition, a copy of the AUL is available in MassDEP BWSC site files and in City/Town Offices where the AUL is located. Location types featured in this datalayer include the approximate center of an AUL site, the center of a building on the property where the release occurred, the approximate center of the lot, and source of contamination.</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, 
+and may be used for basic applications such as viewing, querying, and map output production, or to provide a 
+basemap to support graphical overlays and analysis with other spatial data.
+
+</purpose>
+<langdata Sync="TRUE">en</langdata>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>19940104</begdate>
+<enddate>20130830</enddate>
+</rngdates>
+</timeinfo>
+<current>ground condition</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Unknown</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-73.472983</westbc>
+<eastbc>-69.931508</eastbc>
+<northbc>42.866666</northbc>
+<southbc>41.259256</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">38739.730596</leftbc>
+<rightbc Sync="TRUE">328191.146418</rightbc>
+<bottombc Sync="TRUE">780615.025040</bottombc>
+<topbc Sync="TRUE">957338.304565</topbc>
+</lboundng>
+</spdom>
+<keywords>
+<place>
+<placekey>Massachusetts</placekey>
+<placekt>GNIS</placekt>
+</place>
+<stratum />
+<temporal />
+<theme>
+<themekey>point</themekey>
+<themekt>FGDC</themekt>
+</theme>
+<place>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekt>LCNH</placekt>
+<placekey>North America</placekey>
+</place>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>environment</themekey>
+</theme>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Petroleum</themekey>
+<themekey>Hazardous substances</themekey>
+<themekey>Public safety</themekey>
+</theme>
+</keywords>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only</useconst>
+<ptcontac>
+<cntinfo>
+<cntpos>Geodatabase Administrator</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>1 Winter Street</address>
+<city>Boston</city>
+<state>MA</state>
+<postal>02108</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(617) 574-6856</cntvoice>
+<cnttdd>(617) 574-6856</cnttdd>
+<cntemail>aaron.richer@state.ma.us</cntemail>
+<hours>7:30 AM -3:30 PM</hours>
+<cntinst>Monday - Friday</cntinst>
+<cntperp>
+<cntper>Aaron Richer</cntper>
+<cntorg>MA Department of Environmental Protection (MassDEP)</cntorg>
+</cntperp>
+</cntinfo>
+</ptcontac>
+<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<natvform Sync="TRUE">Shapefile</natvform>
+<crossref>
+<citeinfo>
+<origin>MassGIS (Office : Mass.) </origin>
+<pubdate>20130930</pubdate>
+<title>Oil and Hazardous Materials Sites with Activity and Use Limitations (AUL) Massachusetts 19940104-20130830</title>
+<pubinfo>
+<pubplace>Massachusetts</pubplace>
+<publish>MassGIS (Office : Mass.) </publish>
+</pubinfo>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/dep-aul.html</onlink>
+<lworkcit>
+<citeinfo>
+<origin>MassGIS (Office : Mass.) </origin>
+<pubdate>20130930</pubdate>
+<title>Oil and Hazardous Materials Sites with Activity and Use Limitations (AUL) Massachusetts 19940104-20130830</title>
+<pubinfo>
+<pubplace>Massachusetts</pubplace>
+<publish>MassGIS (Office : Mass.) </publish>
+</pubinfo>
+<onlink>http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/dep-aul.html</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</crossref>
+</idinfo>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<esriterm Name="MAOilSite9413">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Point</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">2593</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+<sdtsterm Name="MAOilSite9413">
+<sdtstype Sync="TRUE">Entity point</sdtstype>
+<ptvctcnt Sync="TRUE">2593</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.000000</absres>
+<ordres>0.000000</ordres>
+</coordrep>
+<plandu>meters</plandu>
+</planci>
+<gridsys>
+<gridsysn>State Plane Coordinate System</gridsysn>
+<spcs>
+<spcszone Sync="TRUE">2001</spcszone>
+<lambertc>
+<stdparll Sync="TRUE">41.716667</stdparll>
+<stdparll Sync="TRUE">42.683333</stdparll>
+<longcm Sync="TRUE">-71.500000</longcm>
+<latprjo Sync="TRUE">41.000000</latprjo>
+<feast Sync="TRUE">200000.000000</feast>
+<fnorth Sync="TRUE">750000.000000</fnorth>
+</lambertc>
+</spcs>
+</gridsys>
+</planar>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 80</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+<projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
+</cordsysn>
+</horizsys>
+<vertdef>
+<altsys>
+<altres>1.000000</altres>
+<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+</altsys>
+</vertdef>
+</spref>
+<eainfo>
+<detailed Name="MAOilSite9413">
+<enttyp>
+<enttypl>AUL_PT</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">2593</enttypc>
+</enttyp>
+<attr>
+<attrlabl>REGION</attrlabl>
+<attrdef>Code indicating the MassDEP Region in which the release site is physically located</attrdef>
+<attrdefs>Massachusetts. Bureau of Waste Site Cleanup </attrdefs>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>WERO (Western Region - Springfield)</edomvd>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup </edomvds>
+</edom>
+</attrdomv>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<attrdomv>
+<edom>
+<edomv>2</edomv>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomvd>CERO (Central Region - Worcester)</edomvd>
+</edom>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3</edomv>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomvd>NERO (Northeast Region - Wilmington)</edomvd>
+</edom>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>4</edomv>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomvd>SERO(Southeast Region -Lakeville)</edomvd>
+</edom>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<atnumdec Sync="TRUE">8</atnumdec>
+</attr>
+<attr>
+<attrlabl>AUL_DATE</attrlabl>
+<attrdef>Date of Oil and Hazardous Material Site filing</attrdef>
+<attrdefs>Massachusetts. Bureau of Waste Site Cleanup </attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attalias Sync="TRUE">AUL_DATE</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+</attr>
+<attr>
+<attrlabl>STATUS</attrlabl>
+<attrdef>Compliance status of site</attrdef>
+<attrdefs>Massachusetts. Bureau of Waste Site Cleanup </attrdefs>
+<attrdomv>
+<edom>
+<edomv>ADQREG</edomv>
+<edomvd>Adequately Regulated</edomvd>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+</edom>
+</attrdomv>
+<attalias Sync="TRUE">STATUS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>DEPMOU</edomv>
+<edomvd>DEP Memorandum of Understanding</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>DEPNDS</edomv>
+<edomvd>Not a Disposal Site (DEP)</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>DPS</edomv>
+<edomvd>Downgradient Property Status</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>DPSTRM</edomv>
+<edomvd>Downgradient Property Status Terminated</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>INVSUB</edomv>
+<edomvd>Submittal Invalidated by MassDEP</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>LSPNFA</edomv>
+<edomvd>LSP No Further Action</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>PENNDS</edomv>
+<edomvd>Pending Not a Disposal Site</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>PENNFA</edomv>
+<edomvd>Pending No Further Action</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>RAO</edomv>
+<edomvd>Release Action Outcome, a site/release where an RAO Statement was submitted. An RAO Statement asserts that response actions were sufficient to achieve a level of no significant risk or at least ensure that all substantial hazards were eliminated.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>RAONR</edomv>
+<edomvd>Response Action Outcome Not Required</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>REMOPS</edomv>
+<edomvd>Remedy Operation Status</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>SPECPR</edomv>
+<edomvd>Special Project</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>STMRET</edomv>
+<edomvd>Response Action Outcome Statement Retracted</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>TCLASS</edomv>
+<edomvd>Tier Classification</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>TIER1A</edomv>
+<edomvd>Tier 1A, a release receiving a total score equal to or greater then 550. These sites/releases require a permit and the person undertaking response actions must do so under direct MassDEP supervision.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>TIER1B</edomv>
+<edomvd>Tier 1B, A site/release where an NRS score of less than 550 and equal t or greater than 450. These sites/releases require a permit and the response actions may be performed under the supervision of a Licensed Site Professional (LSP) without prior MassDEP approval, unless such an approval is specifically required by MassDEP.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>TIER1C</edomv>
+<edomvd>Tier 1C, a site/release receiving a total NRS score of less than 450 and equal to or greater than 350. A site/release receiving a total NRS score of less than 350, but which also meets any of the Tier 1 Inclusionary Criteria specified in 310 CMR 40.0520(2)(a), is also classified a Tier 1C. These sites/releases require a permit and the response actions may be performed under the supervision of a Licensed Site Professional (LSP) without prior MassDEP approval, unless such an approval is specifically required by MassDEP.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>TIER1D</edomv>
+<edomvd>Tier 1D, a release where the responsible party fails to provide a required submittal to MassDEP by a specified deadline.</edomvd>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>TIERII</edomv>
+<edomvd>Tier II, A site/release receiving a total NRS score of less than 350, unless the site meets any of the Tier 1 Inclusionary Criteria (see above). Permits are not required at Tier 2 sites/releases and response actions may be performed under the supervision of an LSP without prior MassDEP approval. All pre-1993 transition sites that have accepted waivers are categorically Tier 2 sites</edomvd>
+</edom>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>UNCLSS</edomv>
+<edomvd>Unclassified</edomvd>
+</edom>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>WCSPRM</edomv>
+<edomvd>Waiver Completion Statement Permanent</edomvd>
+</edom>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>WCSTMP</edomv>
+<edomvd>Waiver Completion Statement Temporary</edomvd>
+</edom>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SITE_INFO</attrlabl>
+<attrdef>General site information attributes are populated using the most current MassDEP BWSC database information available at the time of update.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<edom />
+</attrdomv>
+<attalias Sync="TRUE">SITE_INFO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">250</attwidth>
+</attr>
+<attr>
+<attrlabl>SHAPE</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attalias Sync="TRUE">RTN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl>RTN</attrlabl>
+<attrdef>Release Tracking Number (Unique ID)</attrdef>
+<attrdefs>Massachusetts. Bureau of Waste Site Cleanup </attrdefs>
+<attalias Sync="TRUE">RAO_CLASS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>RAO_CLASS</attrlabl>
+<attrdef>Classification of RAO</attrdef>
+<attrdefs>Massachusetts. Bureau of Waste Site Cleanup </attrdefs>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<attrdomv>
+<edom>
+<edomv>A-1</edomv>
+<edomvd>A permanent solution has been achieved. Contamination has been reduced to background or a threat of release has been eliminated</edomvd>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup </edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>A-2</edomv>
+<edomvd>A permanent solution has been achieved. Contamination has not been reduced to background.</edomvd>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>A-3</edomv>
+<edomvd>A permanent solution has been achieved. Contamination has not been reduced to background and an Activity and use Limitation (AUL) has been implemented.</edomvd>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+</edom>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>A-4</edomv>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomvd>A permanent solution has been achieved. Contamination has not been reduced to background and an Activity and use Limitation (AUL) has been implemented.  Contamination is located at a depth of &gt;15 feet but evaluation has determined that it is not feasible to reduce it.</edomvd>
+</edom>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>B-1</edomv>
+<edomvd>Remedial actions have not been conducted because a level of No Significant Risk exists.</edomvd>
+</edom>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>B-2</edomv>
+<edomvd>Remedial actions have not been conducted because a level of No Significant Risk exists, but that level is contingent upon one or more Activity and use Limitations (AULs) that have been implemented.</edomvd>
+</edom>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>B-3</edomv>
+<edomvd>Remedial actions have not been conducted because a level of No Significant Risk exists, but that level is contingent upon one or more Activity and use Limitations (AULs) that have been implemented, and contamination is located at a depth of &gt;15 feet but evaluation has determined that it is not feasible to reduce it.</edomvd>
+</edom>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomvds>Massachusetts. Bureau of Waste Site Cleanup</edomvds>
+<edomv>C-1</edomv>
+<edomvd>A temporary cleanup. Although the site does not present a "substantial hazard", it has not reached a level of no significant risk. The site must be evaluated every five years to determine whether a Class A or Class B RAO is possible. All sites are expected eventually to receive a Class A or B RAO.</edomvd>
+</edom>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>Massachusetts. Bureau of Waste Site Cleanup </attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+<attrdef>Name of site</attrdef>
+<attrdefs>Massachusetts. Bureau of Waste Site Cleanup </attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attalias Sync="TRUE">ADDRESS</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+<attr>
+<attrlabl>ADDRESS</attrlabl>
+<attrdef>Address of site</attrdef>
+<attrdefs>Massachusetts. Bureau of Waste Site Cleanup </attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attalias Sync="TRUE">TOWN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+<attr>
+<attrlabl>TOWN</attrlabl>
+<attrdef>Town in which release site is physically located (conforms to 351 town name standard)</attrdef>
+<attrdefs>Massachusetts. Bureau of Waste Site Cleanup </attrdefs>
+<attrdomv>
+<edom />
+<edom>
+<edomv>RAO</edomv>
+<edomvd>Release Action Outcome, a site/release where an RAO Statement was submitted. An RAO Statement asserts that response actions were sufficient to achieve a level of no significant risk or at least ensure that all substantial hazards were eliminated.</edomvd>
+<edomvds>MassGIS (Office : Mass.) </edomvds>
+</edom>
+</attrdomv>
+<attalias Sync="TRUE">REGION</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<resdesc>Online Dataset</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<transize>0.048</transize>
+<dssize Sync="TRUE">0.069</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+<distrib>
+<cntinfo>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+<address>16 Dearborn Rd</address>
+</cntaddr>
+<cntpos>Data Technician</cntpos>
+</cntinfo>
+</distrib>
+</distinfo>
+<metainfo>
+<metd>20131016</metd>
+<metc>
+<cntinfo>
+<cntpos>Data Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+<address>16 Dearborn Rd</address>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday - Friday, 9:00 am - 5:00 pm EST-USA</hours>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<dataIdInfo>
+<envirDesc>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode country="USA" value="en" />
+<countryCode value="USA" />
+</dataLang>
+<idCitation>
+<resTitle>Oil and Hazardous Materials Sites with Activity and Use Limitations (AUL)</resTitle>
+<presForm>
+<PresFormCd value="005" />
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd value="001" />
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<westBL>-73.472983</westBL>
+<eastBL>-69.924243</eastBL>
+<northBL>42.866666</northBL>
+<southBL>41.259256</southBL>
+<exTypeCode>1</exTypeCode>
+</GeoBndBox>
+<GeoBndBox esriExtentType="native">
+<westBL>38739.730596</westBL>
+<eastBL>328191.146418</eastBL>
+<northBL>957338.304565</northBL>
+<southBL>780615.02504</southBL>
+<exTypeCode>1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL>-73.472983</westBL>
+<eastBL>-69.931508</eastBL>
+<northBL>42.866666</northBL>
+<southBL>41.259256</southBL>
+<exTypeCode>1</exTypeCode>
+</geoBox>
+<idPurp>Environmental protection, planning and analysis.</idPurp>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Releases of oil and/or hazardous material to the environment are required to be reported to the Massachusetts Department of Environmental Protection's (MassDEP) Bureau of Waste Site Cleanup (BWSC), in accordance with M.G.L. Chapter 21E and procedures established within the Massachusetts Contingency Plan (MCP) (310 CMR 40.0000). The DEP Oil or Hazardous Materials Sites with Activity and Use Limitation (AUL) datalayer is a statewide point dataset containing the approximate location of oil or hazardous material release/disposal sites where an AUL has been filed. The sites mapped in this datalayer represent only a subset of the total reported release sites tracked by MassDEP BWSC. An AUL provides notice of the presence of oil and/or hazardous material contamination remaining at the location after a cleanup has been conducted pursuant to Chapter 21E and the MCP. The AUL is a legal document that identifies activities and uses of the property that may and may not occur, as well as the property owner's obligation and maintenance conditions that must be followed to ensure the safe use of the property. The complete AUL is filed at the County Registry of Deeds office for the respective City/Town. In addition, a copy of the AUL is available in MassDEP BWSC site files and in City/Town Offices where the AUL is located. Location types featured in this datalayer include the approximate center of an AUL site, the center of a building on the property where the release occurred, the approximate center of the lot, and source of contamination. Under Massachusetts' privatized waste site cleanup program, data maintained by DEP regarding site location is provided by potentially responsible parties (PRPs) and by licensed site professionals (LSPs), who work for the PRPs. Location data is provided in a paper format (e.g., map and textual information) by PRPs and LSPs and maintained by MassDEP BWSC in individual site files. These site files are available to the public through MassDEP's Regional Offices. Anyone wishing to view an AUL site file can make arrangements with the respective MassDEP Regional Office through a Freedom of Information Act (FOIA) request. The MassDEP encourages persons to review these site files when they make decisions that consider a specific site.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+<searchKeys>
+<keyword>MassDEP Oil and/or Hazardous Materials Sites with Activity and Use Limitations (AUL)</keyword>
+</searchKeys>
+<resConst>
+<Consts>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;None&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+</Consts>
+</resConst>
+</dataIdInfo>
+<mdLang>
+<languageCode value="en" />
+<countryCode value="USA" />
+</mdLang>
+<mdChar>
+<CharSetCd value="004" />
+</mdChar>
+<mdHrLv>
+<ScopeCd value="005" />
+</mdHrLv>
+<mdHrLvName>dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc>002</orDesc>
+<linkage>file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\MassGIS2013\aul_pt\AUL_PT.shp</linkage>
+<protocol>Local Area Network</protocol>
+</onLineSrc>
+<transSize>0.069</transSize>
+</distorTran>
+<distorFormat>
+<formatName>Shapefile</formatName>
+</distorFormat>
+</distributor>
+<distFormat>
+<formatName>Shapefile</formatName>
+</distFormat>
+<distTranOps>
+<transSize>0.000</transSize>
+</distTranOps>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode code="26986">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</identCode>
+<idCodeSpace>EPSG</idCodeSpace>
+<idVersion>7.11.2</idVersion>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<geometObjs>
+<geoObjTyp>
+<GeoObjTypCd value="004" />
+</geoObjTyp>
+<geoObjCnt>2593</geoObjCnt>
+</geometObjs>
+<topLvl>
+<TopoLevCd value="001" />
+</topLvl>
+</VectSpatRep>
+</spatRepInfo>
+<mdDateSt>20131016</mdDateSt>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<Esri>
+<SyncDate>20140522</SyncDate>
+<SyncTime>22142900</SyncTime>
+<ModDate>20140522</ModDate>
+<ModTime>22151600</ModTime>
+</Esri>
+<dataqual>
+<lineage>
+<procstep>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>Data Technician</cntpos>
+<cntaddr>
+<address>Academic Technology</address>
+<addrtype>mailing address</addrtype>
+<address>16 Dearborn Rd</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 am-5:00 pm EST-USA</hours>
+</cntinfo>
+</proccont>
+<procdesc>Changed name of the file from AUL_PT to MAOilSite9413</procdesc>
+<procdate>20131017</procdate>
+</procstep>
+<srcinfo>
+<typesrc>electronic bulletin board</typesrc>
+<srcscale>Unknown</srcscale>
+</srcinfo>
+</lineage>
+<attracc>
+<attraccr>Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given.  </attraccr>
+</attracc>
+</dataqual>
+</metadata>

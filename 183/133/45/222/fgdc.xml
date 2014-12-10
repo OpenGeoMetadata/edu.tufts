@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="windows-1252" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -7,7 +6,7 @@
 				<pubdate>20012010</pubdate>
 				<title>Waterbody Public Access Locations New Hampshire 1997 - 2012</title>
 				<geoform Sync="TRUE">vector digital data</geoform>
-				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nh_access_sites&amp;amp;#47;nh</onlink>
+				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nh_access_sites&amp;#47;nh</onlink>
 				<ftname Sync="TRUE">NHWaterAccessLocations9712</ftname>
 <pubinfo>
 <pubplace>Druham (N.H.)</pubplace>
@@ -23,7 +22,7 @@
 <origin>New Hampshire. Office of Energy and Planning</origin>
 <onlink>http://www.granit.sr.unh.edu/data/downloadfreedata/category/databycategory.html</onlink>
 <origin>University of New Hampshire. Complex Systems Research Center</origin>
-<onlink>http://www.granit.sr.unh.edu/data/search?dset=nh_access_sites&amp;amp;#47;nh</onlink>
+<onlink>http://www.granit.sr.unh.edu/data/search?dset=nh_access_sites&amp;#47;nh</onlink>
 <pubdate>20012010</pubdate>
 </citeinfo>
 </lworkcit>
@@ -1104,16 +1103,16 @@ these data.
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NHWaterAccessLocations9712</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1135,15 +1134,15 @@ these data.
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -1171,11 +1170,11 @@ these data.
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NHWaterAccessLocations9712">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">915</geoObjCnt>
 </geometObjs>

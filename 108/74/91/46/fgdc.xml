@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 <Esri>
 <CreaDate>20130916</CreaDate>
 <CreaTime>16021100</CreaTime>
@@ -30,7 +29,7 @@
 <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
 <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
 <projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
-<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;LatestWKID&amp;gt;26986&amp;lt;/LatestWKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,200000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,750000.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-71.5],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,41.71666666666667],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,42.68333333333333],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,41.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26986]]&lt;/WKT&gt;&lt;XOrigin&gt;-36530900&lt;/XOrigin&gt;&lt;YOrigin&gt;-28803200&lt;/YOrigin&gt;&lt;XYScale&gt;122610652.81195112&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26986&lt;/WKID&gt;&lt;LatestWKID&gt;26986&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
 </coordRef>
 </DataProperties>
 <ArcGISFormat>1.0</ArcGISFormat>
@@ -142,13 +141,13 @@
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
-<countryCode Sync="TRUE" value="USA"/>
+<languageCode Sync="TRUE" value="en" />
+<countryCode Sync="TRUE" value="USA" />
 </dataLang>
 <idCitation>
 <resTitle Sync="FALSE">MassDEP 2012 Integrated List of Waters (305(b)/303(d)) - Arcs</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 <date>
 <pubDate>2013-09-20T00:00:00</pubDate>
@@ -157,7 +156,7 @@
 <rpIndName>Brian Brodeur</rpIndName>
 <rpOrgName>MassDEP</rpOrgName>
 <role>
-<RoleCd value="006"/>
+<RoleCd value="006" />
 </role>
 <rpCntInfo>
 <cntAddress addressType="both">
@@ -174,13 +173,13 @@
 </citRespParty>
 </idCitation>
 <idPurp>Planning and Assessment</idPurp>
-<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P STYLE="margin:0 0 14 0;"&amp;gt;&amp;lt;SPAN&amp;gt;&amp;lt;SPAN&amp;gt;Water Body Segments - Rivers (arcs)&amp;lt;/SPAN&amp;gt;&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P STYLE="margin:0 0 14 0;"&amp;gt;&amp;lt;SPAN&amp;gt;The MassDEP Division of Watershed Management (DWM), Watershed Planning Program (WPP) 2012 Integrated List of Waters (305(b)/303(d)) data layer represents the combined reporting elements for the 2012 cycle of both sections 305(b) and 303(d) of the Federal Clean Water Act (CWA). The objective of this statute is to restore and maintain the chemical, physical, and biological integrity of the Nation’s waters. As one step toward meeting this goal each state must administer a program to monitor and assess the quality of its surface waters and provide periodic status reports to the U.S. Environmental Protection Agency (EPA), the U.S. Congress, and the public.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P STYLE="margin:0 0 14 0;"&amp;gt;&amp;lt;SPAN&amp;gt;Section 305(b) of the CWA codifies the process whereby waters are evaluated with respect to their capacity to support designated uses as defined in the Massachusetts Surface Water Quality Standards. These uses include aquatic life, fish consumption, drinking water, shellfish harvesting, primary (e.g., swimming) and secondary (e.g., boating) contact-recreation, and aesthetics. The 305(b) process entails assessing each of these uses, where applicable, for rivers, lakes and coastal waters. Where possible, causes and sources of use impairment are also identified. Once a water body is identified as impaired by a pollutant, MassDEP is required under Section 303(d) of the CWA, and the implementing regulations at 40 CFR 130.7, to develop a pollutant budget designed to restore the health of the impaired water body. The process of developing this pollutant budget, generally referred to as a Total Maximum Daily Load (TMDL), includes identifying the cause (type of pollutant) and source (where the pollutant comes from), determining how much of the pollutant is from direct discharges (point sources) or indirect discharges (non-point sources), determining the maximum amount of the pollutant that can be discharged to a specific water body to meet water quality standards, and developing a plan to meet that goal. In short a TMDL is a clean-up plan that is required under the CWA to restore water quality and enable waters to attain designated uses. &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P STYLE="margin:0 0 14 0;"&amp;gt;&amp;lt;SPAN&amp;gt;In November 2001 EPA released guidance to the states for the preparation of an optional report that would combine reporting elements of both sections 305(b) and 303(d) of the CWA. This combined report format, the Integrated List of Waters report, allows states to provide the status of all their assessed waters in a single, multi-part list. States list each waterbody or segment thereof in one of the following five categories: &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;UL&amp;gt;&amp;lt;LI&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN STYLE="font-style:italic;font-weight:bold;"&amp;gt;Category 1)&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;Unimpaired and not threatened for all designated uses; &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/LI&amp;gt;&amp;lt;LI&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN STYLE="font-style:italic;font-weight:bold;"&amp;gt;Category 2)&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;Unimpaired for some uses and not assessed for others; &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/LI&amp;gt;&amp;lt;LI&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN STYLE="font-style:italic;font-weight:bold;"&amp;gt;Category 3)&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;Insufficient information to make assessments for any uses; &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/LI&amp;gt;&amp;lt;LI&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN STYLE="font-style:italic;font-weight:bold;"&amp;gt;Category 4)&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN /&amp;gt;&amp;lt;SPAN&amp;gt;Impaired for one or more uses, but not requiring the calculation of a Total Maximum Daily Load (TMDL); (impairment due to “pollution” such as low flow, habitat alterations or non-native species infestations). &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/LI&amp;gt;&amp;lt;LI&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN STYLE="font-style:italic;font-weight:bold;"&amp;gt;Category 5)&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;Impaired for one or more uses and requiring a TMDL (impairment due to pollutant(s) such as nutrients, metals, pesticides, solids and pathogens). &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/LI&amp;gt;&amp;lt;/UL&amp;gt;&amp;lt;P STYLE="margin:0 0 14 20;"&amp;gt;&amp;lt;SPAN&amp;gt;Waters listed in Category 5 constitute the 303(d) List. The formulation of the 303(d) List includes a more rigorous public review and comment process than does reporting under Section 305(b), and the final version of the list must be formally approved by the EPA. The remaining four categories are submitted in fulfillment of the requirements under Section 305(b), essentially replacing the old 305(b) Report format. Massachusetts formulated integrated lists in accordance with EPA guidance for the 2002, 2004, 2006, 2008, 2010, and, most recently, the 2012 listing cycles. The EPA subsequently approved each of these. &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P STYLE="margin:0 0 14 0;"&amp;gt;&amp;lt;SPAN&amp;gt;The 2012 Integrated List of Waters (305(b)/303(d)) data layer is the spatial representation of the river, lake, and estuary segments assessed and summarized in the Massachusetts Year 2012 Integrated List of Waters report to the EPA developed pursuant to sections 305(b) (“Water Quality Inventory”) and 303(d) of the Federal Clean Water Act. This report or any previous or subsequent reports can be obtained by contacting Arthur Johnson at the MassDEP, Division of Watershed Management, 627 Main St., Worcester, MA 01608. Electronic versions of the Massachusetts Year 2012 Integrated List of Waters report can be found at the MassDEP website: http://www.mass.gov/eea/agencies/massdep/water/watersheds/total-maximum-daily-loads-tmdls.html#2 &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P STYLE="margin:0 0 14 0;"&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;Data Layers:&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P STYLE="margin:0 0 14 0;"&amp;gt;&amp;lt;SPAN&amp;gt;The Massachusetts 2012 Integrated List of Waters (305(b)/303(d)) data layer comprises &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;two features classes&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;; &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;UL&amp;gt;&amp;lt;LI&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;the &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;IL_2012_ARCS &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;(alias: &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;Water Body Segments - Rivers (arcs)&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;) for linear features (rivers and a few estuaries) and &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/LI&amp;gt;&amp;lt;LI&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;the &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;IL_2012_POLY &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;(alias: &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;Water Body Segments - Lakes, Estuaries (polygons)&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;) for polygon features (lakes and estuaries). &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/LI&amp;gt;&amp;lt;/UL&amp;gt;&amp;lt;P STYLE="margin:0 0 14 0;"&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;Tables and Relationship Classes:&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;UL&amp;gt;&amp;lt;LI&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;A related table&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;, IL_ADB_2012&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;, contains each use status, and when impaired the cause(s), source(s), and TMDL(s) associated with each segment. The IL_ADB_2012 table has a many to one relationship with both the arc and polygon features. That relationship is built into the geodatabase with the relationship classes &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;IL_ARC_TO_ADB_2012 &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;and &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;IL_POLY_TO_ADB_2012&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;. Users of the shapefile and dBASE versions of the data must establish these relates using the AU_ID. Because of the many-to-one relationship the IL_ADB_2012 table is not suitable for summarizing certain data (e.g., size, number of segments, etc.).&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/LI&amp;gt;&amp;lt;LI&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;A second table, &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;IL_SegDef_2012&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;, contains information that can be used for summarizing certain data (e.g., classification, size, number of segments, etc.). &amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/LI&amp;gt;&amp;lt;/UL&amp;gt;&amp;lt;P STYLE="margin:0 0 14 0;"&amp;gt;&amp;lt;SPAN&amp;gt;Also included is a feature class &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;IL_DWM_WPP_WATERSHEDS_POLY &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;(alias: &amp;lt;/SPAN&amp;gt;&amp;lt;SPAN STYLE="font-weight:bold;"&amp;gt;DWM WPP Integrated List Watershed Delineations&amp;lt;/SPAN&amp;gt;&amp;lt;SPAN&amp;gt;) showing the DWM WPP watershed delineations.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P STYLE="margin:0 0 14 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;Water Body Segments - Rivers (arcs)&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="margin:0 0 14 0;"&gt;&lt;SPAN&gt;The MassDEP Division of Watershed Management (DWM), Watershed Planning Program (WPP) 2012 Integrated List of Waters (305(b)/303(d)) data layer represents the combined reporting elements for the 2012 cycle of both sections 305(b) and 303(d) of the Federal Clean Water Act (CWA). The objective of this statute is to restore and maintain the chemical, physical, and biological integrity of the Nation’s waters. As one step toward meeting this goal each state must administer a program to monitor and assess the quality of its surface waters and provide periodic status reports to the U.S. Environmental Protection Agency (EPA), the U.S. Congress, and the public.&lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="margin:0 0 14 0;"&gt;&lt;SPAN&gt;Section 305(b) of the CWA codifies the process whereby waters are evaluated with respect to their capacity to support designated uses as defined in the Massachusetts Surface Water Quality Standards. These uses include aquatic life, fish consumption, drinking water, shellfish harvesting, primary (e.g., swimming) and secondary (e.g., boating) contact-recreation, and aesthetics. The 305(b) process entails assessing each of these uses, where applicable, for rivers, lakes and coastal waters. Where possible, causes and sources of use impairment are also identified. Once a water body is identified as impaired by a pollutant, MassDEP is required under Section 303(d) of the CWA, and the implementing regulations at 40 CFR 130.7, to develop a pollutant budget designed to restore the health of the impaired water body. The process of developing this pollutant budget, generally referred to as a Total Maximum Daily Load (TMDL), includes identifying the cause (type of pollutant) and source (where the pollutant comes from), determining how much of the pollutant is from direct discharges (point sources) or indirect discharges (non-point sources), determining the maximum amount of the pollutant that can be discharged to a specific water body to meet water quality standards, and developing a plan to meet that goal. In short a TMDL is a clean-up plan that is required under the CWA to restore water quality and enable waters to attain designated uses. &lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="margin:0 0 14 0;"&gt;&lt;SPAN&gt;In November 2001 EPA released guidance to the states for the preparation of an optional report that would combine reporting elements of both sections 305(b) and 303(d) of the CWA. This combined report format, the Integrated List of Waters report, allows states to provide the status of all their assessed waters in a single, multi-part list. States list each waterbody or segment thereof in one of the following five categories: &lt;/SPAN&gt;&lt;/P&gt;&lt;UL&gt;&lt;LI&gt;&lt;P&gt;&lt;SPAN STYLE="font-style:italic;font-weight:bold;"&gt;Category 1)&lt;/SPAN&gt;&lt;SPAN&gt;Unimpaired and not threatened for all designated uses; &lt;/SPAN&gt;&lt;/P&gt;&lt;/LI&gt;&lt;LI&gt;&lt;P&gt;&lt;SPAN STYLE="font-style:italic;font-weight:bold;"&gt;Category 2)&lt;/SPAN&gt;&lt;SPAN&gt;Unimpaired for some uses and not assessed for others; &lt;/SPAN&gt;&lt;/P&gt;&lt;/LI&gt;&lt;LI&gt;&lt;P&gt;&lt;SPAN STYLE="font-style:italic;font-weight:bold;"&gt;Category 3)&lt;/SPAN&gt;&lt;SPAN&gt;Insufficient information to make assessments for any uses; &lt;/SPAN&gt;&lt;/P&gt;&lt;/LI&gt;&lt;LI&gt;&lt;P&gt;&lt;SPAN STYLE="font-style:italic;font-weight:bold;"&gt;Category 4)&lt;/SPAN&gt;&lt;SPAN /&gt;&lt;SPAN&gt;Impaired for one or more uses, but not requiring the calculation of a Total Maximum Daily Load (TMDL); (impairment due to “pollution” such as low flow, habitat alterations or non-native species infestations). &lt;/SPAN&gt;&lt;/P&gt;&lt;/LI&gt;&lt;LI&gt;&lt;P&gt;&lt;SPAN STYLE="font-style:italic;font-weight:bold;"&gt;Category 5)&lt;/SPAN&gt;&lt;SPAN&gt;Impaired for one or more uses and requiring a TMDL (impairment due to pollutant(s) such as nutrients, metals, pesticides, solids and pathogens). &lt;/SPAN&gt;&lt;/P&gt;&lt;/LI&gt;&lt;/UL&gt;&lt;P STYLE="margin:0 0 14 20;"&gt;&lt;SPAN&gt;Waters listed in Category 5 constitute the 303(d) List. The formulation of the 303(d) List includes a more rigorous public review and comment process than does reporting under Section 305(b), and the final version of the list must be formally approved by the EPA. The remaining four categories are submitted in fulfillment of the requirements under Section 305(b), essentially replacing the old 305(b) Report format. Massachusetts formulated integrated lists in accordance with EPA guidance for the 2002, 2004, 2006, 2008, 2010, and, most recently, the 2012 listing cycles. The EPA subsequently approved each of these. &lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="margin:0 0 14 0;"&gt;&lt;SPAN&gt;The 2012 Integrated List of Waters (305(b)/303(d)) data layer is the spatial representation of the river, lake, and estuary segments assessed and summarized in the Massachusetts Year 2012 Integrated List of Waters report to the EPA developed pursuant to sections 305(b) (“Water Quality Inventory”) and 303(d) of the Federal Clean Water Act. This report or any previous or subsequent reports can be obtained by contacting Arthur Johnson at the MassDEP, Division of Watershed Management, 627 Main St., Worcester, MA 01608. Electronic versions of the Massachusetts Year 2012 Integrated List of Waters report can be found at the MassDEP website: http://www.mass.gov/eea/agencies/massdep/water/watersheds/total-maximum-daily-loads-tmdls.html#2 &lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="margin:0 0 14 0;"&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;Data Layers:&lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="margin:0 0 14 0;"&gt;&lt;SPAN&gt;The Massachusetts 2012 Integrated List of Waters (305(b)/303(d)) data layer comprises &lt;/SPAN&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;two features classes&lt;/SPAN&gt;&lt;SPAN&gt;; &lt;/SPAN&gt;&lt;/P&gt;&lt;UL&gt;&lt;LI&gt;&lt;P&gt;&lt;SPAN&gt;the &lt;/SPAN&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;IL_2012_ARCS &lt;/SPAN&gt;&lt;SPAN&gt;(alias: &lt;/SPAN&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;Water Body Segments - Rivers (arcs)&lt;/SPAN&gt;&lt;SPAN&gt;) for linear features (rivers and a few estuaries) and &lt;/SPAN&gt;&lt;/P&gt;&lt;/LI&gt;&lt;LI&gt;&lt;P&gt;&lt;SPAN&gt;the &lt;/SPAN&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;IL_2012_POLY &lt;/SPAN&gt;&lt;SPAN&gt;(alias: &lt;/SPAN&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;Water Body Segments - Lakes, Estuaries (polygons)&lt;/SPAN&gt;&lt;SPAN&gt;) for polygon features (lakes and estuaries). &lt;/SPAN&gt;&lt;/P&gt;&lt;/LI&gt;&lt;/UL&gt;&lt;P STYLE="margin:0 0 14 0;"&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;Tables and Relationship Classes:&lt;/SPAN&gt;&lt;/P&gt;&lt;UL&gt;&lt;LI&gt;&lt;P&gt;&lt;SPAN&gt;A related table&lt;/SPAN&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;, IL_ADB_2012&lt;/SPAN&gt;&lt;SPAN&gt;, contains each use status, and when impaired the cause(s), source(s), and TMDL(s) associated with each segment. The IL_ADB_2012 table has a many to one relationship with both the arc and polygon features. That relationship is built into the geodatabase with the relationship classes &lt;/SPAN&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;IL_ARC_TO_ADB_2012 &lt;/SPAN&gt;&lt;SPAN&gt;and &lt;/SPAN&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;IL_POLY_TO_ADB_2012&lt;/SPAN&gt;&lt;SPAN&gt;. Users of the shapefile and dBASE versions of the data must establish these relates using the AU_ID. Because of the many-to-one relationship the IL_ADB_2012 table is not suitable for summarizing certain data (e.g., size, number of segments, etc.).&lt;/SPAN&gt;&lt;/P&gt;&lt;/LI&gt;&lt;LI&gt;&lt;P&gt;&lt;SPAN&gt;A second table, &lt;/SPAN&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;IL_SegDef_2012&lt;/SPAN&gt;&lt;SPAN&gt;, contains information that can be used for summarizing certain data (e.g., classification, size, number of segments, etc.). &lt;/SPAN&gt;&lt;/P&gt;&lt;/LI&gt;&lt;/UL&gt;&lt;P STYLE="margin:0 0 14 0;"&gt;&lt;SPAN&gt;Also included is a feature class &lt;/SPAN&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;IL_DWM_WPP_WATERSHEDS_POLY &lt;/SPAN&gt;&lt;SPAN&gt;(alias: &lt;/SPAN&gt;&lt;SPAN STYLE="font-weight:bold;"&gt;DWM WPP Integrated List Watershed Delineations&lt;/SPAN&gt;&lt;SPAN&gt;) showing the DWM WPP watershed delineations.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
 <idCredit>The MassDEP Division of Watershed Management (DWM), Watershed Planning Program (WPP).  For questions regarding the programmatic content of these data contact Arthur Johnson (508-767-2873) or Richard McVoy (508-767-2877) in the MassDEP, Watershed Planning Program.</idCredit>
 <searchKeys>
 <keyword>MassDEP DWM 2012 Integrated List 305b 303d TMDL</keyword>
 </searchKeys>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -211,14 +210,14 @@
 </tempEle>
 </dataExt>
 <dataChar>
-<CharSetCd value="004"/>
+<CharSetCd value="004" />
 </dataChar>
 <idStatus>
-<ProgCd value="001"/>
+<ProgCd value="001" />
 </idStatus>
 <resMaint>
 <maintFreq>
-<MaintFreqCd value="011"/>
+<MaintFreqCd value="011" />
 </maintFreq>
 </resMaint>
 <resConst>
@@ -230,7 +229,7 @@
 <rpIndName>Brian Brodeur</rpIndName>
 <rpOrgName>MassDEP</rpOrgName>
 <role>
-<RoleCd value="006"/>
+<RoleCd value="006" />
 </role>
 <rpCntInfo>
 <cntAddress addressType="both">
@@ -248,11 +247,11 @@
 </idPoC>
 <resConst>
 <Consts>
-<useLimit>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;None.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</useLimit>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;None.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
 </Consts>
 </resConst>
 <tpCat>
-<TopicCatCd value="007"/>
+<TopicCatCd value="007" />
 </tpCat>
 <geoBox esriExtentType="decdegrees">
 <westBL Sync="TRUE">-73.501611</westBL>
@@ -294,16 +293,16 @@
 </metextns>
 </metainfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
-<countryCode Sync="TRUE" value="USA"/>
+<languageCode Sync="TRUE" value="en" />
+<countryCode Sync="TRUE" value="USA" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distinfo>
@@ -352,7 +351,7 @@
 <rpOrgName>MassGIS</rpOrgName>
 <rpPosName>Sr. GIS Database Administrator</rpPosName>
 <role>
-<RoleCd value="005"/>
+<RoleCd value="005" />
 </role>
 <rpCntInfo>
 <cntAddress addressType="both">
@@ -448,11 +447,11 @@
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="MAWaterBody11">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">746</geoObjCnt>
 </geometObjs>
@@ -942,7 +941,7 @@ AUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/2Q==</Da
 <rpIndName>Brian Brodeur</rpIndName>
 <rpOrgName>MassDEP</rpOrgName>
 <role>
-<RoleCd value="006"/>
+<RoleCd value="006" />
 </role>
 <rpCntInfo>
 <cntAddress addressType="both">

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 <Esri>
 <CreaDate>20140227</CreaDate>
 <CreaTime>16432600</CreaTime>
@@ -111,7 +109,7 @@
 <ptcontac>
 <cntinfo>
 <cntaddr>
-<address>Department of Information Technology &amp;amp; Telecommunications</address>
+<address>Department of Information Technology &amp; Telecommunications</address>
 <addrtype>mailing and physical address</addrtype>
 <address>255 Greenwich, 9th Floor</address>
 <city>New York</city>
@@ -122,7 +120,7 @@
 <cntpos>Open Data Coordinator</cntpos>
 <cntvoice>212-788-6600</cntvoice>
 <cntorgp>
-<cntorg>New York City Department of Information Technology &amp;amp; Telecommunications</cntorg>
+<cntorg>New York City Department of Information Technology &amp; Telecommunications</cntorg>
 <cntper>Albert Webber</cntper>
 </cntorgp>
 </cntinfo>
@@ -131,16 +129,16 @@
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NYCStreeetCenterline130605</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -197,15 +195,15 @@
 </metextns>
 </metainfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distinfo>
@@ -323,11 +321,11 @@
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NYCStreeetCenterline130605">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">152153</geoObjCnt>
 </geometObjs>

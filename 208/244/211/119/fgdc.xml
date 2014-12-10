@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -179,7 +178,7 @@ elsewhere in this metadata.
 		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
 		<natvform Sync="TRUE">Shapefile</natvform>
 <crossref>
-<citeinfo/>
+<citeinfo />
 </crossref>
 </idinfo>
 	<dataqual>
@@ -230,30 +229,30 @@ This map layer contains selected stream gages in the United States, Puerto Rico,
 Islands.  Sites were selected only if they were within the terrestrial and coastal boundaries of the
 U.S., they had a corresponding stream in the National Atlas Streams 1:1M map layer, they had one of
 the following site types:
-&amp;gt; Canal
-&amp;gt; Ditch
-&amp;gt; Diversion
-&amp;gt; Estuary
-&amp;gt; Lake, Reservoir, Impoundment
-&amp;gt; Spring
-&amp;gt; Stream
-&amp;gt; Tidal Stream
-&amp;gt; Wetland
-&amp;gt;
+&gt; Canal
+&gt; Ditch
+&gt; Diversion
+&gt; Estuary
+&gt; Lake, Reservoir, Impoundment
+&gt; Spring
+&gt; Stream
+&gt; Tidal Stream
+&gt; Wetland
+&gt;
 and they had daily values in the following list of parameters:
-&amp;gt; 00060 - Streamflow, ft/s
-&amp;gt; 00065 - Gage height, ft
-&amp;gt; 00054 - Reservoir storage, acre-ft
-&amp;gt; 00053 - Surface Area, acres
-&amp;gt; 00055 - Stream velocity, ft/s
-&amp;gt; 00059 - Streamflow rate, gal/min
-&amp;gt; 00062 - Reservoir elevation, ft
-&amp;gt; 50042 - Discharge, gallons per minute
-&amp;gt; 50051 - Flow rate, instantaneous, million gallons per day
-&amp;gt; 72022 - Reservoir contents, M/gal
-&amp;gt; 99020 - Elevation above NGVD 1929, ft
-&amp;gt; 99060 - Streamflow, m/s
-&amp;gt; 99065 - Gage height, m
+&gt; 00060 - Streamflow, ft/s
+&gt; 00065 - Gage height, ft
+&gt; 00054 - Reservoir storage, acre-ft
+&gt; 00053 - Surface Area, acres
+&gt; 00055 - Stream velocity, ft/s
+&gt; 00059 - Streamflow rate, gal/min
+&gt; 00062 - Reservoir elevation, ft
+&gt; 50042 - Discharge, gallons per minute
+&gt; 50051 - Flow rate, instantaneous, million gallons per day
+&gt; 72022 - Reservoir contents, M/gal
+&gt; 99020 - Elevation above NGVD 1929, ft
+&gt; 99060 - Streamflow, m/s
+&gt; 99065 - Gage height, m
 </complete>
 		<posacc>
 			<horizpa>
@@ -636,21 +635,21 @@ Selection of Gages from the National Water Information System Web Interface
 The NHDPlus V1 Gages were from 2004.  Additional gages were obtained from NWIS Web to supplement
 the NHDPlus V1 Gages.  Gages were downloaded in February 2010, and gages with daily data in the
 following categories were selected:
-&amp;gt;
-&amp;gt; Parameter code = 00060 - Streamflow, ft3/s
-&amp;gt; Parameter code = 00065 - Gage height, ft
-&amp;gt; Parameter code = 00054 - Reservoir storage, acre-ft
-&amp;gt; Parameter code = 00053 - Surface Area, acres
-&amp;gt; Parameter code = 00055 - Stream velocity, ft/s
-&amp;gt; Parameter code = 00059 - Streamflow rate, gal/min
-&amp;gt; Parameter code = 00062 - Reservoir elevation, ft
-&amp;gt; Parameter code = 50042 - Discharge, gallons per minute
-&amp;gt; Parameter code = 50051 - Flow rate, instantaneous, million gallons
-&amp;gt;                            per day
-&amp;gt; Parameter code = 72022 - Reservoir contents, M gal
-&amp;gt; Parameter code = 99020 - Elevation above NGVD 1929, ft
-&amp;gt; Parameter code = 99060 - Streamflow, m3/s
-&amp;gt; Parameter code = 99065 - Gage height, m
+&gt;
+&gt; Parameter code = 00060 - Streamflow, ft3/s
+&gt; Parameter code = 00065 - Gage height, ft
+&gt; Parameter code = 00054 - Reservoir storage, acre-ft
+&gt; Parameter code = 00053 - Surface Area, acres
+&gt; Parameter code = 00055 - Stream velocity, ft/s
+&gt; Parameter code = 00059 - Streamflow rate, gal/min
+&gt; Parameter code = 00062 - Reservoir elevation, ft
+&gt; Parameter code = 50042 - Discharge, gallons per minute
+&gt; Parameter code = 50051 - Flow rate, instantaneous, million gallons
+&gt;                            per day
+&gt; Parameter code = 72022 - Reservoir contents, M gal
+&gt; Parameter code = 99020 - Elevation above NGVD 1929, ft
+&gt; Parameter code = 99060 - Streamflow, m3/s
+&gt; Parameter code = 99065 - Gage height, m
 </procdesc>
 				<srcused>NWIS Web</srcused>
 				<procdate>2010</procdate>
@@ -1564,16 +1563,16 @@ responsibility is assumed by the U.S. Geological Survey in the use of these data
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USStreamflowGageStations13</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1595,15 +1594,15 @@ responsibility is assumed by the U.S. Geological Survey in the use of these data
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -1631,11 +1630,11 @@ responsibility is assumed by the U.S. Geological Survey in the use of these data
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USStreamflowGageStations13">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">20032</geoObjCnt>
 </geometObjs>

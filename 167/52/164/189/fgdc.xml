@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 <Esri>
 <CreaDate>20130102</CreaDate>
 <CreaTime>16092800</CreaTime>
@@ -27,9 +26,9 @@
 <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
 <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
 <projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
-<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,200000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,750000.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-71.5],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,41.71666666666667],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,42.68333333333333],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,41.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26986]]&lt;/WKT&gt;&lt;XOrigin&gt;-36530900&lt;/XOrigin&gt;&lt;YOrigin&gt;-28803200&lt;/YOrigin&gt;&lt;XYScale&gt;122610652.81195112&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26986&lt;/WKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
 </coordRef>
-<lineage/>
+<lineage />
 </DataProperties>
 <SyncDate>20140522</SyncDate>
 <SyncTime>21500800</SyncTime>
@@ -38,11 +37,11 @@
 <ArcGISProfile>FGDC</ArcGISProfile>
 </Esri>
 <mdLang>
-<languageCode value="eng"/>
-<countryCode Sync="TRUE" value="USA"/>
+<languageCode value="eng" />
+<countryCode Sync="TRUE" value="USA" />
 </mdLang>
 <mdHrLv>
-<ScopeCd value="005"/>
+<ScopeCd value="005" />
 </mdHrLv>
 <mdContact>
 <rpIndName>David Goodwin</rpIndName>
@@ -62,7 +61,7 @@
 </cntAddress>
 </rpCntInfo>
 <role>
-<RoleCd value="007"/>
+<RoleCd value="007" />
 </role>
 </mdContact>
 <mdDateSt Sync="TRUE">20140522</mdDateSt>
@@ -74,21 +73,21 @@
 <citRespParty>
 <rpOrgName>DCR, Bureau of Forestry, Amherst, MA</rpOrgName>
 <role>
-<RoleCd value="006"/>
+<RoleCd value="006" />
 </role>
 </citRespParty>
 <presForm>
-<PresFormCd value="005"/>
+<PresFormCd value="005" />
 </presForm>
 <presForm>
 <fgdcGeoform>vector digital data</fgdcGeoform>
 </presForm>
 </idCitation>
-<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;Using digital soils data from the Natural Resources Conservation Service (downloaded from MassGIS), a series of selections and calculations were done to classify soil associations into 9 different categories of prime forest based ultimately on forest productivity in white pine and red oak. Other data sets were used to refine this classification, including aspect, 1999 land use - land cover, riparian, slope position, wetlands, hydrologic soil association and unique areas. The hydrologic soil associations were based on NRCS information that came as Access files with the soils data. All other data was available from MassGIS.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Using digital soils data from the Natural Resources Conservation Service (downloaded from MassGIS), a series of selections and calculations were done to classify soil associations into 9 different categories of prime forest based ultimately on forest productivity in white pine and red oak. Other data sets were used to refine this classification, including aspect, 1999 land use - land cover, riparian, slope position, wetlands, hydrologic soil association and unique areas. The hydrologic soil associations were based on NRCS information that came as Access files with the soils data. All other data was available from MassGIS.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
 <idPurp>The purpose of this project is to identify spatially and statistically the amount and type of prime forestland in Massachusetts. This Southeast Massachusetts shapefile contains data for Barnstable, Bristol, Plymouth, Dukes and Nantucket counties.</idPurp>
 <idCredit>This dataset was created by David Goodwin while he worked at two different organizations - the University of Massachusetts at Amherst, Department of Natural Resources Conservation and at the Massachusetts Department of Conservation and Recreation, Bureau of Forestry. He can be contacted at (413) 545-5748 or at david.goodwin@state.ma.us with any questions.</idCredit>
 <idStatus>
-<ProgCd value="001"/>
+<ProgCd value="001" />
 </idStatus>
 <idPoC>
 <rpIndName>David Goodwin</rpIndName>
@@ -108,7 +107,7 @@
 </cntAddress>
 </rpCntInfo>
 <role>
-<RoleCd value="007"/>
+<RoleCd value="007" />
 </role>
 </idPoC>
 <themeKeys>
@@ -120,7 +119,7 @@
 </searchKeys>
 <resConst>
 <Consts>
-<useLimit>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;It is important to understand that these prime forest categories are based ultimately on digital NRCS soils data. Therefore, the final data set cannot be any more accurate than the original source data, including aspect, land cover, riparian, slope position, wetland, hydrologic soil groups and unique area.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</useLimit>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;It is important to understand that these prime forest categories are based ultimately on digital NRCS soils data. Therefore, the final data set cannot be any more accurate than the original source data, including aspect, land cover, riparian, slope position, wetland, hydrologic soil groups and unique area.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
 </Consts>
 </resConst>
 <aggrInfo>
@@ -129,21 +128,21 @@
 <citRespParty>
 <rpOrgName>W. MacConnell, D. Mader, J. O'Keefe, J. Edwards</rpOrgName>
 <role>
-<RoleCd value="006"/>
+<RoleCd value="006" />
 </role>
 </citRespParty>
 <otherCitDet>Mass. Agricultural Experiment Station Research Bulletin Number 705</otherCitDet>
 </aggrDSName>
 <assocType>
-<AscTypeCd value="001"/>
+<AscTypeCd value="001" />
 </assocType>
 </aggrInfo>
 <spatRpType>
-<SpatRepTypCd value="001"/>
+<SpatRepTypCd value="001" />
 </spatRpType>
 <dataLang>
-<languageCode country="USA" value="eng"/>
-<countryCode Sync="TRUE" value="USA"/>
+<languageCode country="USA" value="eng" />
+<countryCode Sync="TRUE" value="USA" />
 </dataLang>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataExt>
@@ -165,17 +164,17 @@
 </geoEle>
 </dataExt>
 <dataChar>
-<CharSetCd value="004"/>
+<CharSetCd value="004" />
 </dataChar>
 <descKeys>
-<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66" />
 <keyword Sync="TRUE">002</keyword>
 </descKeys>
 <tpCat>
-<TopicCatCd value="002"/>
+<TopicCatCd value="002" />
 </tpCat>
 <tpCat>
-<TopicCatCd value="007"/>
+<TopicCatCd value="007" />
 </tpCat>
 <geoBox esriExtentType="decdegrees">
 <westBL Sync="TRUE">-71.382714</westBL>
@@ -188,11 +187,11 @@
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="MAPrimeForestSE13">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">104572</geoObjCnt>
 </geometObjs>
@@ -288,7 +287,7 @@
 <attrdomv>
 <edom>
 <edomv>1</edomv>
-<edomvd>Prime 1( &amp;gt;155 ft3 for white pine, &amp;gt;55 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
+<edomvd>Prime 1( &gt;155 ft3 for white pine, &gt;55 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
 <edomvds>Massachusetts. Department of Conservation and Recreation</edomvds>
 </edom>
 </attrdomv>
@@ -318,14 +317,14 @@
 <edom>
 <edomvds>Massachusetts. Department of Conservation and Recreation</edomvds>
 <edomv>L</edomv>
-<edomvd>Local Importance (&amp;lt;65 ft3 for white pine, &amp;lt;35 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
+<edomvd>Local Importance (&lt;65 ft3 for white pine, &lt;35 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
 </edom>
 </attrdomv>
 <attrdomv>
 <edom>
 <edomvds>Massachusetts. Department of Conservation and Recreation</edomvds>
 <edomv>LW</edomv>
-<edomvd>Local Importance Wetland (&amp;lt;65 ft3 for white pine, &amp;lt;35 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
+<edomvd>Local Importance Wetland (&lt;65 ft3 for white pine, &lt;35 ft3 for northern red oak, with additional parameters available from MassGIS.)</edomvd>
 </edom>
 </attrdomv>
 <attrdomv>
@@ -449,11 +448,11 @@ YApaKKQFKFzJp+5usrkH6F8Y/LirFx/qcdmZVP0JANFFU9wJaKKKgD//2Q==</Data>
 </Thumbnail>
 </Binary>
 <mdChar>
-<CharSetCd value="004"/>
+<CharSetCd value="004" />
 </mdChar>
 <mdMaint>
 <maintFreq>
-<MaintFreqCd value="011"/>
+<MaintFreqCd value="011" />
 </maintFreq>
 </mdMaint>
 <mdConst>

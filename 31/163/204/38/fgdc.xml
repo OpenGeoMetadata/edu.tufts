@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo Sync="TRUE">
@@ -8,7 +7,7 @@
 				<title>Nursing Home Locations New Hampshire 2009-2010</title>
 				<edition Sync="TRUE">2010 Q1</edition>
 				<geoform Sync="TRUE">vector digital data</geoform>
-				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nursing_homes&amp;amp;#47;nh</onlink>
+				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nursing_homes&amp;#47;nh</onlink>
 <ftname Sync="TRUE">NHNursingHomes0910</ftname>
 <origin>CACI, Inc. - Federal</origin>
 <lworkcit>
@@ -454,7 +453,7 @@ The structures in which assisted living facilities exist are varied as well. Dep
 				<attrdef Sync="TRUE">Ten (10) digit telephone number for entity formatted as nnn-nnn-nnnn.</attrdef>
 				<attrdefs Sync="TRUE">TechniGraphics, Inc. </attrdefs>
 				<attrdomv Sync="TRUE">
-					<udom>Phone numbers formatted as nnn-nnn-nnnn. Only numeric digits are used. The area code and exchange must form a valid combination. A list of valid area code and exchange combinations can be obtained from &amp;lt;http://www.nanpa.com&amp;gt;.</udom>
+					<udom>Phone numbers formatted as nnn-nnn-nnnn. Only numeric digits are used. The area code and exchange must form a valid combination. A list of valid area code and exchange combinations can be obtained from &lt;http://www.nanpa.com&gt;.</udom>
 				</attrdomv>
 				<attrtype Sync="TRUE">String</attrtype>
 <attwidth Sync="TRUE">12</attwidth>
@@ -659,7 +658,7 @@ and Associated Areas.
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Entity has not been contacted by TechniGraphics.</edomvd>
 						<edomvds>TechniGraphics, Inc. </edomvds>
 					</edom>
@@ -869,7 +868,7 @@ Entities that operate as both a Nursing Home and an Assisted Living Facility are
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Unknown - It is not known if the entity's phone number rings to the entity's location.</edomvd>
 						<edomvds>TechniGraphics, Inc. </edomvds>
 					</edom>
@@ -891,7 +890,7 @@ Entities that operate as both a Nursing Home and an Assisted Living Facility are
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>The record was not added by TechniGraphics or has not had Quality Control/Quality Assurance performed by TechniGraphics.</edomvd>
 						<edomvds>TechniGraphics, Inc. </edomvds>
 					</edom>
@@ -1090,7 +1089,7 @@ Indicates the type of ownership for the nursing home or assisted living facility
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>TechniGraphics was unable to verify the Ownership Category.</edomvd>
 						<edomvds>TechniGraphics, Inc. </edomvds>
 					</edom>
@@ -1229,16 +1228,16 @@ The values in this field were taken from source data and have not been verified 
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NHNursingHomes0910</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1260,15 +1259,15 @@ The values in this field were taken from source data and have not been verified 
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distinfo>
@@ -1312,11 +1311,11 @@ The values in this field were taken from source data and have not been verified 
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NHNursingHomes0910">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">262</geoObjCnt>
 </geometObjs>

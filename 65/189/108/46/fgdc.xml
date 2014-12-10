@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -28,7 +27,7 @@
 		<descript>
 			<abstract>This polygon dataset represents that national boundary of North Korea.</abstract>
 			<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
-			<supplinf>LeadDog provides street and road map GIS layers through two basic products: 1) Major Roads and 2) City Streets. Together, the two products provide a navigable network of streets and roads for a given country that can be used for routing. Major Roads product layers are derived from 1:250,000 scale imagery and cover an entire country. City Streets product layers are derived from 1:10,000 scale high resolution imagery and are generally compiled on a city by city basis. For example, for the country of Afghanistan, LeadDog provides a set of Major Roads layers for the entire country and, for each major city, a set of City Streets layers. Both the Major Roads and City Streets product layers contain Streets &amp;amp; Roads, Points of Interest, Railroads, Airports,  City/Town/Place, Linear and Polygon Water features, National Boundaries, Provinces and Urban Areas. In addition, the Major Roads product contains District/Municipality Boundaries and the City Streets product contains Parks/LandUse and Neighborhoods. The number and type of layers may vary by country, for both Major Roads layers and City Streets layers. LeadDog data files are initially packaged as ESRI ShapeFiles and use a country, major roads, layer name folder and file organizing convention for the country-wide Major Roads data and a country, city name, layer folder and file organizating convention for the City Streets data. For example, the afghanistan_p folder will contain a single major_roads folder, containing all country-wide layers, and for each city, e.g., Kabul, Kandahar, etc., the afghanistan_p folder will contain a separate subfolder, each containing specific city-wide layers. As such, each LeadDog filename is unique. When packaged as SDE or GeoDatabase layers, this same convention is used. LeadDog uses two ShapeFile and layer naming schemes. With the first method, each City Streets ShapeFile or layer has a root name built using three parts including 1) city abbreviation, 2) country code, and 3) layer abbreviation, e.g., kabuafst, for Kabul, Afghanistan, Streets, and each Major Roads ShapeFile or layer has a root name with two parts as 1) country code and 2) layer abbreviation, e.g., afst, for Afghanistan Streets. With the second method, for City Streets, an additional country code prefix and city abbreviation are added to the root name as described in method one above, e.g., af_kabul_kabuafst, for Afghanistan, Kabul, Streets. For Major Roads layers, the second method simply adds a country code prefix, e.g., af_afst, for Afghanistan, Streets. There are a small number of exceptions to this folder/file organizing scheme. For additional information, visit LeadDog's website at www.goleaddog.com, which provides an on-line map based data finder and viewer, information for PostCodes data products, and full descriptions and previews of LeadDog datasets by continent and country. LeadDog also provides worldwide Landclass and Contour datasets. In addition LeadDog partners with iMaptools (www.iMaptools.com) to provide a number of GIS data and software applications (iEnterprise) including Routing (iDrivingDirections), Reverse Geocoding (iReverseGeo), and GIS Data Web Servers (iMapServer).</supplinf>
+			<supplinf>LeadDog provides street and road map GIS layers through two basic products: 1) Major Roads and 2) City Streets. Together, the two products provide a navigable network of streets and roads for a given country that can be used for routing. Major Roads product layers are derived from 1:250,000 scale imagery and cover an entire country. City Streets product layers are derived from 1:10,000 scale high resolution imagery and are generally compiled on a city by city basis. For example, for the country of Afghanistan, LeadDog provides a set of Major Roads layers for the entire country and, for each major city, a set of City Streets layers. Both the Major Roads and City Streets product layers contain Streets &amp; Roads, Points of Interest, Railroads, Airports,  City/Town/Place, Linear and Polygon Water features, National Boundaries, Provinces and Urban Areas. In addition, the Major Roads product contains District/Municipality Boundaries and the City Streets product contains Parks/LandUse and Neighborhoods. The number and type of layers may vary by country, for both Major Roads layers and City Streets layers. LeadDog data files are initially packaged as ESRI ShapeFiles and use a country, major roads, layer name folder and file organizing convention for the country-wide Major Roads data and a country, city name, layer folder and file organizating convention for the City Streets data. For example, the afghanistan_p folder will contain a single major_roads folder, containing all country-wide layers, and for each city, e.g., Kabul, Kandahar, etc., the afghanistan_p folder will contain a separate subfolder, each containing specific city-wide layers. As such, each LeadDog filename is unique. When packaged as SDE or GeoDatabase layers, this same convention is used. LeadDog uses two ShapeFile and layer naming schemes. With the first method, each City Streets ShapeFile or layer has a root name built using three parts including 1) city abbreviation, 2) country code, and 3) layer abbreviation, e.g., kabuafst, for Kabul, Afghanistan, Streets, and each Major Roads ShapeFile or layer has a root name with two parts as 1) country code and 2) layer abbreviation, e.g., afst, for Afghanistan Streets. With the second method, for City Streets, an additional country code prefix and city abbreviation are added to the root name as described in method one above, e.g., af_kabul_kabuafst, for Afghanistan, Kabul, Streets. For Major Roads layers, the second method simply adds a country code prefix, e.g., af_afst, for Afghanistan, Streets. There are a small number of exceptions to this folder/file organizing scheme. For additional information, visit LeadDog's website at www.goleaddog.com, which provides an on-line map based data finder and viewer, information for PostCodes data products, and full descriptions and previews of LeadDog datasets by continent and country. LeadDog also provides worldwide Landclass and Contour datasets. In addition LeadDog partners with iMaptools (www.iMaptools.com) to provide a number of GIS data and software applications (iEnterprise) including Routing (iDrivingDirections), Reverse Geocoding (iReverseGeo), and GIS Data Web Servers (iMapServer).</supplinf>
 			<langdata Sync="TRUE">en</langdata>
 </descript>
 		<timeperd>
@@ -324,16 +323,16 @@ NorthKoreaNatinlBound09</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NorthKoreaNatinlBound09</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -355,15 +354,15 @@ NorthKoreaNatinlBound09</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -391,11 +390,11 @@ NorthKoreaNatinlBound09</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NorthKoreaNatinlBound09">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">1</geoObjCnt>
 </geometObjs>

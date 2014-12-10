@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -11,7 +10,7 @@
 					<pubplace>Reston, VA</pubplace>
 					<publish>National Atlas of the United States</publish>
 				</pubinfo>
-				<onlink>&amp;lt;http://nationalatlas.gov/atlasftp.html?openChapters=chpgeol#chpgeol&amp;gt;</onlink>
+				<onlink>&lt;http://nationalatlas.gov/atlasftp.html?openChapters=chpgeol#chpgeol&gt;</onlink>
 				<lworkcit>
 					<citeinfo>
 						<origin>United States. Bureau of the Census. Geography Division</origin>
@@ -245,7 +244,7 @@ computational algorithm.</vertaccr>
 							<pubplace>Washington, DC</pubplace>
 							<publish>U.S. Geological Survey</publish>
 						</pubinfo>
-						<onlink>&amp;lt;http://neic.usgs.gov/neis/epic/&amp;gt;</onlink>
+						<onlink>&lt;http://neic.usgs.gov/neis/epic/&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<typesrc>Paper</typesrc>
@@ -267,7 +266,7 @@ computational algorithm.</vertaccr>
 						<origin>U.S. Geological Survey</origin>
 						<pubdate>200908</pubdate>
 						<title>Preliminary Determination of Epicenters (PDE)</title>
-						<onlink>&amp;lt;http://neic.usgs.gov/neis/epic/&amp;gt;</onlink>
+						<onlink>&lt;http://neic.usgs.gov/neis/epic/&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<typesrc>Online</typesrc>
@@ -319,7 +318,7 @@ Geological Survey</publish>
 						<pubdate>1997</pubdate>
 						<title>Project catalogue and seismic hazard maps, Seismic hazard in Latin
 America and the Caribbean</title>
-						<onlink>&amp;lt;http://midas.uprm.edu&amp;gt;</onlink>
+						<onlink>&lt;http://midas.uprm.edu&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<typesrc>Online</typesrc>
@@ -350,19 +349,19 @@ not include values for longitude and latitude.</procdesc>
 			</procstep>
 			<procstep>
 				<procdesc>In order to meet Tufts University's metadata standards:
-&amp;gt;Defined projection (NAD 1983)
-&amp;gt;Imported metadata from provided quksigx020.txt (arcgis 9.3)
-&amp;gt;Changed formatting of IsO 19115 Topic Category keywords to match proper formatting
-&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
-&amp;gt;Changed citation title from "quksigx020" to "Significant Historic Earthquakes USA 2009"
-&amp;gt;Changed name of file from "quksigx020" to "USAearthquakes09"
-&amp;gt;Substituted "Geological Survey (U.S.)" for "U. S. Geological Survey" as the originator
-&amp;gt;Added Larger Work Citation
-&amp;gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
-&amp;gt;Added LCSH theme keywords
-&amp;gt;Added GNIS and GNS place keywords
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Exported metadata</procdesc>
+&gt;Defined projection (NAD 1983)
+&gt;Imported metadata from provided quksigx020.txt (arcgis 9.3)
+&gt;Changed formatting of IsO 19115 Topic Category keywords to match proper formatting
+&gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&gt;Changed citation title from "quksigx020" to "Significant Historic Earthquakes USA 2009"
+&gt;Changed name of file from "quksigx020" to "USAearthquakes09"
+&gt;Substituted "Geological Survey (U.S.)" for "U. S. Geological Survey" as the originator
+&gt;Added Larger Work Citation
+&gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
+&gt;Added LCSH theme keywords
+&gt;Added GNIS and GNS place keywords
+&gt;Replaced Tufts as the distributor
+&gt;Exported metadata</procdesc>
 				<procdate>20111109</procdate>
 				<proccont>
 					<cntinfo>
@@ -655,7 +654,7 @@ location near to the earthquake event.</attrdef>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomv>&lt;Blank&gt;</edomv>
 						<edomvd>No location description is available.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -876,7 +875,7 @@ magnitude.  It is the body wave magnitude using the Lg wave.</edomvd>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomv>&lt;Blank&gt;</edomv>
 						<edomvd>The type of magnitude given in Other_mag1 is unknown.  The value
 came from Coffman, Jerry L., and von Hake, Carl A., 1973,
 Earthquake History of the United States:  U.S. Dept. of Commerce,
@@ -901,7 +900,7 @@ The list of sources is provided in the text file quksigx_references.txt.</attrde
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomv>&lt;Blank&gt;</edomv>
 						<edomvd>No reference information is available.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1033,7 +1032,7 @@ magnitude.  It is the body wave magnitude using the Lg wave.</edomvd>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomv>&lt;Blank&gt;</edomv>
 						<edomvd>The type of magnitude given in Other_mag2 is unknown.  The value
 came from Coffman, Jerry L., and von Hake, Carl A., 1973,
 Earthquake History of the United States:  U.S. Dept. of Commerce,
@@ -1058,7 +1057,7 @@ The list of sources is provided in the text file quksigx_references.txt.</attrde
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomv>&lt;Blank&gt;</edomv>
 						<edomvd>No reference information is available</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1087,7 +1086,7 @@ assigned.</edomvd>
 						<edomv>2</edomv>
 						<edomvd>An earthquake felt only by a few persons at rest, especially on
 upper floors of buildings.  Delicately suspended objects may swing.</edomvd>
-						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+						<edomvds>&lt;http://neic.usgs.gov/neis/epic/mm_scale.html&gt;</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
@@ -1098,7 +1097,7 @@ on upper floors of buildings.  Many people do not recognize it as an
 earthquake.  Standing motor cars may rock slightly.  Vibration
 similar to the passing of a truck.  Duration estimated in some
 cases.</edomvd>
-						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+						<edomvds>&lt;http://neic.usgs.gov/neis/epic/mm_scale.html&gt;</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
@@ -1108,7 +1107,7 @@ cases.</edomvd>
 At night, some awakened.  Dishes, windows, doors disturbed; walls
 make cracking sound.  Sensation like heavy truck striking building.
 Standing motor cars rocked noticeably.</edomvd>
-						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+						<edomvds>&lt;http://neic.usgs.gov/neis/epic/mm_scale.html&gt;</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
@@ -1117,7 +1116,7 @@ Standing motor cars rocked noticeably.</edomvd>
 						<edomvd>An earthquake felt by nearly everyone; many awakened.  Some dishes,
 windows broken.  Unstable objects overturned.  Pendulum clocks may
 stop.</edomvd>
-						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+						<edomvds>&lt;http://neic.usgs.gov/neis/epic/mm_scale.html&gt;</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
@@ -1125,7 +1124,7 @@ stop.</edomvd>
 						<edomv>6</edomv>
 						<edomvd>An earthquake felt by all; many frightened.  Some heavy furniture
 moved; a few instances of fallen plaster.  Damage slight.</edomvd>
-						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+						<edomvds>&lt;http://neic.usgs.gov/neis/epic/mm_scale.html&gt;</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
@@ -1136,7 +1135,7 @@ and construction; slight to moderate in well-built ordinary
 structures; considerable damage in poorly built or badly designed
 structures; some chimneys broken.  Noticed by persons driving motor
 cars.</edomvd>
-						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+						<edomvds>&lt;http://neic.usgs.gov/neis/epic/mm_scale.html&gt;</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
@@ -1147,7 +1146,7 @@ structures; considerable in ordinary substantial buildings with
 partial collapse.  Damage great in poorly built structures.  Fall of
 chimneys, factory stacks, columns, monuments, walls.  Heavy
 furniture overturned.</edomvd>
-						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+						<edomvds>&lt;http://neic.usgs.gov/neis/epic/mm_scale.html&gt;</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
@@ -1157,7 +1156,7 @@ furniture overturned.</edomvd>
 structures; well-designed frame structures thrown out of plumb.
 Damage great in substantial buildings, with partial collapse.
 Buildings shifted off foundations.</edomvd>
-						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+						<edomvds>&lt;http://neic.usgs.gov/neis/epic/mm_scale.html&gt;</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
@@ -1166,7 +1165,7 @@ Buildings shifted off foundations.</edomvd>
 						<edomvd>An earthquaking causing destruction of some well-built wooden
 structures; most masonry and frame structures destroyed with
 foundations.  Railroad rails bent.</edomvd>
-						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+						<edomvds>&lt;http://neic.usgs.gov/neis/epic/mm_scale.html&gt;</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
@@ -1174,7 +1173,7 @@ foundations.  Railroad rails bent.</edomvd>
 						<edomv>11</edomv>
 						<edomvd>An earthquake where few, if any (masonry) structures remain
 standing.  Bridges destroyed.  Railroad rails bent greatly.</edomvd>
-						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+						<edomvds>&lt;http://neic.usgs.gov/neis/epic/mm_scale.html&gt;</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
@@ -1182,7 +1181,7 @@ standing.  Bridges destroyed.  Railroad rails bent greatly.</edomvd>
 						<edomv>12</edomv>
 						<edomvd>An earthquake where damage is total.  Lines of sight and level
 distorted.  Objects thrown into the air.</edomvd>
-						<edomvds>&amp;lt;http://neic.usgs.gov/neis/epic/mm_scale.html&amp;gt;</edomvds>
+						<edomvds>&lt;http://neic.usgs.gov/neis/epic/mm_scale.html&gt;</edomvds>
 					</edom>
 				</attrdomv>
 				<attalias Sync="TRUE">MMIO</attalias>
@@ -1197,13 +1196,13 @@ distorted.  Objects thrown into the air.</edomvd>
 				<attrdefs>National Atlas of the United States</attrdefs>
 				<attrdomv>
 					<rdom>
-						<rdommin>&amp;lt;1,000</rdommin>
+						<rdommin>&lt;1,000</rdommin>
 						<rdommax>5,000,000</rdommax>
 					</rdom>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;Blank&amp;gt;</edomv>
+						<edomv>&lt;Blank&gt;</edomv>
 						<edomvd>The area in which the earthquake was felt is unknown.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1341,16 +1340,16 @@ Professional Paper 1527, 418 p.</edomvd>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USAearthquakes09</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1372,15 +1371,15 @@ Professional Paper 1527, 418 p.</edomvd>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -1408,11 +1407,11 @@ Professional Paper 1527, 418 p.</edomvd>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USAearthquakes09">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">5402</geoObjCnt>
 </geometObjs>

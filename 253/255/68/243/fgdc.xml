@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="windows-1252" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -13,7 +12,7 @@
 <publish>NH GRANIT (Firm)</publish>
 </pubinfo>
 				<othercit>New Hampshire. Office of Energy and Planning</othercit>
-				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nhhouse2012flot&amp;amp;#47;nh</onlink>
+				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nhhouse2012flot&amp;#47;nh</onlink>
 				<lworkcit>
 					<citeinfo>
 						<origin> University of New Hampshire. Complex Systems Research Center</origin>
@@ -23,7 +22,7 @@
 							<pubplace>Durham (N.H.)</pubplace>
 							<publish>NH GRANIT (Firm)</publish>
 						</pubinfo>
-						<onlink>&amp;lt;URL:http://www.granit.sr.unh.edu&amp;gt;</onlink>
+						<onlink>&lt;URL:http://www.granit.sr.unh.edu&gt;</onlink>
 					</citeinfo>
 				</lworkcit>
 				<ftname Sync="TRUE">NHHouseFloterialDistricts12</ftname>
@@ -115,7 +114,7 @@ Floterial districts overlay other NH House of Representatives districts ("base" 
 			</cntinfo>
 		</ptcontac>
 		<browse>
-			<browsen>&amp;lt;URL:http://www.granit.unh.edu/cgi-bin/load_file?PATH=/data/database/d-webdata/nhhouse2012flot/browse.gif&amp;gt;</browsen>
+			<browsen>&lt;URL:http://www.granit.unh.edu/cgi-bin/load_file?PATH=/data/database/d-webdata/nhhouse2012flot/browse.gif&gt;</browsen>
 			<browsed>gif image file</browsed>
 			<browset>GIF</browset>
 		</browse>
@@ -159,7 +158,7 @@ National Map Accuracy standards.
 							<publish>NH GRANIT, University of New Hampshire</publish>
 						</pubinfo>
 						<othercit>New Hampshire. Office of Energy and Planning</othercit>
-						<onlink>&amp;lt;URL:http://www.granit.unh.edu&amp;gt;</onlink>
+						<onlink>&lt;URL:http://www.granit.unh.edu&gt;</onlink>
 						<lworkcit>
 							<citeinfo>
 								<origin>Complex Systems Research Center, University of New Hampshire</origin>
@@ -169,7 +168,7 @@ National Map Accuracy standards.
 									<pubplace>Reston, VA</pubplace>
 									<publish>US Geological Survey</publish>
 								</pubinfo>
-								<onlink>&amp;lt;URL:http://www.granit.unh.edu&amp;gt;</onlink>
+								<onlink>&lt;URL:http://www.granit.unh.edu&gt;</onlink>
 							</citeinfo>
 						</lworkcit>
 					</citeinfo>
@@ -191,17 +190,17 @@ National Map Accuracy standards.
 			<srcinfo>
 				<srccite>
 					<citeinfo>
-						<origin>NH Department of Transportation, Bureau of Planning &amp;amp; Community Assistance</origin>
+						<origin>NH Department of Transportation, Bureau of Planning &amp; Community Assistance</origin>
 						<pubdate>20051101</pubdate>
 						<title>NH Public Roads</title>
 						<edition>1</edition>
 						<geoform>vector digital data</geoform>
 						<pubinfo>
 							<pubplace>Concord, NH</pubplace>
-							<publish>NH Department of Transportation, Bureau of Planning &amp;amp; Community Assistance</publish>
+							<publish>NH Department of Transportation, Bureau of Planning &amp; Community Assistance</publish>
 						</pubinfo>
 						<othercit>None</othercit>
-						<onlink>&amp;lt;URL:http://www.granit.unh.edu/data/search?dset=roads_dot/nh&amp;gt;</onlink>
+						<onlink>&lt;URL:http://www.granit.unh.edu/data/search?dset=roads_dot/nh&gt;</onlink>
 						<lworkcit>
 							<citeinfo>
 								<origin>Complex Systems Research Center, University of New Hampshire</origin>
@@ -211,7 +210,7 @@ National Map Accuracy standards.
 									<pubplace>Reston, VA</pubplace>
 									<publish>US Geological Survey</publish>
 								</pubinfo>
-								<onlink>&amp;lt;URL:http://www.granit.unh.edu&amp;gt;</onlink>
+								<onlink>&lt;URL:http://www.granit.unh.edu&gt;</onlink>
 							</citeinfo>
 						</lworkcit>
 					</citeinfo>
@@ -243,7 +242,7 @@ National Map Accuracy standards.
 							<publish>Complex Systems Research Center, University of New Hampshire</publish>
 						</pubinfo>
 						<othercit>New Hampshire. Office of Energy and Planning</othercit>
-						<onlink>&amp;lt;URL:http://www.granit.sr.unh.edu/cgi-bin/nhsearch?dset=nhhd/nh&amp;gt;</onlink>
+						<onlink>&lt;URL:http://www.granit.sr.unh.edu/cgi-bin/nhsearch?dset=nhhd/nh&gt;</onlink>
 						<lworkcit>
 							<citeinfo>
 								<origin>Complex Systems Research Center, University of New Hampshire</origin>
@@ -253,7 +252,7 @@ National Map Accuracy standards.
 									<pubplace>Durham, New Hampshire</pubplace>
 									<publish>Complex Systems Research Center, University of New Hampshire</publish>
 								</pubinfo>
-								<onlink>&amp;lt;URL:http://www.granit.unh.edu&amp;gt;</onlink>
+								<onlink>&lt;URL:http://www.granit.unh.edu&gt;</onlink>
 							</citeinfo>
 						</lworkcit>
 					</citeinfo>
@@ -285,7 +284,7 @@ National Map Accuracy standards.
 							<publish>NH Secretary of State</publish>
 						</pubinfo>
 						<othercit>None</othercit>
-						<onlink>&amp;lt;URL:http://sos.nh.gov/Voting_Districts.aspx&amp;gt;</onlink>
+						<onlink>&lt;URL:http://sos.nh.gov/Voting_Districts.aspx&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<srcscale>N/A</srcscale>
@@ -734,7 +733,7 @@ these data.
 					<onlinopt>
 						<computer>
 							<networka>
-								<networkr>&amp;lt;URL:http://www.granit.sr.unh.edu&amp;gt;</networkr>
+								<networkr>&lt;URL:http://www.granit.sr.unh.edu&gt;</networkr>
 							</networka>
 						</computer>
 					</onlinopt>
@@ -800,16 +799,16 @@ Ability to read/import shapefiles or Arc/Info export files.
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NHHouseFloterialDistricts12</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -831,15 +830,15 @@ Ability to read/import shapefiles or Arc/Info export files.
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -867,11 +866,11 @@ Ability to read/import shapefiles or Arc/Info export files.
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NHHouseFloterialDistricts12">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">45</geoObjCnt>
 </geometObjs>

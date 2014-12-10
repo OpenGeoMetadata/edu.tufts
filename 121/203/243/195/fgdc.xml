@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 <Esri>
 <CreaDate>20100622</CreaDate>
 <CreaTime>15240800</CreaTime>
@@ -29,97 +28,97 @@
 <type Sync="TRUE">Projected</type>
 <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
 <projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
-<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;LatestWKID&amp;gt;26986&amp;lt;/LatestWKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,200000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,750000.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-71.5],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,41.71666666666667],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,42.68333333333333],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,41.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26986]]&lt;/WKT&gt;&lt;XOrigin&gt;-36530900&lt;/XOrigin&gt;&lt;YOrigin&gt;-28803200&lt;/YOrigin&gt;&lt;XYScale&gt;122610652.81195112&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26986&lt;/WKID&gt;&lt;LatestWKID&gt;26986&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
 <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
 </coordRef>
 <lineage>
-<Process Date="20130611" Name="" Time="132733" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""102-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130611" Name="" Time="132911" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""302-" &amp;amp; [POLY_ID]" VB #</Process>
+<Process Date="20130611" Name="" Time="132733" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""102-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130611" Name="" Time="132911" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""302-" &amp; [POLY_ID]" VB #</Process>
 <Process Date="20130626" Name="" Time="102509" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "North Shore Salt Marsh WMA" VB #</Process>
 <Process Date="20130626" Name="" Time="134222" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys FEE_OWNER !FEE_OWNER!.title() PYTHON_9.3 #</Process>
 <Process Date="20130626" Name="" Time="135257" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" CAL_DATE_R "5/10/2001" VB #</Process>
 <Process Date="20130626" Name="" Time="135935" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "Squannacook River WCE" VB #</Process>
 <Process Date="20130626" Name="" Time="145851" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "Wright Pond WCE" VB #</Process>
 <Process Date="20130627" Name="" Time="092301" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys FEE_OWNER !FEE_OWNER!.title() PYTHON_9.3 #</Process>
-<Process Date="20130628" Name="" Time="095859" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""115-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130701" Name="" Time="095019" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""18-"&amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130701" Name="" Time="095147" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""285-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130701" Name="" Time="095256" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""264-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130701" Name="" Time="095434" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""266-"&amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130701" Name="" Time="095720" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""131-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130701" Name="" Time="095921" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""219-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130701" Name="" Time="100043" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""264-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130701" Name="" Time="100250" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""266-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130701" Name="" Time="100734" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""336-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130703" Name="" Time="094752" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""147-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130703" Name="" Time="094944" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""112-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130709" Name="" Time="083322" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""185-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130709" Name="" Time="083458" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""185-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130709" Name="" Time="083732" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""220-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130709" Name="" Time="083924" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""40-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130709" Name="" Time="084048" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""73-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130709" Name="" Time="084617" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""189-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130709" Name="" Time="084846" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""198-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130709" Name="" Time="085201" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""243-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130709" Name="" Time="094424" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""50-"&amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130709" Name="" Time="141719" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""99-" &amp;amp; [POLY_ID]" VB #</Process>
+<Process Date="20130628" Name="" Time="095859" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""115-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130701" Name="" Time="095019" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""18-"&amp; [POLY_ID]" VB #</Process>
+<Process Date="20130701" Name="" Time="095147" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""285-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130701" Name="" Time="095256" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""264-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130701" Name="" Time="095434" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""266-"&amp; [POLY_ID]" VB #</Process>
+<Process Date="20130701" Name="" Time="095720" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""131-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130701" Name="" Time="095921" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""219-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130701" Name="" Time="100043" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""264-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130701" Name="" Time="100250" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""266-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130701" Name="" Time="100734" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""336-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130703" Name="" Time="094752" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""147-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130703" Name="" Time="094944" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""112-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130709" Name="" Time="083322" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""185-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130709" Name="" Time="083458" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""185-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130709" Name="" Time="083732" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""220-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130709" Name="" Time="083924" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""40-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130709" Name="" Time="084048" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""73-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130709" Name="" Time="084617" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""189-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130709" Name="" Time="084846" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""198-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130709" Name="" Time="085201" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""243-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130709" Name="" Time="094424" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""50-"&amp; [POLY_ID]" VB #</Process>
+<Process Date="20130709" Name="" Time="141719" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""99-" &amp; [POLY_ID]" VB #</Process>
 <Process Date="20130711" Name="" Time="074753" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys SITE_NAME !SITE_NAME!.title() PYTHON_9.3 #</Process>
 <Process Date="20130711" Name="" Time="123500" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys FEE_OWNER !FEE_OWNER!.title() PYTHON_9.3 #</Process>
 <Process Date="20130711" Name="" Time="142630" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys FEE_OWNER !FEE_OWNER!.title() PYTHON_9.3 #</Process>
 <Process Date="20130711" Name="" Time="154806" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys FEE_OWNER !FEE_OWNER!.title() PYTHON_9.3 #</Process>
-<Process Date="20130712" Name="" Time="111746" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""139-"&amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130712" Name="" Time="111937" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""111-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130712" Name="" Time="112158" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""307-" &amp;amp; [POLY_ID]" VB #</Process>
+<Process Date="20130712" Name="" Time="111746" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""139-"&amp; [POLY_ID]" VB #</Process>
+<Process Date="20130712" Name="" Time="111937" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""111-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130712" Name="" Time="112158" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""307-" &amp; [POLY_ID]" VB #</Process>
 <Process Date="20130712" Name="" Time="124013" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys SOURCE_MAP "Plans 11683-B and 11683-F" VB #</Process>
 <Process Date="20130715" Name="" Time="142625" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "Cold Brook WCE" VB #</Process>
-<Process Date="20130716" Name="" Time="091345" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""155-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130716" Name="" Time="091615" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""178-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130716" Name="" Time="091753" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""2-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130716" Name="" Time="092223" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""262-" &amp;amp; [POLY_ID]" VB #</Process>
+<Process Date="20130716" Name="" Time="091345" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""155-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130716" Name="" Time="091615" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""178-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130716" Name="" Time="091753" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""2-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130716" Name="" Time="092223" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""262-" &amp; [POLY_ID]" VB #</Process>
 <Process Date="20130716" Name="" Time="144844" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys SITE_NAME "Old Meetinghouse Park" VB #</Process>
 <Process Date="20130717" Name="" Time="070427" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys SITE_NAME "Conservation Area" VB #</Process>
 <Process Date="20130717" Name="" Time="070540" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys ALT_SITE_NAME "Coleman" VB #</Process>
 <Process Date="20130717" Name="" Time="072918" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys FEE_OWNER !FEE_OWNER!.title() PYTHON_9.3 #</Process>
 <Process Date="20130717" Name="" Time="140717" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys SITE_NAME !SITE_NAME!.title() PYTHON_9.3 #</Process>
-<Process Date="20130718" Name="" Time="110241" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""126-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130718" Name="" Time="110345" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""224-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130718" Name="" Time="110508" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""300-" &amp;amp; [POLY_ID]" VB #</Process>
+<Process Date="20130718" Name="" Time="110241" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""126-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130718" Name="" Time="110345" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""224-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130718" Name="" Time="110508" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""300-" &amp; [POLY_ID]" VB #</Process>
 <Process Date="20130718" Name="" Time="141732" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField GISDATA.OPENSPACE_POLY SITE_NAME "Rough Meadows Wildlife Sanctuary" VB #</Process>
 <Process Date="20130718" Name="" Time="141853" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField GISDATA.OPENSPACE_POLY ALT_SITE_NAME "Sandy Point State Reservation" VB #</Process>
 <Process Date="20130718" Name="" Time="142158" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField GISDATA.OPENSPACE_POLY ALT_SITE_NAME "Sandy Point State Reservation" VB #</Process>
 <Process Date="20130723" Name="" Time="123115" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys FEE_OWNER !FEE_OWNER!.title() PYTHON_9.3 #</Process>
 <Process Date="20130723" Name="" Time="123303" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys FEE_OWNER !FEE_OWNER!.title() PYTHON_9.3 #</Process>
 <Process Date="20130724" Name="" Time="071548" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys FEE_OWNER !FEE_OWNER!.title() PYTHON_9.3 #</Process>
-<Process Date="20130724" Name="" Time="122753" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""56-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130724" Name="" Time="123522" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""15-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130724" Name="" Time="133931" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys LOC_ID ""254-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130724" Name="" Time="134903" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys LOC_ID ""252-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130724" Name="" Time="140227" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""252-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130724" Name="" Time="141858" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""254-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130726" Name="" Time="072328" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""111-" &amp;amp; [POLY_ID]" VB #</Process>
+<Process Date="20130724" Name="" Time="122753" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""56-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130724" Name="" Time="123522" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""15-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130724" Name="" Time="133931" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys LOC_ID ""254-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130724" Name="" Time="134903" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys LOC_ID ""252-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130724" Name="" Time="140227" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""252-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130724" Name="" Time="141858" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""254-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130726" Name="" Time="072328" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""111-" &amp; [POLY_ID]" VB #</Process>
 <Process Date="20130731" Name="" Time="140226" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "Upper Westfield River WMA" VB #</Process>
 <Process Date="20130731" Name="" Time="142717" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "Windsor Brook WCE" VB #</Process>
 <Process Date="20130731" Name="" Time="142833" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" CAL_DATE_R "8/2/2001" VB #</Process>
 <Process Date="20130731" Name="" Time="142843" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" FY_FUNDING 2002 VB #</Process>
-<Process Date="20130808" Name="" Time="073027" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""217-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130808" Name="" Time="100647" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""58-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130812" Name="" Time="122125" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""60-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130821" Name="" Time="131048" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""20-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130821" Name="" Time="131416" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""327-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130821" Name="" Time="131607" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""261-" &amp;amp; [POLY_ID]" VB #</Process>
+<Process Date="20130808" Name="" Time="073027" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""217-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130808" Name="" Time="100647" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""58-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130812" Name="" Time="122125" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""60-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130821" Name="" Time="131048" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""20-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130821" Name="" Time="131416" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""327-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130821" Name="" Time="131607" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""261-" &amp; [POLY_ID]" VB #</Process>
 <Process Date="20130903" Name="" Time="151604" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "Joan WMA" VB #</Process>
 <Process Date="20130903" Name="" Time="152411" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME ""Joan's WMA USE DOUBLE QUOTES!!!"" VB #</Process>
 <Process Date="20130903" Name="" Time="154312" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "USE DOUBLE QUOTES!!!" VB #</Process>
 <Process Date="20130903" Name="" Time="155014" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "JOAN WMA" VB #</Process>
-<Process Date="20130911" Name="" Time="075758" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""290-" &amp;amp; [POLY_ID]" VB #</Process>
+<Process Date="20130911" Name="" Time="075758" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""290-" &amp; [POLY_ID]" VB #</Process>
 <Process Date="20130912" Name="" Time="135951" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "Orange WCE" VB #</Process>
 <Process Date="20130912" Name="" Time="152729" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "Provincetown Corridor WMA" VB #</Process>
 <Process Date="20130913" Name="" Time="082858" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField OS_Polys PROJ_ID2 "272_LP_2012_1" VB #</Process>
 <Process Date="20130913" Name="" Time="104753" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField "Protected and Recreational OpenSpace (Polygons)" SITE_NAME "SE Mass Bioreserve" VB #</Process>
-<Process Date="20130916" Name="" Time="080451" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""11-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130916" Name="" Time="095315" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""53-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130916" Name="" Time="100321" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""237-" &amp;amp; [POLY_ID]" VB #</Process>
-<Process Date="20130919" Time="094408" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField">CalculateField QAQC_OS_Polys OS_ID ""168-" &amp;amp; [POLY_ID]" VB #</Process>
+<Process Date="20130916" Name="" Time="080451" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""11-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130916" Name="" Time="095315" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""53-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130916" Name="" Time="100321" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" export="">CalculateField QAQC_OS_Polys OS_ID ""237-" &amp; [POLY_ID]" VB #</Process>
+<Process Date="20130919" Time="094408" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField">CalculateField QAQC_OS_Polys OS_ID ""168-" &amp; [POLY_ID]" VB #</Process>
 <Process Date="20130920" Time="094947" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures">CopyFeatures E:\MassGIS_Vector_Transactional.sde\GISDATA.OPENSPACE\GISDATA.OPENSPACE_POLY E:\MassGIS\mtrust\export_shp\openspace\shapefiles\OPENSPACE_POLY.shp # 0 0 0</Process>
 </lineage>
 </DataProperties>
@@ -249,17 +248,17 @@
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" country="USA" value="en"/>
-<countryCode Sync="TRUE" value="USA"/>
+<languageCode Sync="TRUE" country="USA" value="en" />
+<countryCode Sync="TRUE" value="USA" />
 </dataLang>
 <idCitation>
 <resTitle Sync="FALSE">Protected and Recreational OpenSpace (Polygons)</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -287,15 +286,15 @@
 <exTypeCode Sync="TRUE">1</exTypeCode>
 </geoBox>
 <descKeys>
-<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66" />
 <keyword Sync="TRUE">002</keyword>
 </descKeys>
 <otherKeys>
-<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66" />
 <keyword>002</keyword>
 </otherKeys>
 <idPurp>Planning and analysis</idPurp>
-<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;The MassGIS Protected and Recreational OpenSpace data comprise a set of related data layers that represent parklands, forests, golf courses, playgrounds, wildlife sanctuaries, conservation lands, water supply areas, cemeteries, school ball fields, and other open land that may be classified as protected and/or recreational in use. Not all lands in this layer are protected in perpetuity, though nearly all have at least some level of protection. The layer includes lands owned by the state, cities and towns, federal agencies, and private and non-profit entities. The following types of land are included in this polygon datalayer: - conservation land - habitat protection with minimal recreation, such as walking trails - recreation land - outdoor facilities such as town parks, commons, playing fields, school fields, golf courses, bike paths, scout camps, and fish and game clubs. These may be privately or publicly owned facilities. - town forests - parkways - green buffers along roads, if they are a recognized conservation resource - agricultural land - land protected under an Agricultural Preservation Restriction (APR) and administered by the state Department of Agricultural Resources (DAR, formerly the Dept. of Food and Agriculture (DFA)) - aquifer protection land - not zoning overlay districts - watershed protection land - not zoning overlay districts - cemeteries - if a recognized conservation or recreation resource - forest land -- if designated as a Forest Legacy Area The OpenSpace layer includes two feature classes: * OPENSPACE_POLY - polygons of recreational and conservation lands as described above * OPENSPACE_ARC - attributed lines that represent boundaries of the polygons These feature classes are stored in a feature dataset named OPENSPACE that includes ArcGIS geodatabase topology.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;The MassGIS Protected and Recreational OpenSpace data comprise a set of related data layers that represent parklands, forests, golf courses, playgrounds, wildlife sanctuaries, conservation lands, water supply areas, cemeteries, school ball fields, and other open land that may be classified as protected and/or recreational in use. Not all lands in this layer are protected in perpetuity, though nearly all have at least some level of protection. The layer includes lands owned by the state, cities and towns, federal agencies, and private and non-profit entities. The following types of land are included in this polygon datalayer: - conservation land - habitat protection with minimal recreation, such as walking trails - recreation land - outdoor facilities such as town parks, commons, playing fields, school fields, golf courses, bike paths, scout camps, and fish and game clubs. These may be privately or publicly owned facilities. - town forests - parkways - green buffers along roads, if they are a recognized conservation resource - agricultural land - land protected under an Agricultural Preservation Restriction (APR) and administered by the state Department of Agricultural Resources (DAR, formerly the Dept. of Food and Agriculture (DFA)) - aquifer protection land - not zoning overlay districts - watershed protection land - not zoning overlay districts - cemeteries - if a recognized conservation or recreation resource - forest land -- if designated as a Forest Legacy Area The OpenSpace layer includes two feature classes: * OPENSPACE_POLY - polygons of recreational and conservation lands as described above * OPENSPACE_ARC - attributed lines that represent boundaries of the polygons These feature classes are stored in a feature dataset named OPENSPACE that includes ArcGIS geodatabase topology.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
 <searchKeys>
 <keyword>open space</keyword>
 <keyword>conservation</keyword>
@@ -304,17 +303,17 @@
 </searchKeys>
 <resConst>
 <Consts>
-<useLimit>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;These data are very useful for most statewide and regional planning purposes. However, they are not a legal record of ownership, and the user should understand that parcel representations are generally not based on property surveys.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</useLimit>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;These data are very useful for most statewide and regional planning purposes. However, they are not a legal record of ownership, and the user should understand that parcel representations are generally not based on property surveys.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
 </Consts>
 </resConst>
 <idCredit>MassGIS, Executive Office of Energy and Environmental Affairs</idCredit>
 <dataChar>
-<CharSetCd value="004"/>
+<CharSetCd value="004" />
 </dataChar>
 <idPoC>
 <rpIndName>Ben Smith</rpIndName>
 <rpOrgName>Executive Office of Energy and Environmental Affairs</rpOrgName>
-<rpPosName>GIS Analyst / DBA, Protected &amp;amp; Recreational Open Space Program</rpPosName>
+<rpPosName>GIS Analyst / DBA, Protected &amp; Recreational Open Space Program</rpPosName>
 <rpCntInfo>
 <cntAddress>
 <delPoint>251 Causeway Street, 5th Floor</delPoint>
@@ -328,7 +327,7 @@
 <linkage>http://www.mass.gov/itd/osp</linkage>
 <orDesc>OpenSpace Web Metadata</orDesc>
 <orFunct>
-<OnFunctCd value="002"/>
+<OnFunctCd value="002" />
 </orFunct>
 </cntOnlineRes>
 <cntPhone>
@@ -337,19 +336,19 @@
 </cntPhone>
 </rpCntInfo>
 <role>
-<RoleCd value="002"/>
+<RoleCd value="002" />
 </role>
 </idPoC>
 <resMaint>
 <maintFreq>
-<MaintFreqCd value="001"/>
+<MaintFreqCd value="001" />
 </maintFreq>
 <maintScp>
-<ScopeCd value="005"/>
+<ScopeCd value="005" />
 </maintScp>
 </resMaint>
 <tpCat>
-<TopicCatCd value="007"/>
+<TopicCatCd value="007" />
 </tpCat>
 </dataIdInfo>
 <metainfo>
@@ -388,16 +387,16 @@
 </metextns>
 </metainfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
-<countryCode Sync="TRUE" value="USA"/>
+<languageCode Sync="TRUE" value="en" />
+<countryCode Sync="TRUE" value="USA" />
 </mdLang>
 <mdStanName>ArcGIS Metadata</mdStanName>
 <mdStanVer>1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distinfo>
@@ -461,7 +460,7 @@
 <linkage>http://www.mass.gov/itd/osp</linkage>
 <orDesc>MassGIS OpenSpace Datalayer Web page</orDesc>
 <orFunct>
-<OnFunctCd value="001"/>
+<OnFunctCd value="001" />
 </orFunct>
 </cntOnlineRes>
 <cntPhone>
@@ -469,7 +468,7 @@
 </cntPhone>
 </rpCntInfo>
 <role>
-<RoleCd value="005"/>
+<RoleCd value="005" />
 </role>
 </distorCont>
 <distorTran>
@@ -561,11 +560,11 @@
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="MAOpenSpacePoly13">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">47944</geoObjCnt>
 </geometObjs>
@@ -5403,10 +5402,10 @@ qGOX4OMZGAB689KKKK78TOVCo4UnZLsRFXV2f//Z</Data>
 </Binary>
 <mdMaint>
 <maintFreq>
-<MaintFreqCd value="001"/>
+<MaintFreqCd value="001" />
 </maintFreq>
 <maintScp>
-<ScopeCd value="005"/>
+<ScopeCd value="005" />
 </maintScp>
 </mdMaint>
 </metadata>

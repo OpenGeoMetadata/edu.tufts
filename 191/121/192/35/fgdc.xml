@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -97,7 +96,7 @@
 				<cntorgp>
 					<cntorg>Federal Railroad Administration (FRA)</cntorg>
 				</cntorgp>
-				<cntpos>GIS - Office of Railroad Policy &amp;amp; Development</cntpos>
+				<cntpos>GIS - Office of Railroad Policy &amp; Development</cntpos>
 				<cntaddr>
 					<addrtype>mailing and physical address</addrtype>
 					<address>1200 New Jersey Avenue S.E.</address>
@@ -158,7 +157,7 @@
 						<cntorgp>
 							<cntorg>Federal Railroad Administration (FRA)</cntorg>
 						</cntorgp>
-						<cntpos>GIS-Office of Railroad Policy &amp;amp; Devlopment</cntpos>
+						<cntpos>GIS-Office of Railroad Policy &amp; Devlopment</cntpos>
 						<cntaddr>
 							<addrtype>mailing and physical address</addrtype>
 							<address>1200 New Jersey Avenue S.E.</address>
@@ -172,18 +171,18 @@
 			</procstep>
 			<procstep>
 				<procdesc>In order to meet Tufts University's metadata standards:
-&amp;gt;Changed citatition title from "Amtrak Stations" to "Amtrak Stations USA 2009"
-&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
-&amp;gt;Changed name of file from "amtrk_sta" to "USAamtrkstations09"
-&amp;gt;Changed originator from "Federal Railroad Administration (FRA)" to "United States. Federal Railroad Administration"
-&amp;gt;Changed publication place to reflect LCNH formatting
-&amp;gt;Added to Larger work Citation originator, pubdate, title, pubplace, publisher
-&amp;gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
-&amp;gt;Added ISO 19115 Topic Category keywords
-&amp;gt;Added LCSH theme keywords
-&amp;gt;Added GNS place keywords
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Exported metadata</procdesc>
+&gt;Changed citatition title from "Amtrak Stations" to "Amtrak Stations USA 2009"
+&gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&gt;Changed name of file from "amtrk_sta" to "USAamtrkstations09"
+&gt;Changed originator from "Federal Railroad Administration (FRA)" to "United States. Federal Railroad Administration"
+&gt;Changed publication place to reflect LCNH formatting
+&gt;Added to Larger work Citation originator, pubdate, title, pubplace, publisher
+&gt;Added theme keyword "point" to added theme keyword thesaurus "FGDC"
+&gt;Added ISO 19115 Topic Category keywords
+&gt;Added LCSH theme keywords
+&gt;Added GNS place keywords
+&gt;Replaced Tufts as the distributor
+&gt;Exported metadata</procdesc>
 				<procdate>20111129</procdate>
 				<proccont>
 					<cntinfo>
@@ -473,16 +472,16 @@ Amtrak Stations</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USAAmtrkStations09</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -504,15 +503,15 @@ Amtrak Stations</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -540,11 +539,11 @@ Amtrak Stations</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USAAmtrkStations09">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">879</geoObjCnt>
 </geometObjs>

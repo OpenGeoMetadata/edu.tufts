@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="windows-1252" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -7,7 +6,7 @@
 				<pubdate>20080101</pubdate>
 				<title>Recreational Areas New Hampshire 1997-2007</title>
 				<geoform Sync="TRUE">vector digital data</geoform>
-				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nhrec_poly&amp;amp;#47;nh</onlink>
+				<onlink>http://www.granit.sr.unh.edu/data/search?dset=nhrec_poly&amp;#47;nh</onlink>
 				<ftname Sync="TRUE">NHRecreationalAreas9707</ftname>
 <lworkcit>
 <citeinfo>
@@ -124,7 +123,7 @@ A companion data set, "Recreation Site Locations New Hampshire 1997-2009", is al
 </cntinfo>
 		</ptcontac>
 		<browse>
-			<browsen>&amp;lt;URL:http://www.granit.sr.unh.edu/cgi-bin/load_file?PATH=/data/database/d-webdata/nhrec_poly/browse.gif&amp;gt;</browsen>
+			<browsen>&lt;URL:http://www.granit.sr.unh.edu/cgi-bin/load_file?PATH=/data/database/d-webdata/nhrec_poly/browse.gif&gt;</browsen>
 			<browsed>gif image file</browsed>
 			<browset>GIF</browset>
 		</browse>
@@ -537,7 +536,7 @@ This shapefile metadata was edited for clarity and keywords were added per Tufts
 						<edomvds>NH GRANIT</edomvds>
 					</edom>
 					<edom>
-						<edomv>F&amp;amp;G</edomv>
+						<edomv>F&amp;G</edomv>
 						<edomvd>Department of Fish and Game</edomvd>
 						<edomvds>NH GRANIT</edomvds>
 					</edom>
@@ -1152,16 +1151,16 @@ these data.
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NHRecreationalAreas9707</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1183,15 +1182,15 @@ these data.
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -1219,11 +1218,11 @@ these data.
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NHRecreationalAreas9707">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">2718</geoObjCnt>
 </geometObjs>

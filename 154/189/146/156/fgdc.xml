@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -10,7 +9,7 @@
 				<edition>10</edition>
 				<geoform>vector digital data</geoform>
 				<serinfo>
-					<sername>ESRI® Data &amp;amp; Maps</sername>
+					<sername>ESRI® Data &amp; Maps</sername>
 					<issue>10 - World, Europe, and United States</issue>
 				</serinfo>
 				<pubinfo>
@@ -18,7 +17,7 @@
 					<publish>Environmental Systems Research Institute (Redlands, Calif.)</publish>
 				</pubinfo>
 				<othercit>Location: \usa\census</othercit>
-				<onlink>http://www.arcgis.com/home/group.html?owner=esri&amp;amp;title=ESRI%20Data%20%26%20Maps&amp;amp;content=all</onlink>
+				<onlink>http://www.arcgis.com/home/group.html?owner=esri&amp;title=ESRI%20Data%20%26%20Maps&amp;content=all</onlink>
 				<lworkcit>
 					<citeinfo>
 						<origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
@@ -97,14 +96,14 @@
 			</place>
 		</keywords>
 		<accconst>Restricted Access Online: Access is granted to licensee only. Available only to Tufts University affiliates.</accconst>
-		<useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp;amp; Maps for use with ESRI® software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp;amp; Maps. As used herein, &amp;#147;Geodata&amp;#148; shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+		<useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI® software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, Geodata shall mean any digital data set consisting of geographic data coordinates and associated attributes.
 
 The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).
 
 Special notice from Tele Atlas North America, Inc. for this data set:
 ©2010 Pitney Bowes MapInfo. All rights reserved. This product contains information and/or data of Telcordia Technologies, Inc. (Telcordia) licensed to be included herein.
 
-The terms and conditions below apply to all the data sets provided on ESRI Data &amp;amp; Maps.
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
 
 Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
 
@@ -143,11 +142,11 @@ In the event that the data vendor(s) has (have) granted the end user permission 
 				<cntvoice>909-793-2853</cntvoice>
 				<cntfax>909-793-5953</cntfax>
 				<cntemail>info@esri.com</cntemail>
-				<hours>7:00 a.m.&amp;#150;5:30 p.m. Pacific time, Monday&amp;#150;Friday</hours>
-				<cntinst>In the United States&amp;#150;
+				<hours>7:00 a.m.5:30 p.m. Pacific time, MondayFriday</hours>
+				<cntinst>In the United States
 Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
 
-Outside the United States&amp;#150;
+Outside the United States
 Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
 
 For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
@@ -185,7 +184,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 						<onlink>http://www.teleatlas.com/</onlink>
 					</citeinfo>
 				</srccite>
-				<typesrc>DVD&amp;#150;ROM</typesrc>
+				<typesrc>DVDROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<mdattim>
@@ -222,7 +221,7 @@ For other questions or comments, you may contact ESRI headquarters by e-mail, te
 						<onlink>http://www.teleatlas.com/</onlink>
 					</citeinfo>
 				</srccite>
-				<typesrc>DVD&amp;#150;ROM</typesrc>
+				<typesrc>DVDROM</typesrc>
 				<srctime>
 					<timeinfo>
 						<sngdate>
@@ -270,7 +269,7 @@ Use Constraints, Access, Distribution Liability, Resource, Ordering instructions
 			</procstep>
 			<procstep>
 				<procdesc>Dataset copied.</procdesc>
-				<srcused/>
+				<srcused />
 				<procdate>20120509</procdate>
 				<proctime>15200600</proctime>
 			</procstep>
@@ -375,7 +374,7 @@ areacode</enttypl>
 				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
 				<attrdomv>
 					<codesetd>
-						<codesetn>Federal Information Processing Standards 5&amp;#150;2</codesetn>
+						<codesetn>Federal Information Processing Standards 52</codesetn>
 						<codesets>National Institute of Standards and Technology</codesets>
 					</codesetd>
 				</attrdomv>
@@ -431,7 +430,7 @@ areacode</enttypl>
 </digtinfo>
 				<digtopt>
 					<offoptn>
-						<offmedia>DVD&amp;#150;ROM</offmedia>
+						<offmedia>DVDROM</offmedia>
 						<reccap>
 							<recden>4.38 or 7.95</recden>
 							<recdenu>GB (gigabytes)</recdenu>
@@ -483,16 +482,16 @@ areacode</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USAreacode09</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -514,15 +513,15 @@ areacode</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -550,11 +549,11 @@ areacode</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USAreacode09">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">281</geoObjCnt>
 </geometObjs>

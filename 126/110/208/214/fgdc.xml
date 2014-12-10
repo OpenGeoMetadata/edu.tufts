@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 <Esri>
 <CreaDate>20131114</CreaDate>
 <CreaTime>15141900</CreaTime>
@@ -26,9 +25,9 @@
 <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
 <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
 <projcsn Sync="TRUE">NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001</projcsn>
-<peXml Sync="TRUE">&amp;lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'&amp;gt;&amp;lt;WKT&amp;gt;PROJCS[&amp;amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;amp;quot;,GEOGCS[&amp;amp;quot;GCS_North_American_1983&amp;amp;quot;,DATUM[&amp;amp;quot;D_North_American_1983&amp;amp;quot;,SPHEROID[&amp;amp;quot;GRS_1980&amp;amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;amp;quot;Greenwich&amp;amp;quot;,0.0],UNIT[&amp;amp;quot;Degree&amp;amp;quot;,0.0174532925199433]],PROJECTION[&amp;amp;quot;Lambert_Conformal_Conic&amp;amp;quot;],PARAMETER[&amp;amp;quot;False_Easting&amp;amp;quot;,200000.0],PARAMETER[&amp;amp;quot;False_Northing&amp;amp;quot;,750000.0],PARAMETER[&amp;amp;quot;Central_Meridian&amp;amp;quot;,-71.5],PARAMETER[&amp;amp;quot;Standard_Parallel_1&amp;amp;quot;,41.71666666666667],PARAMETER[&amp;amp;quot;Standard_Parallel_2&amp;amp;quot;,42.68333333333333],PARAMETER[&amp;amp;quot;Latitude_Of_Origin&amp;amp;quot;,41.0],UNIT[&amp;amp;quot;Meter&amp;amp;quot;,1.0],AUTHORITY[&amp;amp;quot;EPSG&amp;amp;quot;,26986]]&amp;lt;/WKT&amp;gt;&amp;lt;XOrigin&amp;gt;-36530900&amp;lt;/XOrigin&amp;gt;&amp;lt;YOrigin&amp;gt;-28803200&amp;lt;/YOrigin&amp;gt;&amp;lt;XYScale&amp;gt;122610652.81195112&amp;lt;/XYScale&amp;gt;&amp;lt;ZOrigin&amp;gt;-100000&amp;lt;/ZOrigin&amp;gt;&amp;lt;ZScale&amp;gt;10000&amp;lt;/ZScale&amp;gt;&amp;lt;MOrigin&amp;gt;-100000&amp;lt;/MOrigin&amp;gt;&amp;lt;MScale&amp;gt;10000&amp;lt;/MScale&amp;gt;&amp;lt;XYTolerance&amp;gt;0.001&amp;lt;/XYTolerance&amp;gt;&amp;lt;ZTolerance&amp;gt;0.001&amp;lt;/ZTolerance&amp;gt;&amp;lt;MTolerance&amp;gt;0.001&amp;lt;/MTolerance&amp;gt;&amp;lt;HighPrecision&amp;gt;true&amp;lt;/HighPrecision&amp;gt;&amp;lt;WKID&amp;gt;26986&amp;lt;/WKID&amp;gt;&amp;lt;/ProjectedCoordinateSystem&amp;gt;</peXml>
+<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_Massachusetts_Mainland_FIPS_2001&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,200000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,750000.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-71.5],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,41.71666666666667],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,42.68333333333333],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,41.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26986]]&lt;/WKT&gt;&lt;XOrigin&gt;-36530900&lt;/XOrigin&gt;&lt;YOrigin&gt;-28803200&lt;/YOrigin&gt;&lt;XYScale&gt;122610652.81195112&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26986&lt;/WKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
 </coordRef>
-<lineage/>
+<lineage />
 </DataProperties>
 <SyncDate>20140522</SyncDate>
 <SyncTime>21521100</SyncTime>
@@ -44,11 +43,11 @@
 <MetaID>{34C9BD3B-04BD-4639-8EED-4A4FABACB85E}</MetaID>
 </Esri>
 <mdLang>
-<languageCode value="eng"/>
-<countryCode Sync="TRUE" value="USA"/>
+<languageCode value="eng" />
+<countryCode Sync="TRUE" value="USA" />
 </mdLang>
 <mdHrLv>
-<ScopeCd value="005"/>
+<ScopeCd value="005" />
 </mdHrLv>
 <mdContact>
 <rpIndName>Tara Manno Richer</rpIndName>
@@ -71,7 +70,7 @@
 <cntInstr>Tuesday - Thursday</cntInstr>
 </rpCntInfo>
 <role>
-<RoleCd value="007"/>
+<RoleCd value="007" />
 </role>
 </mdContact>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
@@ -98,7 +97,7 @@
 <cntHours>9 AM - 5 PM</cntHours>
 </rpCntInfo>
 <role>
-<RoleCd value="005"/>
+<RoleCd value="005" />
 </role>
 </distorCont>
 <distorOrdPrc>
@@ -129,17 +128,17 @@
 <citRespParty>
 <rpOrgName>MA Department of Environmental Protection</rpOrgName>
 <role>
-<RoleCd value="006"/>
+<RoleCd value="006" />
 </role>
 </citRespParty>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
-<idAbs>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;&amp;lt;SPAN&amp;gt;The Department of Environmental Protection (MassDEP) Major Facilities datalayer is a statewide point dataset containing the location of a subset of facility types regulated by MassDEP’s Bureau of Waste Prevention (BWP). The layer is stored in ArcSDE as BWPMAJOR_PT. In a preliminary effort to begin locating facilities regulated by MassDEP, the BWP chose to locate facility types having the greatest potential environmental significance. At this time, the following facility types have been located: - Large Quantity Generators of Hazardous Waste (LQG) - Large Quantity Generator of MA-regulated Hazardous Waste (LQG_MA) - Large Quantity Generator of EPA/RCRA-regulated Hazardous Waste (LQG_RCRA) - Large Quantity Toxic Users (LQTU) - Hazardous Waste Recyclers (HWR) - Hazardous Waste Treatment, Storage and/or Disposal Facilities (TSDF) - Facilities with Air Operating Permits (AIR) - Facilities with Groundwater Discharge Permits (GWD) - Facilities with Surfacewater Discharge Permits (SWD). &amp;lt;/SPAN&amp;gt;&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;&amp;lt;SPAN&amp;gt;Please note: the Solid Waste Land Disposal polygon datalayer contains point datalayers of active and historical solid waste Combustion Facilities, active Handling/Transfer Stations and Compost Sites. Active SW Combustion Facilities are a subset of the Air Operating Permits in this BWP Major Facilities layer.&amp;lt;/SPAN&amp;gt;&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;See the Location Documentation Table (BWPMAJOR_LDT) for documentation re: the types of features mapped, methods and sources used.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</idAbs>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;&lt;SPAN&gt;The Department of Environmental Protection (MassDEP) Major Facilities datalayer is a statewide point dataset containing the location of a subset of facility types regulated by MassDEP’s Bureau of Waste Prevention (BWP). The layer is stored in ArcSDE as BWPMAJOR_PT. In a preliminary effort to begin locating facilities regulated by MassDEP, the BWP chose to locate facility types having the greatest potential environmental significance. At this time, the following facility types have been located: - Large Quantity Generators of Hazardous Waste (LQG) - Large Quantity Generator of MA-regulated Hazardous Waste (LQG_MA) - Large Quantity Generator of EPA/RCRA-regulated Hazardous Waste (LQG_RCRA) - Large Quantity Toxic Users (LQTU) - Hazardous Waste Recyclers (HWR) - Hazardous Waste Treatment, Storage and/or Disposal Facilities (TSDF) - Facilities with Air Operating Permits (AIR) - Facilities with Groundwater Discharge Permits (GWD) - Facilities with Surfacewater Discharge Permits (SWD). &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;&lt;SPAN&gt;Please note: the Solid Waste Land Disposal polygon datalayer contains point datalayers of active and historical solid waste Combustion Facilities, active Handling/Transfer Stations and Compost Sites. Active SW Combustion Facilities are a subset of the Air Operating Permits in this BWP Major Facilities layer.&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;See the Location Documentation Table (BWPMAJOR_LDT) for documentation re: the types of features mapped, methods and sources used.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
 <idPurp>Planning and analysis</idPurp>
 <idStatus>
-<ProgCd value="001"/>
+<ProgCd value="001" />
 </idStatus>
 <idPoC>
 <rpIndName>Tara Manno Richer</rpIndName>
@@ -161,12 +160,12 @@
 <cntInstr>Tuesday - Friday</cntInstr>
 </rpCntInfo>
 <role>
-<RoleCd value="007"/>
+<RoleCd value="007" />
 </role>
 </idPoC>
 <resMaint>
 <maintFreq>
-<MaintFreqCd value="009"/>
+<MaintFreqCd value="009" />
 </maintFreq>
 </resMaint>
 <themeKeys>
@@ -235,12 +234,12 @@
 <othConsts>Restricted Data</othConsts>
 </LegConsts>
 <Consts>
-<useLimit>&amp;lt;DIV STYLE="text-align:Left;"&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;DIV&amp;gt;&amp;lt;P&amp;gt;&amp;lt;SPAN&amp;gt;The Massachusetts Executive Office of Energy and Environmental Affairs (EOEEA) has directed the DEP and MassGIS to restrict the access and distributing of this data.&amp;lt;/SPAN&amp;gt;&amp;lt;/P&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;&amp;lt;/DIV&amp;gt;</useLimit>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;The Massachusetts Executive Office of Energy and Environmental Affairs (EOEEA) has directed the DEP and MassGIS to restrict the access and distributing of this data.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
 </Consts>
 </resConst>
 <dataLang>
-<languageCode country="USA" value="eng"/>
-<countryCode Sync="TRUE" value="USA"/>
+<languageCode country="USA" value="eng" />
+<countryCode Sync="TRUE" value="USA" />
 </dataLang>
 <dataExt>
 <exDesc>publication date</exDesc>
@@ -263,10 +262,10 @@
 </dataExt>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataChar>
-<CharSetCd value="004"/>
+<CharSetCd value="004" />
 </dataChar>
 <geoBox esriExtentType="decdegrees">
 <westBL Sync="TRUE">-73.382619</westBL>
@@ -276,7 +275,7 @@
 <exTypeCode Sync="TRUE">1</exTypeCode>
 </geoBox>
 <descKeys>
-<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+<thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66" />
 <keyword Sync="TRUE">002</keyword>
 </descKeys>
 <idCredit>Massachusetts Department of Environmental Protection Bureau of Waste Prevention</idCredit>
@@ -284,7 +283,7 @@
 <dqInfo>
 <dqScope>
 <scpLvl>
-<ScopeCd value="005"/>
+<ScopeCd value="005" />
 </scpLvl>
 </dqScope>
 <report dimension="" type="DQCompOm">
@@ -781,7 +780,7 @@
 <attrdomv>
 <edom>
 <edomv>FR</edomv>
-<edomvd>Center of Firing Range (rod &amp;amp; gun clubs)</edomvd>
+<edomvd>Center of Firing Range (rod &amp; gun clubs)</edomvd>
 <edomvds>Massachusetts. Department of Environmental Protection</edomvds>
 </edom>
 </attrdomv>
@@ -942,7 +941,7 @@
 <attrdomv>
 <edom>
 <edomv>TF</edomv>
-<edomvd>Center of trap field (rod &amp;amp; gun clubs)</edomvd>
+<edomvd>Center of trap field (rod &amp; gun clubs)</edomvd>
 <edomvds>Massachusetts. Department of Environmental Protection</edomvds>
 </edom>
 </attrdomv>
@@ -1373,7 +1372,7 @@
 <attrdomv>
 <edom>
 <edomv>DD_SWAP</edomv>
-<edomvd>Contracted data developed through DEP Source Water Assessment &amp;amp; Protection Program</edomvd>
+<edomvd>Contracted data developed through DEP Source Water Assessment &amp; Protection Program</edomvd>
 <edomvds>Massachusetts. Department of Environmental Protection </edomvds>
 </edom>
 </attrdomv>
@@ -1464,7 +1463,7 @@
 <attrdomv>
 <edom>
 <edomv>MS_SWAP  </edomv>
-<edomvd>DEP Source Water Assessment &amp;amp; Protection Program Map</edomvd>
+<edomvd>DEP Source Water Assessment &amp; Protection Program Map</edomvd>
 <edomvds>Massachusetts. Department of Environmental Protection </edomvds>
 </edom>
 </attrdomv>
@@ -1829,7 +1828,7 @@
 <attrdomv>
 <edom>
 <edomv>DD_SWAP</edomv>
-<edomvd>Contracted data developed through DEP Source Water Assessment &amp;amp; Protection</edomvd>
+<edomvd>Contracted data developed through DEP Source Water Assessment &amp; Protection</edomvd>
 <edomvds>Massachusetts. Department of Environmental Protection </edomvds>
 </edom>
 </attrdomv>
@@ -2279,7 +2278,7 @@
 <edom>
 <edomvds>Massachusetts. Department of Environmental Protection </edomvds>
 <edomv>DD_SWAP</edomv>
-<edomvd>Contracted data developed through DEP Source Water Assessment &amp;amp; Protection Program</edomvd>
+<edomvd>Contracted data developed through DEP Source Water Assessment &amp; Protection Program</edomvd>
 </edom>
 </attrdomv>
 <attrdomv>
@@ -2370,7 +2369,7 @@
 <edom>
 <edomvds>Massachusetts. Department of Environmental Protection </edomvds>
 <edomv>MS_SWAP      	 	</edomv>
-<edomvd>DEP Source Water Assessment &amp;amp; Protection Map</edomvd>
+<edomvd>DEP Source Water Assessment &amp; Protection Map</edomvd>
 </edom>
 </attrdomv>
 <attrdomv>
@@ -2628,11 +2627,11 @@
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="MAFacility9313">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">1674</geoObjCnt>
 </geometObjs>
@@ -2657,7 +2656,7 @@
 </spdoinfo>
 <mdDateSt Sync="TRUE">20140522</mdDateSt>
 <mdChar>
-<CharSetCd value="004"/>
+<CharSetCd value="004" />
 </mdChar>
 <idinfo>
 <descript>

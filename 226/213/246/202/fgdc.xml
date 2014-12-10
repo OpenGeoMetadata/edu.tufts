@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -199,43 +198,43 @@
 The following edits were done to ATLAS-2000CNTY which is a map layer containing 2000 county boundaries for the United States.  Puerto Rico, U.S. Virgin Islands, and the Great Lakes and other waterbody areas were deleted.  Some of the county level boundaries were modified to show geographic areas for which 2002 agricultural census statistics are reported.  Certain individual counties were assigned the FIPS code of a designated adjacent or surrounding county.  Counties were aggregated by dissolving boundaries between counties which had the same county FIPS code.  The following is a list of counties with modified boundaries.  
         The Agricultural Census county codes and associated (=) U.S. county FIPS 
         codes are identified below.
-        &amp;gt;02010 = 02013, 02016, 02050, 02060, 02070, 02150, 02164, 02180, 02185, 
-        &amp;gt;        02188, 02270
-        &amp;gt;02020 = 02020, 02170, 02261
-        &amp;gt;02090 = 02090, 02068, 02240, 02290
-        &amp;gt;02110 = 02100, 02130, 02110, 02201, 02220, 02232, 02280, 02282
-        &amp;gt;15009 = 15009, 15005
-        &amp;gt;24033 = 24033, 11001
-        &amp;gt;24005 = 24005, 24510
-        &amp;gt;29189 = 29189, 29510
-        &amp;gt;51003 = 51003, 51540
-        &amp;gt;51005 = 51005, 51560, 51580
-        &amp;gt;51015 = 51015, 51790, 51820
-        &amp;gt;51019 = 51059, 51515
-        &amp;gt;51031 = 51031, 51680
-        &amp;gt;51041 = 51041, 51570
-        &amp;gt;51059 = 51059, 51510, 51600, 51610
-        &amp;gt;51069 = 51069, 51840
-        &amp;gt;51077 = 51077, 51640
-        &amp;gt;51081 = 51081, 51595
-        &amp;gt;51087 = 51087, 51760
-        &amp;gt;51089 = 51089, 51690
-        &amp;gt;51095 = 51095, 51830
-        &amp;gt;51121 = 51121, 51750
-        &amp;gt;51143 = 51143, 51590
-        &amp;gt;51149 = 51149, 51670, 51730
-        &amp;gt;51153 = 51153, 51683, 51685
-        &amp;gt;51161 = 51161, 51770, 51775
-        &amp;gt;51163 = 51163, 51530, 51678
-        &amp;gt;51165 = 51165, 51660
-        &amp;gt;51175 = 51175, 51620
-        &amp;gt;51177 = 51177, 51630
-        &amp;gt;51191 = 51191, 51520
-        &amp;gt;51195 = 51195, 51720
-        &amp;gt;51199 = 51199, 51650, 51700, 51735
-        &amp;gt;51550 = 51550, 51740
-        &amp;gt;51810 = 51810, 51710
-        &amp;gt;
+        &gt;02010 = 02013, 02016, 02050, 02060, 02070, 02150, 02164, 02180, 02185, 
+        &gt;        02188, 02270
+        &gt;02020 = 02020, 02170, 02261
+        &gt;02090 = 02090, 02068, 02240, 02290
+        &gt;02110 = 02100, 02130, 02110, 02201, 02220, 02232, 02280, 02282
+        &gt;15009 = 15009, 15005
+        &gt;24033 = 24033, 11001
+        &gt;24005 = 24005, 24510
+        &gt;29189 = 29189, 29510
+        &gt;51003 = 51003, 51540
+        &gt;51005 = 51005, 51560, 51580
+        &gt;51015 = 51015, 51790, 51820
+        &gt;51019 = 51059, 51515
+        &gt;51031 = 51031, 51680
+        &gt;51041 = 51041, 51570
+        &gt;51059 = 51059, 51510, 51600, 51610
+        &gt;51069 = 51069, 51840
+        &gt;51077 = 51077, 51640
+        &gt;51081 = 51081, 51595
+        &gt;51087 = 51087, 51760
+        &gt;51089 = 51089, 51690
+        &gt;51095 = 51095, 51830
+        &gt;51121 = 51121, 51750
+        &gt;51143 = 51143, 51590
+        &gt;51149 = 51149, 51670, 51730
+        &gt;51153 = 51153, 51683, 51685
+        &gt;51161 = 51161, 51770, 51775
+        &gt;51163 = 51163, 51530, 51678
+        &gt;51165 = 51165, 51660
+        &gt;51175 = 51175, 51620
+        &gt;51177 = 51177, 51630
+        &gt;51191 = 51191, 51520
+        &gt;51195 = 51195, 51720
+        &gt;51199 = 51199, 51650, 51700, 51735
+        &gt;51550 = 51550, 51740
+        &gt;51810 = 51810, 51710
+        &gt;
         In the AG-CENSUS2002 database files the fields flagged with C (confidential, data withheld to avoid disclosing information for individual farms) were changed from 0 to -9999.
 
 The database files from AG-CENSUS2002 were joined to the edited county boundaries to create the final map layer.
@@ -1073,16 +1072,16 @@ This shapefile metadata was edited for clarity and keywords were added per Tufts
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USCensusAgriculture07</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1097,15 +1096,15 @@ This shapefile metadata was edited for clarity and keywords were added per Tufts
 </dataExt>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -1126,11 +1125,11 @@ This shapefile metadata was edited for clarity and keywords were added per Tufts
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USCensusAgriculture07">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">5927</geoObjCnt>
 </geometObjs>

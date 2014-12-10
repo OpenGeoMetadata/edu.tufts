@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -99,7 +98,7 @@ Land Features of the United States - Parkways and Scenic Rivers map layer.</supp
 				<themekey>National Fish Hatchery System (U.S.)</themekey>
 				<themekey>United States. National Forest Service</themekey>
 				<themekey>National Historic Landmarks Program (U.S.)</themekey>
-				<themekey>National Mall &amp;amp; Memorial Parks (Agency : U.S.)</themekey>
+				<themekey>National Mall &amp; Memorial Parks (Agency : U.S.)</themekey>
 				<themekey>Mall, The (Washington, D.C.)</themekey>
 				<themekey>National Military Park Commission (U.S.)</themekey>
 				<themekey>United States. National Monument Commission</themekey>
@@ -559,19 +558,19 @@ before it was converted to a shapefile.</procdesc>
 			</procstep>
 			<procstep>
 				<procdesc>In order to meet Tufts University's metadata standards:
-&amp;gt;Defined projection (NAD 1983)
-&amp;gt;Imported metadata from provided fedlanp020.txt (arcgis 9.3)
-&amp;gt;Changed citation title from fedlanp020 to "Federal Lands USA 2005" [Note: this was not the most current version of the metadata. The associated shapefile to go with the 2006 metadata was not located.]
-&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
-&amp;gt;Changed name of file from "fedlanp020" to "USAfedland05"
-&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
-&amp;gt;Added LCSH theme keywords
-&amp;gt;Added GNIS place keywords
-&amp;gt;Changed formatting of IsO 19115 Topic Category keywords to match proper formatting
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Substituted "Geological Survey (U.S.)" for "National Atlas of the United States" as the originator
-&amp;gt;Added Larger Work Citation
-&amp;gt;Exported metadata</procdesc>
+&gt;Defined projection (NAD 1983)
+&gt;Imported metadata from provided fedlanp020.txt (arcgis 9.3)
+&gt;Changed citation title from fedlanp020 to "Federal Lands USA 2005" [Note: this was not the most current version of the metadata. The associated shapefile to go with the 2006 metadata was not located.]
+&gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&gt;Changed name of file from "fedlanp020" to "USAfedland05"
+&gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&gt;Added LCSH theme keywords
+&gt;Added GNIS place keywords
+&gt;Changed formatting of IsO 19115 Topic Category keywords to match proper formatting
+&gt;Replaced Tufts as the distributor
+&gt;Substituted "Geological Survey (U.S.)" for "National Atlas of the United States" as the originator
+&gt;Added Larger Work Citation
+&gt;Exported metadata</procdesc>
 				<procdate>20111108</procdate>
 				<proccont>
 					<cntinfo>
@@ -740,333 +739,333 @@ the smaller or 'contained' land.</attrdef>
 						<edomvd>The values for Feature1 are listed below along with their
 definitions:
 
-&amp;gt;Value               Definition
-&amp;gt;-------------------------------------------------------------------
-&amp;gt;Agricultural Research Service ARS
-&amp;gt;                    Land designated for agricultural research such
-&amp;gt;                    as an experimental range, experimental station,
-&amp;gt;                    research lab, or center
-&amp;gt;
-&amp;gt;Air Force DOD       Land designated for use by the U.S. Air Force
-&amp;gt;
-&amp;gt;Army Corps of Engineers DOD
-&amp;gt;                    A lake, reservoir, or other water body under
-&amp;gt;                    the authority of the Army Corp of Engineers
-&amp;gt;
-&amp;gt;Army DOD            Land designated for use by the U.S. Army
-&amp;gt;
-&amp;gt;Bureau of Prisons DOJ
-&amp;gt;                    A Federal facility or area of land owned or
-&amp;gt;                    administered by the Bureau of Prisons,
-&amp;gt;                    including correction facilities,
-&amp;gt;                    penitentiary farms, and guard training
-&amp;gt;                    facilities
-&amp;gt;
-&amp;gt;Bureau of Reclamation BOR
-&amp;gt;                    A reservoir, lake, wildlife management area,
-&amp;gt;                    or other area under the auspices of the
-&amp;gt;                    Bureau of Reclamation
-&amp;gt;
-&amp;gt;Central Intelligence Agency CIA
-&amp;gt;                    Land owned by the Central Intelligence Agency
-&amp;gt;
-&amp;gt;Department of Defense DOD
-&amp;gt;                    Land owned or administered by the Department of
-&amp;gt;                    Defense not included in other descriptions
-&amp;gt;
-&amp;gt;Department of Energy DOE
-&amp;gt;                    A development center, laboratory, test site, or
-&amp;gt;                    other facility of the Department of Energy
-&amp;gt;
-&amp;gt;Department of Transportation DOT
-&amp;gt;                    Land under the administration of the
-&amp;gt;                    Department of Transportation not included in
-&amp;gt;                    other descriptions
-&amp;gt;
-&amp;gt;Forest Reserve BLM  A tract of land for the protection and recovery
-&amp;gt;                    of populations of threatened and endangered
-&amp;gt;                    species, as well as additional species that may
-&amp;gt;                    become listed in the future
-&amp;gt;
-&amp;gt;General Services Administration GSA
-&amp;gt;                    A Federal facility administered by the General
-&amp;gt;                    Services Administration
-&amp;gt;
-&amp;gt;Marine Corps DOD    Land designated for use by the U.S. Marine
-&amp;gt;                    Corps
-&amp;gt;
-&amp;gt;Metropolitan Washington Airports Authority
-&amp;gt;                    A National airport in the Washington, DC,
-&amp;gt;                    metropolitan area
-&amp;gt;
-&amp;gt;National Aeronautics and Space Administration NASA
-&amp;gt;                    A space flight center, base, or laboratory of
-&amp;gt;                    the National Aeronautics and Space
-&amp;gt;                    Administration
-&amp;gt;
-&amp;gt;National Battlefield NPS
-&amp;gt;                    Land reserved for the protection and
-&amp;gt;                    recognition of a historic battlefield
-&amp;gt;
-&amp;gt;National Battlefield Park NPS
-&amp;gt;                    A national parks established for the
-&amp;gt;                    recognition of a National Battlefield
-&amp;gt;
-&amp;gt;National Capital Park NPS
-&amp;gt;                    A designated national park that is a part of
-&amp;gt;                    the Washington, DC, area and its environs
-&amp;gt;
-&amp;gt;National Conservation Area BLM
-&amp;gt;                    Land designated by Congress to conserve,
-&amp;gt;                    protect, and enhance public land areas for the
-&amp;gt;                    benefit and enjoyment of present and future
-&amp;gt;                    generations
-&amp;gt;
-&amp;gt;National Fish Hatchery FWS
-&amp;gt;                    An area designated for the conservation,
-&amp;gt;                    restoration, enhancement, and management of the
-&amp;gt;                    Nation's fishery resources and aquatic
-&amp;gt;                    ecosystems
-&amp;gt;
-&amp;gt;National Forest FS  An area established for the protection of
-&amp;gt;                    forest resources
-&amp;gt;
-&amp;gt;National Game Preserve FWS
-&amp;gt;                    An area designated by Presidential Proclamation
-&amp;gt;                    or by Congress for the protection of wildlife
-&amp;gt;
-&amp;gt;National Grassland FS
-&amp;gt;                    An area designated by the Secretary of
-&amp;gt;                    Agriculture and permanently held by the
-&amp;gt;                    Department of Agriculture under Title III of
-&amp;gt;                    the Bankhead-Jones Farm Tenant Act
-&amp;gt;
-&amp;gt;National Historic Landmark District NPS
-&amp;gt;                    A national historic place possessing
-&amp;gt;                    exceptional value or quality in illustrating or
-&amp;gt;                    interpreting the heritage of the United States
-&amp;gt;
-&amp;gt;National Historic Park NPS
-&amp;gt;                    A national park of historic significance
-&amp;gt;
-&amp;gt;National Historic Site NPS
-&amp;gt;                    An area designated as being of national
-&amp;gt;                    historic significance due to a single feature
-&amp;gt;
-&amp;gt;National Lakeshore NPS
-&amp;gt;                    A designated area along the Great Lakes
-&amp;gt;                    shoreline, established to preserve and
-&amp;gt;                    protect recreational coastline
-&amp;gt;
+&gt;Value               Definition
+&gt;-------------------------------------------------------------------
+&gt;Agricultural Research Service ARS
+&gt;                    Land designated for agricultural research such
+&gt;                    as an experimental range, experimental station,
+&gt;                    research lab, or center
+&gt;
+&gt;Air Force DOD       Land designated for use by the U.S. Air Force
+&gt;
+&gt;Army Corps of Engineers DOD
+&gt;                    A lake, reservoir, or other water body under
+&gt;                    the authority of the Army Corp of Engineers
+&gt;
+&gt;Army DOD            Land designated for use by the U.S. Army
+&gt;
+&gt;Bureau of Prisons DOJ
+&gt;                    A Federal facility or area of land owned or
+&gt;                    administered by the Bureau of Prisons,
+&gt;                    including correction facilities,
+&gt;                    penitentiary farms, and guard training
+&gt;                    facilities
+&gt;
+&gt;Bureau of Reclamation BOR
+&gt;                    A reservoir, lake, wildlife management area,
+&gt;                    or other area under the auspices of the
+&gt;                    Bureau of Reclamation
+&gt;
+&gt;Central Intelligence Agency CIA
+&gt;                    Land owned by the Central Intelligence Agency
+&gt;
+&gt;Department of Defense DOD
+&gt;                    Land owned or administered by the Department of
+&gt;                    Defense not included in other descriptions
+&gt;
+&gt;Department of Energy DOE
+&gt;                    A development center, laboratory, test site, or
+&gt;                    other facility of the Department of Energy
+&gt;
+&gt;Department of Transportation DOT
+&gt;                    Land under the administration of the
+&gt;                    Department of Transportation not included in
+&gt;                    other descriptions
+&gt;
+&gt;Forest Reserve BLM  A tract of land for the protection and recovery
+&gt;                    of populations of threatened and endangered
+&gt;                    species, as well as additional species that may
+&gt;                    become listed in the future
+&gt;
+&gt;General Services Administration GSA
+&gt;                    A Federal facility administered by the General
+&gt;                    Services Administration
+&gt;
+&gt;Marine Corps DOD    Land designated for use by the U.S. Marine
+&gt;                    Corps
+&gt;
+&gt;Metropolitan Washington Airports Authority
+&gt;                    A National airport in the Washington, DC,
+&gt;                    metropolitan area
+&gt;
+&gt;National Aeronautics and Space Administration NASA
+&gt;                    A space flight center, base, or laboratory of
+&gt;                    the National Aeronautics and Space
+&gt;                    Administration
+&gt;
+&gt;National Battlefield NPS
+&gt;                    Land reserved for the protection and
+&gt;                    recognition of a historic battlefield
+&gt;
+&gt;National Battlefield Park NPS
+&gt;                    A national parks established for the
+&gt;                    recognition of a National Battlefield
+&gt;
+&gt;National Capital Park NPS
+&gt;                    A designated national park that is a part of
+&gt;                    the Washington, DC, area and its environs
+&gt;
+&gt;National Conservation Area BLM
+&gt;                    Land designated by Congress to conserve,
+&gt;                    protect, and enhance public land areas for the
+&gt;                    benefit and enjoyment of present and future
+&gt;                    generations
+&gt;
+&gt;National Fish Hatchery FWS
+&gt;                    An area designated for the conservation,
+&gt;                    restoration, enhancement, and management of the
+&gt;                    Nation's fishery resources and aquatic
+&gt;                    ecosystems
+&gt;
+&gt;National Forest FS  An area established for the protection of
+&gt;                    forest resources
+&gt;
+&gt;National Game Preserve FWS
+&gt;                    An area designated by Presidential Proclamation
+&gt;                    or by Congress for the protection of wildlife
+&gt;
+&gt;National Grassland FS
+&gt;                    An area designated by the Secretary of
+&gt;                    Agriculture and permanently held by the
+&gt;                    Department of Agriculture under Title III of
+&gt;                    the Bankhead-Jones Farm Tenant Act
+&gt;
+&gt;National Historic Landmark District NPS
+&gt;                    A national historic place possessing
+&gt;                    exceptional value or quality in illustrating or
+&gt;                    interpreting the heritage of the United States
+&gt;
+&gt;National Historic Park NPS
+&gt;                    A national park of historic significance
+&gt;
+&gt;National Historic Site NPS
+&gt;                    An area designated as being of national
+&gt;                    historic significance due to a single feature
+&gt;
+&gt;National Lakeshore NPS
+&gt;                    A designated area along the Great Lakes
+&gt;                    shoreline, established to preserve and
+&gt;                    protect recreational coastline
+&gt;
 
-&amp;gt;National Mall NPS
-&amp;gt;                    A tract of land in downtown Washington, DC,
-&amp;gt;                    running from the Capital to the Lincoln
-&amp;gt;                    Memorial, set aside to protect many of our
-&amp;gt;                    national buildings and memorials
-&amp;gt;
-&amp;gt;National Memorial NPS
-&amp;gt;                    An area of land commemorating an historic
-&amp;gt;                    individual or event
-&amp;gt;
-&amp;gt;National Military Park NPS
-&amp;gt;                    A national park established for the protection
-&amp;gt;                    and recognition of a military site or action
-&amp;gt;
-&amp;gt;National Monument BLM
-&amp;gt;                    An area administered by the Bureau of Land
-&amp;gt;                    Management for the protection of historic
-&amp;gt;                    landmarks, historic and prehistoric structures,
-&amp;gt;                    or other objects of historic or scientific
-&amp;gt;                    interest
-&amp;gt;
-&amp;gt;National Monument FS
-&amp;gt;                    An area administered by the Forest Service for
-&amp;gt;                    the protection of historic landmarks,
-&amp;gt;                    historic and prehistoric structures, or other
-&amp;gt;                    objects of historic or scientific interest
-&amp;gt;
-&amp;gt;National Monument NPS
-&amp;gt;                    An area administered by the National Park
-&amp;gt;                    Service for the protection of historic
-&amp;gt;                    landmarks, historic and prehistoric structures,
-&amp;gt;                    or other objects of historic or scientific
-&amp;gt;                    interest
-&amp;gt;
-&amp;gt;National Park NPS   A tract of land, having a wide variety of
-&amp;gt;                    attributes, protected  and preserved for the
-&amp;gt;                    use and enjoyment of the public
-&amp;gt;
-&amp;gt;National Parkway NPS
-&amp;gt;                    A roadway and the connected land or cultural
-&amp;gt;                    sites paralleling the roadway, intended for
-&amp;gt;                    scenic motoring along a protected corridor
-&amp;gt;
-&amp;gt;National Preserve NPS
-&amp;gt;                    A tract of land set aside for the preservation
-&amp;gt;                    of scenic or wildlife areas
-&amp;gt;
-&amp;gt;National Recreation Area BLM
-&amp;gt;                    An area, managed by the Bureau of Land
-&amp;gt;                    Management, centered on a large reservoir,
-&amp;gt;                    emphasizing water-based recreation, or centered
-&amp;gt;                    near a major population center to preserve
-&amp;gt;                    historic resources and other natural areas that
-&amp;gt;                    provide outdoor recreation
-&amp;gt;
-&amp;gt;National Recreation Area FS
-&amp;gt;                    An area, managed by the Forest Service,
-&amp;gt;                    centered on a large reservoir, emphasizing
-&amp;gt;                    water-based recreation, or centered near a
-&amp;gt;                    major population center to preserve historic
-&amp;gt;                    resources and other natural areas that provide
-&amp;gt;                    outdoor recreation
-&amp;gt;
-&amp;gt;National Recreation Area NPS
-&amp;gt;                    A national park area, centered on a large
-&amp;gt;                    reservoir, emphasizing water-based recreation,
-&amp;gt;                    or centered near a major population center to
-&amp;gt;                    preserve historic resources and natural areas
-&amp;gt;                    that provide outdoor recreation
-&amp;gt;
-&amp;gt;National Reserve NPS
-&amp;gt;                    An area set aside as a wildlife reserve,
-&amp;gt;                    administered by the National Park Service
-&amp;gt;
-&amp;gt;National River NPS  A tract of land and water established to
-&amp;gt;                    preserve a scenic river, wild river, river and
-&amp;gt;                    recreation area, or similar area of interest
-&amp;gt;
-&amp;gt;National Scenic Area FS
-&amp;gt;                    A tract of land set aside for the preservation
-&amp;gt;                    of scenic or wildlife areas
-&amp;gt;
-&amp;gt;National Scenic River NPS
-&amp;gt;                    A scenic river, administered by the National
-&amp;gt;                    Park Service to protect and preserve the river
-&amp;gt;                    in its free-flowing condition.
-&amp;gt;
-&amp;gt;National Seashore NPS
-&amp;gt;                    A designated area along the Atlantic, Pacific,
-&amp;gt;                    or Gulf coast, established to preserve and
-&amp;gt;                    protect recreational coastline
-&amp;gt;
-&amp;gt;National Wild and Scenic River BLM
-&amp;gt;                    A wild, scenic, and (or) recreational river not
-&amp;gt;                    described elsewhere, administered by the Bureau
-&amp;gt;                    of Land Management to protect and preserve the
-&amp;gt;                    river in its free-flowing condition
-&amp;gt;
-&amp;gt;National Wild and Scenic River NPS
-&amp;gt;                    A wild, scenic, and (or) recreational river not
-&amp;gt;                    described elsewhere, administered by the
-&amp;gt;                    National Park Service to protect and preserve
-&amp;gt;                    the river in its free-flowing condition
-&amp;gt;
-&amp;gt;National Wildlife Refuge FWS
-&amp;gt;                    A tract of land or water protected for the
-&amp;gt;                    preservation of wildlife
-&amp;gt;
-&amp;gt;Navy DOD            Land designated for use by the U.S. Navy
-&amp;gt;
-&amp;gt;Null                An area completely surrounded by Federal land,
-&amp;gt;                    but which is not owned or administered by a
-&amp;gt;                    Federal agency
-&amp;gt;
-&amp;gt;Other BLM           An area administered by the Bureau of Land
-&amp;gt;                    management other than those described elsewhere
-&amp;gt;
-&amp;gt;Public Domain Land BLM
-&amp;gt;                    A tract of public land owned by the U.S
-&amp;gt;                    Government and administered by the Bureau of
-&amp;gt;                    Land Management, but not designated for a
-&amp;gt;                    specific use
-&amp;gt;
-&amp;gt;Purchase Unit Block FS
-&amp;gt;                    A unit designated by the Secretary of
-&amp;gt;                    Agriculture or previously approved by the
-&amp;gt;                    National Forest Reservation Commission for
-&amp;gt;                    purposes of Weeks Law acquisition
-&amp;gt;
-&amp;gt;TVA                 A land or water area owned or managed by the
-&amp;gt;                    Tennessee Valley Authority
-&amp;gt;
-&amp;gt;U.S. Coast Guard DOT
-&amp;gt;                    Land designated for use by the U.S. Coast Guard
-&amp;gt;
-&amp;gt;United States Department of Agriculture USDA
-&amp;gt;                    Land managed by the Department of Agriculture
-&amp;gt;
-&amp;gt;Waterfowl Production Area FWS
-&amp;gt;                    A wetland or grassland critical to waterfowl
-&amp;gt;                    and other wildlife, managed by the Fish and
-&amp;gt;                    Wildlife Service as part of the National
-&amp;gt;                    Wildlife Refuges Program
-&amp;gt;
-&amp;gt;Wilderness BLM      An area, managed by the Bureau of Land
-&amp;gt;                    Management, of essentially undisturbed,
-&amp;gt;                    roadless, public lands of 5000 acres or more,
-&amp;gt;                    that retains a primeval character, without
-&amp;gt;                    permanent improvements and that generally
-&amp;gt;                    appears to have been affected primarily by the
-&amp;gt;                    forces of nature
-&amp;gt;
-&amp;gt;Wilderness FS       An area, managed by the Forest Service, of
-&amp;gt;                    essentially undisturbed, roadless, public lands
-&amp;gt;                    of 5000 acres or more, that retains a primeval
-&amp;gt;                    character, without permanent improvements and
-&amp;gt;                    that generally appears to have been affected
-&amp;gt;                    primarily by the forces of nature
-&amp;gt;
-&amp;gt;Wilderness FWS      An area, managed by the Fish and Wildlife
-&amp;gt;                    Service, of essentially undisturbed, roadless,
-&amp;gt;                    public lands of 5000 acres or more, that
-&amp;gt;                    retains a primeval character, without permanent
-&amp;gt;                    improvements and that generally appears to have
-&amp;gt;                    been affected primarily by the forces of
-&amp;gt;                    nature
-&amp;gt;
-&amp;gt;Wilderness NPS      An area, managed by the National Park Service,
-&amp;gt;                    of essentially undisturbed, roadless, public
-&amp;gt;                    lands of 5000 acres or more, that retains a
-&amp;gt;                    primeval character, without permanent
-&amp;gt;                    improvements and that generally appears to have
-&amp;gt;                    been affected primarily by the forces of
-&amp;gt;                    nature
-&amp;gt;
-&amp;gt;Wilderness Study Area BLM
-&amp;gt;                    An area under study to determine if it will be
-&amp;gt;                    designated as a Wilderness area, or an area
-&amp;gt;                    awaiting such determination and managed by the
-&amp;gt;                    Bureau of Land Management to preserve its
-&amp;gt;                    suitability for such designation
-&amp;gt;
-&amp;gt;Wilderness Study Area FS
-&amp;gt;                    An area under study to determine if it will be
-&amp;gt;                    designated as a Wilderness area, or an area
-&amp;gt;                    awaiting such determination and managed by the
-&amp;gt;                    Forest Service to preserve its suitability for
-&amp;gt;                    such designation
-&amp;gt;
-&amp;gt;Wilderness Study Area FWS
-&amp;gt;                    An area under study to determine if it will be
-&amp;gt;                    designated as a Wilderness area, or an area
-&amp;gt;                    awaiting such determination and managed by the
-&amp;gt;                    Fish and Wildlife Service to preserve its
-&amp;gt;                    suitability for such designation
-&amp;gt;
+&gt;National Mall NPS
+&gt;                    A tract of land in downtown Washington, DC,
+&gt;                    running from the Capital to the Lincoln
+&gt;                    Memorial, set aside to protect many of our
+&gt;                    national buildings and memorials
+&gt;
+&gt;National Memorial NPS
+&gt;                    An area of land commemorating an historic
+&gt;                    individual or event
+&gt;
+&gt;National Military Park NPS
+&gt;                    A national park established for the protection
+&gt;                    and recognition of a military site or action
+&gt;
+&gt;National Monument BLM
+&gt;                    An area administered by the Bureau of Land
+&gt;                    Management for the protection of historic
+&gt;                    landmarks, historic and prehistoric structures,
+&gt;                    or other objects of historic or scientific
+&gt;                    interest
+&gt;
+&gt;National Monument FS
+&gt;                    An area administered by the Forest Service for
+&gt;                    the protection of historic landmarks,
+&gt;                    historic and prehistoric structures, or other
+&gt;                    objects of historic or scientific interest
+&gt;
+&gt;National Monument NPS
+&gt;                    An area administered by the National Park
+&gt;                    Service for the protection of historic
+&gt;                    landmarks, historic and prehistoric structures,
+&gt;                    or other objects of historic or scientific
+&gt;                    interest
+&gt;
+&gt;National Park NPS   A tract of land, having a wide variety of
+&gt;                    attributes, protected  and preserved for the
+&gt;                    use and enjoyment of the public
+&gt;
+&gt;National Parkway NPS
+&gt;                    A roadway and the connected land or cultural
+&gt;                    sites paralleling the roadway, intended for
+&gt;                    scenic motoring along a protected corridor
+&gt;
+&gt;National Preserve NPS
+&gt;                    A tract of land set aside for the preservation
+&gt;                    of scenic or wildlife areas
+&gt;
+&gt;National Recreation Area BLM
+&gt;                    An area, managed by the Bureau of Land
+&gt;                    Management, centered on a large reservoir,
+&gt;                    emphasizing water-based recreation, or centered
+&gt;                    near a major population center to preserve
+&gt;                    historic resources and other natural areas that
+&gt;                    provide outdoor recreation
+&gt;
+&gt;National Recreation Area FS
+&gt;                    An area, managed by the Forest Service,
+&gt;                    centered on a large reservoir, emphasizing
+&gt;                    water-based recreation, or centered near a
+&gt;                    major population center to preserve historic
+&gt;                    resources and other natural areas that provide
+&gt;                    outdoor recreation
+&gt;
+&gt;National Recreation Area NPS
+&gt;                    A national park area, centered on a large
+&gt;                    reservoir, emphasizing water-based recreation,
+&gt;                    or centered near a major population center to
+&gt;                    preserve historic resources and natural areas
+&gt;                    that provide outdoor recreation
+&gt;
+&gt;National Reserve NPS
+&gt;                    An area set aside as a wildlife reserve,
+&gt;                    administered by the National Park Service
+&gt;
+&gt;National River NPS  A tract of land and water established to
+&gt;                    preserve a scenic river, wild river, river and
+&gt;                    recreation area, or similar area of interest
+&gt;
+&gt;National Scenic Area FS
+&gt;                    A tract of land set aside for the preservation
+&gt;                    of scenic or wildlife areas
+&gt;
+&gt;National Scenic River NPS
+&gt;                    A scenic river, administered by the National
+&gt;                    Park Service to protect and preserve the river
+&gt;                    in its free-flowing condition.
+&gt;
+&gt;National Seashore NPS
+&gt;                    A designated area along the Atlantic, Pacific,
+&gt;                    or Gulf coast, established to preserve and
+&gt;                    protect recreational coastline
+&gt;
+&gt;National Wild and Scenic River BLM
+&gt;                    A wild, scenic, and (or) recreational river not
+&gt;                    described elsewhere, administered by the Bureau
+&gt;                    of Land Management to protect and preserve the
+&gt;                    river in its free-flowing condition
+&gt;
+&gt;National Wild and Scenic River NPS
+&gt;                    A wild, scenic, and (or) recreational river not
+&gt;                    described elsewhere, administered by the
+&gt;                    National Park Service to protect and preserve
+&gt;                    the river in its free-flowing condition
+&gt;
+&gt;National Wildlife Refuge FWS
+&gt;                    A tract of land or water protected for the
+&gt;                    preservation of wildlife
+&gt;
+&gt;Navy DOD            Land designated for use by the U.S. Navy
+&gt;
+&gt;Null                An area completely surrounded by Federal land,
+&gt;                    but which is not owned or administered by a
+&gt;                    Federal agency
+&gt;
+&gt;Other BLM           An area administered by the Bureau of Land
+&gt;                    management other than those described elsewhere
+&gt;
+&gt;Public Domain Land BLM
+&gt;                    A tract of public land owned by the U.S
+&gt;                    Government and administered by the Bureau of
+&gt;                    Land Management, but not designated for a
+&gt;                    specific use
+&gt;
+&gt;Purchase Unit Block FS
+&gt;                    A unit designated by the Secretary of
+&gt;                    Agriculture or previously approved by the
+&gt;                    National Forest Reservation Commission for
+&gt;                    purposes of Weeks Law acquisition
+&gt;
+&gt;TVA                 A land or water area owned or managed by the
+&gt;                    Tennessee Valley Authority
+&gt;
+&gt;U.S. Coast Guard DOT
+&gt;                    Land designated for use by the U.S. Coast Guard
+&gt;
+&gt;United States Department of Agriculture USDA
+&gt;                    Land managed by the Department of Agriculture
+&gt;
+&gt;Waterfowl Production Area FWS
+&gt;                    A wetland or grassland critical to waterfowl
+&gt;                    and other wildlife, managed by the Fish and
+&gt;                    Wildlife Service as part of the National
+&gt;                    Wildlife Refuges Program
+&gt;
+&gt;Wilderness BLM      An area, managed by the Bureau of Land
+&gt;                    Management, of essentially undisturbed,
+&gt;                    roadless, public lands of 5000 acres or more,
+&gt;                    that retains a primeval character, without
+&gt;                    permanent improvements and that generally
+&gt;                    appears to have been affected primarily by the
+&gt;                    forces of nature
+&gt;
+&gt;Wilderness FS       An area, managed by the Forest Service, of
+&gt;                    essentially undisturbed, roadless, public lands
+&gt;                    of 5000 acres or more, that retains a primeval
+&gt;                    character, without permanent improvements and
+&gt;                    that generally appears to have been affected
+&gt;                    primarily by the forces of nature
+&gt;
+&gt;Wilderness FWS      An area, managed by the Fish and Wildlife
+&gt;                    Service, of essentially undisturbed, roadless,
+&gt;                    public lands of 5000 acres or more, that
+&gt;                    retains a primeval character, without permanent
+&gt;                    improvements and that generally appears to have
+&gt;                    been affected primarily by the forces of
+&gt;                    nature
+&gt;
+&gt;Wilderness NPS      An area, managed by the National Park Service,
+&gt;                    of essentially undisturbed, roadless, public
+&gt;                    lands of 5000 acres or more, that retains a
+&gt;                    primeval character, without permanent
+&gt;                    improvements and that generally appears to have
+&gt;                    been affected primarily by the forces of
+&gt;                    nature
+&gt;
+&gt;Wilderness Study Area BLM
+&gt;                    An area under study to determine if it will be
+&gt;                    designated as a Wilderness area, or an area
+&gt;                    awaiting such determination and managed by the
+&gt;                    Bureau of Land Management to preserve its
+&gt;                    suitability for such designation
+&gt;
+&gt;Wilderness Study Area FS
+&gt;                    An area under study to determine if it will be
+&gt;                    designated as a Wilderness area, or an area
+&gt;                    awaiting such determination and managed by the
+&gt;                    Forest Service to preserve its suitability for
+&gt;                    such designation
+&gt;
+&gt;Wilderness Study Area FWS
+&gt;                    An area under study to determine if it will be
+&gt;                    designated as a Wilderness area, or an area
+&gt;                    awaiting such determination and managed by the
+&gt;                    Fish and Wildlife Service to preserve its
+&gt;                    suitability for such designation
+&gt;
 
-&amp;gt;Wilderness Study Area NPS
-&amp;gt;                    An area under study to determine if it will be
-&amp;gt;                    designated as a Wilderness area, or an area
-&amp;gt;                    awaiting such determination and managed by the
-&amp;gt;                    National Park Service to preserve its
-&amp;gt;                    suitability for such designation
-&amp;gt;
-&amp;gt;Wildlife Management Area FWS
-&amp;gt;                    An area established to conserve and enhance
-&amp;gt;                    wildlife  and wildlife habitat, and to provide
-&amp;gt;                    public recreation opportunities.</edomvd>
+&gt;Wilderness Study Area NPS
+&gt;                    An area under study to determine if it will be
+&gt;                    designated as a Wilderness area, or an area
+&gt;                    awaiting such determination and managed by the
+&gt;                    National Park Service to preserve its
+&gt;                    suitability for such designation
+&gt;
+&gt;Wildlife Management Area FWS
+&gt;                    An area established to conserve and enhance
+&gt;                    wildlife  and wildlife habitat, and to provide
+&gt;                    public recreation opportunities.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
 				</attrdomv>
@@ -1089,132 +1088,132 @@ part of the Federal property referenced in Feature1 includes water.</attrdef>
 						<edomv>(See table below)</edomv>
 						<edomvd>The values for Feature2 are listed below along with their
 definitions:
-&amp;gt;Value               Definition
-&amp;gt;-------------------------------------------------------------------
-&amp;gt;Air Force DOD       Land designated for use by the U.S. Air Force
-&amp;gt;
-&amp;gt;Army Corps of Engineers DOD
-&amp;gt;                    A lake, reservoir, or other water body under
-&amp;gt;                    the authority of the Army Corp of Engineers
-&amp;gt;
-&amp;gt;Army DOD            Land designated for use by the U.S. Army
-&amp;gt;
-&amp;gt;Department of Energy DOE
-&amp;gt;                    A development center, laboratory, test site, or
-&amp;gt;                    other facility of the Department of Energy
-&amp;gt;
-&amp;gt;National Aeronautics and Space Administration NASA
-&amp;gt;                    A space flight center, base, or laboratory of
-&amp;gt;                    the National Aeronautics and Space
-&amp;gt;                    Administration
-&amp;gt;
-&amp;gt;National Conservation Area BLM
-&amp;gt;                    Land designated by Congress to conserve,
-&amp;gt;                    protect, and enhance public land areas for the
-&amp;gt;                    benefit and enjoyment of present and future
-&amp;gt;                    generations
-&amp;gt;
-&amp;gt;National Forest FS  An area established for the protection of
-&amp;gt;                    forest resources
-&amp;gt;
-&amp;gt;National Monument BLM
-&amp;gt;                    An area administered by the Bureau of Land
-&amp;gt;                    Management for the protection of historic
-&amp;gt;                    landmarks, historic and prehistoric structures,
-&amp;gt;                    or other objects of historic or scientific
-&amp;gt;                    interest
-&amp;gt;
-&amp;gt;National Monument FS
-&amp;gt;                    An area administered by the Forest Service for
-&amp;gt;                    the protection of historic landmarks,
-&amp;gt;                    historic and prehistoric structures, or other
-&amp;gt;                    objects of historic or scientific interest
-&amp;gt;
-&amp;gt;National Monument NPS
-&amp;gt;                    An area administered by the National Park
-&amp;gt;                    Service for the protection of historic
-&amp;gt;                    landmarks, historic and prehistoric structures,
-&amp;gt;                    or other objects of historic or scientific
-&amp;gt;                    interest
-&amp;gt;
-&amp;gt;National Park NPS   A tract of land, having a wide variety of
-&amp;gt;                    attributes, protected  and preserved for the
-&amp;gt;                    use and enjoyment of the public
-&amp;gt;
-&amp;gt;National Preserve NPS
-&amp;gt;                    A tract of land set aside for the preservation
-&amp;gt;                    of scenic or wildlife areas
-&amp;gt;
-&amp;gt;National Recreation Area FS
-&amp;gt;                    An area, managed by the Forest Service,
-&amp;gt;                    centered on a large reservoir, emphasizing
-&amp;gt;                    water-based recreation, or centered near a
-&amp;gt;                    major population center to preserve historic
-&amp;gt;                    resources and other natural areas that provide
-&amp;gt;                    outdoor recreation
-&amp;gt;
-&amp;gt;National Recreation Area NPS
-&amp;gt;                    A national park area, centered on a large
-&amp;gt;                    reservoir, emphasizing water-based recreation,
+&gt;Value               Definition
+&gt;-------------------------------------------------------------------
+&gt;Air Force DOD       Land designated for use by the U.S. Air Force
+&gt;
+&gt;Army Corps of Engineers DOD
+&gt;                    A lake, reservoir, or other water body under
+&gt;                    the authority of the Army Corp of Engineers
+&gt;
+&gt;Army DOD            Land designated for use by the U.S. Army
+&gt;
+&gt;Department of Energy DOE
+&gt;                    A development center, laboratory, test site, or
+&gt;                    other facility of the Department of Energy
+&gt;
+&gt;National Aeronautics and Space Administration NASA
+&gt;                    A space flight center, base, or laboratory of
+&gt;                    the National Aeronautics and Space
+&gt;                    Administration
+&gt;
+&gt;National Conservation Area BLM
+&gt;                    Land designated by Congress to conserve,
+&gt;                    protect, and enhance public land areas for the
+&gt;                    benefit and enjoyment of present and future
+&gt;                    generations
+&gt;
+&gt;National Forest FS  An area established for the protection of
+&gt;                    forest resources
+&gt;
+&gt;National Monument BLM
+&gt;                    An area administered by the Bureau of Land
+&gt;                    Management for the protection of historic
+&gt;                    landmarks, historic and prehistoric structures,
+&gt;                    or other objects of historic or scientific
+&gt;                    interest
+&gt;
+&gt;National Monument FS
+&gt;                    An area administered by the Forest Service for
+&gt;                    the protection of historic landmarks,
+&gt;                    historic and prehistoric structures, or other
+&gt;                    objects of historic or scientific interest
+&gt;
+&gt;National Monument NPS
+&gt;                    An area administered by the National Park
+&gt;                    Service for the protection of historic
+&gt;                    landmarks, historic and prehistoric structures,
+&gt;                    or other objects of historic or scientific
+&gt;                    interest
+&gt;
+&gt;National Park NPS   A tract of land, having a wide variety of
+&gt;                    attributes, protected  and preserved for the
+&gt;                    use and enjoyment of the public
+&gt;
+&gt;National Preserve NPS
+&gt;                    A tract of land set aside for the preservation
+&gt;                    of scenic or wildlife areas
+&gt;
+&gt;National Recreation Area FS
+&gt;                    An area, managed by the Forest Service,
+&gt;                    centered on a large reservoir, emphasizing
+&gt;                    water-based recreation, or centered near a
+&gt;                    major population center to preserve historic
+&gt;                    resources and other natural areas that provide
+&gt;                    outdoor recreation
+&gt;
+&gt;National Recreation Area NPS
+&gt;                    A national park area, centered on a large
+&gt;                    reservoir, emphasizing water-based recreation,
 
-&amp;gt;                    or centered near a major population center to
-&amp;gt;                    preserve historic resources and natural areas
-&amp;gt;                    that provide outdoor recreation
-&amp;gt;
-&amp;gt;National River NPS  A tract of land and water established to
-&amp;gt;                    preserve a scenic river, wild river, river and
-&amp;gt;                    recreation area, or similar area of interest
-&amp;gt;
-&amp;gt;National Seashore NPS
-&amp;gt;                    A designated area along the Atlantic, Pacific,
-&amp;gt;                    or Gulf coast, established to preserve and
-&amp;gt;                    protect recreational coastline
-&amp;gt;
-&amp;gt;National Wildlife Refuge FWS
-&amp;gt;                    A tract of land or water protected for the
-&amp;gt;                    preservation of wildlife
-&amp;gt;
-&amp;gt;Navy DOD            Land designated for use by the U.S. Navy
-&amp;gt;
-&amp;gt;Open Water          A body of water which is administered by a
-&amp;gt;                    Federal agency
-&amp;gt;
-&amp;gt;Public Domain Land BLM
-&amp;gt;                    A tract of public land owned by the U.S
-&amp;gt;                    Government and administered by the Bureau of
-&amp;gt;                    Land Management, but not designated for a
-&amp;gt;                    specific use
-&amp;gt;
-&amp;gt;TVA                 A land or water area owned or managed by the
-&amp;gt;                    Tennessee Valley Authority
-&amp;gt;
-&amp;gt;Waterfowl Production Area FWS
-&amp;gt;                    A wetland or grassland critical to waterfowl
-&amp;gt;                    and other wildlife, managed by the Fish and
-&amp;gt;                    Wildlife Service as part of the National
-&amp;gt;                    Wildlife Refuges Program
-&amp;gt;
-&amp;gt;Wilderness FWS      An area, managed by the Fish and Wildlife
-&amp;gt;                    Service, of essentially undisturbed, roadless,
-&amp;gt;                    public lands of 5000 acres or more, that
-&amp;gt;                    retains a primeval character, without permanent
-&amp;gt;                    improvements and that generally appears to have
-&amp;gt;                    been affected primarily by the forces of
-&amp;gt;                    nature
-&amp;gt;
-&amp;gt;Wilderness Study Area FWS
-&amp;gt;                    An area under study to determine if it will be
-&amp;gt;                    designated as a Wilderness area, or an area
-&amp;gt;                    awaiting such determination and managed by the
-&amp;gt;                    Fish and Wildlife Service to preserve its
-&amp;gt;                    suitability for such designation
-&amp;gt;</edomvd>
+&gt;                    or centered near a major population center to
+&gt;                    preserve historic resources and natural areas
+&gt;                    that provide outdoor recreation
+&gt;
+&gt;National River NPS  A tract of land and water established to
+&gt;                    preserve a scenic river, wild river, river and
+&gt;                    recreation area, or similar area of interest
+&gt;
+&gt;National Seashore NPS
+&gt;                    A designated area along the Atlantic, Pacific,
+&gt;                    or Gulf coast, established to preserve and
+&gt;                    protect recreational coastline
+&gt;
+&gt;National Wildlife Refuge FWS
+&gt;                    A tract of land or water protected for the
+&gt;                    preservation of wildlife
+&gt;
+&gt;Navy DOD            Land designated for use by the U.S. Navy
+&gt;
+&gt;Open Water          A body of water which is administered by a
+&gt;                    Federal agency
+&gt;
+&gt;Public Domain Land BLM
+&gt;                    A tract of public land owned by the U.S
+&gt;                    Government and administered by the Bureau of
+&gt;                    Land Management, but not designated for a
+&gt;                    specific use
+&gt;
+&gt;TVA                 A land or water area owned or managed by the
+&gt;                    Tennessee Valley Authority
+&gt;
+&gt;Waterfowl Production Area FWS
+&gt;                    A wetland or grassland critical to waterfowl
+&gt;                    and other wildlife, managed by the Fish and
+&gt;                    Wildlife Service as part of the National
+&gt;                    Wildlife Refuges Program
+&gt;
+&gt;Wilderness FWS      An area, managed by the Fish and Wildlife
+&gt;                    Service, of essentially undisturbed, roadless,
+&gt;                    public lands of 5000 acres or more, that
+&gt;                    retains a primeval character, without permanent
+&gt;                    improvements and that generally appears to have
+&gt;                    been affected primarily by the forces of
+&gt;                    nature
+&gt;
+&gt;Wilderness Study Area FWS
+&gt;                    An area under study to determine if it will be
+&gt;                    designated as a Wilderness area, or an area
+&gt;                    awaiting such determination and managed by the
+&gt;                    Fish and Wildlife Service to preserve its
+&gt;                    suitability for such designation
+&gt;</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>There is no secondary Federal land type.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1238,41 +1237,41 @@ part of the Federal property referenced in Feature2 includes water.</attrdef>
 						<edomv>(See table below)</edomv>
 						<edomvd>The values for Feature3 are listed below along with their
 definitions:
-&amp;gt;Value               Definition
-&amp;gt;-------------------------------------------------------------------
-&amp;gt;Air Force DOD       Land designated for use by the U.S. Air Force
-&amp;gt;
-&amp;gt;Army DOD            Land designated for use by the U.S. Army
-&amp;gt;
-&amp;gt;National Aeronautics and Space Administration NASA
-&amp;gt;                    A space flight center, base, or laboratory of
-&amp;gt;                    the National Aeronautics and Space
-&amp;gt;                    Administration
-&amp;gt;
-&amp;gt;National Forest FS  An area established for the protection of
-&amp;gt;                    forest resources
-&amp;gt;
-&amp;gt;National Monument FS
-&amp;gt;                    An area administered by the Forest Service for
-&amp;gt;                    the protection of historic landmarks,
-&amp;gt;                    historic and prehistoric structures, or other
-&amp;gt;                    objects of historic or scientific interest
-&amp;gt;
-&amp;gt;Open Water          A body of water which is administered by a
-&amp;gt;                    Federal agency
-&amp;gt;
-&amp;gt;Public Domain Land BLM
-&amp;gt;                    A tract of public land owned by the U.S
-&amp;gt;                    Government and administered by the Bureau of
-&amp;gt;                    Land Management, but not designated for a
-&amp;gt;                    specific use
-&amp;gt;</edomvd>
+&gt;Value               Definition
+&gt;-------------------------------------------------------------------
+&gt;Air Force DOD       Land designated for use by the U.S. Air Force
+&gt;
+&gt;Army DOD            Land designated for use by the U.S. Army
+&gt;
+&gt;National Aeronautics and Space Administration NASA
+&gt;                    A space flight center, base, or laboratory of
+&gt;                    the National Aeronautics and Space
+&gt;                    Administration
+&gt;
+&gt;National Forest FS  An area established for the protection of
+&gt;                    forest resources
+&gt;
+&gt;National Monument FS
+&gt;                    An area administered by the Forest Service for
+&gt;                    the protection of historic landmarks,
+&gt;                    historic and prehistoric structures, or other
+&gt;                    objects of historic or scientific interest
+&gt;
+&gt;Open Water          A body of water which is administered by a
+&gt;                    Federal agency
+&gt;
+&gt;Public Domain Land BLM
+&gt;                    A tract of public land owned by the U.S
+&gt;                    Government and administered by the Bureau of
+&gt;                    Land Management, but not designated for a
+&gt;                    specific use
+&gt;</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>There is no tertiary Federal land type.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1333,18 +1332,18 @@ definitions:
 					<edom>
 						<edomv>OTHER</edomv>
 						<edomvd>Federal land owned or administered by one of the following:
-&amp;gt;1) Agricultural Research Service
-&amp;gt;2) Bureau of Prisons
-&amp;gt;3) Central Intelligence Agency
-&amp;gt;4) Department of Energy
-&amp;gt;5) Department of Transportation
-&amp;gt;6) General Services Administration
-&amp;gt;7) Metropolitan Washington Airports Authority
-&amp;gt;8) National Aeronautics and Space Administration
-&amp;gt;9) U.S. Coast Guard
-&amp;gt;10) U.S. Department of Agriculture
-&amp;gt;11) a combination of Federal agencies, or the owning or
-&amp;gt;    administering agency is unknown</edomvd>
+&gt;1) Agricultural Research Service
+&gt;2) Bureau of Prisons
+&gt;3) Central Intelligence Agency
+&gt;4) Department of Energy
+&gt;5) Department of Transportation
+&gt;6) General Services Administration
+&gt;7) Metropolitan Washington Airports Authority
+&gt;8) National Aeronautics and Space Administration
+&gt;9) U.S. Coast Guard
+&gt;10) U.S. Department of Agriculture
+&gt;11) a combination of Federal agencies, or the owning or
+&gt;    administering agency is unknown</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
 				</attrdomv>
@@ -1358,7 +1357,7 @@ Authority.</edomvd>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>The area is not Federal land.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1384,7 +1383,7 @@ the address of a page that describes Crater Lake National Park.</attrdef>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>No URL is available for the area, or the area is not Federal land.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1404,7 +1403,7 @@ the address of a page that describes Crater Lake National Park.</attrdef>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>No name is available for the area, or the area is not Federal land.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1424,7 +1423,7 @@ the address of a page that describes Crater Lake National Park.</attrdef>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>No name is available for the area, or the area is not Federal land.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1444,7 +1443,7 @@ the address of a page that describes Crater Lake National Park.</attrdef>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>No name is available for the area, or the area is not Federal land.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1471,7 +1470,7 @@ Technology</codesets>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>The area is not Federal land.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1498,7 +1497,7 @@ Technology</codesets>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;blank&amp;gt;</edomv>
+						<edomv>&lt;blank&gt;</edomv>
 						<edomvd>The area is not Federal land.</edomvd>
 						<edomvds>National Atlas of the United States</edomvds>
 					</edom>
@@ -1602,16 +1601,16 @@ Technology</codesets>
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USAfedland05</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1633,15 +1632,15 @@ Technology</codesets>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -1669,11 +1668,11 @@ Technology</codesets>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USAfedland05">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">49778</geoObjCnt>
 </geometObjs>

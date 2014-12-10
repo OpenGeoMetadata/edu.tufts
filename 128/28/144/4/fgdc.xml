@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="windows-1252" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -13,7 +12,7 @@
 				<pubdate>200612</pubdate>
 				<title>Key Destination Locations New Hampshire 2006</title>
 				<geoform Sync="TRUE">vector digital data</geoform>
-				<onlink>http://www.granit.sr.unh.edu/data/search?sterm3=destinations&amp;amp;fieldname3=themekey</onlink>
+				<onlink>http://www.granit.sr.unh.edu/data/search?sterm3=destinations&amp;fieldname3=themekey</onlink>
 				<ftname Sync="TRUE">NHKeyDestinationLocations06</ftname>
 <pubinfo>
 <pubplace>Durham (N.H.)</pubplace>
@@ -24,7 +23,7 @@
 <title>NH GRANIT Database</title>
 <origin>New Hampshire. Department of Environmental Services</origin>
 <pubdate>200612</pubdate>
-<onlink>http://www.granit.sr.unh.edu/data/search?sterm3=destinations&amp;amp;fieldname3=themekey</onlink>
+<onlink>http://www.granit.sr.unh.edu/data/search?sterm3=destinations&amp;fieldname3=themekey</onlink>
 <pubinfo>
 <pubplace>Durham (N.H.)</pubplace>
 <publish>NH GRANIT (Firm)</publish>
@@ -712,16 +711,16 @@ This shapefile metadata was edited for clarity and keywords were added per Tufts
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NHKeyDestinationLocations06</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -743,15 +742,15 @@ This shapefile metadata was edited for clarity and keywords were added per Tufts
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -779,11 +778,11 @@ This shapefile metadata was edited for clarity and keywords were added per Tufts
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NHKeyDestinationLocations06">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">3339</geoObjCnt>
 </geometObjs>

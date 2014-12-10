@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -242,19 +241,19 @@
 			</procstep>
 			<procstep>
 				<procdesc>In order to meet Tufts University's metadata standards:
-&amp;gt;Changed name of file from "naa_ma_lead" to "USALeadNA06"
-&amp;gt;Changed citatition title from "Non-Attainment Areas: Lead" to "Lead Non-Attainment Areas USA 2006"
-&amp;gt;Changed access contraints from "None." to "Unrestricted Access Online"
-&amp;gt;Added to Larger work Citation originator, pubdate, title, pubplace, publisher
-&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
-&amp;gt;Added ISO 19115 Topic Category keywords
-&amp;gt;Added LCSH theme keywords
-&amp;gt;Added GNS place keywords
-&amp;gt;Changed originator from "Federal Highway Administration, Office of Planning, HEPP-1" to "United States. Federal Highway Administration. Office of Planning"
-&amp;gt;Changed originator/publisher from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services"
-&amp;gt;Changed publication place to reflect LCNH formatting
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Exported metadata</procdesc>
+&gt;Changed name of file from "naa_ma_lead" to "USALeadNA06"
+&gt;Changed citatition title from "Non-Attainment Areas: Lead" to "Lead Non-Attainment Areas USA 2006"
+&gt;Changed access contraints from "None." to "Unrestricted Access Online"
+&gt;Added to Larger work Citation originator, pubdate, title, pubplace, publisher
+&gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&gt;Added ISO 19115 Topic Category keywords
+&gt;Added LCSH theme keywords
+&gt;Added GNS place keywords
+&gt;Changed originator from "Federal Highway Administration, Office of Planning, HEPP-1" to "United States. Federal Highway Administration. Office of Planning"
+&gt;Changed originator/publisher from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services"
+&gt;Changed publication place to reflect LCNH formatting
+&gt;Replaced Tufts as the distributor
+&gt;Exported metadata</procdesc>
 				<procdate>20111206</procdate>
 				<proccont>
 					<cntinfo>
@@ -507,16 +506,16 @@ Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air q
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USALeadNA06</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -538,15 +537,15 @@ Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air q
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -574,11 +573,11 @@ Title 40, Part 50 of the Code of the Federal Regulations lists the ambient air q
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USALeadNA06">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">13</geoObjCnt>
 </geometObjs>

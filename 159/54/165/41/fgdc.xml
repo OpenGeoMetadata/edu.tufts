@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 <idinfo>
 <citation>
 <citeinfo>
@@ -138,7 +137,7 @@
 <procdate>2010</procdate>
 </procstep>
 <procstep>
-<procdesc>In order to meet Tufts University's metadata standards:  &amp;gt;Changed citation title from "TIGER/Line Shapefile, 2010, 2010 state, New York, 2010 Census  Block Group State-based" to "Census Block Groups NY 2010"&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"&amp;gt;Changed name of file from "tl_2010_36_bg10" to "NYcensusblkgps10"&amp;gt;Substituted "U.S. Department of Commerce, U.S. Census Bureau, Geography Division" for "United States. Bureau of the Census. Geography Division" as the originator&amp;gt;Added Larger Work Citation&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"&amp;gt;Added LCSH theme keywords&amp;gt;Added GNIS place keywords&amp;gt;Replaced Tufts as the distributor&amp;gt;Added Tufts' standard purpose text to the purpose field&amp;gt;Added introductory statement to abstract identifying New York as the section of the larger census included in this shapefile&amp;gt;Exported metadata</procdesc>
+<procdesc>In order to meet Tufts University's metadata standards:  &gt;Changed citation title from "TIGER/Line Shapefile, 2010, 2010 state, New York, 2010 Census  Block Group State-based" to "Census Block Groups NY 2010"&gt;Changed access contraints from "None" to "Unrestricted Access Online"&gt;Changed name of file from "tl_2010_36_bg10" to "NYcensusblkgps10"&gt;Substituted "U.S. Department of Commerce, U.S. Census Bureau, Geography Division" for "United States. Bureau of the Census. Geography Division" as the originator&gt;Added Larger Work Citation&gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"&gt;Added LCSH theme keywords&gt;Added GNIS place keywords&gt;Replaced Tufts as the distributor&gt;Added Tufts' standard purpose text to the purpose field&gt;Added introductory statement to abstract identifying New York as the section of the larger census included in this shapefile&gt;Exported metadata</procdesc>
 <procdate>20111117</procdate>
 <proccont>
 <cntinfo>

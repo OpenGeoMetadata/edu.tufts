@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -145,18 +144,18 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 			</procstep>
 			<procstep>
 				<procdesc>In order to meet Tufts University's metadata standards: 
-&amp;gt;Changed citation title from "TIGER/Line Shapefile, 2010, 2010 state, Florida, 2010 Census  State and Equivalent State-based" to "State Census Boundary FL 2010"
-&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
-&amp;gt;Changed name of file from "tl_2010_12_state10" to "FLcensusboundary10"
-&amp;gt;Substituted "U.S. Department of Commerce, U.S. Census Bureau, Geography Division" for "United States. Bureau of the Census. Geography Division" as the originator
-&amp;gt;Added Larger Work Citation
-&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
-&amp;gt;Added LCSH theme keywords
-&amp;gt;Added GNIS place keywords
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Added Tufts' standard purpose text to the purpose field
-&amp;gt;Added introductory statement to abstract identifying Florida as the section of the larger census included in this shapefile
-&amp;gt;Exported metadata</procdesc>
+&gt;Changed citation title from "TIGER/Line Shapefile, 2010, 2010 state, Florida, 2010 Census  State and Equivalent State-based" to "State Census Boundary FL 2010"
+&gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&gt;Changed name of file from "tl_2010_12_state10" to "FLcensusboundary10"
+&gt;Substituted "U.S. Department of Commerce, U.S. Census Bureau, Geography Division" for "United States. Bureau of the Census. Geography Division" as the originator
+&gt;Added Larger Work Citation
+&gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&gt;Added LCSH theme keywords
+&gt;Added GNIS place keywords
+&gt;Replaced Tufts as the distributor
+&gt;Added Tufts' standard purpose text to the purpose field
+&gt;Added introductory statement to abstract identifying Florida as the section of the larger census included in this shapefile
+&gt;Exported metadata</procdesc>
 				<procdate>20111128</procdate>
 				<proccont>
 					<cntinfo>
@@ -630,16 +629,16 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">FLcensusboundary10</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -661,15 +660,15 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -697,11 +696,11 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="FLcensusboundary10">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">1</geoObjCnt>
 </geometObjs>

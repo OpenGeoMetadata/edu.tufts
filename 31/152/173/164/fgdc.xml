@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -47,7 +46,7 @@ going dry).</abstract>
 This map layer represents a 'snapshot' of ground-water levels on a
 specific date.  Current ground-water level information, updated on a daily
 basis, is available from the Ground-Water Climate Response Network home
-page at &amp;lt;http://groundwaterwatch.usgs.gov/&amp;gt;.  More than 200 of the network
+page at &lt;http://groundwaterwatch.usgs.gov/&gt;.  More than 200 of the network
 wells are equipped with telemetry that transmits a reading of water level
 to an office by satellite or telephone.  The data typically are updated
 every 4 hours.
@@ -220,7 +219,7 @@ requested.
 							<pubplace>Reston, VA</pubplace>
 							<publish>U.S. Geological Survey</publish>
 						</pubinfo>
-						<onlink>&amp;lt;http://groundwaterwatch.usgs.gov/&amp;gt;</onlink>
+						<onlink>&lt;http://groundwaterwatch.usgs.gov/&gt;</onlink>
 					</citeinfo>
 				</srccite>
 				<typesrc>Electronic mail</typesrc>
@@ -566,7 +565,7 @@ data.
 					<onlinopt>
 						<computer>
 							<networka>
-								<networkr>&amp;lt;http://nationalatlas.gov/atlasftp.html&amp;gt;</networkr>
+								<networkr>&lt;http://nationalatlas.gov/atlasftp.html&gt;</networkr>
 							</networka>
 						</computer>
 					</onlinopt>
@@ -582,7 +581,7 @@ data.
 					<onlinopt>
 						<computer>
 							<networka>
-								<networkr>&amp;lt;http://nationalatlas.gov/atlasftp.html&amp;gt;</networkr>
+								<networkr>&lt;http://nationalatlas.gov/atlasftp.html&gt;</networkr>
 							</networka>
 						</computer>
 					</onlinopt>
@@ -611,7 +610,7 @@ data.
 				<cntvoice>703-648-5175</cntvoice>
 				<cntemail>atlasmail@usgs.gov</cntemail>
 				<cntinst>In addition to the address above there are other Earth Sciences Information Center (U.S. Geological Survey) offices throughout the country.  A full list of these offices is at
-&amp;lt;http://geography.usgs.gov/esic/esic_index.html&amp;gt;.</cntinst>
+&lt;http://geography.usgs.gov/esic/esic_index.html&gt;.</cntinst>
 <cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>
 </cntinfo>
 		</metc>
@@ -642,16 +641,16 @@ data.
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USGroundWaterClimResNetwork05</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -673,15 +672,15 @@ data.
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -702,11 +701,11 @@ data.
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USGroundWaterClimResNetwork05">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">331</geoObjCnt>
 </geometObjs>

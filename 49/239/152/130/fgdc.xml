@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -230,18 +229,18 @@ The spatial accuracy has increased by using imagery, Railroad centerlines, and t
 			</procstep>
 			<procstep>
 				<procdesc>In order to meet Tufts University's metadata standards:
-&amp;gt;Changed name of file from "rail_lines" to "USARailroads11"
-&amp;gt;Changed citatition title from "Rail Road Network" to "Railroads USA 2011"
-&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
-&amp;gt;Added to Larger work Citation originator, pubdate, title, pubplace, publisher
-&amp;gt;Added theme keyword "line" to added theme keyword thesaurus "FGDC"
-&amp;gt;Added ISO 19115 Topic Category keywords
-&amp;gt;Added LCSH theme keyword
-&amp;gt;Added GNIS and GNS place keywords
-&amp;gt;Changed originator from "Federal Railroad Administration (FRA)" to "United States. Federal Railroad Administration"
-&amp;gt;Changed publication place to reflect LCNH formatting
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Exported metadata</procdesc>
+&gt;Changed name of file from "rail_lines" to "USARailroads11"
+&gt;Changed citatition title from "Rail Road Network" to "Railroads USA 2011"
+&gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&gt;Added to Larger work Citation originator, pubdate, title, pubplace, publisher
+&gt;Added theme keyword "line" to added theme keyword thesaurus "FGDC"
+&gt;Added ISO 19115 Topic Category keywords
+&gt;Added LCSH theme keyword
+&gt;Added GNIS and GNS place keywords
+&gt;Changed originator from "Federal Railroad Administration (FRA)" to "United States. Federal Railroad Administration"
+&gt;Changed publication place to reflect LCNH formatting
+&gt;Replaced Tufts as the distributor
+&gt;Exported metadata</procdesc>
 				<procdate>20111201</procdate>
 				<proccont>
 					<cntinfo>
@@ -860,14 +859,14 @@ USArailroads11</enttypl>
 				<attrdomv>
 					<edom>
 						<edomv>AC</edomv>
-						<edomvd>Amtrak &amp;amp; Commuter</edomvd>
+						<edomvd>Amtrak &amp; Commuter</edomvd>
 						<edomvds>United States. Federal Railroad Administration</edomvds>
 					</edom>
 				</attrdomv>
 				<attrdomv>
 					<edom>
 						<edomv>AT</edomv>
-						<edomvd>Amtrak &amp;amp; Tourist</edomvd>
+						<edomvd>Amtrak &amp; Tourist</edomvd>
 						<edomvds>United States. Federal Railroad Administration</edomvds>
 					</edom>
 				</attrdomv>
@@ -1075,16 +1074,16 @@ USArailroads11</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USARailroads11</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1106,15 +1105,15 @@ USArailroads11</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -1142,11 +1141,11 @@ USArailroads11</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USARailroads11">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">172955</geoObjCnt>
 </geometObjs>

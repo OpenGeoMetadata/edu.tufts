@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="windows-1252" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -340,23 +339,23 @@ Records with "-DOD" appended to the end of the [NAME] value are located on a mil
 			<procstep>
 				<procdesc>
 1) The Fire Station dataset and the EMS dataset were merged into one working file. TGS processed as one file and then separated for delivery purposes.
-&amp;gt;
-&amp;gt;
+&gt;
+&gt;
 2) Entities were processed to determine or verify their name, physical address, city, state, five (5) digit zip code, phone number, and geospatial location. Entities that were contacted were also asked if they provided fire protection services, EMS services, or both. Entities not located on military bases were contacted and asked to describe their location relative to landmarks in reference data (mainly streets) and features visible in ortho imagery. A phone number was not available for some entities, so their information was verified using other verbal contacts made through a telephone call.
-&amp;gt;
-&amp;gt;
+&gt;
+&gt;
 3) Due to a request made by the Department of Defense, TGS made every effort to not contact military bases starting 03/27/2007 and ending 05/28/2008. During this time, entities located on military bases were verified through alternate resources, such as maps and ortho imagery. These records have not been contacted by TGS, and therefore, do not have directions.
-&amp;gt;
-&amp;gt;
+&gt;
+&gt;
 4) All text fields were set to all upper case.
-&amp;gt;
-&amp;gt;
+&gt;
+&gt;
 5) Leading and trailing spaces were trimmed from all text fields.
-&amp;gt;
-&amp;gt;
+&gt;
+&gt;
 6) Non printable and diacritic characters were removed from all text fields.
-&amp;gt;
-&amp;gt;
+&gt;
+&gt;
 </procdesc>
 				<srcused>EMS_2008_Q2</srcused>
 				<srcused>NH_EMS_1</srcused>
@@ -569,7 +568,7 @@ This shapefile metadata was edited for clarity and keywords were added per Tufts
 				<attrdef>Ten (10) digit telephone number for entity formatted as nnn-nnn-nnnn.</attrdef>
 				<attrdefs>TechniGraphics, Inc.</attrdefs>
 				<attrdomv>
-					<udom>Phone numbers formatted as nnn-nnn-nnnn. Only numeric digits are used. The area code and exchange must form a valid combination. A list of valid area code and exchange combinations can be obtained from &amp;lt;http://www.nanpa.com&amp;gt;.</udom>
+					<udom>Phone numbers formatted as nnn-nnn-nnnn. Only numeric digits are used. The area code and exchange must form a valid combination. A list of valid area code and exchange combinations can be obtained from &lt;http://www.nanpa.com&gt;.</udom>
 				</attrdomv>
 				<attalias Sync="TRUE">ADDRESS</attalias>
 <attrtype Sync="TRUE">String</attrtype>
@@ -785,7 +784,7 @@ Sometimes an entity may report a city that is not accepted by the USPS, and alth
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Entity has not been contacted by TGS.</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1073,7 +1072,7 @@ NAICS Descriptions (and NAICS Codes) have been assigned based upon the entity's 
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Unknown - It is not known if the entity's phone number rings to the entity's location.</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1095,7 +1094,7 @@ NAICS Descriptions (and NAICS Codes) have been assigned based upon the entity's 
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>The record is not TGS added or has not had Quality Control/Quality Assurance performed by TGS, or Quality Control/Quality Assurance was performed prior to 01/01/2005.</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1315,7 +1314,7 @@ The values in this field have not been verified by TGS.
 </attrdef>
 				<attrdefs>TechniGraphics, Inc.</attrdefs>
 				<attrdomv>
-					<udom>Phone numbers, including area code, formatted as nnn-nnn-nnnn. A list of valid area code and exchange combinations can be found at &amp;lt;http://www.nanpa.com&amp;gt;</udom>
+					<udom>Phone numbers, including area code, formatted as nnn-nnn-nnnn. A list of valid area code and exchange combinations can be found at &lt;http://www.nanpa.com&gt;</udom>
 				</attrdomv>
 				<attalias Sync="TRUE">FRST</attalias>
 <attrtype Sync="TRUE">String</attrtype>
@@ -1341,7 +1340,7 @@ The values in this field have not been verified by TGS.
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;BLANK&amp;gt;</edomv>
+						<edomv>&lt;BLANK&gt;</edomv>
 						<edomvd>Unable to determine if entity has fire fighting capabilities.</edomvd>
 						<edomvds>TechniGraphics, Inc.</edomvds>
 					</edom>
@@ -1480,16 +1479,16 @@ these data.
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">NHEmergencyMedicalServices0508</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -1511,15 +1510,15 @@ these data.
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -1547,11 +1546,11 @@ these data.
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="NHEmergencyMedicalServices0508">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">362</geoObjCnt>
 </geometObjs>

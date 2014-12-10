@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -1018,28 +1017,28 @@ facility</enttypl>
 				<attrdefs>United States. Dept. of Transportation. Research and Innovative Technology Administration</attrdefs>
 				<attrdomv>
 					<edom>
-						<edomv>AIR &amp;amp; TRUCK</edomv>
-						<edomvd>AIR &amp;amp; TRUCK</edomvd>
+						<edomv>AIR &amp; TRUCK</edomv>
+						<edomvd>AIR &amp; TRUCK</edomvd>
 						<edomvds>RITA/BTS</edomvds>
 					</edom>
 					<edom>
-						<edomv>PORT &amp;amp; TRUCK</edomv>
-						<edomvd>PORT &amp;amp; TRUCK</edomvd>
+						<edomv>PORT &amp; TRUCK</edomv>
+						<edomvd>PORT &amp; TRUCK</edomvd>
 						<edomvds>RITA/BTS</edomvds>
 					</edom>
 					<edom>
-						<edomv>RAIL &amp;amp; PORT</edomv>
-						<edomvd>RAIL &amp;amp; PORT</edomvd>
+						<edomv>RAIL &amp; PORT</edomv>
+						<edomvd>RAIL &amp; PORT</edomvd>
 						<edomvds>RITA/BTS</edomvds>
 					</edom>
 					<edom>
-						<edomv>RAIL &amp;amp; TRUCK</edomv>
-						<edomvd>RAIL &amp;amp; TRUCK</edomvd>
+						<edomv>RAIL &amp; TRUCK</edomv>
+						<edomvd>RAIL &amp; TRUCK</edomvd>
 						<edomvds>RITA/BTS</edomvds>
 					</edom>
 					<edom>
-						<edomv>TRUCK &amp;amp; TRUCK</edomv>
-						<edomvd>TRUCK &amp;amp; TRUCK</edomvd>
+						<edomv>TRUCK &amp; TRUCK</edomv>
+						<edomvd>TRUCK &amp; TRUCK</edomvd>
 						<edomvds>RITA/BTS</edomvds>
 					</edom>
 					<edom>
@@ -2767,16 +2766,16 @@ qqqq////////////////////////////////////////////////////////////////////////
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USIntermodalFacility0311shp</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -2798,15 +2797,15 @@ qqqq////////////////////////////////////////////////////////////////////////
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -2834,11 +2833,11 @@ qqqq////////////////////////////////////////////////////////////////////////
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USIntermodalFacility0311shp">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="004"/>
+<GeoObjTypCd Sync="TRUE" value="004" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">3280</geoObjCnt>
 </geometObjs>

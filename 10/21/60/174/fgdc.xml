@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -93,7 +92,7 @@
 		<ptcontac>
 			<cntinfo>
 				<cntorgp>
-					<cntorg>Federal Highway Administration, Office of Planning, Environment, &amp;amp; Realty</cntorg>
+					<cntorg>Federal Highway Administration, Office of Planning, Environment, &amp; Realty</cntorg>
 					<cntper>Supin Yoder</cntper>
 				</cntorgp>
 				<cntpos>Travel Demand Forecasting and GIS Specialist</cntpos>
@@ -142,7 +141,7 @@
 			<srcinfo>
 				<srccite>
 					<citeinfo>
-						<origin>Federal Highway Administration, Office of Planning, Environment, &amp;amp; Realty</origin>
+						<origin>Federal Highway Administration, Office of Planning, Environment, &amp; Realty</origin>
 						<origin>Research and Innovative Technology Administration's Bureau of Transportation Statistics</origin>
 						<pubdate>2011</pubdate>
 						<title>MPOs</title>
@@ -180,7 +179,7 @@
 				<proccont>
 					<cntinfo>
 						<cntorgp>
-							<cntorg>Federal Highway Administration, Office of Planning, Environment, &amp;amp; Realty</cntorg>
+							<cntorg>Federal Highway Administration, Office of Planning, Environment, &amp; Realty</cntorg>
 							<cntper>Supin Yoder</cntper>
 						</cntorgp>
 						<cntpos>Travel Demand Forecasting and GIS Specialist</cntpos>
@@ -200,18 +199,18 @@
 			</procstep>
 			<procstep>
 				<procdesc>In order to meet Tufts University's metadata standards:
-&amp;gt;Changed name of file from "mpo" to "USAmetroPlanOrg11"
-&amp;gt;Changed citatition title from "Metropolitan Political Organization" to "Metropolitan Planning Organization Areas USA 2011"
-&amp;gt;Changed access contraints from "None." to "Unrestricted Access Online"
-&amp;gt;Changed originators/publishers from "Research and Innovative Technology Administration's Bureau of Transportation Statistics" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services"
-&amp;gt;Changed originator from "Federal Highway Administration" to "United States. Federal Highway Administration"
-&amp;gt;Changed publication place to reflect LCNH formatting
-&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
-&amp;gt;Added ISO 19115 Topic Category keyword
-&amp;gt;Added LCSH theme keywords
-&amp;gt;Added GNS place keywords
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Exported metadata</procdesc>
+&gt;Changed name of file from "mpo" to "USAmetroPlanOrg11"
+&gt;Changed citatition title from "Metropolitan Political Organization" to "Metropolitan Planning Organization Areas USA 2011"
+&gt;Changed access contraints from "None." to "Unrestricted Access Online"
+&gt;Changed originators/publishers from "Research and Innovative Technology Administration's Bureau of Transportation Statistics" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services"
+&gt;Changed originator from "Federal Highway Administration" to "United States. Federal Highway Administration"
+&gt;Changed publication place to reflect LCNH formatting
+&gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&gt;Added ISO 19115 Topic Category keyword
+&gt;Added LCSH theme keywords
+&gt;Added GNS place keywords
+&gt;Replaced Tufts as the distributor
+&gt;Exported metadata</procdesc>
 				<procdate>20111201</procdate>
 				<proccont>
 					<cntinfo>
@@ -421,7 +420,7 @@ MPO</enttypl>
 				</attrdomv>
 				<attrdomv>
 					<edom>
-						<edomv>&amp;lt;null&amp;gt;</edomv>
+						<edomv>&lt;null&gt;</edomv>
 						<edomvd>MPO is not part of a Transportation Management Area</edomvd>
 						<edomvds>FHWA</edomvds>
 					</edom>
@@ -772,16 +771,16 @@ MPO</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USAMetroPlanOrg11</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -803,15 +802,15 @@ MPO</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -839,11 +838,11 @@ MPO</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USAMetroPlanOrg11">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">384</geoObjCnt>
 </geometObjs>

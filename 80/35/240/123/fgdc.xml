@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -161,22 +160,22 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 			</procstep>
 			<procstep>
 				<procdesc>In order to meet Tufts University's metadata standards: 
-&amp;gt;Changed citation title from "TIGER/Line Shapefile, 2010, 2010 state, Maine, 2010 Census County and Equivalent State-based" to "Census Counties ME 2010"
-&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
-&amp;gt;Removed detailed definition for blocks, blockgrous, tracts and counties from the Absract&amp;gt;Changed use constraints from "The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest" to "For educational noncommercial use only."
-&amp;gt;Changed Attribute Accuracy from: "Accurate against Federal Information Processing Standards (FIPS), FIPS Publication 6-4, and FIPS-55 at the 100% level for the codes and base names.  The remaining attribute information has been examined but has not been fully tested for accuracy,"  To: "Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given."
-&amp;gt;Changed source definitions from "ESRI" to Library of Congress official name heading, "Environmental Systems Research Institute (Redlands, Calif.)
-&amp;gt;Removed all keywords with no official thesaurus 
-&amp;gt;Changed name of file from "tl_2010_23_county10" to "MEcounties10"
-&amp;gt;Substituted "U.S. Department of Commerce, U.S. Census Bureau, Geography Division" for "United States. Bureau of the Census. Geography Division" as the originator
-&amp;gt;Added Larger Work Citation
-&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
-&amp;gt;Added LCSH theme keywords
-&amp;gt;Added GNIS place keywords
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Added Tufts' standard purpose text to the purpose field
-&amp;gt;Added introductory statement to abstract identifying Maine as the section of the larger census included in this shapefile
-&amp;gt;Exported metadata</procdesc>
+&gt;Changed citation title from "TIGER/Line Shapefile, 2010, 2010 state, Maine, 2010 Census County and Equivalent State-based" to "Census Counties ME 2010"
+&gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&gt;Removed detailed definition for blocks, blockgrous, tracts and counties from the Absract&gt;Changed use constraints from "The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest" to "For educational noncommercial use only."
+&gt;Changed Attribute Accuracy from: "Accurate against Federal Information Processing Standards (FIPS), FIPS Publication 6-4, and FIPS-55 at the 100% level for the codes and base names.  The remaining attribute information has been examined but has not been fully tested for accuracy,"  To: "Attribute information remains the same as given by the author of the data.  However, when information is missing or ambiguous, the GIS Information Systems Center at Tufts University researches other metadata sources for explanations.  If sufficient information is unavailable, "unknown attribute" is given as the definition.  If the attribute has been created through a geoprocessing function, "geoprocessed identifier" is given.  If the attribute is known, but the values are not, "unknown" is given for values.  Features' units of measurement are determined if not already given."
+&gt;Changed source definitions from "ESRI" to Library of Congress official name heading, "Environmental Systems Research Institute (Redlands, Calif.)
+&gt;Removed all keywords with no official thesaurus 
+&gt;Changed name of file from "tl_2010_23_county10" to "MEcounties10"
+&gt;Substituted "U.S. Department of Commerce, U.S. Census Bureau, Geography Division" for "United States. Bureau of the Census. Geography Division" as the originator
+&gt;Added Larger Work Citation
+&gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&gt;Added LCSH theme keywords
+&gt;Added GNIS place keywords
+&gt;Replaced Tufts as the distributor
+&gt;Added Tufts' standard purpose text to the purpose field
+&gt;Added introductory statement to abstract identifying Maine as the section of the larger census included in this shapefile
+&gt;Exported metadata</procdesc>
 				<proccont>
 					<cntinfo>
 						<cntorgp>
@@ -745,16 +744,16 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 <dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">MEcounties10</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -776,15 +775,15 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -812,11 +811,11 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="MEcounties10">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">16</geoObjCnt>
 </geometObjs>

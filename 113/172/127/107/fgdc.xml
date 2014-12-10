@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -20,7 +19,7 @@
 							<pubplace>Cambridge (Mass.)</pubplace>
 							<publish>Cambridge (Mass.) Geographic Information Systems</publish>
 						</pubinfo>
-						<onlink>http://www.youtube.com/watch?v=PxQuH910xc4&amp;amp;feature=fvwrel</onlink>
+						<onlink>http://www.youtube.com/watch?v=PxQuH910xc4&amp;feature=fvwrel</onlink>
 					</citeinfo>
 				</lworkcit>
 				<ftname Sync="TRUE">CambridgeBridges04</ftname>
@@ -125,7 +124,7 @@
 
 Geodatabase schema was developed for the Planimetric features to create the required basemap data. The planimetric features were compiled using standard pothogrammetric collection techniques on Intergraph's SSK softcopy workstations. The features were post processed in ESRI's ArcGIS and topology validation was performed. The dataset comprises of 35 feature classes with 142 attribute domains. Feature specific description is provided in the attributes section of this metadata. Appropriate attributes for the hydro features, buildings, etc were conflated from the Cambridge, MA existing GIS database. 
 
-Digital Terrain Model (DTM) was developed using softcopy photogrammetry for the purposes of ortho rectification and 1 ft contour generation. Elevation point (masspoint) data was collected at 20ft grid and supplemented with breaklines. Breaklines were collected at significant breaks in the terrain to support the generation of 1 ft interval contours. DTM data was enhanced with the contour interpolate (CIP) 3d geometry features include Curb, Road Paved &amp;amp; Unpaved, Road-Traffic-Island, Alley, Trail Paved &amp;amp; Unpaved, Driveway Paved &amp;amp; Unpaved, Parking lot Paved and Unpaved, Sidewalk, Public Footpath, Impervious features, Concrete Pad, Patio, Plaza and other impervious features,  Rail road - Abandon, Active, Elevated, Floodwall, Wet area, Open channel, River / stream, Pond, In ground pool, Retention Pond, Retaining Wall, etc) to generate accurate 1ft contours. Also, spot elevations were collected at street intersections, depression areas, saddles and peaks. These DTM features include elevation points, breaklines, CIP features and spot elevations were interpolated using Maps 3D software and 1 ft contours were generated. Contours were coded for Index (every 5th contour), intermediate, depression, hidden and obscured according to the specification. Index contours were labeled with the contour value. Spot elevations placed at the intersections of streets, ridges, saddles, depressions were labeled with one decimal precision for cartographic representation. DTM data was supplemented with building polygons and used for true ortho generation for the project area.
+Digital Terrain Model (DTM) was developed using softcopy photogrammetry for the purposes of ortho rectification and 1 ft contour generation. Elevation point (masspoint) data was collected at 20ft grid and supplemented with breaklines. Breaklines were collected at significant breaks in the terrain to support the generation of 1 ft interval contours. DTM data was enhanced with the contour interpolate (CIP) 3d geometry features include Curb, Road Paved &amp; Unpaved, Road-Traffic-Island, Alley, Trail Paved &amp; Unpaved, Driveway Paved &amp; Unpaved, Parking lot Paved and Unpaved, Sidewalk, Public Footpath, Impervious features, Concrete Pad, Patio, Plaza and other impervious features,  Rail road - Abandon, Active, Elevated, Floodwall, Wet area, Open channel, River / stream, Pond, In ground pool, Retention Pond, Retaining Wall, etc) to generate accurate 1ft contours. Also, spot elevations were collected at street intersections, depression areas, saddles and peaks. These DTM features include elevation points, breaklines, CIP features and spot elevations were interpolated using Maps 3D software and 1 ft contours were generated. Contours were coded for Index (every 5th contour), intermediate, depression, hidden and obscured according to the specification. Index contours were labeled with the contour value. Spot elevations placed at the intersections of streets, ridges, saddles, depressions were labeled with one decimal precision for cartographic representation. DTM data was supplemented with building polygons and used for true ortho generation for the project area.
 
 All the Planimetric features, DTM points and Contour data was loaded to Geodabase schema and annotation datasets were created for Streets (Roads), Spot Elevations, Cemeteries, Hydro and Index Contours from the respective attribute fields.Topology has been validated for all features.</procdesc>
 				<proccont>
@@ -412,16 +411,16 @@ CambridgeBridges04</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">CambridgeBridges04</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -443,15 +442,15 @@ CambridgeBridges04</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -479,11 +478,11 @@ CambridgeBridges04</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="CambridgeBridges04">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">41</geoObjCnt>
 </geometObjs>

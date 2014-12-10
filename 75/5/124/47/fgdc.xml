@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
-<metadata xml:lang="en">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata xml:lang="en">
 	<Esri>
 		<CreaDate>20070315</CreaDate>
 		<CreaTime>13415700</CreaTime>
@@ -327,7 +325,7 @@ Although the pipelines and transmission lines appear on maps, they are not neces
 			</topLvl>
 			<geometObjs Name="MATranslines07">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">887</geoObjCnt>
 </geometObjs>

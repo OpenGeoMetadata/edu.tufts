@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
-<metadata>
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd"><metadata>
 	<idinfo>
 		<citation>
 			<citeinfo>
@@ -190,18 +189,18 @@ GIS GROUP from TIGER/Line machine readable files.</othercit>
 			</procstep>
 			<procstep>
 				<procdesc>In order to meet Tufts University's metadata standards:
-&amp;gt;Changed citation title from "State Boundaries" to "State Boundaries USA 2010"
-&amp;gt;Changed access contraints from "None" to "Unrestricted Access Online"
-&amp;gt;Changed name of file from "state" to "USAStateBounds10"
-&amp;gt;Added Tufts' standard purpose text to the purpose field
-&amp;gt;Changed originators/publishers from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" and "U.S. Bureau of the Census (BOC)" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services" and "United States. Bureau of the Census"
-&amp;gt;Changed publication places to reflect LCNH formatting
-&amp;gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
-&amp;gt;Added ISO 19115 Topic Category keyword
-&amp;gt;Added LCSH theme keywords
-&amp;gt;Added GNIS and GNS place keywords
-&amp;gt;Replaced Tufts as the distributor
-&amp;gt;Exported metadata</procdesc>
+&gt;Changed citation title from "State Boundaries" to "State Boundaries USA 2010"
+&gt;Changed access contraints from "None" to "Unrestricted Access Online"
+&gt;Changed name of file from "state" to "USAStateBounds10"
+&gt;Added Tufts' standard purpose text to the purpose field
+&gt;Changed originators/publishers from "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)" and "U.S. Bureau of the Census (BOC)" to "United States. Bureau of Transportation Statistics. Office of Geographic Information Services" and "United States. Bureau of the Census"
+&gt;Changed publication places to reflect LCNH formatting
+&gt;Added theme keyword "polygon" to added theme keyword thesaurus "FGDC"
+&gt;Added ISO 19115 Topic Category keyword
+&gt;Added LCSH theme keywords
+&gt;Added GNIS and GNS place keywords
+&gt;Replaced Tufts as the distributor
+&gt;Exported metadata</procdesc>
 				<procdate>20111121</procdate>
 				<proccont>
 					<cntinfo>
@@ -512,16 +511,16 @@ USAstatebounds10</enttypl>
 	<dataIdInfo>
 <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
 <dataLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </dataLang>
 <idCitation>
 <resTitle Sync="TRUE">USAStateBounds10</resTitle>
 <presForm>
-<PresFormCd Sync="TRUE" value="005"/>
+<PresFormCd Sync="TRUE" value="005" />
 </presForm>
 </idCitation>
 <spatRpType>
-<SpatRepTypCd Sync="TRUE" value="001"/>
+<SpatRepTypCd Sync="TRUE" value="001" />
 </spatRpType>
 <dataExt>
 <geoEle>
@@ -543,15 +542,15 @@ USAstatebounds10</enttypl>
 </geoBox>
 </dataIdInfo>
 <mdLang>
-<languageCode Sync="TRUE" value="en"/>
+<languageCode Sync="TRUE" value="en" />
 </mdLang>
 <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
 <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
 <mdChar>
-<CharSetCd Sync="TRUE" value="004"/>
+<CharSetCd Sync="TRUE" value="004" />
 </mdChar>
 <mdHrLv>
-<ScopeCd Sync="TRUE" value="005"/>
+<ScopeCd Sync="TRUE" value="005" />
 </mdHrLv>
 <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
 <distInfo>
@@ -579,11 +578,11 @@ USAstatebounds10</enttypl>
 <spatRepInfo>
 <VectSpatRep>
 <topLvl>
-<TopoLevCd Sync="TRUE" value="001"/>
+<TopoLevCd Sync="TRUE" value="001" />
 </topLvl>
 <geometObjs Name="USAStateBounds10">
 <geoObjTyp>
-<GeoObjTypCd Sync="TRUE" value="001"/>
+<GeoObjTypCd Sync="TRUE" value="001" />
 </geoObjTyp>
 <geoObjCnt Sync="TRUE">52</geoObjCnt>
 </geometObjs>
